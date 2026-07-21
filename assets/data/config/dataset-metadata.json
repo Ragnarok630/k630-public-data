@@ -1,0 +1,64 @@
+{
+  "version": "630.1.2",
+  "homeServer": 630,
+  "updatedAt": "2026-07-16T00:00:00.000Z",
+
+  "foundation": {
+    "path": "assets/data/foundation/630-foundation.json",
+    "date": "2026-03-27",
+    "status": "active"
+  },
+
+  "matchmaking": {
+    "1": {
+      "number": 1,
+      "date": "2026-05-07",
+      "path": "assets/data/matchmaking/630-Matchmaking-1.json"
+    },
+
+    "2": {
+      "number": 2,
+      "date": "2026-07-16",
+      "path": "assets/data/matchmaking/630-Matchmaking-2.json"
+    }
+  },
+
+  "seasons": {
+    "1": {
+      "season": 1,
+      "label": "2026 - Season 1 - SoS 4 - Rise of the Dragon",
+      "status": "archived",
+      "serverCount": 17,
+
+      "weeks": {
+        "0": {
+          "date": "2026-05-08"
+        },
+
+        "1": {
+          "date": "2026-05-15"
+        },
+
+        "2": {
+          "date": "2026-05-22"
+        },
+
+        "3": {
+          "date": "2026-05-29"
+        },
+
+        "4": {
+          "date": "2026-06-05"
+        },
+
+        "5": {
+          "date": "2026-06-12"
+        },
+
+        "6": {
+          "date": "2026-06-19"
+        }
+      }
+    }
+  }
+}
