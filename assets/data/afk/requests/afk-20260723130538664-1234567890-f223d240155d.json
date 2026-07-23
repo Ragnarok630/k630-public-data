@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "requestId": "afk-20260723130538664-1234567890-f223d240155d",
+  "status": "pending",
+  "playerId": "1234567890",
+  "playerName": "AFK Test Player",
+  "reason": "vacation",
+  "weeks": [
+    1,
+    2
+  ],
+  "note": "Testaanvraag voor controle van de AFK-opslag.",
+  "seasonNumber": 2,
+  "seasonLabel": "Test Season",
+  "submittedAt": "2026-07-23T13:05:38.664Z",
+  "updatedAt": "2026-07-23T13:05:38.664Z",
+  "source": "public-afk-service",
+  "functionVersion": "630.2.0"
+}
