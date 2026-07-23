@@ -1,0 +1,58 @@
+{
+  "schemaVersion": 1,
+  "engineVersion": "630.0.23",
+  "type": "server-vs-server-current-season",
+  "source": "placeholder",
+  "active": true,
+  "seasonNumber": 1,
+  "seasonId": "season-1",
+  "seasonLabel": "2026 - Season 1 - SoS 4 - Rise of the Dragon",
+  "homeServer": 630,
+  "weekLabels": [
+    "W0",
+    "W1",
+    "W2",
+    "W3",
+    "W4",
+    "W5",
+    "W6"
+  ],
+  "metrics": {
+    "power": {
+      "key": "power",
+      "label": "Power",
+      "calculation": "absolute"
+    },
+    "merits": {
+      "key": "merits",
+      "label": "Merits",
+      "calculation": "week-0-baseline"
+    },
+    "kills": {
+      "key": "kills",
+      "label": "Units Killed",
+      "calculation": "week-0-baseline"
+    },
+    "dead": {
+      "key": "dead",
+      "label": "Units Dead",
+      "calculation": "week-0-baseline"
+    },
+    "healed": {
+      "key": "healed",
+      "label": "Units Healed",
+      "calculation": "week-0-baseline"
+    }
+  },
+  "serverCount": 0,
+  "completeServerCount": 0,
+  "servers": [],
+  "build": {
+    "expectedFiles": 0,
+    "processedFiles": 0,
+    "availableFiles": 0,
+    "missingFileCount": 0,
+    "failedFileCount": 0
+  },
+  "generatedAt": "2026-07-23T00:00:00.000Z"
+}
