@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 2,
+  "requestId": "afk-20260723144109837-14817041-880284a52576",
+  "status": "pending",
+  "playerId": "14817041",
+  "playerName": "ᴿᵉᶠ Ragnarok",
+  "reason": "vacation",
+  "weeks": [
+    1,
+    2,
+    3
+  ],
+  "note": "I think this will work, but not certain yet! But how does this look at admin center with sow many writings and things, so I try to fill this up and lets see. becuase this should give a massive big area in admin center and thats not what I want.!!I think this will work, but not certain yet! But how does this look at admin center with sow many writings and things, so I try to fill this up and lets see. becuase this should give a massive big area in admin center and thats not what I want.!!",
+  "seasonNumber": null,
+  "seasonLabel": "",
+  "adminNote": "",
+  "reviewedAt": "",
+  "reviewedBy": "",
+  "submittedAt": "2026-07-23T14:41:09.837Z",
+  "createdAt": "2026-07-23T14:41:09.837Z",
+  "updatedAt": "2026-07-23T14:41:09.837Z",
+  "source": "public-afk-service",
+  "functionVersion": "630.2.1"
+}
