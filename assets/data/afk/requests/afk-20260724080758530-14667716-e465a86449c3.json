@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 2,
+  "requestId": "afk-20260724080758530-14667716-e465a86449c3",
+  "status": "pending",
+  "playerId": "14667716",
+  "playerName": "ᴿᵉᶠJohntra Volta",
+  "reason": "vacation",
+  "weeks": [
+    1,
+    2,
+    3
+  ],
+  "note": "Holiday",
+  "seasonNumber": null,
+  "seasonLabel": "",
+  "adminNote": "",
+  "reviewedAt": "",
+  "reviewedBy": "",
+  "submittedAt": "2026-07-24T08:07:58.530Z",
+  "createdAt": "2026-07-24T08:07:58.530Z",
+  "updatedAt": "2026-07-24T08:07:58.530Z",
+  "source": "public-afk-service",
+  "functionVersion": "630.3.0"
+}

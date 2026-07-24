@@ -2,11 +2,11 @@
   "schemaVersion": 1,
   "engineVersion": "630.0.23",
   "type": "server-vs-server-current-season",
-  "source": "placeholder",
+  "source": "derived-from-player-week-files",
   "active": true,
   "seasonNumber": 1,
-  "seasonId": "season-1",
-  "seasonLabel": "2026 - Season 1 - SoS 4 - Rise of the Dragon",
+  "seasonId": "2026-season-1",
+  "seasonLabel": "2026 - 1 - SoS 4 - Rise of the Dragon",
   "homeServer": 630,
   "weekLabels": [
     "W0",
@@ -44,15 +44,2124 @@
       "calculation": "week-0-baseline"
     }
   },
-  "serverCount": 0,
-  "completeServerCount": 0,
-  "servers": [],
+  "serverCount": 17,
+  "completeServerCount": 17,
+  "servers": [
+    {
+      "serverNumber": 22,
+      "complete": true,
+      "availableWeeks": 7,
+      "weeks": [
+        {
+          "weekNumber": 0,
+          "available": true,
+          "playerCount": 561,
+          "power": 18436346033,
+          "merits": 0,
+          "kills": 0,
+          "dead": 0,
+          "healed": 0
+        },
+        {
+          "weekNumber": 1,
+          "available": true,
+          "playerCount": 554,
+          "power": 18451143837,
+          "merits": 59503861,
+          "kills": 167248888,
+          "dead": -355326,
+          "healed": 301049622
+        },
+        {
+          "weekNumber": 2,
+          "available": true,
+          "playerCount": 550,
+          "power": 17417085146,
+          "merits": 513117700,
+          "kills": 1103228113,
+          "dead": 10829362,
+          "healed": 1387446878
+        },
+        {
+          "weekNumber": 3,
+          "available": true,
+          "playerCount": 557,
+          "power": 18811171522,
+          "merits": 721829985,
+          "kills": 3660407299,
+          "dead": 20759375,
+          "healed": 3967009661
+        },
+        {
+          "weekNumber": 4,
+          "available": true,
+          "playerCount": 561,
+          "power": 17419891275,
+          "merits": 1322051439,
+          "kills": 5166260933,
+          "dead": 37941430,
+          "healed": 5621279648
+        },
+        {
+          "weekNumber": 5,
+          "available": true,
+          "playerCount": 549,
+          "power": 17320554653,
+          "merits": 1975425389,
+          "kills": 5895085233,
+          "dead": 47102726,
+          "healed": 4884969801
+        },
+        {
+          "weekNumber": 6,
+          "available": true,
+          "playerCount": 560,
+          "power": 18242987864,
+          "merits": 2133908958,
+          "kills": 5575976852,
+          "dead": 47875471,
+          "healed": 4326461158
+        }
+      ],
+      "metrics": {
+        "power": [
+          18436346033,
+          18451143837,
+          17417085146,
+          18811171522,
+          17419891275,
+          17320554653,
+          18242987864
+        ],
+        "merits": [
+          0,
+          59503861,
+          513117700,
+          721829985,
+          1322051439,
+          1975425389,
+          2133908958
+        ],
+        "kills": [
+          0,
+          167248888,
+          1103228113,
+          3660407299,
+          5166260933,
+          5895085233,
+          5575976852
+        ],
+        "dead": [
+          0,
+          -355326,
+          10829362,
+          20759375,
+          37941430,
+          47102726,
+          47875471
+        ],
+        "healed": [
+          0,
+          301049622,
+          1387446878,
+          3967009661,
+          5621279648,
+          4884969801,
+          4326461158
+        ]
+      }
+    },
+    {
+      "serverNumber": 47,
+      "complete": true,
+      "availableWeeks": 7,
+      "weeks": [
+        {
+          "weekNumber": 0,
+          "available": true,
+          "playerCount": 512,
+          "power": 14679342061,
+          "merits": 0,
+          "kills": 0,
+          "dead": 0,
+          "healed": 0
+        },
+        {
+          "weekNumber": 1,
+          "available": true,
+          "playerCount": 512,
+          "power": 14497102500,
+          "merits": 34767061,
+          "kills": -635486204,
+          "dead": -5901247,
+          "healed": -831597509
+        },
+        {
+          "weekNumber": 2,
+          "available": true,
+          "playerCount": 502,
+          "power": 13329982924,
+          "merits": 455287900,
+          "kills": 433905268,
+          "dead": 13140816,
+          "healed": 18064144
+        },
+        {
+          "weekNumber": 3,
+          "available": true,
+          "playerCount": 500,
+          "power": 14071767047,
+          "merits": 552226368,
+          "kills": -303650040,
+          "dead": 10495224,
+          "healed": -241841351
+        },
+        {
+          "weekNumber": 4,
+          "available": true,
+          "playerCount": 500,
+          "power": 14094329227,
+          "merits": 677889541,
+          "kills": -35853,
+          "dead": 19559796,
+          "healed": 74422208
+        },
+        {
+          "weekNumber": 5,
+          "available": true,
+          "playerCount": 496,
+          "power": 12997518970,
+          "merits": 1086011627,
+          "kills": -1408603938,
+          "dead": 32915614,
+          "healed": -259213030
+        },
+        {
+          "weekNumber": 6,
+          "available": true,
+          "playerCount": 502,
+          "power": 14751932340,
+          "merits": 1209287686,
+          "kills": 3368333574,
+          "dead": 55027197,
+          "healed": 2820006192
+        }
+      ],
+      "metrics": {
+        "power": [
+          14679342061,
+          14497102500,
+          13329982924,
+          14071767047,
+          14094329227,
+          12997518970,
+          14751932340
+        ],
+        "merits": [
+          0,
+          34767061,
+          455287900,
+          552226368,
+          677889541,
+          1086011627,
+          1209287686
+        ],
+        "kills": [
+          0,
+          -635486204,
+          433905268,
+          -303650040,
+          -35853,
+          -1408603938,
+          3368333574
+        ],
+        "dead": [
+          0,
+          -5901247,
+          13140816,
+          10495224,
+          19559796,
+          32915614,
+          55027197
+        ],
+        "healed": [
+          0,
+          -831597509,
+          18064144,
+          -241841351,
+          74422208,
+          -259213030,
+          2820006192
+        ]
+      }
+    },
+    {
+      "serverNumber": 148,
+      "complete": true,
+      "availableWeeks": 7,
+      "weeks": [
+        {
+          "weekNumber": 0,
+          "available": true,
+          "playerCount": 478,
+          "power": 15040124127,
+          "merits": 0,
+          "kills": 0,
+          "dead": 0,
+          "healed": 0
+        },
+        {
+          "weekNumber": 1,
+          "available": true,
+          "playerCount": 482,
+          "power": 15121560135,
+          "merits": 7332841,
+          "kills": 21559831,
+          "dead": 363167,
+          "healed": 136629295
+        },
+        {
+          "weekNumber": 2,
+          "available": true,
+          "playerCount": 476,
+          "power": 13113193257,
+          "merits": 559949295,
+          "kills": 1494366853,
+          "dead": 15704741,
+          "healed": 1099663663
+        },
+        {
+          "weekNumber": 3,
+          "available": true,
+          "playerCount": 477,
+          "power": 13442074727,
+          "merits": 1039552164,
+          "kills": 2796141916,
+          "dead": 30873470,
+          "healed": 2044812376
+        },
+        {
+          "weekNumber": 4,
+          "available": true,
+          "playerCount": 475,
+          "power": 12441918388,
+          "merits": 1583620784,
+          "kills": 4334998819,
+          "dead": 47155886,
+          "healed": 2915103442
+        },
+        {
+          "weekNumber": 5,
+          "available": true,
+          "playerCount": 466,
+          "power": 12930107165,
+          "merits": 2218046862,
+          "kills": 3300386554,
+          "dead": 55705246,
+          "healed": 1925243863
+        },
+        {
+          "weekNumber": 6,
+          "available": true,
+          "playerCount": 478,
+          "power": 15468043467,
+          "merits": 2538845110,
+          "kills": 10046974516,
+          "dead": 92636225,
+          "healed": 7408728583
+        }
+      ],
+      "metrics": {
+        "power": [
+          15040124127,
+          15121560135,
+          13113193257,
+          13442074727,
+          12441918388,
+          12930107165,
+          15468043467
+        ],
+        "merits": [
+          0,
+          7332841,
+          559949295,
+          1039552164,
+          1583620784,
+          2218046862,
+          2538845110
+        ],
+        "kills": [
+          0,
+          21559831,
+          1494366853,
+          2796141916,
+          4334998819,
+          3300386554,
+          10046974516
+        ],
+        "dead": [
+          0,
+          363167,
+          15704741,
+          30873470,
+          47155886,
+          55705246,
+          92636225
+        ],
+        "healed": [
+          0,
+          136629295,
+          1099663663,
+          2044812376,
+          2915103442,
+          1925243863,
+          7408728583
+        ]
+      }
+    },
+    {
+      "serverNumber": 194,
+      "complete": true,
+      "availableWeeks": 7,
+      "weeks": [
+        {
+          "weekNumber": 0,
+          "available": true,
+          "playerCount": 513,
+          "power": 16895752904,
+          "merits": 0,
+          "kills": 0,
+          "dead": 0,
+          "healed": 0
+        },
+        {
+          "weekNumber": 1,
+          "available": true,
+          "playerCount": 511,
+          "power": 16803202518,
+          "merits": 69047718,
+          "kills": 289495002,
+          "dead": 38492,
+          "healed": 336071975
+        },
+        {
+          "weekNumber": 2,
+          "available": true,
+          "playerCount": 522,
+          "power": 16901031934,
+          "merits": 546877241,
+          "kills": 1746026651,
+          "dead": 13672600,
+          "healed": 1392664392
+        },
+        {
+          "weekNumber": 3,
+          "available": true,
+          "playerCount": 518,
+          "power": 16248179667,
+          "merits": 795298565,
+          "kills": 2633453290,
+          "dead": 16697609,
+          "healed": 2284314822
+        },
+        {
+          "weekNumber": 4,
+          "available": true,
+          "playerCount": 515,
+          "power": 15637568937,
+          "merits": 1665431556,
+          "kills": 5079684491,
+          "dead": 56698884,
+          "healed": 4011645812
+        },
+        {
+          "weekNumber": 5,
+          "available": true,
+          "playerCount": 513,
+          "power": 16314539904,
+          "merits": 2074227950,
+          "kills": 6209753984,
+          "dead": 81024383,
+          "healed": 4990836942
+        },
+        {
+          "weekNumber": 6,
+          "available": true,
+          "playerCount": 515,
+          "power": 17393573441,
+          "merits": 2324178122,
+          "kills": 5956956031,
+          "dead": 90013406,
+          "healed": 4754168049
+        }
+      ],
+      "metrics": {
+        "power": [
+          16895752904,
+          16803202518,
+          16901031934,
+          16248179667,
+          15637568937,
+          16314539904,
+          17393573441
+        ],
+        "merits": [
+          0,
+          69047718,
+          546877241,
+          795298565,
+          1665431556,
+          2074227950,
+          2324178122
+        ],
+        "kills": [
+          0,
+          289495002,
+          1746026651,
+          2633453290,
+          5079684491,
+          6209753984,
+          5956956031
+        ],
+        "dead": [
+          0,
+          38492,
+          13672600,
+          16697609,
+          56698884,
+          81024383,
+          90013406
+        ],
+        "healed": [
+          0,
+          336071975,
+          1392664392,
+          2284314822,
+          4011645812,
+          4990836942,
+          4754168049
+        ]
+      }
+    },
+    {
+      "serverNumber": 203,
+      "complete": true,
+      "availableWeeks": 7,
+      "weeks": [
+        {
+          "weekNumber": 0,
+          "available": true,
+          "playerCount": 521,
+          "power": 15607476665,
+          "merits": 0,
+          "kills": 0,
+          "dead": 0,
+          "healed": 0
+        },
+        {
+          "weekNumber": 1,
+          "available": true,
+          "playerCount": 517,
+          "power": 15669724648,
+          "merits": 64043739,
+          "kills": -303751842,
+          "dead": -1933266,
+          "healed": -283949642
+        },
+        {
+          "weekNumber": 2,
+          "available": true,
+          "playerCount": 507,
+          "power": 14389721553,
+          "merits": 449465252,
+          "kills": 682747598,
+          "dead": 10842876,
+          "healed": 501913596
+        },
+        {
+          "weekNumber": 3,
+          "available": true,
+          "playerCount": 507,
+          "power": 15514040041,
+          "merits": 523020849,
+          "kills": 816651453,
+          "dead": 8397959,
+          "healed": 687867951
+        },
+        {
+          "weekNumber": 4,
+          "available": true,
+          "playerCount": 510,
+          "power": 15298963986,
+          "merits": 647473704,
+          "kills": 1797542966,
+          "dead": 9200103,
+          "healed": 630536558
+        },
+        {
+          "weekNumber": 5,
+          "available": true,
+          "playerCount": 508,
+          "power": 15018253770,
+          "merits": 994596965,
+          "kills": 2826829428,
+          "dead": 21492926,
+          "healed": 2265342059
+        },
+        {
+          "weekNumber": 6,
+          "available": true,
+          "playerCount": 510,
+          "power": 15394786106,
+          "merits": 1212324525,
+          "kills": 2618557308,
+          "dead": 15946282,
+          "healed": 2285654795
+        }
+      ],
+      "metrics": {
+        "power": [
+          15607476665,
+          15669724648,
+          14389721553,
+          15514040041,
+          15298963986,
+          15018253770,
+          15394786106
+        ],
+        "merits": [
+          0,
+          64043739,
+          449465252,
+          523020849,
+          647473704,
+          994596965,
+          1212324525
+        ],
+        "kills": [
+          0,
+          -303751842,
+          682747598,
+          816651453,
+          1797542966,
+          2826829428,
+          2618557308
+        ],
+        "dead": [
+          0,
+          -1933266,
+          10842876,
+          8397959,
+          9200103,
+          21492926,
+          15946282
+        ],
+        "healed": [
+          0,
+          -283949642,
+          501913596,
+          687867951,
+          630536558,
+          2265342059,
+          2285654795
+        ]
+      }
+    },
+    {
+      "serverNumber": 228,
+      "complete": true,
+      "availableWeeks": 7,
+      "weeks": [
+        {
+          "weekNumber": 0,
+          "available": true,
+          "playerCount": 600,
+          "power": 15014634469,
+          "merits": 0,
+          "kills": 0,
+          "dead": 0,
+          "healed": 0
+        },
+        {
+          "weekNumber": 1,
+          "available": true,
+          "playerCount": 600,
+          "power": 14846540695,
+          "merits": 54701245,
+          "kills": 234161221,
+          "dead": 1067567,
+          "healed": 130775440
+        },
+        {
+          "weekNumber": 2,
+          "available": true,
+          "playerCount": 600,
+          "power": 14315375559,
+          "merits": 430611068,
+          "kills": 917658028,
+          "dead": 1011114,
+          "healed": 609643348
+        },
+        {
+          "weekNumber": 3,
+          "available": true,
+          "playerCount": 600,
+          "power": 14400273366,
+          "merits": 557759040,
+          "kills": 92403197,
+          "dead": 635357,
+          "healed": -208637621
+        },
+        {
+          "weekNumber": 4,
+          "available": true,
+          "playerCount": 600,
+          "power": 13531314426,
+          "merits": 1061406342,
+          "kills": 1471616888,
+          "dead": 14920102,
+          "healed": 905808113
+        },
+        {
+          "weekNumber": 5,
+          "available": true,
+          "playerCount": 600,
+          "power": 13800967031,
+          "merits": 1284565530,
+          "kills": 1243816620,
+          "dead": 19607310,
+          "healed": 740050926
+        },
+        {
+          "weekNumber": 6,
+          "available": true,
+          "playerCount": 600,
+          "power": 12787923010,
+          "merits": 1161070892,
+          "kills": -5125671758,
+          "dead": -7499380,
+          "healed": -4235734305
+        }
+      ],
+      "metrics": {
+        "power": [
+          15014634469,
+          14846540695,
+          14315375559,
+          14400273366,
+          13531314426,
+          13800967031,
+          12787923010
+        ],
+        "merits": [
+          0,
+          54701245,
+          430611068,
+          557759040,
+          1061406342,
+          1284565530,
+          1161070892
+        ],
+        "kills": [
+          0,
+          234161221,
+          917658028,
+          92403197,
+          1471616888,
+          1243816620,
+          -5125671758
+        ],
+        "dead": [
+          0,
+          1067567,
+          1011114,
+          635357,
+          14920102,
+          19607310,
+          -7499380
+        ],
+        "healed": [
+          0,
+          130775440,
+          609643348,
+          -208637621,
+          905808113,
+          740050926,
+          -4235734305
+        ]
+      }
+    },
+    {
+      "serverNumber": 289,
+      "complete": true,
+      "availableWeeks": 7,
+      "weeks": [
+        {
+          "weekNumber": 0,
+          "available": true,
+          "playerCount": 485,
+          "power": 14097966666,
+          "merits": 0,
+          "kills": 0,
+          "dead": 0,
+          "healed": 0
+        },
+        {
+          "weekNumber": 1,
+          "available": true,
+          "playerCount": 477,
+          "power": 13767600049,
+          "merits": 55114477,
+          "kills": -796637598,
+          "dead": -6072330,
+          "healed": -664458403
+        },
+        {
+          "weekNumber": 2,
+          "available": true,
+          "playerCount": 479,
+          "power": 12465387726,
+          "merits": 519499800,
+          "kills": -144237782,
+          "dead": 8335464,
+          "healed": -70033146
+        },
+        {
+          "weekNumber": 3,
+          "available": true,
+          "playerCount": 475,
+          "power": 12909881951,
+          "merits": 837290043,
+          "kills": 333227699,
+          "dead": 17877168,
+          "healed": 392516143
+        },
+        {
+          "weekNumber": 4,
+          "available": true,
+          "playerCount": 472,
+          "power": 13130075826,
+          "merits": 1055680796,
+          "kills": 545462762,
+          "dead": 23493247,
+          "healed": 492876961
+        },
+        {
+          "weekNumber": 5,
+          "available": true,
+          "playerCount": 479,
+          "power": 12434302963,
+          "merits": 1674473600,
+          "kills": 1775512355,
+          "dead": 31978588,
+          "healed": 1259745729
+        },
+        {
+          "weekNumber": 6,
+          "available": true,
+          "playerCount": 439,
+          "power": 11292899101,
+          "merits": 1355595627,
+          "kills": -7217338731,
+          "dead": -7334256,
+          "healed": -6327597266
+        }
+      ],
+      "metrics": {
+        "power": [
+          14097966666,
+          13767600049,
+          12465387726,
+          12909881951,
+          13130075826,
+          12434302963,
+          11292899101
+        ],
+        "merits": [
+          0,
+          55114477,
+          519499800,
+          837290043,
+          1055680796,
+          1674473600,
+          1355595627
+        ],
+        "kills": [
+          0,
+          -796637598,
+          -144237782,
+          333227699,
+          545462762,
+          1775512355,
+          -7217338731
+        ],
+        "dead": [
+          0,
+          -6072330,
+          8335464,
+          17877168,
+          23493247,
+          31978588,
+          -7334256
+        ],
+        "healed": [
+          0,
+          -664458403,
+          -70033146,
+          392516143,
+          492876961,
+          1259745729,
+          -6327597266
+        ]
+      }
+    },
+    {
+      "serverNumber": 297,
+      "complete": true,
+      "availableWeeks": 7,
+      "weeks": [
+        {
+          "weekNumber": 0,
+          "available": true,
+          "playerCount": 550,
+          "power": 16274148637,
+          "merits": 0,
+          "kills": 0,
+          "dead": 0,
+          "healed": 0
+        },
+        {
+          "weekNumber": 1,
+          "available": true,
+          "playerCount": 545,
+          "power": 16179760556,
+          "merits": 59459583,
+          "kills": 172022104,
+          "dead": -1912205,
+          "healed": 224718768
+        },
+        {
+          "weekNumber": 2,
+          "available": true,
+          "playerCount": 531,
+          "power": 15181658880,
+          "merits": 473818988,
+          "kills": 1284347556,
+          "dead": 7872849,
+          "healed": 1381262182
+        },
+        {
+          "weekNumber": 3,
+          "available": true,
+          "playerCount": 521,
+          "power": 15357752518,
+          "merits": 894109167,
+          "kills": 1435720620,
+          "dead": 23167457,
+          "healed": 1864591218
+        },
+        {
+          "weekNumber": 4,
+          "available": true,
+          "playerCount": 518,
+          "power": 15367805068,
+          "merits": 1148892095,
+          "kills": 1831841706,
+          "dead": 27458956,
+          "healed": 2346910698
+        },
+        {
+          "weekNumber": 5,
+          "available": true,
+          "playerCount": 517,
+          "power": 14771422929,
+          "merits": 1948018052,
+          "kills": 5746650854,
+          "dead": 53297069,
+          "healed": 4616290911
+        },
+        {
+          "weekNumber": 6,
+          "available": true,
+          "playerCount": 491,
+          "power": 14773442128,
+          "merits": 1712642799,
+          "kills": 2558357410,
+          "dead": 24874497,
+          "healed": -455133635
+        }
+      ],
+      "metrics": {
+        "power": [
+          16274148637,
+          16179760556,
+          15181658880,
+          15357752518,
+          15367805068,
+          14771422929,
+          14773442128
+        ],
+        "merits": [
+          0,
+          59459583,
+          473818988,
+          894109167,
+          1148892095,
+          1948018052,
+          1712642799
+        ],
+        "kills": [
+          0,
+          172022104,
+          1284347556,
+          1435720620,
+          1831841706,
+          5746650854,
+          2558357410
+        ],
+        "dead": [
+          0,
+          -1912205,
+          7872849,
+          23167457,
+          27458956,
+          53297069,
+          24874497
+        ],
+        "healed": [
+          0,
+          224718768,
+          1381262182,
+          1864591218,
+          2346910698,
+          4616290911,
+          -455133635
+        ]
+      }
+    },
+    {
+      "serverNumber": 476,
+      "complete": true,
+      "availableWeeks": 7,
+      "weeks": [
+        {
+          "weekNumber": 0,
+          "available": true,
+          "playerCount": 600,
+          "power": 16785968671,
+          "merits": 0,
+          "kills": 0,
+          "dead": 0,
+          "healed": 0
+        },
+        {
+          "weekNumber": 1,
+          "available": true,
+          "playerCount": 600,
+          "power": 16579119181,
+          "merits": 74680458,
+          "kills": -26672074,
+          "dead": -1018849,
+          "healed": -142028089
+        },
+        {
+          "weekNumber": 2,
+          "available": true,
+          "playerCount": 600,
+          "power": 15295713717,
+          "merits": 467142710,
+          "kills": 269425501,
+          "dead": 8918605,
+          "healed": 82383788
+        },
+        {
+          "weekNumber": 3,
+          "available": true,
+          "playerCount": 600,
+          "power": 15342636870,
+          "merits": 1021606856,
+          "kills": 1414652758,
+          "dead": 28415618,
+          "healed": 1081307412
+        },
+        {
+          "weekNumber": 4,
+          "available": true,
+          "playerCount": 600,
+          "power": 14798442756,
+          "merits": 1782914785,
+          "kills": 4245690388,
+          "dead": 57081588,
+          "healed": 3253394974
+        },
+        {
+          "weekNumber": 5,
+          "available": true,
+          "playerCount": 600,
+          "power": 15138443182,
+          "merits": 2143755373,
+          "kills": 5163565659,
+          "dead": 78420632,
+          "healed": 4122681756
+        },
+        {
+          "weekNumber": 6,
+          "available": true,
+          "playerCount": 600,
+          "power": 18209208479,
+          "merits": 2508227957,
+          "kills": 14375174422,
+          "dead": 123236648,
+          "healed": 9730155203
+        }
+      ],
+      "metrics": {
+        "power": [
+          16785968671,
+          16579119181,
+          15295713717,
+          15342636870,
+          14798442756,
+          15138443182,
+          18209208479
+        ],
+        "merits": [
+          0,
+          74680458,
+          467142710,
+          1021606856,
+          1782914785,
+          2143755373,
+          2508227957
+        ],
+        "kills": [
+          0,
+          -26672074,
+          269425501,
+          1414652758,
+          4245690388,
+          5163565659,
+          14375174422
+        ],
+        "dead": [
+          0,
+          -1018849,
+          8918605,
+          28415618,
+          57081588,
+          78420632,
+          123236648
+        ],
+        "healed": [
+          0,
+          -142028089,
+          82383788,
+          1081307412,
+          3253394974,
+          4122681756,
+          9730155203
+        ]
+      }
+    },
+    {
+      "serverNumber": 538,
+      "complete": true,
+      "availableWeeks": 7,
+      "weeks": [
+        {
+          "weekNumber": 0,
+          "available": true,
+          "playerCount": 600,
+          "power": 17990129870,
+          "merits": 0,
+          "kills": 0,
+          "dead": 0,
+          "healed": 0
+        },
+        {
+          "weekNumber": 1,
+          "available": true,
+          "playerCount": 600,
+          "power": 18006584852,
+          "merits": 34630507,
+          "kills": 109921484,
+          "dead": -680489,
+          "healed": 175140447
+        },
+        {
+          "weekNumber": 2,
+          "available": true,
+          "playerCount": 600,
+          "power": 17837569947,
+          "merits": 329606229,
+          "kills": 903440653,
+          "dead": 4965131,
+          "healed": 1125013977
+        },
+        {
+          "weekNumber": 3,
+          "available": true,
+          "playerCount": 600,
+          "power": 17972791682,
+          "merits": 436022797,
+          "kills": 1290364471,
+          "dead": 7128786,
+          "healed": 1673772590
+        },
+        {
+          "weekNumber": 4,
+          "available": true,
+          "playerCount": 600,
+          "power": 17491426712,
+          "merits": 1032782458,
+          "kills": 2829888598,
+          "dead": 23562754,
+          "healed": 3633435250
+        },
+        {
+          "weekNumber": 5,
+          "available": true,
+          "playerCount": 600,
+          "power": 17457077605,
+          "merits": 1360709099,
+          "kills": 2970513678,
+          "dead": 36001304,
+          "healed": 4363951627
+        },
+        {
+          "weekNumber": 6,
+          "available": true,
+          "playerCount": 600,
+          "power": 17153561955,
+          "merits": 1528884449,
+          "kills": 1337858191,
+          "dead": 21634272,
+          "healed": 1939218359
+        }
+      ],
+      "metrics": {
+        "power": [
+          17990129870,
+          18006584852,
+          17837569947,
+          17972791682,
+          17491426712,
+          17457077605,
+          17153561955
+        ],
+        "merits": [
+          0,
+          34630507,
+          329606229,
+          436022797,
+          1032782458,
+          1360709099,
+          1528884449
+        ],
+        "kills": [
+          0,
+          109921484,
+          903440653,
+          1290364471,
+          2829888598,
+          2970513678,
+          1337858191
+        ],
+        "dead": [
+          0,
+          -680489,
+          4965131,
+          7128786,
+          23562754,
+          36001304,
+          21634272
+        ],
+        "healed": [
+          0,
+          175140447,
+          1125013977,
+          1673772590,
+          3633435250,
+          4363951627,
+          1939218359
+        ]
+      }
+    },
+    {
+      "serverNumber": 594,
+      "complete": true,
+      "availableWeeks": 7,
+      "weeks": [
+        {
+          "weekNumber": 0,
+          "available": true,
+          "playerCount": 589,
+          "power": 605090568,
+          "merits": 0,
+          "kills": 0,
+          "dead": 0,
+          "healed": 0
+        },
+        {
+          "weekNumber": 1,
+          "available": true,
+          "playerCount": 590,
+          "power": 608841975,
+          "merits": 117234,
+          "kills": 227364,
+          "dead": 7627,
+          "healed": 1740766
+        },
+        {
+          "weekNumber": 2,
+          "available": true,
+          "playerCount": 582,
+          "power": 541761161,
+          "merits": -107868,
+          "kills": -24990365,
+          "dead": -777107,
+          "healed": -57424720
+        },
+        {
+          "weekNumber": 3,
+          "available": true,
+          "playerCount": 600,
+          "power": 1170585416,
+          "merits": 12354218,
+          "kills": 2170264546,
+          "dead": 16266761,
+          "healed": 1741195221
+        },
+        {
+          "weekNumber": 4,
+          "available": true,
+          "playerCount": 600,
+          "power": 1191917522,
+          "merits": 12831355,
+          "kills": 2191936109,
+          "dead": 17294557,
+          "healed": 1793782026
+        },
+        {
+          "weekNumber": 5,
+          "available": true,
+          "playerCount": 600,
+          "power": 10780649550,
+          "merits": 1204371638,
+          "kills": 21505031368,
+          "dead": 118697671,
+          "healed": 26692970479
+        },
+        {
+          "weekNumber": 6,
+          "available": true,
+          "playerCount": 600,
+          "power": 12692870957,
+          "merits": 1414418827,
+          "kills": 23763758661,
+          "dead": 137589588,
+          "healed": 30084573803
+        }
+      ],
+      "metrics": {
+        "power": [
+          605090568,
+          608841975,
+          541761161,
+          1170585416,
+          1191917522,
+          10780649550,
+          12692870957
+        ],
+        "merits": [
+          0,
+          117234,
+          -107868,
+          12354218,
+          12831355,
+          1204371638,
+          1414418827
+        ],
+        "kills": [
+          0,
+          227364,
+          -24990365,
+          2170264546,
+          2191936109,
+          21505031368,
+          23763758661
+        ],
+        "dead": [
+          0,
+          7627,
+          -777107,
+          16266761,
+          17294557,
+          118697671,
+          137589588
+        ],
+        "healed": [
+          0,
+          1740766,
+          -57424720,
+          1741195221,
+          1793782026,
+          26692970479,
+          30084573803
+        ]
+      }
+    },
+    {
+      "serverNumber": 630,
+      "complete": true,
+      "availableWeeks": 7,
+      "weeks": [
+        {
+          "weekNumber": 0,
+          "available": true,
+          "playerCount": 600,
+          "power": 19109381864,
+          "merits": 0,
+          "kills": 0,
+          "dead": 0,
+          "healed": 0
+        },
+        {
+          "weekNumber": 1,
+          "available": true,
+          "playerCount": 600,
+          "power": 19010745872,
+          "merits": 72840759,
+          "kills": 191015122,
+          "dead": 916238,
+          "healed": 252098802
+        },
+        {
+          "weekNumber": 2,
+          "available": true,
+          "playerCount": 600,
+          "power": 18372454504,
+          "merits": 393640445,
+          "kills": 918485657,
+          "dead": 22469159,
+          "healed": 1329483802
+        },
+        {
+          "weekNumber": 3,
+          "available": true,
+          "playerCount": 600,
+          "power": 18563792320,
+          "merits": 630359913,
+          "kills": 1897330662,
+          "dead": 48107404,
+          "healed": 3110434102
+        },
+        {
+          "weekNumber": 4,
+          "available": true,
+          "playerCount": 600,
+          "power": 18212973721,
+          "merits": 1016308505,
+          "kills": 2505430206,
+          "dead": 67470624,
+          "healed": 4212510200
+        },
+        {
+          "weekNumber": 5,
+          "available": true,
+          "playerCount": 600,
+          "power": 17570290115,
+          "merits": 1269343300,
+          "kills": 1169691198,
+          "dead": 74008514,
+          "healed": 3367360160
+        },
+        {
+          "weekNumber": 6,
+          "available": true,
+          "playerCount": 600,
+          "power": 17795012404,
+          "merits": 1481874575,
+          "kills": 1469642486,
+          "dead": 77584874,
+          "healed": 3939550402
+        }
+      ],
+      "metrics": {
+        "power": [
+          19109381864,
+          19010745872,
+          18372454504,
+          18563792320,
+          18212973721,
+          17570290115,
+          17795012404
+        ],
+        "merits": [
+          0,
+          72840759,
+          393640445,
+          630359913,
+          1016308505,
+          1269343300,
+          1481874575
+        ],
+        "kills": [
+          0,
+          191015122,
+          918485657,
+          1897330662,
+          2505430206,
+          1169691198,
+          1469642486
+        ],
+        "dead": [
+          0,
+          916238,
+          22469159,
+          48107404,
+          67470624,
+          74008514,
+          77584874
+        ],
+        "healed": [
+          0,
+          252098802,
+          1329483802,
+          3110434102,
+          4212510200,
+          3367360160,
+          3939550402
+        ]
+      }
+    },
+    {
+      "serverNumber": 653,
+      "complete": true,
+      "availableWeeks": 7,
+      "weeks": [
+        {
+          "weekNumber": 0,
+          "available": true,
+          "playerCount": 600,
+          "power": 702054518,
+          "merits": 0,
+          "kills": 0,
+          "dead": 0,
+          "healed": 0
+        },
+        {
+          "weekNumber": 1,
+          "available": true,
+          "playerCount": 600,
+          "power": 720428114,
+          "merits": 90677,
+          "kills": 319729,
+          "dead": 84033,
+          "healed": 10654546
+        },
+        {
+          "weekNumber": 2,
+          "available": true,
+          "playerCount": 600,
+          "power": 726541331,
+          "merits": 90677,
+          "kills": 325466,
+          "dead": 88227,
+          "healed": 13289080
+        },
+        {
+          "weekNumber": 3,
+          "available": true,
+          "playerCount": 600,
+          "power": 711866877,
+          "merits": 226765,
+          "kills": 348153,
+          "dead": 331873,
+          "healed": 8434451
+        },
+        {
+          "weekNumber": 4,
+          "available": true,
+          "playerCount": 600,
+          "power": 720656695,
+          "merits": 226765,
+          "kills": 347507,
+          "dead": 331873,
+          "healed": 10771043
+        },
+        {
+          "weekNumber": 5,
+          "available": true,
+          "playerCount": 600,
+          "power": 727027696,
+          "merits": 226765,
+          "kills": -2310002,
+          "dead": 296330,
+          "healed": 12902612
+        },
+        {
+          "weekNumber": 6,
+          "available": true,
+          "playerCount": 600,
+          "power": 717849990,
+          "merits": 226765,
+          "kills": -11364556,
+          "dead": 100363,
+          "healed": 6295534
+        }
+      ],
+      "metrics": {
+        "power": [
+          702054518,
+          720428114,
+          726541331,
+          711866877,
+          720656695,
+          727027696,
+          717849990
+        ],
+        "merits": [
+          0,
+          90677,
+          90677,
+          226765,
+          226765,
+          226765,
+          226765
+        ],
+        "kills": [
+          0,
+          319729,
+          325466,
+          348153,
+          347507,
+          -2310002,
+          -11364556
+        ],
+        "dead": [
+          0,
+          84033,
+          88227,
+          331873,
+          331873,
+          296330,
+          100363
+        ],
+        "healed": [
+          0,
+          10654546,
+          13289080,
+          8434451,
+          10771043,
+          12902612,
+          6295534
+        ]
+      }
+    },
+    {
+      "serverNumber": 654,
+      "complete": true,
+      "availableWeeks": 7,
+      "weeks": [
+        {
+          "weekNumber": 0,
+          "available": true,
+          "playerCount": 600,
+          "power": 630881208,
+          "merits": 0,
+          "kills": 0,
+          "dead": 0,
+          "healed": 0
+        },
+        {
+          "weekNumber": 1,
+          "available": true,
+          "playerCount": 600,
+          "power": 564546214,
+          "merits": 0,
+          "kills": -2670014,
+          "dead": -154912,
+          "healed": -19365631
+        },
+        {
+          "weekNumber": 2,
+          "available": true,
+          "playerCount": 600,
+          "power": 575316220,
+          "merits": 0,
+          "kills": -2481526,
+          "dead": -106512,
+          "healed": -16868448
+        },
+        {
+          "weekNumber": 3,
+          "available": true,
+          "playerCount": 600,
+          "power": 536899736,
+          "merits": 14043,
+          "kills": -54212951,
+          "dead": 133448,
+          "healed": -83855122
+        },
+        {
+          "weekNumber": 4,
+          "available": true,
+          "playerCount": 600,
+          "power": 540405438,
+          "merits": 14043,
+          "kills": -54564751,
+          "dead": 262662,
+          "healed": -80325978
+        },
+        {
+          "weekNumber": 5,
+          "available": true,
+          "playerCount": 600,
+          "power": 538024528,
+          "merits": 14043,
+          "kills": -54840007,
+          "dead": 273843,
+          "healed": -80994845
+        },
+        {
+          "weekNumber": 6,
+          "available": true,
+          "playerCount": 600,
+          "power": 645008249,
+          "merits": 606216,
+          "kills": 52398735,
+          "dead": 577695,
+          "healed": 37473446
+        }
+      ],
+      "metrics": {
+        "power": [
+          630881208,
+          564546214,
+          575316220,
+          536899736,
+          540405438,
+          538024528,
+          645008249
+        ],
+        "merits": [
+          0,
+          0,
+          0,
+          14043,
+          14043,
+          14043,
+          606216
+        ],
+        "kills": [
+          0,
+          -2670014,
+          -2481526,
+          -54212951,
+          -54564751,
+          -54840007,
+          52398735
+        ],
+        "dead": [
+          0,
+          -154912,
+          -106512,
+          133448,
+          262662,
+          273843,
+          577695
+        ],
+        "healed": [
+          0,
+          -19365631,
+          -16868448,
+          -83855122,
+          -80325978,
+          -80994845,
+          37473446
+        ]
+      }
+    },
+    {
+      "serverNumber": 672,
+      "complete": true,
+      "availableWeeks": 7,
+      "weeks": [
+        {
+          "weekNumber": 0,
+          "available": true,
+          "playerCount": 600,
+          "power": 446776296,
+          "merits": 0,
+          "kills": 0,
+          "dead": 0,
+          "healed": 0
+        },
+        {
+          "weekNumber": 1,
+          "available": true,
+          "playerCount": 600,
+          "power": 412233629,
+          "merits": 22640,
+          "kills": -338652,
+          "dead": -24541,
+          "healed": -10270512
+        },
+        {
+          "weekNumber": 2,
+          "available": true,
+          "playerCount": 600,
+          "power": 460542459,
+          "merits": 32785,
+          "kills": 3459690,
+          "dead": 2676,
+          "healed": 11564443
+        },
+        {
+          "weekNumber": 3,
+          "available": true,
+          "playerCount": 600,
+          "power": 563409004,
+          "merits": 1613450,
+          "kills": 267466870,
+          "dead": 1137370,
+          "healed": 307977397
+        },
+        {
+          "weekNumber": 4,
+          "available": true,
+          "playerCount": 600,
+          "power": 558358419,
+          "merits": 1613450,
+          "kills": 260771196,
+          "dead": 1157200,
+          "healed": 308000634
+        },
+        {
+          "weekNumber": 5,
+          "available": true,
+          "playerCount": 600,
+          "power": 562440801,
+          "merits": 1700690,
+          "kills": 261818745,
+          "dead": 1175411,
+          "healed": 309279237
+        },
+        {
+          "weekNumber": 6,
+          "available": true,
+          "playerCount": 600,
+          "power": 530585557,
+          "merits": 1700690,
+          "kills": 218314586,
+          "dead": 1128462,
+          "healed": 241139937
+        }
+      ],
+      "metrics": {
+        "power": [
+          446776296,
+          412233629,
+          460542459,
+          563409004,
+          558358419,
+          562440801,
+          530585557
+        ],
+        "merits": [
+          0,
+          22640,
+          32785,
+          1613450,
+          1613450,
+          1700690,
+          1700690
+        ],
+        "kills": [
+          0,
+          -338652,
+          3459690,
+          267466870,
+          260771196,
+          261818745,
+          218314586
+        ],
+        "dead": [
+          0,
+          -24541,
+          2676,
+          1137370,
+          1157200,
+          1175411,
+          1128462
+        ],
+        "healed": [
+          0,
+          -10270512,
+          11564443,
+          307977397,
+          308000634,
+          309279237,
+          241139937
+        ]
+      }
+    },
+    {
+      "serverNumber": 729,
+      "complete": true,
+      "availableWeeks": 7,
+      "weeks": [
+        {
+          "weekNumber": 0,
+          "available": true,
+          "playerCount": 600,
+          "power": 1204284942,
+          "merits": 0,
+          "kills": 0,
+          "dead": 0,
+          "healed": 0
+        },
+        {
+          "weekNumber": 1,
+          "available": true,
+          "playerCount": 600,
+          "power": 1185471605,
+          "merits": 5934,
+          "kills": -839882,
+          "dead": 0,
+          "healed": -6006090
+        },
+        {
+          "weekNumber": 2,
+          "available": true,
+          "playerCount": 600,
+          "power": 1186514877,
+          "merits": 5934,
+          "kills": -1928803,
+          "dead": 13705,
+          "healed": -8746345
+        },
+        {
+          "weekNumber": 3,
+          "available": true,
+          "playerCount": 600,
+          "power": 1214796176,
+          "merits": 21019312,
+          "kills": 242542361,
+          "dead": 2119588,
+          "healed": 338016801
+        },
+        {
+          "weekNumber": 4,
+          "available": true,
+          "playerCount": 600,
+          "power": 1216406381,
+          "merits": 21573869,
+          "kills": 249132801,
+          "dead": 2117719,
+          "healed": 349543694
+        },
+        {
+          "weekNumber": 5,
+          "available": true,
+          "playerCount": 600,
+          "power": 1220422591,
+          "merits": 21687841,
+          "kills": 254236124,
+          "dead": 2037760,
+          "healed": 361652792
+        },
+        {
+          "weekNumber": 6,
+          "available": true,
+          "playerCount": 600,
+          "power": 1133891281,
+          "merits": 21948355,
+          "kills": 124820704,
+          "dead": 1002834,
+          "healed": 211534748
+        }
+      ],
+      "metrics": {
+        "power": [
+          1204284942,
+          1185471605,
+          1186514877,
+          1214796176,
+          1216406381,
+          1220422591,
+          1133891281
+        ],
+        "merits": [
+          0,
+          5934,
+          5934,
+          21019312,
+          21573869,
+          21687841,
+          21948355
+        ],
+        "kills": [
+          0,
+          -839882,
+          -1928803,
+          242542361,
+          249132801,
+          254236124,
+          124820704
+        ],
+        "dead": [
+          0,
+          0,
+          13705,
+          2119588,
+          2117719,
+          2037760,
+          1002834
+        ],
+        "healed": [
+          0,
+          -6006090,
+          -8746345,
+          338016801,
+          349543694,
+          361652792,
+          211534748
+        ]
+      }
+    },
+    {
+      "serverNumber": 730,
+      "complete": true,
+      "availableWeeks": 7,
+      "weeks": [
+        {
+          "weekNumber": 0,
+          "available": true,
+          "playerCount": 600,
+          "power": 823181079,
+          "merits": 0,
+          "kills": 0,
+          "dead": 0,
+          "healed": 0
+        },
+        {
+          "weekNumber": 1,
+          "available": true,
+          "playerCount": 600,
+          "power": 826367124,
+          "merits": 489149,
+          "kills": 1298662,
+          "dead": -16225,
+          "healed": 2405307
+        },
+        {
+          "weekNumber": 2,
+          "available": true,
+          "playerCount": 600,
+          "power": 814375708,
+          "merits": 1313363,
+          "kills": 2915343,
+          "dead": -89713,
+          "healed": 888135
+        },
+        {
+          "weekNumber": 3,
+          "available": true,
+          "playerCount": 600,
+          "power": 802798371,
+          "merits": 2056038,
+          "kills": 1939821,
+          "dead": -235366,
+          "healed": -10667289
+        },
+        {
+          "weekNumber": 4,
+          "available": true,
+          "playerCount": 600,
+          "power": 817165178,
+          "merits": 2608000,
+          "kills": 3024106,
+          "dead": -232230,
+          "healed": -2926787
+        },
+        {
+          "weekNumber": 5,
+          "available": true,
+          "playerCount": 600,
+          "power": 835204251,
+          "merits": 3040528,
+          "kills": 5304004,
+          "dead": -260699,
+          "healed": 4938285
+        },
+        {
+          "weekNumber": 6,
+          "available": true,
+          "playerCount": 600,
+          "power": 863798560,
+          "merits": 7053953,
+          "kills": 22256425,
+          "dead": 163968,
+          "healed": 25868001
+        }
+      ],
+      "metrics": {
+        "power": [
+          823181079,
+          826367124,
+          814375708,
+          802798371,
+          817165178,
+          835204251,
+          863798560
+        ],
+        "merits": [
+          0,
+          489149,
+          1313363,
+          2056038,
+          2608000,
+          3040528,
+          7053953
+        ],
+        "kills": [
+          0,
+          1298662,
+          2915343,
+          1939821,
+          3024106,
+          5304004,
+          22256425
+        ],
+        "dead": [
+          0,
+          -16225,
+          -89713,
+          -235366,
+          -232230,
+          -260699,
+          163968
+        ],
+        "healed": [
+          0,
+          2405307,
+          888135,
+          -10667289,
+          -2926787,
+          4938285,
+          25868001
+        ]
+      }
+    }
+  ],
   "build": {
-    "expectedFiles": 0,
-    "processedFiles": 0,
-    "availableFiles": 0,
+    "expectedFiles": 119,
+    "processedFiles": 119,
+    "availableFiles": 119,
     "missingFileCount": 0,
     "failedFileCount": 0
   },
-  "generatedAt": "2026-07-23T00:00:00.000Z"
+  "generatedAt": "2026-07-23T11:04:44.028Z"
 }
