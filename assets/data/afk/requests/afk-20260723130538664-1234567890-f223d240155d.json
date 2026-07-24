@@ -1,7 +1,7 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "requestId": "afk-20260723130538664-1234567890-f223d240155d",
-  "status": "pending",
+  "status": "approved",
   "playerId": "1234567890",
   "playerName": "AFK Test Player",
   "reason": "vacation",
@@ -13,7 +13,12 @@
   "seasonNumber": 2,
   "seasonLabel": "Test Season",
   "submittedAt": "2026-07-23T13:05:38.664Z",
-  "updatedAt": "2026-07-23T13:05:38.664Z",
+  "updatedAt": "2026-07-24T06:39:30.139Z",
   "source": "public-afk-service",
-  "functionVersion": "630.2.0"
+  "functionVersion": "630.2.2",
+  "adminNote": "Test for the approval",
+  "reviewedAt": "2026-07-24T06:38:33.903Z",
+  "reviewedBy": "ragnarok99gaming@gmail.com",
+  "reviewedByRole": "owner",
+  "reviewedByUserId": "b82eccd1-6342-4a9e-b91d-beb00bf7ba6f"
 }
