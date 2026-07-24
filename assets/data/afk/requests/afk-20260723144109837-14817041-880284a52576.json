@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "requestId": "afk-20260723144109837-14817041-880284a52576",
-  "status": "pending",
+  "status": "approved",
   "playerId": "14817041",
   "playerName": "ᴿᵉᶠ Ragnarok",
   "reason": "vacation",
@@ -13,12 +13,14 @@
   "note": "I think this will work, but not certain yet! But how does this look at admin center with sow many writings and things, so I try to fill this up and lets see. becuase this should give a massive big area in admin center and thats not what I want.!!I think this will work, but not certain yet! But how does this look at admin center with sow many writings and things, so I try to fill this up and lets see. becuase this should give a massive big area in admin center and thats not what I want.!!",
   "seasonNumber": null,
   "seasonLabel": "",
-  "adminNote": "",
-  "reviewedAt": "",
-  "reviewedBy": "",
+  "adminNote": "testing",
+  "reviewedAt": "2026-07-24T06:38:58.925Z",
+  "reviewedBy": "ragnarok99gaming@gmail.com",
   "submittedAt": "2026-07-23T14:41:09.837Z",
   "createdAt": "2026-07-23T14:41:09.837Z",
-  "updatedAt": "2026-07-23T14:41:09.837Z",
+  "updatedAt": "2026-07-24T06:39:55.088Z",
   "source": "public-afk-service",
-  "functionVersion": "630.2.1"
+  "functionVersion": "630.2.2",
+  "reviewedByRole": "owner",
+  "reviewedByUserId": "b82eccd1-6342-4a9e-b91d-beb00bf7ba6f"
 }
