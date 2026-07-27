@@ -1,0 +1,15 @@
+{
+  "schemaVersion": "2.0.0",
+  "kingdom": 630,
+  "season": null,
+  "phase": "foundation",
+  "week": null,
+  "label": "Foundation loaded",
+  "status": "ready",
+  "matchmakingLoaded": false,
+  "seasonStarted": false,
+  "seasonArchived": false,
+  "lastSnapshotDate": "2026-07-27",
+  "updatedAt": "2026-07-27T13:11:26.388Z",
+  "updatedBy": "owner"
+}
