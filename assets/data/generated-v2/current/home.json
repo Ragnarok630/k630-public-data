@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "2.0.0",
+  "page": "home",
+  "kingdom": 630,
+  "currentSeason": null,
+  "currentWeek": null,
+  "currentLocation": {
+    "region": "",
+    "zone": "",
+    "label": ""
+  },
+  "tiles": {
+    "totalPlayers": 600,
+    "totalPower": 11260758195,
+    "averagePower": 18767930,
+    "seasonPlayers": 0,
+    "seasonPower": 0,
+    "seasonGrowth": 0
+  },
+  "charts": {
+    "powerDevelopment": [],
+    "playerDevelopment": []
+  },
+  "tables": {
+    "weeklySummary": [],
+    "serverRanking": []
+  },
+  "source": {
+    "type": "foundation",
+    "matchmaking": null,
+    "season": null,
+    "week": null,
+    "snapshotDate": "2026-07-27"
+  },
+  "updatedAt": "2026-07-27T13:11:26.388Z"
+}
