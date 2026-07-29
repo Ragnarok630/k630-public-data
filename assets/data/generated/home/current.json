@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "kingdom": 630,
+  "dataset": "home",
+  "generatedFrom": "foundation",
+  "foundationDate": "2026-03-27",
+  "generatedAt": "2026-07-29T13:28:57.418Z",
+  "currentSeason": null,
+  "currentWeek": null,
+  "totals": {
+    "activePlayers": 336,
+    "warriors": 139,
+    "farmers": 197,
+    "serverPower": 11553109930,
+    "serverMerits": 0,
+    "serverKills": 0,
+    "serverHealing": 0
+  },
+  "playerRanking": {
+    "topIdMerits": []
+  },
+  "serverRanking": {
+    "topServerMerits": []
+  },
+  "charts": {
+    "powerDevelopment": {
+      "active": false,
+      "labels": [],
+      "datasets": []
+    },
+    "meritsDevelopment": {
+      "active": false,
+      "labels": [],
+      "datasets": []
+    }
+  }
+}
