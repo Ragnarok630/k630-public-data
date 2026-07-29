@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "kingdom": 630,
+  "dataset": "foundation",
+  "status": "official",
+  "foundationDate": "2026-03-27",
+  "uploadedAt": "2026-07-29T10:51:10.426Z",
+  "uploadedBy": "ragnarok99gaming@gmail.com",
+  "sourceFilename": "630-foundation.json",
+  "engine": {
+    "name": "K630 Foundation Engine",
+    "version": "630.1.0"
+  },
+  "rules": {
+    "minimumHistoricalPower": 250000,
+    "historicalPowerSource": "Top Power",
+    "warriorMinimumPower": 20000000,
+    "t5MinimumTechPower": 28931215
+  },
+  "counts": {
+    "sourceRecords": 600,
+    "validIds": 600,
+    "activePlayers": 336,
+    "excludedLowPower": 264,
+    "invalidRecords": 0
+  },
+  "generatedFiles": [
+    "assets/data/generated/foundation/player-index.json",
+    "assets/data/generated/active-average/current.json",
+    "assets/data/generated/home/current.json"
+  ]
+}
