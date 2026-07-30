@@ -2,22 +2,58 @@
   "schemaVersion": 1,
   "kingdom": 630,
   "dataset": "home",
-  "generatedFrom": "foundation",
-  "foundationDate": "2026-03-27",
-  "generatedAt": "2026-07-30T07:32:51.399Z",
-  "currentSeason": null,
+  "generatedFrom": "matchmaking",
+  "matchmakingDate": "2026-05-07",
+  "generatedAt": "2026-07-30T07:34:42.588Z",
+  "currentSeason": 1,
   "currentWeek": null,
   "totals": {
-    "activePlayers": 336,
-    "warriors": 139,
-    "farmers": 197,
-    "serverPower": 11553109930,
-    "serverMerits": 0,
-    "serverKills": 0,
-    "serverHealing": 0
+    "activePlayers": 467,
+    "warriors": 202,
+    "farmers": 265,
+    "serverPower": 19127131003,
+    "serverMerits": 1967632043,
+    "serverKills": 38072375041,
+    "serverHealing": 53402078515
   },
   "playerRanking": {
-    "topIdMerits": []
+    "topIdMerits": [
+      {
+        "rank": 1,
+        "id": "8818469",
+        "name": "Brythefly",
+        "kingdom": 630,
+        "merits": 35790273
+      },
+      {
+        "rank": 2,
+        "id": "14788590",
+        "name": "NeiKos496",
+        "kingdom": 630,
+        "merits": 34755647
+      },
+      {
+        "rank": 3,
+        "id": "13318164",
+        "name": "ᴿᵉᶠZangetzu",
+        "kingdom": 630,
+        "merits": 31813834
+      },
+      {
+        "rank": 4,
+        "id": "11241673",
+        "name": "ᴿᵉᶠDragonKing",
+        "kingdom": 630,
+        "merits": 30567053
+      },
+      {
+        "rank": 5,
+        "id": "8752661",
+        "name": "ᴳᵀ MS2005",
+        "kingdom": 630,
+        "merits": 30216726
+      }
+    ]
   },
   "serverRanking": {
     "topServerMerits": []
