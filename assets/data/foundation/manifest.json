@@ -4,9 +4,9 @@
   "dataset": "foundation",
   "status": "official",
   "foundationDate": "2026-03-27",
-  "uploadedAt": "2026-07-29T17:58:59.831Z",
+  "uploadedAt": "2026-07-30T06:58:49.135Z",
   "uploadedBy": "ragnarok99gaming@gmail.com",
-  "sourceFilename": "630-foundation.json",
+  "sourceFilename": "630-matchmaking.json",
   "engine": {
     "name": "K630 Foundation Engine",
     "version": "630.1.0"
@@ -20,8 +20,8 @@
   "counts": {
     "sourceRecords": 600,
     "validIds": 600,
-    "activePlayers": 336,
-    "excludedLowPower": 264,
+    "activePlayers": 467,
+    "excludedLowPower": 133,
     "invalidRecords": 0
   },
   "generatedFiles": [
