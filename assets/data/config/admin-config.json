@@ -1,0 +1,47 @@
+{
+  "schemaVersion": "630.1.0",
+  "updatedAt": "2026-07-31T10:04:55.570Z",
+  "updatedBy": "ragnarok99gaming@gmail.com",
+  "github": {
+    "repositoryRead": false,
+    "repositoryWrite": false,
+    "lastCheckedAt": ""
+  },
+  "foundation": {
+    "ready": false,
+    "officialDate": "",
+    "playerCount": 0,
+    "updatedAt": ""
+  },
+  "matchmaking": {
+    "ready": true,
+    "seasonNumber": 1,
+    "officialDate": "2026-05-07",
+    "playerCount": 467,
+    "updatedAt": "2026-07-31T10:04:55.550Z"
+  },
+  "season": {
+    "websiteStatus": "home-farming-migration-open",
+    "selectedSeason": null,
+    "participatingServers": [],
+    "active": false,
+    "week0Unlocked": false,
+    "updatedAt": ""
+  },
+  "weeks": {
+    "uploaded": [],
+    "latestWeek": null,
+    "ready": false,
+    "updatedAt": ""
+  },
+  "websiteBuild": {
+    "ready": false,
+    "lastBuiltAt": ""
+  },
+  "archive": {
+    "ready": false,
+    "archived": false,
+    "seasonNumber": 0,
+    "archivedAt": ""
+  }
+}
