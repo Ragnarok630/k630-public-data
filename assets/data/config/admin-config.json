@@ -1,6 +1,6 @@
 {
   "schemaVersion": "630.1.0",
-  "updatedAt": "2026-08-02T17:00:33.557Z",
+  "updatedAt": "2026-08-02T17:09:10.458Z",
   "updatedBy": "ragnarok99gaming@gmail.com",
   "github": {
     "repositoryRead": false,
@@ -52,10 +52,12 @@
     "updatedAt": "2026-08-02T17:00:33.557Z"
   },
   "weeks": {
-    "uploaded": [],
-    "latestWeek": null,
-    "ready": false,
-    "updatedAt": ""
+    "uploaded": [
+      "W0"
+    ],
+    "latestWeek": "W0",
+    "ready": true,
+    "updatedAt": "2026-08-02T17:09:10.457Z"
   },
   "websiteBuild": {
     "ready": false,
