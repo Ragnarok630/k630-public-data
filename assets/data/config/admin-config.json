@@ -1,6 +1,6 @@
 {
   "schemaVersion": "630.1.0",
-  "updatedAt": "2026-08-02T17:00:26.555Z",
+  "updatedAt": "2026-08-02T17:00:31.254Z",
   "updatedBy": "ragnarok99gaming@gmail.com",
   "github": {
     "repositoryRead": false,
@@ -47,9 +47,9 @@
       729,
       730
     ],
-    "active": true,
-    "week0Unlocked": true,
-    "updatedAt": "2026-08-02T17:00:26.555Z"
+    "active": false,
+    "week0Unlocked": false,
+    "updatedAt": "2026-08-02T17:00:31.254Z"
   },
   "weeks": {
     "uploaded": [],
