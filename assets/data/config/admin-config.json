@@ -1,6 +1,6 @@
 {
   "schemaVersion": "630.1.0",
-  "updatedAt": "2026-08-02T16:46:33.255Z",
+  "updatedAt": "2026-08-02T16:46:45.286Z",
   "updatedBy": "ragnarok99gaming@gmail.com",
   "github": {
     "repositoryRead": false,
@@ -21,7 +21,7 @@
     "updatedAt": "2026-08-02T16:32:10.387Z"
   },
   "season": {
-    "websiteStatus": "home-farming-migration-open",
+    "websiteStatus": "in-season-migration-open",
     "selectedSeason": {
       "year": 2026,
       "season": 1,
@@ -31,7 +31,7 @@
     "participatingServers": [],
     "active": false,
     "week0Unlocked": false,
-    "updatedAt": "2026-08-02T16:46:33.254Z"
+    "updatedAt": "2026-08-02T16:46:45.286Z"
   },
   "weeks": {
     "uploaded": [],
