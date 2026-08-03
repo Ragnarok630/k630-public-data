@@ -2,72 +2,156 @@
   "schemaVersion": 1,
   "kingdom": 630,
   "dataset": "home",
-  "generatedFrom": "matchmaking",
-  "matchmakingDate": "2026-05-07",
-  "generatedAt": "2026-08-02T16:32:10.387Z",
+  "generatedFrom": "season-1-W0",
+  "generatedAt": "2026-08-03T13:26:08.358Z",
+  "generatedBy": "ragnarok99gaming@gmail.com",
   "currentSeason": 1,
-  "currentWeek": null,
+  "currentWeek": "W0",
+  "currentWeekDate": "2026-05-07",
+  "seasonName": "Rise of the Dragon",
   "totals": {
-    "activePlayers": 467,
-    "warriors": 202,
-    "farmers": 265,
-    "serverPower": 19127131003,
-    "serverMerits": 1967632043,
-    "serverKills": 38072375041,
-    "serverHealing": 53402078515
+    "activePlayers": 462,
+    "warriors": 203,
+    "farmers": 259,
+    "serverPower": 19097252651,
+    "serverMerits": 0,
+    "serverKills": 38202044532,
+    "serverHealing": 53622698381
   },
   "playerRanking": {
     "topIdMerits": [
       {
         "rank": 1,
-        "id": "8818469",
-        "name": "Brythefly",
+        "id": "11938109",
+        "name": "PeBu3oP",
         "kingdom": 630,
-        "merits": 35790273
+        "merits": 0
       },
       {
         "rank": 2,
-        "id": "14788590",
-        "name": "NeiKos496",
+        "id": "11005027",
+        "name": "Black 黑仔",
         "kingdom": 630,
-        "merits": 34755647
+        "merits": 0
       },
       {
         "rank": 3,
-        "id": "13318164",
-        "name": "ᴿᵉᶠZangetzu",
+        "id": "507230",
+        "name": "SLA",
         "kingdom": 630,
-        "merits": 31813834
+        "merits": 0
       },
       {
         "rank": 4,
-        "id": "11241673",
-        "name": "ᴿᵉᶠDragonKing",
+        "id": "3438999",
+        "name": "MYвungツ",
         "kingdom": 630,
-        "merits": 30567053
+        "merits": 0
       },
       {
         "rank": 5,
-        "id": "8752661",
-        "name": "ᴳᵀ MS2005",
+        "id": "5246014",
+        "name": "KebacutNgaceng",
         "kingdom": 630,
-        "merits": 30216726
+        "merits": 0
       }
     ]
   },
   "serverRanking": {
-    "topServerMerits": []
+    "topServerMerits": [
+      {
+        "rank": 1,
+        "kingdom": 22,
+        "server": 22,
+        "merits": 0
+      },
+      {
+        "rank": 2,
+        "kingdom": 47,
+        "server": 47,
+        "merits": 0
+      },
+      {
+        "rank": 3,
+        "kingdom": 148,
+        "server": 148,
+        "merits": 0
+      },
+      {
+        "rank": 4,
+        "kingdom": 194,
+        "server": 194,
+        "merits": 0
+      },
+      {
+        "rank": 5,
+        "kingdom": 203,
+        "server": 203,
+        "merits": 0
+      }
+    ]
   },
   "charts": {
     "powerDevelopment": {
-      "active": false,
-      "labels": [],
-      "datasets": []
+      "active": true,
+      "labels": [
+        "W0",
+        "W1",
+        "W2",
+        "W3",
+        "W4",
+        "W5",
+        "W6"
+      ],
+      "datasets": [
+        {
+          "label": "Server 630 Power",
+          "data": [
+            19097252651,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ]
+        }
+      ]
     },
     "meritsDevelopment": {
-      "active": false,
-      "labels": [],
-      "datasets": []
+      "active": true,
+      "labels": [
+        "W0",
+        "W1",
+        "W2",
+        "W3",
+        "W4",
+        "W5",
+        "W6"
+      ],
+      "datasets": [
+        {
+          "label": "Server 630 Merits",
+          "data": [
+            0,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ]
+        }
+      ]
+    }
+  },
+  "weeklyTotals": {
+    "W0": {
+      "officialDate": "2026-05-07",
+      "serverPower": 19097252651,
+      "serverMerits": 0,
+      "serverKills": 38202044532,
+      "serverHealing": 53622698381
     }
   }
 }
