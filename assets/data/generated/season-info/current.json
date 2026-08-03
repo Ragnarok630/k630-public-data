@@ -2,22 +2,22 @@
   "schemaVersion": 1,
   "kingdom": 630,
   "dataset": "season-info",
-  "generatedFrom": "active-average-and-week-files",
-  "generatedAt": "2026-08-02T17:49:43.736Z",
+  "generatedFrom": "weekly-player-state",
+  "generatedAt": "2026-08-03T13:25:58.571Z",
   "generatedBy": "ragnarok99gaming@gmail.com",
   "season": {
     "number": 1,
-    "officialDate": "2026-05-07",
     "availableWeeks": [
       "W0"
     ],
-    "latestWeek": "W0"
+    "latestWeek": "W0",
+    "latestWeekDate": "2026-05-07"
   },
   "summary": {
-    "activeAveragePlayers": 467,
-    "officialParticipants": 457,
-    "warriors": 202,
-    "farmers": 255
+    "officialParticipants": 462,
+    "warriors": 203,
+    "farmers": 259,
+    "leftPlayers": 0
   },
   "columns": {
     "fixed": [
@@ -58,6 +58,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -129,14 +131,14 @@
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "dateJoinKingdom": "2026-05-07",
-      "notes": [
-        "new"
-      ],
+      "notes": [],
       "noteFlags": {
-        "new": true,
+        "new": false,
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -208,14 +210,14 @@
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "dateJoinKingdom": "2026-05-07",
-      "notes": [
-        "new"
-      ],
+      "notes": [],
       "noteFlags": {
-        "new": true,
+        "new": false,
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -293,6 +295,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -370,6 +374,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -441,14 +447,14 @@
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "dateJoinKingdom": "2026-05-07",
-      "notes": [
-        "new"
-      ],
+      "notes": [],
       "noteFlags": {
-        "new": true,
+        "new": false,
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -520,14 +526,14 @@
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "dateJoinKingdom": "2026-05-07",
-      "notes": [
-        "new"
-      ],
+      "notes": [],
       "noteFlags": {
-        "new": true,
+        "new": false,
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -599,14 +605,14 @@
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "dateJoinKingdom": "2026-05-07",
-      "notes": [
-        "new"
-      ],
+      "notes": [],
       "noteFlags": {
-        "new": true,
+        "new": false,
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -684,6 +690,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -755,14 +763,14 @@
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "dateJoinKingdom": "2026-05-07",
-      "notes": [
-        "new"
-      ],
+      "notes": [],
       "noteFlags": {
-        "new": true,
+        "new": false,
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -840,6 +848,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -917,6 +927,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -988,14 +1000,14 @@
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "dateJoinKingdom": "2026-05-07",
-      "notes": [
-        "new"
-      ],
+      "notes": [],
       "noteFlags": {
-        "new": true,
+        "new": false,
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -1067,14 +1079,14 @@
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "dateJoinKingdom": "2026-05-07",
-      "notes": [
-        "new"
-      ],
+      "notes": [],
       "noteFlags": {
-        "new": true,
+        "new": false,
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -1146,14 +1158,14 @@
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "dateJoinKingdom": "2026-05-07",
-      "notes": [
-        "new"
-      ],
+      "notes": [],
       "noteFlags": {
-        "new": true,
+        "new": false,
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -1225,14 +1237,14 @@
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "dateJoinKingdom": "2026-05-07",
-      "notes": [
-        "new"
-      ],
+      "notes": [],
       "noteFlags": {
-        "new": true,
+        "new": false,
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -1304,14 +1316,14 @@
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "dateJoinKingdom": "2026-05-07",
-      "notes": [
-        "new"
-      ],
+      "notes": [],
       "noteFlags": {
-        "new": true,
+        "new": false,
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -1383,14 +1395,14 @@
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "dateJoinKingdom": "2026-05-07",
-      "notes": [
-        "new"
-      ],
+      "notes": [],
       "noteFlags": {
-        "new": true,
+        "new": false,
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -1462,14 +1474,14 @@
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "dateJoinKingdom": "2026-05-07",
-      "notes": [
-        "new"
-      ],
+      "notes": [],
       "noteFlags": {
-        "new": true,
+        "new": false,
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -1541,14 +1553,14 @@
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "dateJoinKingdom": "2026-05-07",
-      "notes": [
-        "new"
-      ],
+      "notes": [],
       "noteFlags": {
-        "new": true,
+        "new": false,
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -1620,14 +1632,14 @@
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "dateJoinKingdom": "2026-05-07",
-      "notes": [
-        "new"
-      ],
+      "notes": [],
       "noteFlags": {
-        "new": true,
+        "new": false,
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -1705,6 +1717,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -1776,14 +1790,14 @@
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "dateJoinKingdom": "2026-05-07",
-      "notes": [
-        "new"
-      ],
+      "notes": [],
       "noteFlags": {
-        "new": true,
+        "new": false,
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -1861,6 +1875,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -1938,6 +1954,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -2015,6 +2033,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -2086,14 +2106,14 @@
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "dateJoinKingdom": "2026-05-07",
-      "notes": [
-        "new"
-      ],
+      "notes": [],
       "noteFlags": {
-        "new": true,
+        "new": false,
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -2165,14 +2185,14 @@
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "dateJoinKingdom": "2026-05-07",
-      "notes": [
-        "new"
-      ],
+      "notes": [],
       "noteFlags": {
-        "new": true,
+        "new": false,
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -2244,14 +2264,14 @@
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "dateJoinKingdom": "2026-05-07",
-      "notes": [
-        "new"
-      ],
+      "notes": [],
       "noteFlags": {
-        "new": true,
+        "new": false,
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -2329,6 +2349,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -2400,14 +2422,14 @@
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "dateJoinKingdom": "2026-05-07",
-      "notes": [
-        "new"
-      ],
+      "notes": [],
       "noteFlags": {
-        "new": true,
+        "new": false,
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -2479,14 +2501,14 @@
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "dateJoinKingdom": "2026-05-07",
-      "notes": [
-        "new"
-      ],
+      "notes": [],
       "noteFlags": {
-        "new": true,
+        "new": false,
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -2564,6 +2586,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -2635,14 +2659,14 @@
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "dateJoinKingdom": "2026-05-07",
-      "notes": [
-        "new"
-      ],
+      "notes": [],
       "noteFlags": {
-        "new": true,
+        "new": false,
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -2720,6 +2744,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -2797,6 +2823,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -2868,14 +2896,14 @@
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "dateJoinKingdom": "2026-05-07",
-      "notes": [
-        "new"
-      ],
+      "notes": [],
       "noteFlags": {
-        "new": true,
+        "new": false,
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -2947,14 +2975,14 @@
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "dateJoinKingdom": "2026-05-07",
-      "notes": [
-        "new"
-      ],
+      "notes": [],
       "noteFlags": {
-        "new": true,
+        "new": false,
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -3032,6 +3060,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -3109,6 +3139,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -3180,14 +3212,14 @@
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "dateJoinKingdom": "2026-05-07",
-      "notes": [
-        "new"
-      ],
+      "notes": [],
       "noteFlags": {
-        "new": true,
+        "new": false,
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -3265,6 +3297,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -3336,14 +3370,14 @@
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "dateJoinKingdom": "2026-05-07",
-      "notes": [
-        "new"
-      ],
+      "notes": [],
       "noteFlags": {
-        "new": true,
+        "new": false,
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -3421,6 +3455,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -3492,14 +3528,14 @@
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "dateJoinKingdom": "2026-05-07",
-      "notes": [
-        "new"
-      ],
+      "notes": [],
       "noteFlags": {
-        "new": true,
+        "new": false,
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -3571,14 +3607,14 @@
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "dateJoinKingdom": "2026-05-07",
-      "notes": [
-        "new"
-      ],
+      "notes": [],
       "noteFlags": {
-        "new": true,
+        "new": false,
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -3650,14 +3686,14 @@
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "dateJoinKingdom": "2026-05-07",
-      "notes": [
-        "new"
-      ],
+      "notes": [],
       "noteFlags": {
-        "new": true,
+        "new": false,
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -3735,6 +3771,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -3806,14 +3844,14 @@
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "dateJoinKingdom": "2026-05-07",
-      "notes": [
-        "new"
-      ],
+      "notes": [],
       "noteFlags": {
-        "new": true,
+        "new": false,
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -3891,6 +3929,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -3962,14 +4002,14 @@
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "dateJoinKingdom": "2026-05-07",
-      "notes": [
-        "new"
-      ],
+      "notes": [],
       "noteFlags": {
-        "new": true,
+        "new": false,
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -4041,14 +4081,14 @@
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "dateJoinKingdom": "2026-05-07",
-      "notes": [
-        "new"
-      ],
+      "notes": [],
       "noteFlags": {
-        "new": true,
+        "new": false,
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -4126,6 +4166,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -4203,6 +4245,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -4274,14 +4318,14 @@
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "dateJoinKingdom": "2026-05-07",
-      "notes": [
-        "new"
-      ],
+      "notes": [],
       "noteFlags": {
-        "new": true,
+        "new": false,
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -4353,14 +4397,14 @@
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "dateJoinKingdom": "2026-05-07",
-      "notes": [
-        "new"
-      ],
+      "notes": [],
       "noteFlags": {
-        "new": true,
+        "new": false,
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -4432,14 +4476,14 @@
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "dateJoinKingdom": "2026-05-07",
-      "notes": [
-        "new"
-      ],
+      "notes": [],
       "noteFlags": {
-        "new": true,
+        "new": false,
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -4511,14 +4555,14 @@
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "dateJoinKingdom": "2026-05-07",
-      "notes": [
-        "new"
-      ],
+      "notes": [],
       "noteFlags": {
-        "new": true,
+        "new": false,
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -4596,6 +4640,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -4673,6 +4719,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -4750,6 +4798,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -4827,6 +4877,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -4898,14 +4950,14 @@
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "dateJoinKingdom": "2026-05-07",
-      "notes": [
-        "new"
-      ],
+      "notes": [],
       "noteFlags": {
-        "new": true,
+        "new": false,
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -4983,6 +5035,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -5060,6 +5114,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -5131,14 +5187,14 @@
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "dateJoinKingdom": "2026-05-07",
-      "notes": [
-        "new"
-      ],
+      "notes": [],
       "noteFlags": {
-        "new": true,
+        "new": false,
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -5216,6 +5272,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -5293,6 +5351,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -5370,6 +5430,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -5441,14 +5503,14 @@
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "dateJoinKingdom": "2026-05-07",
-      "notes": [
-        "new"
-      ],
+      "notes": [],
       "noteFlags": {
-        "new": true,
+        "new": false,
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -5526,6 +5588,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -5603,6 +5667,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -5680,6 +5746,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -5751,14 +5819,14 @@
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "dateJoinKingdom": "2026-05-07",
-      "notes": [
-        "new"
-      ],
+      "notes": [],
       "noteFlags": {
-        "new": true,
+        "new": false,
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -5836,6 +5904,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -5907,14 +5977,14 @@
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "dateJoinKingdom": "2026-05-07",
-      "notes": [
-        "new"
-      ],
+      "notes": [],
       "noteFlags": {
-        "new": true,
+        "new": false,
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -5992,6 +6062,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -6063,14 +6135,14 @@
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "dateJoinKingdom": "2026-05-07",
-      "notes": [
-        "new"
-      ],
+      "notes": [],
       "noteFlags": {
-        "new": true,
+        "new": false,
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -6148,6 +6220,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -6219,14 +6293,14 @@
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "dateJoinKingdom": "2026-05-07",
-      "notes": [
-        "new"
-      ],
+      "notes": [],
       "noteFlags": {
-        "new": true,
+        "new": false,
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -6304,6 +6378,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -6381,6 +6457,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -6458,6 +6536,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -6529,14 +6609,14 @@
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "dateJoinKingdom": "2026-05-07",
-      "notes": [
-        "new"
-      ],
+      "notes": [],
       "noteFlags": {
-        "new": true,
+        "new": false,
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -6614,6 +6694,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -6685,14 +6767,14 @@
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "dateJoinKingdom": "2026-05-07",
-      "notes": [
-        "new"
-      ],
+      "notes": [],
       "noteFlags": {
-        "new": true,
+        "new": false,
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -6770,6 +6852,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -6847,6 +6931,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -6918,14 +7004,14 @@
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "dateJoinKingdom": "2026-05-07",
-      "notes": [
-        "new"
-      ],
+      "notes": [],
       "noteFlags": {
-        "new": true,
+        "new": false,
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -7003,6 +7089,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -7074,14 +7162,14 @@
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "dateJoinKingdom": "2026-05-07",
-      "notes": [
-        "new"
-      ],
+      "notes": [],
       "noteFlags": {
-        "new": true,
+        "new": false,
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -7159,6 +7247,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -7236,6 +7326,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -7313,6 +7405,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -7384,14 +7478,14 @@
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "dateJoinKingdom": "2026-05-07",
-      "notes": [
-        "new"
-      ],
+      "notes": [],
       "noteFlags": {
-        "new": true,
+        "new": false,
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -7469,6 +7563,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -7546,6 +7642,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -7623,6 +7721,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -7700,6 +7800,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -7777,6 +7879,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -7854,6 +7958,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -7931,6 +8037,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -8008,6 +8116,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -8085,6 +8195,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -8162,6 +8274,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -8233,14 +8347,14 @@
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "dateJoinKingdom": "2026-05-07",
-      "notes": [
-        "new"
-      ],
+      "notes": [],
       "noteFlags": {
-        "new": true,
+        "new": false,
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -8318,6 +8432,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -8389,14 +8505,14 @@
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "dateJoinKingdom": "2026-05-07",
-      "notes": [
-        "new"
-      ],
+      "notes": [],
       "noteFlags": {
-        "new": true,
+        "new": false,
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -8474,6 +8590,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -8551,6 +8669,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -8628,6 +8748,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -8705,6 +8827,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -8782,6 +8906,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -8859,6 +8985,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -8936,6 +9064,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -9013,6 +9143,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -9090,6 +9222,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -9167,6 +9301,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -9244,6 +9380,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -9321,6 +9459,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -9398,6 +9538,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -9475,6 +9617,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -9546,14 +9690,14 @@
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "dateJoinKingdom": "2026-05-07",
-      "notes": [
-        "new"
-      ],
+      "notes": [],
       "noteFlags": {
-        "new": true,
+        "new": false,
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -9631,6 +9775,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -9708,6 +9854,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -9785,6 +9933,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -9862,6 +10012,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -9939,6 +10091,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -10010,14 +10164,14 @@
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "dateJoinKingdom": "2026-05-07",
-      "notes": [
-        "new"
-      ],
+      "notes": [],
       "noteFlags": {
-        "new": true,
+        "new": false,
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -10095,6 +10249,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -10172,6 +10328,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -10243,14 +10401,14 @@
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "dateJoinKingdom": "2026-05-07",
-      "notes": [
-        "new"
-      ],
+      "notes": [],
       "noteFlags": {
-        "new": true,
+        "new": false,
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -10328,6 +10486,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -10405,6 +10565,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -10482,6 +10644,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -10559,6 +10723,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -10636,6 +10802,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -10713,6 +10881,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -10790,6 +10960,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -10867,6 +11039,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -10944,6 +11118,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -11021,6 +11197,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -11092,14 +11270,14 @@
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "dateJoinKingdom": "2026-05-07",
-      "notes": [
-        "new"
-      ],
+      "notes": [],
       "noteFlags": {
-        "new": true,
+        "new": false,
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -11177,6 +11355,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -11254,6 +11434,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -11331,6 +11513,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -11408,6 +11592,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -11479,14 +11665,14 @@
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "dateJoinKingdom": "2026-05-07",
-      "notes": [
-        "new"
-      ],
+      "notes": [],
       "noteFlags": {
-        "new": true,
+        "new": false,
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -11564,6 +11750,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -11635,14 +11823,14 @@
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "dateJoinKingdom": "2026-05-07",
-      "notes": [
-        "new"
-      ],
+      "notes": [],
       "noteFlags": {
-        "new": true,
+        "new": false,
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -11714,14 +11902,14 @@
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "dateJoinKingdom": "2026-05-07",
-      "notes": [
-        "new"
-      ],
+      "notes": [],
       "noteFlags": {
-        "new": true,
+        "new": false,
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -11793,14 +11981,14 @@
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "dateJoinKingdom": "2026-05-07",
-      "notes": [
-        "new"
-      ],
+      "notes": [],
       "noteFlags": {
-        "new": true,
+        "new": false,
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -11878,6 +12066,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -11949,14 +12139,14 @@
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "dateJoinKingdom": "2026-05-07",
-      "notes": [
-        "new"
-      ],
+      "notes": [],
       "noteFlags": {
-        "new": true,
+        "new": false,
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -12034,6 +12224,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -12111,6 +12303,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -12188,6 +12382,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -12259,14 +12455,14 @@
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "dateJoinKingdom": "2026-05-07",
-      "notes": [
-        "new"
-      ],
+      "notes": [],
       "noteFlags": {
-        "new": true,
+        "new": false,
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -12344,6 +12540,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -12421,6 +12619,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -12492,14 +12692,14 @@
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "dateJoinKingdom": "2026-05-07",
-      "notes": [
-        "new"
-      ],
+      "notes": [],
       "noteFlags": {
-        "new": true,
+        "new": false,
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -12577,6 +12777,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -12654,6 +12856,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -12731,6 +12935,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -12808,6 +13014,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -12885,6 +13093,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -12962,6 +13172,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -13039,6 +13251,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -13116,6 +13330,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -13193,6 +13409,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -13270,6 +13488,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -13347,6 +13567,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -13424,6 +13646,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -13501,6 +13725,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -13572,14 +13798,14 @@
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "dateJoinKingdom": "2026-05-07",
-      "notes": [
-        "new"
-      ],
+      "notes": [],
       "noteFlags": {
-        "new": true,
+        "new": false,
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -13657,6 +13883,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -13734,6 +13962,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -13811,6 +14041,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -13888,6 +14120,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -13965,6 +14199,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -14042,6 +14278,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -14119,6 +14357,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -14196,6 +14436,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -14273,6 +14515,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -14350,6 +14594,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -14427,6 +14673,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -14504,6 +14752,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -14581,6 +14831,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -14658,6 +14910,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -14735,6 +14989,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -14812,6 +15068,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -14889,6 +15147,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -14966,6 +15226,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -15043,6 +15305,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -15120,6 +15384,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -15191,14 +15457,14 @@
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "dateJoinKingdom": "2026-05-07",
-      "notes": [
-        "new"
-      ],
+      "notes": [],
       "noteFlags": {
-        "new": true,
+        "new": false,
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -15276,6 +15542,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -15353,6 +15621,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -15430,6 +15700,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -15507,6 +15779,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -15584,6 +15858,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -15661,6 +15937,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -15727,7 +16005,7 @@
       "name": "Goshin Farm",
       "alliance": "[FoR]Farmers of Rebels",
       "troopTier": "T4",
-      "playerType": "farmer",
+      "playerType": "warrior",
       "historicalPower": 20155772,
       "serverStatus": "LV2",
       "serverStatusColor": "green",
@@ -15738,6 +16016,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -15815,6 +16095,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -15886,14 +16168,14 @@
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "dateJoinKingdom": "2026-05-07",
-      "notes": [
-        "new"
-      ],
+      "notes": [],
       "noteFlags": {
-        "new": true,
+        "new": false,
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -15971,6 +16253,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -16042,14 +16326,14 @@
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "dateJoinKingdom": "2026-05-07",
-      "notes": [
-        "new"
-      ],
+      "notes": [],
       "noteFlags": {
-        "new": true,
+        "new": false,
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -16121,14 +16405,14 @@
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "dateJoinKingdom": "2026-05-07",
-      "notes": [
-        "new"
-      ],
+      "notes": [],
       "noteFlags": {
-        "new": true,
+        "new": false,
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -16200,14 +16484,14 @@
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "dateJoinKingdom": "2026-05-07",
-      "notes": [
-        "new"
-      ],
+      "notes": [],
       "noteFlags": {
-        "new": true,
+        "new": false,
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -16285,6 +16569,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -16362,6 +16648,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -16439,6 +16727,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -16516,6 +16806,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -16587,14 +16879,14 @@
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "dateJoinKingdom": "2026-05-07",
-      "notes": [
-        "new"
-      ],
+      "notes": [],
       "noteFlags": {
-        "new": true,
+        "new": false,
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -16672,6 +16964,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -16749,6 +17043,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -16826,6 +17122,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -16903,6 +17201,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -16974,14 +17274,14 @@
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "dateJoinKingdom": "2026-05-07",
-      "notes": [
-        "new"
-      ],
+      "notes": [],
       "noteFlags": {
-        "new": true,
+        "new": false,
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -17053,14 +17353,14 @@
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "dateJoinKingdom": "2026-05-07",
-      "notes": [
-        "new"
-      ],
+      "notes": [],
       "noteFlags": {
-        "new": true,
+        "new": false,
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -17138,6 +17438,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -17215,6 +17517,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -17286,14 +17590,14 @@
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "dateJoinKingdom": "2026-05-07",
-      "notes": [
-        "new"
-      ],
+      "notes": [],
       "noteFlags": {
-        "new": true,
+        "new": false,
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -17365,14 +17669,14 @@
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "dateJoinKingdom": "2026-05-07",
-      "notes": [
-        "new"
-      ],
+      "notes": [],
       "noteFlags": {
-        "new": true,
+        "new": false,
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -17450,6 +17754,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -17527,6 +17833,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -17598,14 +17906,14 @@
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "dateJoinKingdom": "2026-05-07",
-      "notes": [
-        "new"
-      ],
+      "notes": [],
       "noteFlags": {
-        "new": true,
+        "new": false,
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -17683,6 +17991,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -17760,6 +18070,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -17831,14 +18143,14 @@
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "dateJoinKingdom": "2026-05-07",
-      "notes": [
-        "new"
-      ],
+      "notes": [],
       "noteFlags": {
-        "new": true,
+        "new": false,
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -17916,6 +18228,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -17987,14 +18301,14 @@
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "dateJoinKingdom": "2026-05-07",
-      "notes": [
-        "new"
-      ],
+      "notes": [],
       "noteFlags": {
-        "new": true,
+        "new": false,
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -18072,6 +18386,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -18143,14 +18459,14 @@
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "dateJoinKingdom": "2026-05-07",
-      "notes": [
-        "new"
-      ],
+      "notes": [],
       "noteFlags": {
-        "new": true,
+        "new": false,
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -18222,14 +18538,14 @@
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "dateJoinKingdom": "2026-05-07",
-      "notes": [
-        "new"
-      ],
+      "notes": [],
       "noteFlags": {
-        "new": true,
+        "new": false,
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -18307,6 +18623,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -18384,6 +18702,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -18455,14 +18775,14 @@
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "dateJoinKingdom": "2026-05-07",
-      "notes": [
-        "new"
-      ],
+      "notes": [],
       "noteFlags": {
-        "new": true,
+        "new": false,
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -18540,6 +18860,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -18617,6 +18939,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -18688,14 +19012,14 @@
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "dateJoinKingdom": "2026-05-07",
-      "notes": [
-        "new"
-      ],
+      "notes": [],
       "noteFlags": {
-        "new": true,
+        "new": false,
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -18773,6 +19097,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -18850,6 +19176,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -18927,6 +19255,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -19004,6 +19334,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -19075,14 +19407,14 @@
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "dateJoinKingdom": "2026-05-07",
-      "notes": [
-        "new"
-      ],
+      "notes": [],
       "noteFlags": {
-        "new": true,
+        "new": false,
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -19154,14 +19486,14 @@
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "dateJoinKingdom": "2026-05-07",
-      "notes": [
-        "new"
-      ],
+      "notes": [],
       "noteFlags": {
-        "new": true,
+        "new": false,
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -19233,14 +19565,14 @@
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "dateJoinKingdom": "2026-05-07",
-      "notes": [
-        "new"
-      ],
+      "notes": [],
       "noteFlags": {
-        "new": true,
+        "new": false,
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -19318,6 +19650,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -19389,14 +19723,14 @@
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "dateJoinKingdom": "2026-05-07",
-      "notes": [
-        "new"
-      ],
+      "notes": [],
       "noteFlags": {
-        "new": true,
+        "new": false,
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -19474,6 +19808,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -19551,6 +19887,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -19628,6 +19966,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -19699,14 +20039,14 @@
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "dateJoinKingdom": "2026-05-07",
-      "notes": [
-        "new"
-      ],
+      "notes": [],
       "noteFlags": {
-        "new": true,
+        "new": false,
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -19784,6 +20124,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -19861,6 +20203,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -19938,6 +20282,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -20015,6 +20361,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -20092,6 +20440,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -20163,14 +20513,14 @@
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "dateJoinKingdom": "2026-05-07",
-      "notes": [
-        "new"
-      ],
+      "notes": [],
       "noteFlags": {
-        "new": true,
+        "new": false,
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -20248,6 +20598,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -20325,6 +20677,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -20402,6 +20756,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -20473,14 +20829,14 @@
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "dateJoinKingdom": "2026-05-07",
-      "notes": [
-        "new"
-      ],
+      "notes": [],
       "noteFlags": {
-        "new": true,
+        "new": false,
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -20552,14 +20908,14 @@
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "dateJoinKingdom": "2026-05-07",
-      "notes": [
-        "new"
-      ],
+      "notes": [],
       "noteFlags": {
-        "new": true,
+        "new": false,
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -20631,14 +20987,14 @@
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "dateJoinKingdom": "2026-05-07",
-      "notes": [
-        "new"
-      ],
+      "notes": [],
       "noteFlags": {
-        "new": true,
+        "new": false,
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -20710,14 +21066,14 @@
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "dateJoinKingdom": "2026-05-07",
-      "notes": [
-        "new"
-      ],
+      "notes": [],
       "noteFlags": {
-        "new": true,
+        "new": false,
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -20789,14 +21145,14 @@
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "dateJoinKingdom": "2026-05-07",
-      "notes": [
-        "new"
-      ],
+      "notes": [],
       "noteFlags": {
-        "new": true,
+        "new": false,
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -20868,14 +21224,14 @@
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "dateJoinKingdom": "2026-05-07",
-      "notes": [
-        "new"
-      ],
+      "notes": [],
       "noteFlags": {
-        "new": true,
+        "new": false,
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -20947,14 +21303,14 @@
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "dateJoinKingdom": "2026-05-07",
-      "notes": [
-        "new"
-      ],
+      "notes": [],
       "noteFlags": {
-        "new": true,
+        "new": false,
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -21026,14 +21382,14 @@
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "dateJoinKingdom": "2026-05-07",
-      "notes": [
-        "new"
-      ],
+      "notes": [],
       "noteFlags": {
-        "new": true,
+        "new": false,
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -21111,6 +21467,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -21182,14 +21540,14 @@
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "dateJoinKingdom": "2026-05-07",
-      "notes": [
-        "new"
-      ],
+      "notes": [],
       "noteFlags": {
-        "new": true,
+        "new": false,
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -21261,14 +21619,14 @@
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "dateJoinKingdom": "2026-05-07",
-      "notes": [
-        "new"
-      ],
+      "notes": [],
       "noteFlags": {
-        "new": true,
+        "new": false,
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -21340,14 +21698,14 @@
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "dateJoinKingdom": "2026-05-07",
-      "notes": [
-        "new"
-      ],
+      "notes": [],
       "noteFlags": {
-        "new": true,
+        "new": false,
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -21419,14 +21777,14 @@
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "dateJoinKingdom": "2026-05-07",
-      "notes": [
-        "new"
-      ],
+      "notes": [],
       "noteFlags": {
-        "new": true,
+        "new": false,
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -21498,14 +21856,14 @@
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "dateJoinKingdom": "2026-05-07",
-      "notes": [
-        "new"
-      ],
+      "notes": [],
       "noteFlags": {
-        "new": true,
+        "new": false,
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -21583,6 +21941,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -21654,14 +22014,14 @@
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "dateJoinKingdom": "2026-05-07",
-      "notes": [
-        "new"
-      ],
+      "notes": [],
       "noteFlags": {
-        "new": true,
+        "new": false,
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -21739,6 +22099,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -21816,6 +22178,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -21893,6 +22257,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -21964,14 +22330,14 @@
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "dateJoinKingdom": "2026-05-07",
-      "notes": [
-        "new"
-      ],
+      "notes": [],
       "noteFlags": {
-        "new": true,
+        "new": false,
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -22049,6 +22415,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -22120,14 +22488,14 @@
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "dateJoinKingdom": "2026-05-07",
-      "notes": [
-        "new"
-      ],
+      "notes": [],
       "noteFlags": {
-        "new": true,
+        "new": false,
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -22205,6 +22573,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -22282,6 +22652,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -22353,14 +22725,14 @@
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "dateJoinKingdom": "2026-05-07",
-      "notes": [
-        "new"
-      ],
+      "notes": [],
       "noteFlags": {
-        "new": true,
+        "new": false,
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -22432,14 +22804,14 @@
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "dateJoinKingdom": "2026-05-07",
-      "notes": [
-        "new"
-      ],
+      "notes": [],
       "noteFlags": {
-        "new": true,
+        "new": false,
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -22511,14 +22883,14 @@
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "dateJoinKingdom": "2026-05-07",
-      "notes": [
-        "new"
-      ],
+      "notes": [],
       "noteFlags": {
-        "new": true,
+        "new": false,
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -22596,6 +22968,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -22673,6 +23047,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -22750,6 +23126,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -22821,14 +23199,14 @@
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "dateJoinKingdom": "2026-05-07",
-      "notes": [
-        "new"
-      ],
+      "notes": [],
       "noteFlags": {
-        "new": true,
+        "new": false,
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -22906,6 +23284,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -22983,6 +23363,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -23060,6 +23442,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -23137,6 +23521,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -23208,14 +23594,14 @@
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "dateJoinKingdom": "2026-05-07",
-      "notes": [
-        "new"
-      ],
+      "notes": [],
       "noteFlags": {
-        "new": true,
+        "new": false,
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -23293,6 +23679,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -23370,6 +23758,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -23447,6 +23837,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -23524,6 +23916,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -23601,6 +23995,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -23678,6 +24074,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -23749,14 +24147,14 @@
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "dateJoinKingdom": "2026-05-07",
-      "notes": [
-        "new"
-      ],
+      "notes": [],
       "noteFlags": {
-        "new": true,
+        "new": false,
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -23828,14 +24226,14 @@
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "dateJoinKingdom": "2026-05-07",
-      "notes": [
-        "new"
-      ],
+      "notes": [],
       "noteFlags": {
-        "new": true,
+        "new": false,
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -23913,6 +24311,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -23990,6 +24390,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -24067,6 +24469,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -24144,6 +24548,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -24215,14 +24621,14 @@
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "dateJoinKingdom": "2026-05-07",
-      "notes": [
-        "new"
-      ],
+      "notes": [],
       "noteFlags": {
-        "new": true,
+        "new": false,
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -24300,6 +24706,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -24377,6 +24785,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -24448,14 +24858,14 @@
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "dateJoinKingdom": "2026-05-07",
-      "notes": [
-        "new"
-      ],
+      "notes": [],
       "noteFlags": {
-        "new": true,
+        "new": false,
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -24533,6 +24943,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -24604,14 +25016,14 @@
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "dateJoinKingdom": "2026-05-07",
-      "notes": [
-        "new"
-      ],
+      "notes": [],
       "noteFlags": {
-        "new": true,
+        "new": false,
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -24683,14 +25095,14 @@
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "dateJoinKingdom": "2026-05-07",
-      "notes": [
-        "new"
-      ],
+      "notes": [],
       "noteFlags": {
-        "new": true,
+        "new": false,
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -24762,14 +25174,14 @@
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "dateJoinKingdom": "2026-05-07",
-      "notes": [
-        "new"
-      ],
+      "notes": [],
       "noteFlags": {
-        "new": true,
+        "new": false,
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -24841,14 +25253,14 @@
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "dateJoinKingdom": "2026-05-07",
-      "notes": [
-        "new"
-      ],
+      "notes": [],
       "noteFlags": {
-        "new": true,
+        "new": false,
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -24920,14 +25332,14 @@
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "dateJoinKingdom": "2026-05-07",
-      "notes": [
-        "new"
-      ],
+      "notes": [],
       "noteFlags": {
-        "new": true,
+        "new": false,
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -24999,14 +25411,14 @@
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "dateJoinKingdom": "2026-05-07",
-      "notes": [
-        "new"
-      ],
+      "notes": [],
       "noteFlags": {
-        "new": true,
+        "new": false,
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -25078,14 +25490,14 @@
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "dateJoinKingdom": "2026-05-07",
-      "notes": [
-        "new"
-      ],
+      "notes": [],
       "noteFlags": {
-        "new": true,
+        "new": false,
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -25163,6 +25575,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -25240,6 +25654,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -25317,6 +25733,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -25379,6 +25797,85 @@
     },
     {
       "index": 327,
+      "id": "19540737",
+      "name": "ONLY MEZO",
+      "alliance": "[]",
+      "troopTier": "T4",
+      "playerType": "farmer",
+      "historicalPower": 5242321,
+      "serverStatus": "LV2",
+      "serverStatusColor": "green",
+      "dateJoinKingdom": "2026-05-07",
+      "notes": [],
+      "noteFlags": {
+        "new": false,
+        "left": false,
+        "afk": false
+      },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
+      "active": true,
+      "weeks": {
+        "W0": {
+          "week": 0,
+          "available": true,
+          "merits": 0,
+          "meritPowerPercentage": null,
+          "currentPower": 5242321,
+          "rank": null
+        },
+        "W1": {
+          "week": 1,
+          "available": false,
+          "merits": null,
+          "meritPowerPercentage": null,
+          "currentPower": null,
+          "rank": null
+        },
+        "W2": {
+          "week": 2,
+          "available": false,
+          "merits": null,
+          "meritPowerPercentage": null,
+          "currentPower": null,
+          "rank": null
+        },
+        "W3": {
+          "week": 3,
+          "available": false,
+          "merits": null,
+          "meritPowerPercentage": null,
+          "currentPower": null,
+          "rank": null
+        },
+        "W4": {
+          "week": 4,
+          "available": false,
+          "merits": null,
+          "meritPowerPercentage": null,
+          "currentPower": null,
+          "rank": null
+        },
+        "W5": {
+          "week": 5,
+          "available": false,
+          "merits": null,
+          "meritPowerPercentage": null,
+          "currentPower": null,
+          "rank": null
+        },
+        "W6": {
+          "week": 6,
+          "available": false,
+          "merits": null,
+          "meritPowerPercentage": null,
+          "currentPower": null,
+          "rank": null
+        }
+      }
+    },
+    {
+      "index": 328,
       "id": "5277208",
       "name": "BaKaTheFarmer",
       "alliance": "[]",
@@ -25388,14 +25885,14 @@
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "dateJoinKingdom": "2026-05-07",
-      "notes": [
-        "new"
-      ],
+      "notes": [],
       "noteFlags": {
-        "new": true,
+        "new": false,
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -25457,7 +25954,7 @@
       }
     },
     {
-      "index": 328,
+      "index": 329,
       "id": "19533421",
       "name": "Gấu79",
       "alliance": "[]",
@@ -25473,6 +25970,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -25534,7 +26033,7 @@
       }
     },
     {
-      "index": 329,
+      "index": 330,
       "id": "17108398",
       "name": "Baby Wagpo",
       "alliance": "[FoR]Farmers of Rebels",
@@ -25544,14 +26043,14 @@
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "dateJoinKingdom": "2026-05-07",
-      "notes": [
-        "new"
-      ],
+      "notes": [],
       "noteFlags": {
-        "new": true,
+        "new": false,
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -25613,7 +26112,7 @@
       }
     },
     {
-      "index": 330,
+      "index": 331,
       "id": "19008632",
       "name": "Zoro fam 20",
       "alliance": "[FoR]Farmers of Rebels",
@@ -25623,14 +26122,14 @@
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "dateJoinKingdom": "2026-05-07",
-      "notes": [
-        "new"
-      ],
+      "notes": [],
       "noteFlags": {
-        "new": true,
+        "new": false,
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -25692,7 +26191,7 @@
       }
     },
     {
-      "index": 331,
+      "index": 332,
       "id": "19537576",
       "name": "ClearwaterFalls",
       "alliance": "[]",
@@ -25708,6 +26207,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -25769,7 +26270,7 @@
       }
     },
     {
-      "index": 332,
+      "index": 333,
       "id": "13425448",
       "name": "kayn farm2",
       "alliance": "[FoR]Farmers of Rebels",
@@ -25785,6 +26286,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -25846,7 +26349,7 @@
       }
     },
     {
-      "index": 333,
+      "index": 334,
       "id": "19544021",
       "name": "Bearheart",
       "alliance": "[]",
@@ -25862,6 +26365,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -25923,7 +26428,7 @@
       }
     },
     {
-      "index": 334,
+      "index": 335,
       "id": "19542032",
       "name": "KingKettle",
       "alliance": "[]",
@@ -25933,14 +26438,14 @@
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "dateJoinKingdom": "2026-05-07",
-      "notes": [
-        "new"
-      ],
+      "notes": [],
       "noteFlags": {
-        "new": true,
+        "new": false,
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -26002,7 +26507,7 @@
       }
     },
     {
-      "index": 335,
+      "index": 336,
       "id": "17492956",
       "name": "str4ng3r",
       "alliance": "[-UG-]THE FREE FOLKS",
@@ -26018,6 +26523,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -26079,7 +26586,7 @@
       }
     },
     {
-      "index": 336,
+      "index": 337,
       "id": "12591120",
       "name": "Zoro 6",
       "alliance": "[FoR]Farmers of Rebels",
@@ -26089,14 +26596,14 @@
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "dateJoinKingdom": "2026-05-07",
-      "notes": [
-        "new"
-      ],
+      "notes": [],
       "noteFlags": {
-        "new": true,
+        "new": false,
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -26158,7 +26665,7 @@
       }
     },
     {
-      "index": 337,
+      "index": 338,
       "id": "13805957",
       "name": "kayn farm3",
       "alliance": "[FoR]Farmers of Rebels",
@@ -26174,6 +26681,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -26235,7 +26744,7 @@
       }
     },
     {
-      "index": 338,
+      "index": 339,
       "id": "1149174",
       "name": "DiploWinBastards",
       "alliance": "[FoR]Farmers of Rebels",
@@ -26245,14 +26754,14 @@
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "dateJoinKingdom": "2026-05-07",
-      "notes": [
-        "new"
-      ],
+      "notes": [],
       "noteFlags": {
-        "new": true,
+        "new": false,
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -26314,7 +26823,7 @@
       }
     },
     {
-      "index": 339,
+      "index": 340,
       "id": "11019333",
       "name": "Zoro fam 2 gỗ",
       "alliance": "[FoR]Farmers of Rebels",
@@ -26324,14 +26833,14 @@
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "dateJoinKingdom": "2026-05-07",
-      "notes": [
-        "new"
-      ],
+      "notes": [],
       "noteFlags": {
-        "new": true,
+        "new": false,
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -26393,7 +26902,7 @@
       }
     },
     {
-      "index": 340,
+      "index": 341,
       "id": "7178737",
       "name": "A BitchCalledCunt",
       "alliance": "[FoR]Farmers of Rebels",
@@ -26403,14 +26912,14 @@
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "dateJoinKingdom": "2026-05-07",
-      "notes": [
-        "new"
-      ],
+      "notes": [],
       "noteFlags": {
-        "new": true,
+        "new": false,
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -26472,7 +26981,7 @@
       }
     },
     {
-      "index": 341,
+      "index": 342,
       "id": "19535479",
       "name": "AndoZor",
       "alliance": "[]",
@@ -26488,6 +26997,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -26549,7 +27060,7 @@
       }
     },
     {
-      "index": 342,
+      "index": 343,
       "id": "17437877",
       "name": "Baby WagPo",
       "alliance": "[]",
@@ -26559,14 +27070,14 @@
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "dateJoinKingdom": "2026-05-07",
-      "notes": [
-        "new"
-      ],
+      "notes": [],
       "noteFlags": {
-        "new": true,
+        "new": false,
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -26628,7 +27139,7 @@
       }
     },
     {
-      "index": 343,
+      "index": 344,
       "id": "19542077",
       "name": "AkuKami",
       "alliance": "[]",
@@ -26644,6 +27155,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -26705,7 +27218,7 @@
       }
     },
     {
-      "index": 344,
+      "index": 345,
       "id": "19543834",
       "name": "QueenSavage14",
       "alliance": "[]",
@@ -26721,6 +27234,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -26782,7 +27297,7 @@
       }
     },
     {
-      "index": 345,
+      "index": 346,
       "id": "595145",
       "name": "cindewendyfarm2",
       "alliance": "[FoR]Farmers of Rebels",
@@ -26792,14 +27307,14 @@
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "dateJoinKingdom": "2026-05-07",
-      "notes": [
-        "new"
-      ],
+      "notes": [],
       "noteFlags": {
-        "new": true,
+        "new": false,
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -26861,7 +27376,7 @@
       }
     },
     {
-      "index": 346,
+      "index": 347,
       "id": "19534630",
       "name": "불새",
       "alliance": "[]",
@@ -26877,6 +27392,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -26938,7 +27455,7 @@
       }
     },
     {
-      "index": 347,
+      "index": 348,
       "id": "19533388",
       "name": "Thunder Flag",
       "alliance": "[bpr]COD FantasticS",
@@ -26954,6 +27471,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -27015,7 +27534,7 @@
       }
     },
     {
-      "index": 348,
+      "index": 349,
       "id": "17417763",
       "name": "kayn farm4",
       "alliance": "[FoR]Farmers of Rebels",
@@ -27031,6 +27550,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -27092,7 +27613,7 @@
       }
     },
     {
-      "index": 349,
+      "index": 350,
       "id": "19200650",
       "name": "BaKasMrnngWood",
       "alliance": "[]",
@@ -27102,14 +27623,14 @@
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "dateJoinKingdom": "2026-05-07",
-      "notes": [
-        "new"
-      ],
+      "notes": [],
       "noteFlags": {
-        "new": true,
+        "new": false,
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -27171,7 +27692,7 @@
       }
     },
     {
-      "index": 350,
+      "index": 351,
       "id": "13290326",
       "name": "Zoro 15",
       "alliance": "[FoR]Farmers of Rebels",
@@ -27181,14 +27702,14 @@
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "dateJoinKingdom": "2026-05-07",
-      "notes": [
-        "new"
-      ],
+      "notes": [],
       "noteFlags": {
-        "new": true,
+        "new": false,
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -27250,7 +27771,7 @@
       }
     },
     {
-      "index": 351,
+      "index": 352,
       "id": "24724670",
       "name": "rieta farm",
       "alliance": "[FoR]Farmers of Rebels",
@@ -27260,14 +27781,14 @@
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "dateJoinKingdom": "2026-05-07",
-      "notes": [
-        "new"
-      ],
+      "notes": [],
       "noteFlags": {
-        "new": true,
+        "new": false,
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -27329,7 +27850,7 @@
       }
     },
     {
-      "index": 352,
+      "index": 353,
       "id": "21824214",
       "name": "UDAjo farm",
       "alliance": "[FoR]Farmers of Rebels",
@@ -27339,14 +27860,14 @@
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "dateJoinKingdom": "2026-05-07",
-      "notes": [
-        "new"
-      ],
+      "notes": [],
       "noteFlags": {
-        "new": true,
+        "new": false,
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -27408,7 +27929,7 @@
       }
     },
     {
-      "index": 353,
+      "index": 354,
       "id": "10809587",
       "name": "Zoro fam 4 gỗ",
       "alliance": "[FoR]Farmers of Rebels",
@@ -27418,14 +27939,14 @@
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "dateJoinKingdom": "2026-05-07",
-      "notes": [
-        "new"
-      ],
+      "notes": [],
       "noteFlags": {
-        "new": true,
+        "new": false,
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -27487,7 +28008,7 @@
       }
     },
     {
-      "index": 354,
+      "index": 355,
       "id": "14534354",
       "name": "Zoro fam 3 đá",
       "alliance": "[FoR]Farmers of Rebels",
@@ -27497,14 +28018,14 @@
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "dateJoinKingdom": "2026-05-07",
-      "notes": [
-        "new"
-      ],
+      "notes": [],
       "noteFlags": {
-        "new": true,
+        "new": false,
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -27566,7 +28087,7 @@
       }
     },
     {
-      "index": 355,
+      "index": 356,
       "id": "12369297",
       "name": "Fam việt nam sl2",
       "alliance": "[FoR]Farmers of Rebels",
@@ -27582,6 +28103,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -27643,7 +28166,7 @@
       }
     },
     {
-      "index": 356,
+      "index": 357,
       "id": "15440391",
       "name": "zoro fa",
       "alliance": "[FoR]Farmers of Rebels",
@@ -27653,14 +28176,14 @@
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "dateJoinKingdom": "2026-05-07",
-      "notes": [
-        "new"
-      ],
+      "notes": [],
       "noteFlags": {
-        "new": true,
+        "new": false,
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -27722,7 +28245,7 @@
       }
     },
     {
-      "index": 357,
+      "index": 358,
       "id": "15416300",
       "name": "Farm Alicja24",
       "alliance": "[FoR]Farmers of Rebels",
@@ -27738,6 +28261,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -27799,7 +28324,7 @@
       }
     },
     {
-      "index": 358,
+      "index": 359,
       "id": "14358203",
       "name": "Zoro fam 1 vàng",
       "alliance": "[FoR]Farmers of Rebels",
@@ -27809,14 +28334,14 @@
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "dateJoinKingdom": "2026-05-07",
-      "notes": [
-        "new"
-      ],
+      "notes": [],
       "noteFlags": {
-        "new": true,
+        "new": false,
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -27878,7 +28403,7 @@
       }
     },
     {
-      "index": 359,
+      "index": 360,
       "id": "15317935",
       "name": "OneMoreBaka",
       "alliance": "[]",
@@ -27888,14 +28413,14 @@
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "dateJoinKingdom": "2026-05-07",
-      "notes": [
-        "new"
-      ],
+      "notes": [],
       "noteFlags": {
-        "new": true,
+        "new": false,
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -27957,7 +28482,7 @@
       }
     },
     {
-      "index": 360,
+      "index": 361,
       "id": "19541349",
       "name": "Trapnast",
       "alliance": "[]",
@@ -27973,6 +28498,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -28034,7 +28561,7 @@
       }
     },
     {
-      "index": 361,
+      "index": 362,
       "id": "24620652",
       "name": "ᴿᵉᶠBootsFarm",
       "alliance": "[FoR]Farmers of Rebels",
@@ -28050,6 +28577,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -28111,7 +28640,7 @@
       }
     },
     {
-      "index": 362,
+      "index": 363,
       "id": "19226000",
       "name": "BaKasGoldenNugs",
       "alliance": "[]",
@@ -28121,14 +28650,14 @@
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "dateJoinKingdom": "2026-05-07",
-      "notes": [
-        "new"
-      ],
+      "notes": [],
       "noteFlags": {
-        "new": true,
+        "new": false,
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -28190,7 +28719,7 @@
       }
     },
     {
-      "index": 363,
+      "index": 364,
       "id": "19225345",
       "name": "BaKaTheStoner",
       "alliance": "[]",
@@ -28200,14 +28729,14 @@
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "dateJoinKingdom": "2026-05-07",
-      "notes": [
-        "new"
-      ],
+      "notes": [],
       "noteFlags": {
-        "new": true,
+        "new": false,
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -28269,7 +28798,7 @@
       }
     },
     {
-      "index": 364,
+      "index": 365,
       "id": "20638202",
       "name": "F kokonatorlv 373",
       "alliance": "[FoR]Farmers of Rebels",
@@ -28285,6 +28814,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -28346,7 +28877,7 @@
       }
     },
     {
-      "index": 365,
+      "index": 366,
       "id": "19543178",
       "name": "true pknight",
       "alliance": "[-UG-]THE FREE FOLKS",
@@ -28356,14 +28887,14 @@
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "dateJoinKingdom": "2026-05-07",
-      "notes": [
-        "new"
-      ],
+      "notes": [],
       "noteFlags": {
-        "new": true,
+        "new": false,
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -28425,7 +28956,7 @@
       }
     },
     {
-      "index": 366,
+      "index": 367,
       "id": "24681818",
       "name": "Jaytee Farm",
       "alliance": "[FoR]Farmers of Rebels",
@@ -28441,6 +28972,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -28502,7 +29035,7 @@
       }
     },
     {
-      "index": 367,
+      "index": 368,
       "id": "19596553",
       "name": "Duskrune",
       "alliance": "[]",
@@ -28518,6 +29051,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -28579,7 +29114,7 @@
       }
     },
     {
-      "index": 368,
+      "index": 369,
       "id": "19537115",
       "name": "Celyrith",
       "alliance": "[]",
@@ -28595,6 +29130,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -28656,7 +29193,7 @@
       }
     },
     {
-      "index": 369,
+      "index": 370,
       "id": "11179556",
       "name": "Zoro fam 6 đá",
       "alliance": "[FoR]Farmers of Rebels",
@@ -28666,14 +29203,14 @@
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "dateJoinKingdom": "2026-05-07",
-      "notes": [
-        "new"
-      ],
+      "notes": [],
       "noteFlags": {
-        "new": true,
+        "new": false,
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -28735,7 +29272,7 @@
       }
     },
     {
-      "index": 370,
+      "index": 371,
       "id": "24620043",
       "name": "MiniZisu",
       "alliance": "[FoR]Farmers of Rebels",
@@ -28751,6 +29288,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -28812,7 +29351,7 @@
       }
     },
     {
-      "index": 371,
+      "index": 372,
       "id": "11013390",
       "name": "Zoroo 13",
       "alliance": "[FoR]Farmers of Rebels",
@@ -28822,14 +29361,14 @@
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "dateJoinKingdom": "2026-05-07",
-      "notes": [
-        "new"
-      ],
+      "notes": [],
       "noteFlags": {
-        "new": true,
+        "new": false,
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -28891,7 +29430,7 @@
       }
     },
     {
-      "index": 372,
+      "index": 373,
       "id": "13023357",
       "name": "zoro 10",
       "alliance": "[FoR]Farmers of Rebels",
@@ -28901,14 +29440,14 @@
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "dateJoinKingdom": "2026-05-07",
-      "notes": [
-        "new"
-      ],
+      "notes": [],
       "noteFlags": {
-        "new": true,
+        "new": false,
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -28970,7 +29509,7 @@
       }
     },
     {
-      "index": 373,
+      "index": 374,
       "id": "19580315",
       "name": "farmbbx",
       "alliance": "[]",
@@ -28986,6 +29525,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -29047,7 +29588,7 @@
       }
     },
     {
-      "index": 374,
+      "index": 375,
       "id": "13836885",
       "name": "ᴿᵉᶠ BEAST farm 3",
       "alliance": "[FoR]Farmers of Rebels",
@@ -29057,14 +29598,14 @@
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "dateJoinKingdom": "2026-05-07",
-      "notes": [
-        "new"
-      ],
+      "notes": [],
       "noteFlags": {
-        "new": true,
+        "new": false,
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -29126,7 +29667,7 @@
       }
     },
     {
-      "index": 375,
+      "index": 376,
       "id": "19539762",
       "name": "Crassiuss",
       "alliance": "[]",
@@ -29142,6 +29683,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -29203,7 +29746,7 @@
       }
     },
     {
-      "index": 376,
+      "index": 377,
       "id": "19549203",
       "name": "Lord19549203",
       "alliance": "[]",
@@ -29213,14 +29756,14 @@
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "dateJoinKingdom": "2026-05-07",
-      "notes": [
-        "new"
-      ],
+      "notes": [],
       "noteFlags": {
-        "new": true,
+        "new": false,
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -29282,7 +29825,7 @@
       }
     },
     {
-      "index": 377,
+      "index": 378,
       "id": "16245962",
       "name": "BebekBuntung",
       "alliance": "[FoR]Farmers of Rebels",
@@ -29298,6 +29841,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -29359,7 +29904,86 @@
       }
     },
     {
-      "index": 378,
+      "index": 379,
+      "id": "19537230",
+      "name": "파닥파닥",
+      "alliance": "[]",
+      "troopTier": "T4",
+      "playerType": "farmer",
+      "historicalPower": 1546565,
+      "serverStatus": "LV2",
+      "serverStatusColor": "green",
+      "dateJoinKingdom": "2026-05-07",
+      "notes": [],
+      "noteFlags": {
+        "new": false,
+        "left": false,
+        "afk": false
+      },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
+      "active": true,
+      "weeks": {
+        "W0": {
+          "week": 0,
+          "available": true,
+          "merits": 0,
+          "meritPowerPercentage": null,
+          "currentPower": 1546565,
+          "rank": null
+        },
+        "W1": {
+          "week": 1,
+          "available": false,
+          "merits": null,
+          "meritPowerPercentage": null,
+          "currentPower": null,
+          "rank": null
+        },
+        "W2": {
+          "week": 2,
+          "available": false,
+          "merits": null,
+          "meritPowerPercentage": null,
+          "currentPower": null,
+          "rank": null
+        },
+        "W3": {
+          "week": 3,
+          "available": false,
+          "merits": null,
+          "meritPowerPercentage": null,
+          "currentPower": null,
+          "rank": null
+        },
+        "W4": {
+          "week": 4,
+          "available": false,
+          "merits": null,
+          "meritPowerPercentage": null,
+          "currentPower": null,
+          "rank": null
+        },
+        "W5": {
+          "week": 5,
+          "available": false,
+          "merits": null,
+          "meritPowerPercentage": null,
+          "currentPower": null,
+          "rank": null
+        },
+        "W6": {
+          "week": 6,
+          "available": false,
+          "merits": null,
+          "meritPowerPercentage": null,
+          "currentPower": null,
+          "rank": null
+        }
+      }
+    },
+    {
+      "index": 380,
       "id": "19545145",
       "name": "Numero 17",
       "alliance": "[]",
@@ -29375,6 +29999,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -29436,7 +30062,7 @@
       }
     },
     {
-      "index": 379,
+      "index": 381,
       "id": "19545331",
       "name": "4eve",
       "alliance": "[]",
@@ -29452,6 +30078,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -29513,7 +30141,7 @@
       }
     },
     {
-      "index": 380,
+      "index": 382,
       "id": "24650259",
       "name": "Farma z",
       "alliance": "[FoR]Farmers of Rebels",
@@ -29523,14 +30151,14 @@
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "dateJoinKingdom": "2026-05-07",
-      "notes": [
-        "new"
-      ],
+      "notes": [],
       "noteFlags": {
-        "new": true,
+        "new": false,
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -29592,7 +30220,7 @@
       }
     },
     {
-      "index": 381,
+      "index": 383,
       "id": "19547741",
       "name": "farma z",
       "alliance": "[FoR]Farmers of Rebels",
@@ -29602,14 +30230,14 @@
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "dateJoinKingdom": "2026-05-07",
-      "notes": [
-        "new"
-      ],
+      "notes": [],
       "noteFlags": {
-        "new": true,
+        "new": false,
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -29671,7 +30299,7 @@
       }
     },
     {
-      "index": 382,
+      "index": 384,
       "id": "20954425",
       "name": "Jack2399",
       "alliance": "[TNT~]Beasil",
@@ -29687,6 +30315,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -29748,7 +30378,7 @@
       }
     },
     {
-      "index": 383,
+      "index": 385,
       "id": "19546063",
       "name": "SEZGİN",
       "alliance": "[abz]barbarianzzz",
@@ -29758,14 +30388,14 @@
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "dateJoinKingdom": "2026-05-07",
-      "notes": [
-        "new"
-      ],
+      "notes": [],
       "noteFlags": {
-        "new": true,
+        "new": false,
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -29827,7 +30457,7 @@
       }
     },
     {
-      "index": 384,
+      "index": 386,
       "id": "19549287",
       "name": "Fast1",
       "alliance": "[]",
@@ -29843,6 +30473,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -29904,7 +30536,7 @@
       }
     },
     {
-      "index": 385,
+      "index": 387,
       "id": "19544461",
       "name": "Thoale",
       "alliance": "['DW']Dragon Wrath",
@@ -29920,6 +30552,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -29981,7 +30615,165 @@
       }
     },
     {
-      "index": 386,
+      "index": 388,
+      "id": "19537709",
+      "name": "PotatoesSs",
+      "alliance": "[DZR]DZRP Once Again",
+      "troopTier": "T4",
+      "playerType": "farmer",
+      "historicalPower": 993865,
+      "serverStatus": "LV2",
+      "serverStatusColor": "green",
+      "dateJoinKingdom": "2026-05-07",
+      "notes": [],
+      "noteFlags": {
+        "new": false,
+        "left": false,
+        "afk": false
+      },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
+      "active": true,
+      "weeks": {
+        "W0": {
+          "week": 0,
+          "available": true,
+          "merits": 0,
+          "meritPowerPercentage": null,
+          "currentPower": 993865,
+          "rank": null
+        },
+        "W1": {
+          "week": 1,
+          "available": false,
+          "merits": null,
+          "meritPowerPercentage": null,
+          "currentPower": null,
+          "rank": null
+        },
+        "W2": {
+          "week": 2,
+          "available": false,
+          "merits": null,
+          "meritPowerPercentage": null,
+          "currentPower": null,
+          "rank": null
+        },
+        "W3": {
+          "week": 3,
+          "available": false,
+          "merits": null,
+          "meritPowerPercentage": null,
+          "currentPower": null,
+          "rank": null
+        },
+        "W4": {
+          "week": 4,
+          "available": false,
+          "merits": null,
+          "meritPowerPercentage": null,
+          "currentPower": null,
+          "rank": null
+        },
+        "W5": {
+          "week": 5,
+          "available": false,
+          "merits": null,
+          "meritPowerPercentage": null,
+          "currentPower": null,
+          "rank": null
+        },
+        "W6": {
+          "week": 6,
+          "available": false,
+          "merits": null,
+          "meritPowerPercentage": null,
+          "currentPower": null,
+          "rank": null
+        }
+      }
+    },
+    {
+      "index": 389,
+      "id": "19553805",
+      "name": "Лорд19553805",
+      "alliance": "[FoR]Farmers of Rebels",
+      "troopTier": "T4",
+      "playerType": "farmer",
+      "historicalPower": 837502,
+      "serverStatus": "LV2",
+      "serverStatusColor": "green",
+      "dateJoinKingdom": "2026-05-07",
+      "notes": [],
+      "noteFlags": {
+        "new": false,
+        "left": false,
+        "afk": false
+      },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
+      "active": true,
+      "weeks": {
+        "W0": {
+          "week": 0,
+          "available": true,
+          "merits": 0,
+          "meritPowerPercentage": null,
+          "currentPower": 837502,
+          "rank": null
+        },
+        "W1": {
+          "week": 1,
+          "available": false,
+          "merits": null,
+          "meritPowerPercentage": null,
+          "currentPower": null,
+          "rank": null
+        },
+        "W2": {
+          "week": 2,
+          "available": false,
+          "merits": null,
+          "meritPowerPercentage": null,
+          "currentPower": null,
+          "rank": null
+        },
+        "W3": {
+          "week": 3,
+          "available": false,
+          "merits": null,
+          "meritPowerPercentage": null,
+          "currentPower": null,
+          "rank": null
+        },
+        "W4": {
+          "week": 4,
+          "available": false,
+          "merits": null,
+          "meritPowerPercentage": null,
+          "currentPower": null,
+          "rank": null
+        },
+        "W5": {
+          "week": 5,
+          "available": false,
+          "merits": null,
+          "meritPowerPercentage": null,
+          "currentPower": null,
+          "rank": null
+        },
+        "W6": {
+          "week": 6,
+          "available": false,
+          "merits": null,
+          "meritPowerPercentage": null,
+          "currentPower": null,
+          "rank": null
+        }
+      }
+    },
+    {
+      "index": 390,
       "id": "24776295",
       "name": "Dpapix3",
       "alliance": "[FoR]Farmers of Rebels",
@@ -29991,14 +30783,14 @@
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "dateJoinKingdom": "2026-05-07",
-      "notes": [
-        "new"
-      ],
+      "notes": [],
       "noteFlags": {
-        "new": true,
+        "new": false,
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -30060,7 +30852,7 @@
       }
     },
     {
-      "index": 387,
+      "index": 391,
       "id": "19555306",
       "name": "LA GRANDE",
       "alliance": "['DW']Dragon Wrath",
@@ -30076,6 +30868,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -30137,7 +30931,7 @@
       }
     },
     {
-      "index": 388,
+      "index": 392,
       "id": "19570660",
       "name": "Lord19570660",
       "alliance": "[FLKE]Flook Ewe",
@@ -30153,6 +30947,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -30214,7 +31010,7 @@
       }
     },
     {
-      "index": 389,
+      "index": 393,
       "id": "24852426",
       "name": "kapten farm 1",
       "alliance": "[FoR]Farmers of Rebels",
@@ -30224,14 +31020,14 @@
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "dateJoinKingdom": "2026-05-07",
-      "notes": [
-        "new"
-      ],
+      "notes": [],
       "noteFlags": {
-        "new": true,
+        "new": false,
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -30293,7 +31089,7 @@
       }
     },
     {
-      "index": 390,
+      "index": 394,
       "id": "20474102",
       "name": "JunhuangLFF",
       "alliance": "[]",
@@ -30309,6 +31105,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -30370,7 +31168,7 @@
       }
     },
     {
-      "index": 391,
+      "index": 395,
       "id": "20473793",
       "name": "Xielei878FF",
       "alliance": "[AYyy]Apt apt",
@@ -30386,6 +31184,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -30447,7 +31247,7 @@
       }
     },
     {
-      "index": 392,
+      "index": 396,
       "id": "19550426",
       "name": "Welkins",
       "alliance": "['DW']Dragon Wrath",
@@ -30463,6 +31263,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -30524,7 +31326,7 @@
       }
     },
     {
-      "index": 393,
+      "index": 397,
       "id": "20511834",
       "name": "Songxie812FF",
       "alliance": "[soFR]soFrance",
@@ -30540,6 +31342,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -30601,7 +31405,86 @@
       }
     },
     {
-      "index": 394,
+      "index": 398,
+      "id": "19533258",
+      "name": "Ghệ ᴀ ғᴀᴄᴇ 13",
+      "alliance": "[DYRY]LLOUU",
+      "troopTier": "T4",
+      "playerType": "farmer",
+      "historicalPower": 554278,
+      "serverStatus": "LV2",
+      "serverStatusColor": "green",
+      "dateJoinKingdom": "2026-05-07",
+      "notes": [],
+      "noteFlags": {
+        "new": false,
+        "left": false,
+        "afk": false
+      },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
+      "active": true,
+      "weeks": {
+        "W0": {
+          "week": 0,
+          "available": true,
+          "merits": 0,
+          "meritPowerPercentage": null,
+          "currentPower": 554278,
+          "rank": null
+        },
+        "W1": {
+          "week": 1,
+          "available": false,
+          "merits": null,
+          "meritPowerPercentage": null,
+          "currentPower": null,
+          "rank": null
+        },
+        "W2": {
+          "week": 2,
+          "available": false,
+          "merits": null,
+          "meritPowerPercentage": null,
+          "currentPower": null,
+          "rank": null
+        },
+        "W3": {
+          "week": 3,
+          "available": false,
+          "merits": null,
+          "meritPowerPercentage": null,
+          "currentPower": null,
+          "rank": null
+        },
+        "W4": {
+          "week": 4,
+          "available": false,
+          "merits": null,
+          "meritPowerPercentage": null,
+          "currentPower": null,
+          "rank": null
+        },
+        "W5": {
+          "week": 5,
+          "available": false,
+          "merits": null,
+          "meritPowerPercentage": null,
+          "currentPower": null,
+          "rank": null
+        },
+        "W6": {
+          "week": 6,
+          "available": false,
+          "merits": null,
+          "meritPowerPercentage": null,
+          "currentPower": null,
+          "rank": null
+        }
+      }
+    },
+    {
+      "index": 399,
       "id": "20512275",
       "name": "JunxiaWJDHFF",
       "alliance": "[soFR]soFrance",
@@ -30617,6 +31500,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -30678,7 +31563,7 @@
       }
     },
     {
-      "index": 395,
+      "index": 400,
       "id": "20473846",
       "name": "Haoxue234FF",
       "alliance": "[mytk]geek Legends",
@@ -30694,6 +31579,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -30755,7 +31642,7 @@
       }
     },
     {
-      "index": 396,
+      "index": 401,
       "id": "19548982",
       "name": "Lord19548982",
       "alliance": "[]",
@@ -30771,6 +31658,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -30832,7 +31721,7 @@
       }
     },
     {
-      "index": 397,
+      "index": 402,
       "id": "20473805",
       "name": "A9Z7T9JHW9EFF",
       "alliance": "[]",
@@ -30848,6 +31737,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -30909,7 +31800,7 @@
       }
     },
     {
-      "index": 398,
+      "index": 403,
       "id": "20539058",
       "name": "SongleiFKQOFF",
       "alliance": "[soFR]soFrance",
@@ -30925,6 +31816,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -30986,7 +31879,7 @@
       }
     },
     {
-      "index": 399,
+      "index": 404,
       "id": "20538330",
       "name": "PAEXN2FF",
       "alliance": "[soFR]soFrance",
@@ -31002,6 +31895,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -31063,7 +31958,7 @@
       }
     },
     {
-      "index": 400,
+      "index": 405,
       "id": "19539483",
       "name": "Lord19539483",
       "alliance": "[]",
@@ -31079,6 +31974,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -31140,7 +32037,7 @@
       }
     },
     {
-      "index": 401,
+      "index": 406,
       "id": "20497264",
       "name": "FengzhengURFF",
       "alliance": "[Ice_]INDO CELESTIAL",
@@ -31156,6 +32053,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -31217,7 +32116,7 @@
       }
     },
     {
-      "index": 402,
+      "index": 407,
       "id": "20577132",
       "name": "U5QHSO2A9FF",
       "alliance": "[DK_1]Dark kingdom",
@@ -31233,6 +32132,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -31294,7 +32195,7 @@
       }
     },
     {
-      "index": 403,
+      "index": 408,
       "id": "20327897",
       "name": "OQ16QCFF",
       "alliance": "[SPN1]OUTKU",
@@ -31310,6 +32211,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -31371,7 +32274,7 @@
       }
     },
     {
-      "index": 404,
+      "index": 409,
       "id": "20327527",
       "name": "SmithmatthewHSHCFF",
       "alliance": "[SPN1]OUTKU",
@@ -31387,6 +32290,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -31448,7 +32353,7 @@
       }
     },
     {
-      "index": 405,
+      "index": 410,
       "id": "20473769",
       "name": "PQDJ6MNU9EFFF",
       "alliance": "[ZAD]PoxerZaxer",
@@ -31464,6 +32369,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -31525,7 +32432,7 @@
       }
     },
     {
-      "index": 406,
+      "index": 411,
       "id": "20329358",
       "name": "Johnsonanderson267FF",
       "alliance": "[rUsS]Russian Start",
@@ -31541,6 +32448,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -31602,7 +32511,7 @@
       }
     },
     {
-      "index": 407,
+      "index": 412,
       "id": "20328324",
       "name": "ThomasjonesBFFF",
       "alliance": "[SPN1]OUTKU",
@@ -31618,6 +32527,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -31679,7 +32590,7 @@
       }
     },
     {
-      "index": 408,
+      "index": 413,
       "id": "20327873",
       "name": "Leethomas726FF",
       "alliance": "[DK_1]Dark kingdom",
@@ -31695,6 +32606,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -31756,7 +32669,7 @@
       }
     },
     {
-      "index": 409,
+      "index": 414,
       "id": "20330431",
       "name": "Chrismiller572FF",
       "alliance": "[soFR]soFrance",
@@ -31772,6 +32685,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -31833,7 +32748,7 @@
       }
     },
     {
-      "index": 410,
+      "index": 415,
       "id": "20329936",
       "name": "XR1E11WFF",
       "alliance": "[soFR]soFrance",
@@ -31849,6 +32764,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -31910,7 +32827,7 @@
       }
     },
     {
-      "index": 411,
+      "index": 416,
       "id": "20330616",
       "name": "JohnsonwilliamsZASCFF",
       "alliance": "[soFR]soFrance",
@@ -31926,6 +32843,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -31987,7 +32906,7 @@
       }
     },
     {
-      "index": 412,
+      "index": 417,
       "id": "20329746",
       "name": "JQ7156BH1FF",
       "alliance": "[soFR]soFrance",
@@ -32003,6 +32922,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -32064,7 +32985,7 @@
       }
     },
     {
-      "index": 413,
+      "index": 418,
       "id": "20329176",
       "name": "Brownmartin973FF",
       "alliance": "[soFR]soFrance",
@@ -32080,6 +33001,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -32141,7 +33064,7 @@
       }
     },
     {
-      "index": 414,
+      "index": 419,
       "id": "20330975",
       "name": "MooretaylorZNFF",
       "alliance": "[DK_1]Dark kingdom",
@@ -32157,6 +33080,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -32218,7 +33143,7 @@
       }
     },
     {
-      "index": 415,
+      "index": 420,
       "id": "20329037",
       "name": "Jessicajackson79FF",
       "alliance": "[soFR]soFrance",
@@ -32234,6 +33159,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -32295,7 +33222,7 @@
       }
     },
     {
-      "index": 416,
+      "index": 421,
       "id": "20578620",
       "name": "TPDXEXLEMFF",
       "alliance": "[SPN1]OUTKU",
@@ -32311,6 +33238,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -32372,7 +33301,7 @@
       }
     },
     {
-      "index": 417,
+      "index": 422,
       "id": "20329810",
       "name": "TaylorjasonTFF",
       "alliance": "[rUsS]Russian Start",
@@ -32388,6 +33317,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -32449,7 +33380,7 @@
       }
     },
     {
-      "index": 418,
+      "index": 423,
       "id": "21841763",
       "name": "AreOre 5",
       "alliance": "[FoR]Farmers of Rebels",
@@ -32459,14 +33390,14 @@
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "dateJoinKingdom": "2026-05-07",
-      "notes": [
-        "new"
-      ],
+      "notes": [],
       "noteFlags": {
-        "new": true,
+        "new": false,
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -32528,7 +33459,7 @@
       }
     },
     {
-      "index": 419,
+      "index": 424,
       "id": "20579236",
       "name": "YanhuiVNFF",
       "alliance": "[SPN1]OUTKU",
@@ -32544,6 +33475,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -32605,7 +33538,7 @@
       }
     },
     {
-      "index": 420,
+      "index": 425,
       "id": "20329549",
       "name": "53UOV1RK8FF",
       "alliance": "[DK_1]Dark kingdom",
@@ -32621,6 +33554,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -32682,7 +33617,7 @@
       }
     },
     {
-      "index": 421,
+      "index": 426,
       "id": "20328078",
       "name": "Johnsonmartin85FF",
       "alliance": "[DK_1]Dark kingdom",
@@ -32698,6 +33633,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -32759,7 +33696,7 @@
       }
     },
     {
-      "index": 422,
+      "index": 427,
       "id": "20330829",
       "name": "US6RCEG7MRZFF",
       "alliance": "[]",
@@ -32775,6 +33712,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -32836,7 +33775,7 @@
       }
     },
     {
-      "index": 423,
+      "index": 428,
       "id": "20330186",
       "name": "EmilykatieCFF",
       "alliance": "[]",
@@ -32852,6 +33791,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -32913,7 +33854,7 @@
       }
     },
     {
-      "index": 424,
+      "index": 429,
       "id": "19539550",
       "name": "Ayamuno",
       "alliance": "['DW']Dragon Wrath",
@@ -32929,6 +33870,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -32990,7 +33933,7 @@
       }
     },
     {
-      "index": 425,
+      "index": 430,
       "id": "20327353",
       "name": "MartindavidYHDFF",
       "alliance": "[]",
@@ -33006,6 +33949,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -33067,7 +34012,7 @@
       }
     },
     {
-      "index": 426,
+      "index": 431,
       "id": "19543666",
       "name": "lalalalalam",
       "alliance": "[oc12]Victory14",
@@ -33083,6 +34028,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -33144,7 +34091,7 @@
       }
     },
     {
-      "index": 427,
+      "index": 432,
       "id": "20327508",
       "name": "4NMSTSSFF",
       "alliance": "[]",
@@ -33160,6 +34107,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -33221,7 +34170,7 @@
       }
     },
     {
-      "index": 428,
+      "index": 433,
       "id": "20327298",
       "name": "Ashleykevin695FF",
       "alliance": "[SPN1]OUTKU",
@@ -33237,6 +34186,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -33298,7 +34249,7 @@
       }
     },
     {
-      "index": 429,
+      "index": 434,
       "id": "20620150",
       "name": "HKJFAVBTUVBFF",
       "alliance": "[]",
@@ -33314,6 +34265,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -33375,7 +34328,7 @@
       }
     },
     {
-      "index": 430,
+      "index": 435,
       "id": "20614744",
       "name": "ZhijieMQFF",
       "alliance": "[@TFF]THE FREE FOLKS",
@@ -33391,6 +34344,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -33452,7 +34407,7 @@
       }
     },
     {
-      "index": 431,
+      "index": 436,
       "id": "20328851",
       "name": "Mooretaylor929FF",
       "alliance": "[SPN1]OUTKU",
@@ -33468,6 +34423,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -33529,7 +34486,7 @@
       }
     },
     {
-      "index": 432,
+      "index": 437,
       "id": "20606359",
       "name": "Honghuang152FF",
       "alliance": "[abz]barbarianzzz",
@@ -33545,6 +34502,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -33606,7 +34565,7 @@
       }
     },
     {
-      "index": 433,
+      "index": 438,
       "id": "20328931",
       "name": "JROEVA5B9BFF",
       "alliance": "[rUsS]Russian Start",
@@ -33622,6 +34581,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -33683,7 +34644,7 @@
       }
     },
     {
-      "index": 434,
+      "index": 439,
       "id": "20327536",
       "name": "Martinezwilson513FF",
       "alliance": "[SPN1]OUTKU",
@@ -33699,6 +34660,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -33760,7 +34723,7 @@
       }
     },
     {
-      "index": 435,
+      "index": 440,
       "id": "20579143",
       "name": "Zhaozheng897FF",
       "alliance": "[h9f]CBD集團",
@@ -33776,6 +34739,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -33837,7 +34802,7 @@
       }
     },
     {
-      "index": 436,
+      "index": 441,
       "id": "20329100",
       "name": "Joneswilliams327FF",
       "alliance": "[SPN1]OUTKU",
@@ -33853,6 +34818,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -33914,7 +34881,7 @@
       }
     },
     {
-      "index": 437,
+      "index": 442,
       "id": "20328098",
       "name": "VF2187SKTN4FF",
       "alliance": "[SPN1]OUTKU",
@@ -33930,6 +34897,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -33991,7 +34960,7 @@
       }
     },
     {
-      "index": 438,
+      "index": 443,
       "id": "20328336",
       "name": "4ORY4NS72FF",
       "alliance": "[SPN1]OUTKU",
@@ -34007,6 +34976,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -34068,7 +35039,7 @@
       }
     },
     {
-      "index": 439,
+      "index": 444,
       "id": "20328599",
       "name": "Johntaylor987FF",
       "alliance": "[DK_1]Dark kingdom",
@@ -34084,6 +35055,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -34145,7 +35118,7 @@
       }
     },
     {
-      "index": 440,
+      "index": 445,
       "id": "20330847",
       "name": "5F0GZ5H4JFF",
       "alliance": "[rUsS]Russian Start",
@@ -34161,6 +35134,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -34222,7 +35197,7 @@
       }
     },
     {
-      "index": 441,
+      "index": 446,
       "id": "20331132",
       "name": "Taylorlee51FF",
       "alliance": "[rUsS]Russian Start",
@@ -34238,6 +35213,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -34299,7 +35276,7 @@
       }
     },
     {
-      "index": 442,
+      "index": 447,
       "id": "20328320",
       "name": "7RWKXX9FE4FF",
       "alliance": "[soFR]soFrance",
@@ -34315,6 +35292,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -34376,7 +35355,7 @@
       }
     },
     {
-      "index": 443,
+      "index": 448,
       "id": "20329366",
       "name": "KatiethomasSFFF",
       "alliance": "[DK_1]Dark kingdom",
@@ -34392,6 +35371,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -34453,7 +35434,7 @@
       }
     },
     {
-      "index": 444,
+      "index": 449,
       "id": "21791428",
       "name": "AreGold 10",
       "alliance": "[PNDM]PandemoniumIT",
@@ -34463,14 +35444,14 @@
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "dateJoinKingdom": "2026-05-07",
-      "notes": [
-        "new"
-      ],
+      "notes": [],
       "noteFlags": {
-        "new": true,
+        "new": false,
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -34532,7 +35513,7 @@
       }
     },
     {
-      "index": 445,
+      "index": 450,
       "id": "20327855",
       "name": "Jacksonjackson76FF",
       "alliance": "[rUsS]Russian Start",
@@ -34548,6 +35529,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -34609,7 +35592,7 @@
       }
     },
     {
-      "index": 446,
+      "index": 451,
       "id": "20328618",
       "name": "Lauradavid379FF",
       "alliance": "[soFR]soFrance",
@@ -34625,6 +35608,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -34686,7 +35671,7 @@
       }
     },
     {
-      "index": 447,
+      "index": 452,
       "id": "20330001",
       "name": "T110MKTQLAXFF",
       "alliance": "[DK_1]Dark kingdom",
@@ -34702,6 +35687,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -34763,7 +35750,7 @@
       }
     },
     {
-      "index": 448,
+      "index": 453,
       "id": "20329751",
       "name": "PXID23OFF",
       "alliance": "[soFR]soFrance",
@@ -34779,6 +35766,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -34840,7 +35829,7 @@
       }
     },
     {
-      "index": 449,
+      "index": 454,
       "id": "20328796",
       "name": "WAET1S7M8QSUFF",
       "alliance": "[soFR]soFrance",
@@ -34856,6 +35845,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -34917,7 +35908,7 @@
       }
     },
     {
-      "index": 450,
+      "index": 455,
       "id": "20630899",
       "name": "Fangwu951FF",
       "alliance": "[akw]AKworld",
@@ -34933,6 +35924,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -34994,7 +35987,7 @@
       }
     },
     {
-      "index": 451,
+      "index": 456,
       "id": "20329530",
       "name": "BrownashleyRJMNFF",
       "alliance": "[DK_1]Dark kingdom",
@@ -35010,6 +36003,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -35071,7 +36066,7 @@
       }
     },
     {
-      "index": 452,
+      "index": 457,
       "id": "20327272",
       "name": "Andersonnicole383FF",
       "alliance": "[rUsS]Russian Start",
@@ -35087,6 +36082,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -35148,7 +36145,7 @@
       }
     },
     {
-      "index": 453,
+      "index": 458,
       "id": "20330353",
       "name": "RZL2RWJFF",
       "alliance": "[DK_1]Dark kingdom",
@@ -35164,6 +36161,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -35225,7 +36224,7 @@
       }
     },
     {
-      "index": 454,
+      "index": 459,
       "id": "20329336",
       "name": "YRPBFNKF5VFF",
       "alliance": "[]",
@@ -35241,6 +36240,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -35302,7 +36303,7 @@
       }
     },
     {
-      "index": 455,
+      "index": 460,
       "id": "20658059",
       "name": "Qinghong760FF",
       "alliance": "[]",
@@ -35318,6 +36319,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -35379,7 +36382,7 @@
       }
     },
     {
-      "index": 456,
+      "index": 461,
       "id": "20335420",
       "name": "领主20335420",
       "alliance": "[]",
@@ -35395,6 +36398,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
@@ -35456,7 +36461,7 @@
       }
     },
     {
-      "index": 457,
+      "index": 462,
       "id": "20746535",
       "name": "WuyingHAH",
       "alliance": "[rUsS]Russian Start",
@@ -35472,6 +36477,8 @@
         "left": false,
         "afk": false
       },
+      "leftDuringSeason": false,
+      "dateLeftKingdom": null,
       "active": true,
       "weeks": {
         "W0": {
