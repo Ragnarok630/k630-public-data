@@ -2,58 +2,58 @@
   "schemaVersion": 1,
   "kingdom": 630,
   "dataset": "home",
-  "generatedFrom": "season-1-W0",
-  "generatedAt": "2026-08-05T06:52:49.944Z",
+  "generatedFrom": "season-1-W1",
+  "generatedAt": "2026-08-05T08:42:00.456Z",
   "generatedBy": "ragnarok99gaming@gmail.com",
   "currentSeason": 1,
-  "currentWeek": "W0",
-  "currentWeekDate": "2026-05-07",
+  "currentWeek": "W1",
+  "currentWeekDate": "2026-05-15",
   "seasonName": "Rise of the Dragon",
   "totals": {
     "activePlayers": 462,
-    "warriors": 203,
-    "farmers": 259,
-    "serverPower": 19097252651,
-    "serverMerits": 0,
-    "serverKills": 38202044532,
-    "serverHealing": 53622698381
+    "warriors": 201,
+    "farmers": 261,
+    "serverPower": 18999003482,
+    "serverMerits": 73696579,
+    "serverKills": 38393059654,
+    "serverHealing": 53874797186
   },
   "playerRanking": {
     "topIdMerits": [
       {
         "rank": 1,
-        "id": "11938109",
-        "name": "PeBu3oP",
+        "id": "14782793",
+        "name": "RaúlGijón",
         "kingdom": 630,
-        "merits": 0
+        "merits": 2918048
       },
       {
         "rank": 2,
-        "id": "11005027",
-        "name": "Black 黑仔",
+        "id": "13878830",
+        "name": "ziomus13",
         "kingdom": 630,
-        "merits": 0
+        "merits": 2283778
       },
       {
         "rank": 3,
-        "id": "507230",
-        "name": "SLA",
+        "id": "8818469",
+        "name": "Brythefly",
         "kingdom": 630,
-        "merits": 0
+        "merits": 2153342
       },
       {
         "rank": 4,
-        "id": "3438999",
-        "name": "MYвungツ",
+        "id": "11452364",
+        "name": "Sơn Anh",
         "kingdom": 630,
-        "merits": 0
+        "merits": 2150362
       },
       {
         "rank": 5,
-        "id": "5246014",
-        "name": "KebacutNgaceng",
+        "id": "2805585",
+        "name": "VicのƁaKa実",
         "kingdom": 630,
-        "merits": 0
+        "merits": 1843582
       }
     ]
   },
@@ -61,33 +61,33 @@
     "topServerMerits": [
       {
         "rank": 1,
-        "kingdom": 22,
-        "server": 22,
-        "merits": 0
+        "kingdom": 476,
+        "server": 476,
+        "merits": 74680743
       },
       {
         "rank": 2,
-        "kingdom": 47,
-        "server": 47,
-        "merits": 0
+        "kingdom": 630,
+        "server": 630,
+        "merits": 73696579
       },
       {
         "rank": 3,
-        "kingdom": 148,
-        "server": 148,
-        "merits": 0
+        "kingdom": 194,
+        "server": 194,
+        "merits": 69047718
       },
       {
         "rank": 4,
-        "kingdom": 194,
-        "server": 194,
-        "merits": 0
+        "kingdom": 203,
+        "server": 203,
+        "merits": 64977698
       },
       {
         "rank": 5,
-        "kingdom": 203,
-        "server": 203,
-        "merits": 0
+        "kingdom": 297,
+        "server": 297,
+        "merits": 60202261
       }
     ]
   },
@@ -108,7 +108,7 @@
           "label": "Server 630 Power",
           "data": [
             19097252651,
-            null,
+            18999003482,
             null,
             null,
             null,
@@ -134,7 +134,7 @@
           "label": "Server 630 Merits",
           "data": [
             0,
-            null,
+            73696579,
             null,
             null,
             null,
@@ -152,6 +152,13 @@
       "serverMerits": 0,
       "serverKills": 38202044532,
       "serverHealing": 53622698381
+    },
+    "W1": {
+      "officialDate": "2026-05-15",
+      "serverPower": 18999003482,
+      "serverMerits": 73696579,
+      "serverKills": 38393059654,
+      "serverHealing": 53874797186
     }
   }
 }
