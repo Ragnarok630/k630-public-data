@@ -1,6 +1,6 @@
 {
   "schemaVersion": "630.1.0",
-  "updatedAt": "2026-08-05T06:58:00.772Z",
+  "updatedAt": "2026-08-05T08:09:17.459Z",
   "updatedBy": "ragnarok99gaming@gmail.com",
   "github": {
     "repositoryRead": false,
@@ -21,7 +21,7 @@
     "updatedAt": "2026-08-02T16:32:10.387Z"
   },
   "season": {
-    "websiteStatus": "in-season-migration-open",
+    "websiteStatus": "in-season-migration-closed",
     "selectedSeason": {
       "year": 2026,
       "season": 1,
@@ -49,7 +49,7 @@
     ],
     "active": true,
     "week0Unlocked": true,
-    "updatedAt": "2026-08-02T17:00:33.557Z"
+    "updatedAt": "2026-08-05T08:09:17.459Z"
   },
   "weeks": {
     "uploaded": [
