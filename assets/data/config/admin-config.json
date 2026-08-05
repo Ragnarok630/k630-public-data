@@ -1,6 +1,6 @@
 {
   "schemaVersion": "630.1.0",
-  "updatedAt": "2026-08-05T08:42:04.074Z",
+  "updatedAt": "2026-08-05T13:06:07.601Z",
   "updatedBy": "ragnarok99gaming@gmail.com",
   "github": {
     "repositoryRead": false,
@@ -51,6 +51,99 @@
     "week0Unlocked": true,
     "updatedAt": "2026-08-05T08:32:41.202Z"
   },
+  "meritConfiguration": {
+    "version": 1,
+    "w6": {
+      "t5": {
+        "rank3": 12,
+        "rank2": 10,
+        "rank1": 8
+      },
+      "t4": {
+        "rank3": 10,
+        "rank2": 8,
+        "rank1": 6
+      }
+    },
+    "weeks": {
+      "W1": {
+        "t5": {
+          "rank3": 2,
+          "rank2": 1.67,
+          "rank1": 1.33
+        },
+        "t4": {
+          "rank3": 1.67,
+          "rank2": 1.33,
+          "rank1": 1
+        }
+      },
+      "W2": {
+        "t5": {
+          "rank3": 4,
+          "rank2": 3.33,
+          "rank1": 2.67
+        },
+        "t4": {
+          "rank3": 3.33,
+          "rank2": 2.67,
+          "rank1": 2
+        }
+      },
+      "W3": {
+        "t5": {
+          "rank3": 6,
+          "rank2": 5,
+          "rank1": 4
+        },
+        "t4": {
+          "rank3": 5,
+          "rank2": 4,
+          "rank1": 3
+        }
+      },
+      "W4": {
+        "t5": {
+          "rank3": 8,
+          "rank2": 6.67,
+          "rank1": 5.33
+        },
+        "t4": {
+          "rank3": 6.67,
+          "rank2": 5.33,
+          "rank1": 4
+        }
+      },
+      "W5": {
+        "t5": {
+          "rank3": 10,
+          "rank2": 8.33,
+          "rank1": 6.67
+        },
+        "t4": {
+          "rank3": 8.33,
+          "rank2": 6.67,
+          "rank1": 5
+        }
+      },
+      "W6": {
+        "t5": {
+          "rank3": 12,
+          "rank2": 10,
+          "rank1": 8
+        },
+        "t4": {
+          "rank3": 10,
+          "rank2": 8,
+          "rank1": 6
+        }
+      }
+    },
+    "savedAt": "2026-08-05T13:06:07.601Z",
+    "savedBy": "ragnarok99gaming@gmail.com",
+    "updatePending": true,
+    "recalculatedAt": ""
+  },
   "weeks": {
     "uploaded": [
       "W0",
@@ -65,11 +158,11 @@
     "updatedAt": "2026-08-05T08:35:35.925Z"
   },
   "websiteBuild": {
-    "ready": true,
-    "lastBuiltAt": "2026-08-05T08:42:04.074Z"
+    "ready": false,
+    "lastBuiltAt": ""
   },
   "archive": {
-    "ready": true,
+    "ready": false,
     "archived": false,
     "seasonNumber": 0,
     "archivedAt": ""
