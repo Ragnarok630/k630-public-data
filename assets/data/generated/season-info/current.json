@@ -3,7 +3,7 @@
   "kingdom": 630,
   "dataset": "season-info",
   "generatedFrom": "weekly-player-state",
-  "generatedAt": "2026-08-05T13:26:58.408Z",
+  "generatedAt": "2026-08-05T19:29:23.202Z",
   "generatedBy": "ragnarok99gaming@gmail.com",
   "season": {
     "number": 1,
@@ -102,8 +102,8 @@
         }
       }
     },
-    "savedAt": null,
-    "savedBy": null
+    "savedAt": "2026-08-05T19:28:54.705Z",
+    "savedBy": "ragnarok99gaming@gmail.com"
   },
   "summary": {
     "officialParticipants": 462,
