@@ -2,21 +2,21 @@
   "schemaVersion": 1,
   "kingdom": 630,
   "dataset": "home",
-  "generatedFrom": "season-1-W3",
-  "generatedAt": "2026-08-06T11:43:08.767Z",
+  "generatedFrom": "season-1-W4",
+  "generatedAt": "2026-08-06T11:48:04.727Z",
   "generatedBy": "ragnarok99gaming@gmail.com",
   "currentSeason": 1,
-  "currentWeek": "W3",
-  "currentWeekDate": "2026-05-29",
+  "currentWeek": "W4",
+  "currentWeekDate": "2026-06-05",
   "seasonName": "Rise of the Dragon",
   "totals": {
-    "activePlayers": 467,
-    "warriors": 203,
-    "farmers": 264,
-    "serverPower": 18552150514,
-    "serverMerits": 631215733,
-    "serverKills": 40099375194,
-    "serverHealing": 56733132669
+    "activePlayers": 460,
+    "warriors": 202,
+    "farmers": 258,
+    "serverPower": 18201408510,
+    "serverMerits": 1017164325,
+    "serverKills": 40707475171,
+    "serverHealing": 57835216060
   },
   "playerRanking": {
     "topIdMerits": [
@@ -25,35 +25,35 @@
         "id": "13460043",
         "name": "MeeH",
         "kingdom": 630,
-        "merits": 13333415
+        "merits": 22847057
       },
       {
         "rank": 2,
         "id": "2805585",
         "name": "VicのƁaKa実",
         "kingdom": 630,
-        "merits": 10700869
+        "merits": 17764244
       },
       {
         "rank": 3,
-        "id": "11003912",
-        "name": "ᵀᵂLook三小",
-        "kingdom": 630,
-        "merits": 9962849
-      },
-      {
-        "rank": 4,
         "id": "1218693",
         "name": "Sport",
         "kingdom": 630,
-        "merits": 9684126
+        "merits": 17577229
       },
       {
-        "rank": 5,
+        "rank": 4,
         "id": "14788590",
         "name": "NeiKos496",
         "kingdom": 630,
-        "merits": 9025999
+        "merits": 15061939
+      },
+      {
+        "rank": 5,
+        "id": "13931611",
+        "name": "ᴿᵉᶠWolfpack",
+        "kingdom": 630,
+        "merits": 14650253
       }
     ]
   },
@@ -61,33 +61,33 @@
     "topServerMerits": [
       {
         "rank": 1,
-        "kingdom": 148,
-        "server": 148,
-        "merits": 1041302809
+        "kingdom": 476,
+        "server": 476,
+        "merits": 1782915070
       },
       {
         "rank": 2,
-        "kingdom": 476,
-        "server": 476,
-        "merits": 1021607141
+        "kingdom": 194,
+        "server": 194,
+        "merits": 1665431556
       },
       {
         "rank": 3,
-        "kingdom": 297,
-        "server": 297,
-        "merits": 894851845
+        "kingdom": 148,
+        "server": 148,
+        "merits": 1585371429
       },
       {
         "rank": 4,
-        "kingdom": 289,
-        "server": 289,
-        "merits": 837290043
+        "kingdom": 22,
+        "server": 22,
+        "merits": 1322051439
       },
       {
         "rank": 5,
-        "kingdom": 194,
-        "server": 194,
-        "merits": 795298565
+        "kingdom": 297,
+        "server": 297,
+        "merits": 1149634773
       }
     ]
   },
@@ -111,7 +111,7 @@
             18999003482,
             18360488156,
             18552150514,
-            null,
+            18201408510,
             null,
             null
           ]
@@ -137,7 +137,7 @@
             73696579,
             394496265,
             631215733,
-            null,
+            1017164325,
             null,
             null
           ]
@@ -173,6 +173,13 @@
       "serverMerits": 631215733,
       "serverKills": 40099375194,
       "serverHealing": 56733132669
+    },
+    "W4": {
+      "officialDate": "2026-06-05",
+      "serverPower": 18201408510,
+      "serverMerits": 1017164325,
+      "serverKills": 40707475171,
+      "serverHealing": 57835216060
     }
   }
 }
