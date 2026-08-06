@@ -1,6 +1,6 @@
 {
   "schemaVersion": "630.1.0",
-  "updatedAt": "2026-08-06T09:58:18.494Z",
+  "updatedAt": "2026-08-06T10:01:36.242Z",
   "updatedBy": "ragnarok99gaming@gmail.com",
   "github": {
     "repositoryRead": false,
@@ -55,7 +55,7 @@
     "version": 1,
     "w6": {
       "t5": {
-        "rank3": 20,
+        "rank3": 12,
         "rank2": 10,
         "rank1": 8
       },
@@ -68,7 +68,7 @@
     "weeks": {
       "W1": {
         "t5": {
-          "rank3": 3.33,
+          "rank3": 2,
           "rank2": 1.67,
           "rank1": 1.33
         },
@@ -80,7 +80,7 @@
       },
       "W2": {
         "t5": {
-          "rank3": 6.67,
+          "rank3": 4,
           "rank2": 3.33,
           "rank1": 2.67
         },
@@ -92,7 +92,7 @@
       },
       "W3": {
         "t5": {
-          "rank3": 10,
+          "rank3": 6,
           "rank2": 5,
           "rank1": 4
         },
@@ -104,7 +104,7 @@
       },
       "W4": {
         "t5": {
-          "rank3": 13.33,
+          "rank3": 8,
           "rank2": 6.67,
           "rank1": 5.33
         },
@@ -116,7 +116,7 @@
       },
       "W5": {
         "t5": {
-          "rank3": 16.67,
+          "rank3": 10,
           "rank2": 8.33,
           "rank1": 6.67
         },
@@ -128,7 +128,7 @@
       },
       "W6": {
         "t5": {
-          "rank3": 20,
+          "rank3": 12,
           "rank2": 10,
           "rank1": 8
         },
@@ -139,7 +139,7 @@
         }
       }
     },
-    "savedAt": "2026-08-06T09:58:18.494Z",
+    "savedAt": "2026-08-06T10:01:36.242Z",
     "savedBy": "ragnarok99gaming@gmail.com",
     "updatePending": true,
     "recalculatedAt": ""
