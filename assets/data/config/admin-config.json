@@ -1,6 +1,6 @@
 {
   "schemaVersion": "630.1.0",
-  "updatedAt": "2026-08-06T11:58:12.182Z",
+  "updatedAt": "2026-08-14T08:35:21.090Z",
   "updatedBy": "ragnarok99gaming@gmail.com",
   "github": {
     "repositoryRead": false,
@@ -50,6 +50,38 @@
     "active": true,
     "week0Unlocked": true,
     "updatedAt": "2026-08-05T08:32:41.202Z"
+  },
+  "saveSeason": {
+    "active": true,
+    "seasonNumber": 1,
+    "officialDate": "2026-06-26",
+    "currentStep": "7A",
+    "status": "waiting",
+    "steps": {
+      "7A": {
+        "status": "waiting"
+      },
+      "7B": {
+        "status": "waiting"
+      },
+      "7C": {
+        "status": "waiting"
+      },
+      "7D": {
+        "status": "waiting"
+      },
+      "7E": {
+        "status": "waiting"
+      },
+      "7F": {
+        "status": "waiting"
+      },
+      "7G": {
+        "status": "waiting"
+      }
+    },
+    "updatedAt": "2026-08-14T08:35:21.090Z",
+    "updatedBy": "ragnarok99gaming@gmail.com"
   },
   "meritConfiguration": {
     "version": 1,
