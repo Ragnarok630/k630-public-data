@@ -59,7 +59,7 @@
     "status": "waiting",
     "steps": {
       "7A": {
-        "status": "completed"
+        "status": "waiting"
       },
       "7B": {
         "status": "waiting"
