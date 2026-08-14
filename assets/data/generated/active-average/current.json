@@ -183,7 +183,14 @@
         "afk": false
       },
       "leftDuringSeason": false,
-      "dateLeftKingdom": null
+      "dateLeftKingdom": null,
+      "serverStatusLevel": 2,
+      "serverStatusUpdate": {
+        "season": 1,
+        "previous": 2,
+        "current": 2,
+        "reason": "RANK_1"
+      }
     },
     {
       "rank": 3,
@@ -257,7 +264,14 @@
         "afk": false
       },
       "leftDuringSeason": true,
-      "dateLeftKingdom": "2026-06-12"
+      "dateLeftKingdom": "2026-06-12",
+      "serverStatusLevel": 2,
+      "serverStatusUpdate": {
+        "season": 1,
+        "previous": 2,
+        "current": 2,
+        "reason": "LV2_RANK_3_BELOW_LV3_THRESHOLD"
+      }
     },
     {
       "rank": 4,
@@ -473,7 +487,14 @@
         "afk": false
       },
       "leftDuringSeason": false,
-      "dateLeftKingdom": null
+      "dateLeftKingdom": null,
+      "serverStatusLevel": 2,
+      "serverStatusUpdate": {
+        "season": 1,
+        "previous": 2,
+        "current": 2,
+        "reason": "RANK_1"
+      }
     },
     {
       "rank": 7,
@@ -691,7 +712,14 @@
         "afk": false
       },
       "leftDuringSeason": false,
-      "dateLeftKingdom": null
+      "dateLeftKingdom": null,
+      "serverStatusLevel": 2,
+      "serverStatusUpdate": {
+        "season": 1,
+        "previous": 2,
+        "current": 2,
+        "reason": "LV2_RANK_3_BELOW_LV3_THRESHOLD"
+      }
     },
     {
       "rank": 10,
@@ -763,7 +791,14 @@
         "afk": false
       },
       "leftDuringSeason": false,
-      "dateLeftKingdom": null
+      "dateLeftKingdom": null,
+      "serverStatusLevel": 2,
+      "serverStatusUpdate": {
+        "season": 1,
+        "previous": 2,
+        "current": 2,
+        "reason": "LV2_RANK_3_BELOW_LV3_THRESHOLD"
+      }
     },
     {
       "rank": 11,
@@ -835,7 +870,14 @@
         "afk": false
       },
       "leftDuringSeason": false,
-      "dateLeftKingdom": null
+      "dateLeftKingdom": null,
+      "serverStatusLevel": 2,
+      "serverStatusUpdate": {
+        "season": 1,
+        "previous": 2,
+        "current": 2,
+        "reason": "LV2_RANK_3_BELOW_LV3_THRESHOLD"
+      }
     },
     {
       "rank": 12,
@@ -981,7 +1023,14 @@
         "afk": false
       },
       "leftDuringSeason": true,
-      "dateLeftKingdom": "2026-06-12"
+      "dateLeftKingdom": "2026-06-12",
+      "serverStatusLevel": 2,
+      "serverStatusUpdate": {
+        "season": 1,
+        "previous": 2,
+        "current": 2,
+        "reason": "LV2_RANK_3_BELOW_LV3_THRESHOLD"
+      }
     },
     {
       "rank": 14,
@@ -1053,7 +1102,14 @@
         "afk": false
       },
       "leftDuringSeason": false,
-      "dateLeftKingdom": null
+      "dateLeftKingdom": null,
+      "serverStatusLevel": 2,
+      "serverStatusUpdate": {
+        "season": 1,
+        "previous": 2,
+        "current": 2,
+        "reason": "LV2_RANK_3_BELOW_LV3_THRESHOLD"
+      }
     },
     {
       "rank": 15,
@@ -1125,7 +1181,14 @@
         "afk": false
       },
       "leftDuringSeason": false,
-      "dateLeftKingdom": null
+      "dateLeftKingdom": null,
+      "serverStatusLevel": 2,
+      "serverStatusUpdate": {
+        "season": 1,
+        "previous": 2,
+        "current": 2,
+        "reason": "LV2_RANK_3_BELOW_LV3_THRESHOLD"
+      }
     },
     {
       "rank": 16,
@@ -1197,7 +1260,14 @@
         "afk": false
       },
       "leftDuringSeason": false,
-      "dateLeftKingdom": null
+      "dateLeftKingdom": null,
+      "serverStatusLevel": 2,
+      "serverStatusUpdate": {
+        "season": 1,
+        "previous": 2,
+        "current": 2,
+        "reason": "RANK_1"
+      }
     },
     {
       "rank": 17,
@@ -1341,7 +1411,14 @@
         "afk": false
       },
       "leftDuringSeason": false,
-      "dateLeftKingdom": null
+      "dateLeftKingdom": null,
+      "serverStatusLevel": 2,
+      "serverStatusUpdate": {
+        "season": 1,
+        "previous": 2,
+        "current": 2,
+        "reason": "LV2_RANK_3_BELOW_LV3_THRESHOLD"
+      }
     },
     {
       "rank": 19,
@@ -1485,7 +1562,14 @@
         "afk": false
       },
       "leftDuringSeason": false,
-      "dateLeftKingdom": null
+      "dateLeftKingdom": null,
+      "serverStatusLevel": 2,
+      "serverStatusUpdate": {
+        "season": 1,
+        "previous": 2,
+        "current": 2,
+        "reason": "LV2_RANK_3_BELOW_LV3_THRESHOLD"
+      }
     },
     {
       "rank": 21,
@@ -1557,7 +1641,14 @@
         "afk": false
       },
       "leftDuringSeason": false,
-      "dateLeftKingdom": null
+      "dateLeftKingdom": null,
+      "serverStatusLevel": 2,
+      "serverStatusUpdate": {
+        "season": 1,
+        "previous": 2,
+        "current": 2,
+        "reason": "RANK_2"
+      }
     },
     {
       "rank": 22,
@@ -1629,7 +1720,14 @@
         "afk": false
       },
       "leftDuringSeason": false,
-      "dateLeftKingdom": null
+      "dateLeftKingdom": null,
+      "serverStatusLevel": 2,
+      "serverStatusUpdate": {
+        "season": 1,
+        "previous": 2,
+        "current": 2,
+        "reason": "RANK_1"
+      }
     },
     {
       "rank": 23,
@@ -1701,7 +1799,14 @@
         "afk": false
       },
       "leftDuringSeason": false,
-      "dateLeftKingdom": null
+      "dateLeftKingdom": null,
+      "serverStatusLevel": 2,
+      "serverStatusUpdate": {
+        "season": 1,
+        "previous": 2,
+        "current": 2,
+        "reason": "RANK_2"
+      }
     },
     {
       "rank": 24,
@@ -1773,7 +1878,14 @@
         "afk": false
       },
       "leftDuringSeason": false,
-      "dateLeftKingdom": null
+      "dateLeftKingdom": null,
+      "serverStatusLevel": 2,
+      "serverStatusUpdate": {
+        "season": 1,
+        "previous": 2,
+        "current": 2,
+        "reason": "RANK_2"
+      }
     },
     {
       "rank": 25,
@@ -1845,7 +1957,14 @@
         "afk": false
       },
       "leftDuringSeason": false,
-      "dateLeftKingdom": null
+      "dateLeftKingdom": null,
+      "serverStatusLevel": 2,
+      "serverStatusUpdate": {
+        "season": 1,
+        "previous": 2,
+        "current": 2,
+        "reason": "LV2_RANK_3_BELOW_LV3_THRESHOLD"
+      }
     },
     {
       "rank": 26,
@@ -1854,7 +1973,7 @@
       "alliance": "[REF] ᴿᵉᵇᵉˡˢ of FúRy",
       "faction": "League of Order",
       "dateJoinKingdom": "2026-05-07",
-      "serverStatus": "LV2",
+      "serverStatus": "LV3",
       "serverStatusColor": "green",
       "troopTier": "T5",
       "startPower": 119380547,
@@ -1917,7 +2036,14 @@
         "afk": false
       },
       "leftDuringSeason": false,
-      "dateLeftKingdom": null
+      "dateLeftKingdom": null,
+      "serverStatusLevel": 3,
+      "serverStatusUpdate": {
+        "season": 1,
+        "previous": 2,
+        "current": 3,
+        "reason": "LV2_RANK_3_LV3_THRESHOLD"
+      }
     },
     {
       "rank": 27,
@@ -1989,7 +2115,14 @@
         "afk": false
       },
       "leftDuringSeason": false,
-      "dateLeftKingdom": null
+      "dateLeftKingdom": null,
+      "serverStatusLevel": 2,
+      "serverStatusUpdate": {
+        "season": 1,
+        "previous": 2,
+        "current": 2,
+        "reason": "RANK_2"
+      }
     },
     {
       "rank": 28,
@@ -2061,7 +2194,14 @@
         "afk": false
       },
       "leftDuringSeason": false,
-      "dateLeftKingdom": null
+      "dateLeftKingdom": null,
+      "serverStatusLevel": 2,
+      "serverStatusUpdate": {
+        "season": 1,
+        "previous": 2,
+        "current": 2,
+        "reason": "LV2_RANK_3_BELOW_LV3_THRESHOLD"
+      }
     },
     {
       "rank": 29,
@@ -2205,7 +2345,14 @@
         "afk": false
       },
       "leftDuringSeason": false,
-      "dateLeftKingdom": null
+      "dateLeftKingdom": null,
+      "serverStatusLevel": 2,
+      "serverStatusUpdate": {
+        "season": 1,
+        "previous": 2,
+        "current": 2,
+        "reason": "LV2_RANK_3_BELOW_LV3_THRESHOLD"
+      }
     },
     {
       "rank": 31,
@@ -2495,7 +2642,14 @@
         "afk": false
       },
       "leftDuringSeason": false,
-      "dateLeftKingdom": null
+      "dateLeftKingdom": null,
+      "serverStatusLevel": 2,
+      "serverStatusUpdate": {
+        "season": 1,
+        "previous": 2,
+        "current": 2,
+        "reason": "LV2_RANK_3_BELOW_LV3_THRESHOLD"
+      }
     },
     {
       "rank": 35,
@@ -2576,7 +2730,7 @@
       "alliance": "[REF] ᴿᵉᵇᵉˡˢ of FúRy",
       "faction": "League of Order",
       "dateJoinKingdom": "2026-05-07",
-      "serverStatus": "LV2",
+      "serverStatus": "LV3",
       "serverStatusColor": "green",
       "troopTier": "T5",
       "startPower": 113505310,
@@ -2639,7 +2793,14 @@
         "afk": false
       },
       "leftDuringSeason": false,
-      "dateLeftKingdom": null
+      "dateLeftKingdom": null,
+      "serverStatusLevel": 3,
+      "serverStatusUpdate": {
+        "season": 1,
+        "previous": 2,
+        "current": 3,
+        "reason": "LV2_RANK_3_LV3_THRESHOLD"
+      }
     },
     {
       "rank": 37,
@@ -2711,7 +2872,14 @@
         "afk": false
       },
       "leftDuringSeason": false,
-      "dateLeftKingdom": null
+      "dateLeftKingdom": null,
+      "serverStatusLevel": 2,
+      "serverStatusUpdate": {
+        "season": 1,
+        "previous": 2,
+        "current": 2,
+        "reason": "RANK_2"
+      }
     },
     {
       "rank": 38,
@@ -2783,7 +2951,14 @@
         "afk": false
       },
       "leftDuringSeason": false,
-      "dateLeftKingdom": null
+      "dateLeftKingdom": null,
+      "serverStatusLevel": 2,
+      "serverStatusUpdate": {
+        "season": 1,
+        "previous": 2,
+        "current": 2,
+        "reason": "LV2_RANK_3_BELOW_LV3_THRESHOLD"
+      }
     },
     {
       "rank": 39,
@@ -2855,7 +3030,14 @@
         "afk": false
       },
       "leftDuringSeason": false,
-      "dateLeftKingdom": null
+      "dateLeftKingdom": null,
+      "serverStatusLevel": 2,
+      "serverStatusUpdate": {
+        "season": 1,
+        "previous": 2,
+        "current": 2,
+        "reason": "RANK_2"
+      }
     },
     {
       "rank": 40,
@@ -3143,7 +3325,14 @@
         "afk": false
       },
       "leftDuringSeason": false,
-      "dateLeftKingdom": null
+      "dateLeftKingdom": null,
+      "serverStatusLevel": 2,
+      "serverStatusUpdate": {
+        "season": 1,
+        "previous": 2,
+        "current": 2,
+        "reason": "RANK_1"
+      }
     },
     {
       "rank": 44,
@@ -3215,7 +3404,14 @@
         "afk": false
       },
       "leftDuringSeason": false,
-      "dateLeftKingdom": null
+      "dateLeftKingdom": null,
+      "serverStatusLevel": 2,
+      "serverStatusUpdate": {
+        "season": 1,
+        "previous": 2,
+        "current": 2,
+        "reason": "RANK_1"
+      }
     },
     {
       "rank": 45,
@@ -3287,7 +3483,14 @@
         "afk": false
       },
       "leftDuringSeason": false,
-      "dateLeftKingdom": null
+      "dateLeftKingdom": null,
+      "serverStatusLevel": 2,
+      "serverStatusUpdate": {
+        "season": 1,
+        "previous": 2,
+        "current": 2,
+        "reason": "LV2_RANK_3_BELOW_LV3_THRESHOLD"
+      }
     },
     {
       "rank": 46,
@@ -3359,7 +3562,14 @@
         "afk": false
       },
       "leftDuringSeason": false,
-      "dateLeftKingdom": null
+      "dateLeftKingdom": null,
+      "serverStatusLevel": 2,
+      "serverStatusUpdate": {
+        "season": 1,
+        "previous": 2,
+        "current": 2,
+        "reason": "RANK_1"
+      }
     },
     {
       "rank": 47,
@@ -3431,7 +3641,14 @@
         "afk": false
       },
       "leftDuringSeason": false,
-      "dateLeftKingdom": null
+      "dateLeftKingdom": null,
+      "serverStatusLevel": 2,
+      "serverStatusUpdate": {
+        "season": 1,
+        "previous": 2,
+        "current": 2,
+        "reason": "RANK_2"
+      }
     },
     {
       "rank": 48,
@@ -3503,7 +3720,14 @@
         "afk": false
       },
       "leftDuringSeason": false,
-      "dateLeftKingdom": null
+      "dateLeftKingdom": null,
+      "serverStatusLevel": 2,
+      "serverStatusUpdate": {
+        "season": 1,
+        "previous": 2,
+        "current": 2,
+        "reason": "LV2_RANK_3_BELOW_LV3_THRESHOLD"
+      }
     },
     {
       "rank": 49,
@@ -3575,7 +3799,14 @@
         "afk": false
       },
       "leftDuringSeason": false,
-      "dateLeftKingdom": null
+      "dateLeftKingdom": null,
+      "serverStatusLevel": 2,
+      "serverStatusUpdate": {
+        "season": 1,
+        "previous": 2,
+        "current": 2,
+        "reason": "RANK_2"
+      }
     },
     {
       "rank": 50,
@@ -3863,7 +4094,14 @@
         "afk": false
       },
       "leftDuringSeason": false,
-      "dateLeftKingdom": null
+      "dateLeftKingdom": null,
+      "serverStatusLevel": 2,
+      "serverStatusUpdate": {
+        "season": 1,
+        "previous": 2,
+        "current": 2,
+        "reason": "RANK_2"
+      }
     },
     {
       "rank": 54,
@@ -3937,7 +4175,14 @@
         "afk": false
       },
       "leftDuringSeason": true,
-      "dateLeftKingdom": "2026-06-19"
+      "dateLeftKingdom": "2026-06-19",
+      "serverStatusLevel": 2,
+      "serverStatusUpdate": {
+        "season": 1,
+        "previous": 2,
+        "current": 2,
+        "reason": "LV2_RANK_3_BELOW_LV3_THRESHOLD"
+      }
     },
     {
       "rank": 55,
@@ -4081,7 +4326,14 @@
         "afk": false
       },
       "leftDuringSeason": false,
-      "dateLeftKingdom": null
+      "dateLeftKingdom": null,
+      "serverStatusLevel": 2,
+      "serverStatusUpdate": {
+        "season": 1,
+        "previous": 2,
+        "current": 2,
+        "reason": "LV2_RANK_3_BELOW_LV3_THRESHOLD"
+      }
     },
     {
       "rank": 57,
@@ -4153,7 +4405,14 @@
         "afk": false
       },
       "leftDuringSeason": false,
-      "dateLeftKingdom": null
+      "dateLeftKingdom": null,
+      "serverStatusLevel": 2,
+      "serverStatusUpdate": {
+        "season": 1,
+        "previous": 2,
+        "current": 2,
+        "reason": "LV2_RANK_3_BELOW_LV3_THRESHOLD"
+      }
     },
     {
       "rank": 58,
@@ -4225,7 +4484,14 @@
         "afk": false
       },
       "leftDuringSeason": false,
-      "dateLeftKingdom": null
+      "dateLeftKingdom": null,
+      "serverStatusLevel": 2,
+      "serverStatusUpdate": {
+        "season": 1,
+        "previous": 2,
+        "current": 2,
+        "reason": "RANK_2"
+      }
     },
     {
       "rank": 59,
@@ -4369,7 +4635,14 @@
         "afk": false
       },
       "leftDuringSeason": false,
-      "dateLeftKingdom": null
+      "dateLeftKingdom": null,
+      "serverStatusLevel": 2,
+      "serverStatusUpdate": {
+        "season": 1,
+        "previous": 2,
+        "current": 2,
+        "reason": "RANK_1"
+      }
     },
     {
       "rank": 61,
@@ -4441,7 +4714,14 @@
         "afk": false
       },
       "leftDuringSeason": false,
-      "dateLeftKingdom": null
+      "dateLeftKingdom": null,
+      "serverStatusLevel": 2,
+      "serverStatusUpdate": {
+        "season": 1,
+        "previous": 2,
+        "current": 2,
+        "reason": "LV2_RANK_3_BELOW_LV3_THRESHOLD"
+      }
     },
     {
       "rank": 62,
@@ -4450,7 +4730,7 @@
       "alliance": "[HuNT] THE WILD HUNT",
       "faction": "League of Order",
       "dateJoinKingdom": "2026-05-07",
-      "serverStatus": "LV2",
+      "serverStatus": "LV3",
       "serverStatusColor": "green",
       "troopTier": "T5",
       "startPower": 101973268,
@@ -4513,7 +4793,14 @@
         "afk": false
       },
       "leftDuringSeason": false,
-      "dateLeftKingdom": null
+      "dateLeftKingdom": null,
+      "serverStatusLevel": 3,
+      "serverStatusUpdate": {
+        "season": 1,
+        "previous": 2,
+        "current": 3,
+        "reason": "LV2_RANK_3_LV3_THRESHOLD"
+      }
     },
     {
       "rank": 63,
@@ -4801,7 +5088,14 @@
         "afk": false
       },
       "leftDuringSeason": false,
-      "dateLeftKingdom": null
+      "dateLeftKingdom": null,
+      "serverStatusLevel": 2,
+      "serverStatusUpdate": {
+        "season": 1,
+        "previous": 2,
+        "current": 2,
+        "reason": "LV2_RANK_3_BELOW_LV3_THRESHOLD"
+      }
     },
     {
       "rank": 67,
@@ -4809,7 +5103,7 @@
       "name": "ᴿᵉᶠ PᴜssNBᴏᴏᴛs",
       "alliance": "[REF] ᴿᵉᵇᵉˡˢ of FúRy",
       "dateJoinKingdom": "2026-03-27",
-      "serverStatus": "LV2",
+      "serverStatus": "LV3",
       "serverStatusColor": "green",
       "troopTier": "T5",
       "startPower": 90773613,
@@ -4873,7 +5167,14 @@
         "afk": false
       },
       "leftDuringSeason": false,
-      "dateLeftKingdom": null
+      "dateLeftKingdom": null,
+      "serverStatusLevel": 3,
+      "serverStatusUpdate": {
+        "season": 1,
+        "previous": 2,
+        "current": 3,
+        "reason": "LV2_RANK_3_LV3_THRESHOLD"
+      }
     },
     {
       "rank": 68,
@@ -5163,7 +5464,14 @@
         "afk": false
       },
       "leftDuringSeason": false,
-      "dateLeftKingdom": null
+      "dateLeftKingdom": null,
+      "serverStatusLevel": 2,
+      "serverStatusUpdate": {
+        "season": 1,
+        "previous": 2,
+        "current": 2,
+        "reason": "RANK_1"
+      }
     },
     {
       "rank": 72,
@@ -5309,7 +5617,14 @@
         "afk": false
       },
       "leftDuringSeason": true,
-      "dateLeftKingdom": "2026-06-12"
+      "dateLeftKingdom": "2026-06-12",
+      "serverStatusLevel": 2,
+      "serverStatusUpdate": {
+        "season": 1,
+        "previous": 2,
+        "current": 2,
+        "reason": "RANK_1"
+      }
     },
     {
       "rank": 74,
@@ -5381,7 +5696,14 @@
         "afk": false
       },
       "leftDuringSeason": false,
-      "dateLeftKingdom": null
+      "dateLeftKingdom": null,
+      "serverStatusLevel": 2,
+      "serverStatusUpdate": {
+        "season": 1,
+        "previous": 2,
+        "current": 2,
+        "reason": "LV2_RANK_3_BELOW_LV3_THRESHOLD"
+      }
     },
     {
       "rank": 75,
@@ -5453,7 +5775,14 @@
         "afk": false
       },
       "leftDuringSeason": false,
-      "dateLeftKingdom": null
+      "dateLeftKingdom": null,
+      "serverStatusLevel": 2,
+      "serverStatusUpdate": {
+        "season": 1,
+        "previous": 2,
+        "current": 2,
+        "reason": "LV2_RANK_3_BELOW_LV3_THRESHOLD"
+      }
     },
     {
       "rank": 76,
@@ -5525,7 +5854,14 @@
         "afk": false
       },
       "leftDuringSeason": false,
-      "dateLeftKingdom": null
+      "dateLeftKingdom": null,
+      "serverStatusLevel": 2,
+      "serverStatusUpdate": {
+        "season": 1,
+        "previous": 2,
+        "current": 2,
+        "reason": "LV2_RANK_3_BELOW_LV3_THRESHOLD"
+      }
     },
     {
       "rank": 77,
@@ -5741,7 +6077,14 @@
         "afk": false
       },
       "leftDuringSeason": false,
-      "dateLeftKingdom": null
+      "dateLeftKingdom": null,
+      "serverStatusLevel": 2,
+      "serverStatusUpdate": {
+        "season": 1,
+        "previous": 2,
+        "current": 2,
+        "reason": "LV2_RANK_3_BELOW_LV3_THRESHOLD"
+      }
     },
     {
       "rank": 80,
@@ -5885,7 +6228,14 @@
         "afk": false
       },
       "leftDuringSeason": false,
-      "dateLeftKingdom": null
+      "dateLeftKingdom": null,
+      "serverStatusLevel": 2,
+      "serverStatusUpdate": {
+        "season": 1,
+        "previous": 2,
+        "current": 2,
+        "reason": "LV2_RANK_3_BELOW_LV3_THRESHOLD"
+      }
     },
     {
       "rank": 82,
@@ -6029,7 +6379,14 @@
         "afk": false
       },
       "leftDuringSeason": false,
-      "dateLeftKingdom": null
+      "dateLeftKingdom": null,
+      "serverStatusLevel": 2,
+      "serverStatusUpdate": {
+        "season": 1,
+        "previous": 2,
+        "current": 2,
+        "reason": "LV2_RANK_3_BELOW_LV3_THRESHOLD"
+      }
     },
     {
       "rank": 84,
@@ -6173,7 +6530,14 @@
         "afk": false
       },
       "leftDuringSeason": false,
-      "dateLeftKingdom": null
+      "dateLeftKingdom": null,
+      "serverStatusLevel": 2,
+      "serverStatusUpdate": {
+        "season": 1,
+        "previous": 2,
+        "current": 2,
+        "reason": "RANK_2"
+      }
     },
     {
       "rank": 86,
@@ -6245,7 +6609,14 @@
         "afk": false
       },
       "leftDuringSeason": false,
-      "dateLeftKingdom": null
+      "dateLeftKingdom": null,
+      "serverStatusLevel": 2,
+      "serverStatusUpdate": {
+        "season": 1,
+        "previous": 2,
+        "current": 2,
+        "reason": "LV2_RANK_3_BELOW_LV3_THRESHOLD"
+      }
     },
     {
       "rank": 87,
@@ -6533,7 +6904,14 @@
         "afk": false
       },
       "leftDuringSeason": false,
-      "dateLeftKingdom": null
+      "dateLeftKingdom": null,
+      "serverStatusLevel": 2,
+      "serverStatusUpdate": {
+        "season": 1,
+        "previous": 2,
+        "current": 2,
+        "reason": "LV2_RANK_3_BELOW_LV3_THRESHOLD"
+      }
     },
     {
       "rank": 91,
@@ -6749,7 +7127,14 @@
         "afk": false
       },
       "leftDuringSeason": false,
-      "dateLeftKingdom": null
+      "dateLeftKingdom": null,
+      "serverStatusLevel": 2,
+      "serverStatusUpdate": {
+        "season": 1,
+        "previous": 2,
+        "current": 2,
+        "reason": "LV2_RANK_3_BELOW_LV3_THRESHOLD"
+      }
     },
     {
       "rank": 94,
@@ -6821,7 +7206,14 @@
         "afk": false
       },
       "leftDuringSeason": false,
-      "dateLeftKingdom": null
+      "dateLeftKingdom": null,
+      "serverStatusLevel": 2,
+      "serverStatusUpdate": {
+        "season": 1,
+        "previous": 2,
+        "current": 2,
+        "reason": "RANK_2"
+      }
     },
     {
       "rank": 95,
@@ -7109,7 +7501,14 @@
         "afk": false
       },
       "leftDuringSeason": false,
-      "dateLeftKingdom": null
+      "dateLeftKingdom": null,
+      "serverStatusLevel": 2,
+      "serverStatusUpdate": {
+        "season": 1,
+        "previous": 2,
+        "current": 2,
+        "reason": "RANK_1"
+      }
     },
     {
       "rank": 99,
@@ -7181,7 +7580,14 @@
         "afk": false
       },
       "leftDuringSeason": false,
-      "dateLeftKingdom": null
+      "dateLeftKingdom": null,
+      "serverStatusLevel": 2,
+      "serverStatusUpdate": {
+        "season": 1,
+        "previous": 2,
+        "current": 2,
+        "reason": "LV2_RANK_3_BELOW_LV3_THRESHOLD"
+      }
     },
     {
       "rank": 100,
@@ -7253,7 +7659,14 @@
         "afk": false
       },
       "leftDuringSeason": false,
-      "dateLeftKingdom": null
+      "dateLeftKingdom": null,
+      "serverStatusLevel": 2,
+      "serverStatusUpdate": {
+        "season": 1,
+        "previous": 2,
+        "current": 2,
+        "reason": "LV2_RANK_3_BELOW_LV3_THRESHOLD"
+      }
     },
     {
       "rank": 101,
@@ -7325,7 +7738,14 @@
         "afk": false
       },
       "leftDuringSeason": false,
-      "dateLeftKingdom": null
+      "dateLeftKingdom": null,
+      "serverStatusLevel": 2,
+      "serverStatusUpdate": {
+        "season": 1,
+        "previous": 2,
+        "current": 2,
+        "reason": "RANK_1"
+      }
     },
     {
       "rank": 102,
@@ -7397,7 +7817,14 @@
         "afk": false
       },
       "leftDuringSeason": false,
-      "dateLeftKingdom": null
+      "dateLeftKingdom": null,
+      "serverStatusLevel": 2,
+      "serverStatusUpdate": {
+        "season": 1,
+        "previous": 2,
+        "current": 2,
+        "reason": "LV2_RANK_3_BELOW_LV3_THRESHOLD"
+      }
     },
     {
       "rank": 103,
@@ -7541,7 +7968,14 @@
         "afk": false
       },
       "leftDuringSeason": false,
-      "dateLeftKingdom": null
+      "dateLeftKingdom": null,
+      "serverStatusLevel": 2,
+      "serverStatusUpdate": {
+        "season": 1,
+        "previous": 2,
+        "current": 2,
+        "reason": "LV2_RANK_3_BELOW_LV3_THRESHOLD"
+      }
     },
     {
       "rank": 105,
@@ -7613,7 +8047,14 @@
         "afk": false
       },
       "leftDuringSeason": false,
-      "dateLeftKingdom": null
+      "dateLeftKingdom": null,
+      "serverStatusLevel": 2,
+      "serverStatusUpdate": {
+        "season": 1,
+        "previous": 2,
+        "current": 2,
+        "reason": "RANK_1"
+      }
     },
     {
       "rank": 106,
@@ -7824,7 +8265,14 @@
         "afk": false
       },
       "leftDuringSeason": false,
-      "dateLeftKingdom": null
+      "dateLeftKingdom": null,
+      "serverStatusLevel": 2,
+      "serverStatusUpdate": {
+        "season": 1,
+        "previous": 2,
+        "current": 2,
+        "reason": "RANK_1"
+      }
     },
     {
       "rank": 109,
@@ -8328,7 +8776,14 @@
         "afk": false
       },
       "leftDuringSeason": false,
-      "dateLeftKingdom": null
+      "dateLeftKingdom": null,
+      "serverStatusLevel": 2,
+      "serverStatusUpdate": {
+        "season": 1,
+        "previous": 2,
+        "current": 2,
+        "reason": "RANK_2"
+      }
     },
     {
       "rank": 116,
@@ -8472,7 +8927,14 @@
         "afk": false
       },
       "leftDuringSeason": false,
-      "dateLeftKingdom": null
+      "dateLeftKingdom": null,
+      "serverStatusLevel": 2,
+      "serverStatusUpdate": {
+        "season": 1,
+        "previous": 2,
+        "current": 2,
+        "reason": "LV2_RANK_3_BELOW_LV3_THRESHOLD"
+      }
     },
     {
       "rank": 118,
@@ -8616,7 +9078,14 @@
         "afk": false
       },
       "leftDuringSeason": false,
-      "dateLeftKingdom": null
+      "dateLeftKingdom": null,
+      "serverStatusLevel": 2,
+      "serverStatusUpdate": {
+        "season": 1,
+        "previous": 2,
+        "current": 2,
+        "reason": "RANK_1"
+      }
     },
     {
       "rank": 120,
@@ -8688,7 +9157,14 @@
         "afk": false
       },
       "leftDuringSeason": false,
-      "dateLeftKingdom": null
+      "dateLeftKingdom": null,
+      "serverStatusLevel": 2,
+      "serverStatusUpdate": {
+        "season": 1,
+        "previous": 2,
+        "current": 2,
+        "reason": "LV2_RANK_3_BELOW_LV3_THRESHOLD"
+      }
     },
     {
       "rank": 121,
@@ -8760,7 +9236,14 @@
         "afk": false
       },
       "leftDuringSeason": false,
-      "dateLeftKingdom": null
+      "dateLeftKingdom": null,
+      "serverStatusLevel": 2,
+      "serverStatusUpdate": {
+        "season": 1,
+        "previous": 2,
+        "current": 2,
+        "reason": "LV2_RANK_3_BELOW_LV3_THRESHOLD"
+      }
     },
     {
       "rank": 122,
@@ -8832,7 +9315,14 @@
         "afk": false
       },
       "leftDuringSeason": false,
-      "dateLeftKingdom": null
+      "dateLeftKingdom": null,
+      "serverStatusLevel": 2,
+      "serverStatusUpdate": {
+        "season": 1,
+        "previous": 2,
+        "current": 2,
+        "reason": "RANK_2"
+      }
     },
     {
       "rank": 123,
@@ -8976,7 +9466,14 @@
         "afk": false
       },
       "leftDuringSeason": false,
-      "dateLeftKingdom": null
+      "dateLeftKingdom": null,
+      "serverStatusLevel": 2,
+      "serverStatusUpdate": {
+        "season": 1,
+        "previous": 2,
+        "current": 2,
+        "reason": "RANK_2"
+      }
     },
     {
       "rank": 125,
@@ -9120,7 +9617,14 @@
         "afk": false
       },
       "leftDuringSeason": false,
-      "dateLeftKingdom": null
+      "dateLeftKingdom": null,
+      "serverStatusLevel": 2,
+      "serverStatusUpdate": {
+        "season": 1,
+        "previous": 2,
+        "current": 2,
+        "reason": "LV2_RANK_3_BELOW_LV3_THRESHOLD"
+      }
     },
     {
       "rank": 127,
@@ -9331,7 +9835,14 @@
         "afk": false
       },
       "leftDuringSeason": false,
-      "dateLeftKingdom": null
+      "dateLeftKingdom": null,
+      "serverStatusLevel": 2,
+      "serverStatusUpdate": {
+        "season": 1,
+        "previous": 2,
+        "current": 2,
+        "reason": "RANK_1"
+      }
     },
     {
       "rank": 130,
@@ -9403,7 +9914,14 @@
         "afk": false
       },
       "leftDuringSeason": false,
-      "dateLeftKingdom": null
+      "dateLeftKingdom": null,
+      "serverStatusLevel": 2,
+      "serverStatusUpdate": {
+        "season": 1,
+        "previous": 2,
+        "current": 2,
+        "reason": "LV2_RANK_3_BELOW_LV3_THRESHOLD"
+      }
     },
     {
       "rank": 131,
@@ -9619,7 +10137,14 @@
         "afk": false
       },
       "leftDuringSeason": false,
-      "dateLeftKingdom": null
+      "dateLeftKingdom": null,
+      "serverStatusLevel": 2,
+      "serverStatusUpdate": {
+        "season": 1,
+        "previous": 2,
+        "current": 2,
+        "reason": "RANK_2"
+      }
     },
     {
       "rank": 134,
@@ -9691,7 +10216,14 @@
         "afk": false
       },
       "leftDuringSeason": false,
-      "dateLeftKingdom": null
+      "dateLeftKingdom": null,
+      "serverStatusLevel": 2,
+      "serverStatusUpdate": {
+        "season": 1,
+        "previous": 2,
+        "current": 2,
+        "reason": "RANK_2"
+      }
     },
     {
       "rank": 135,
@@ -9763,7 +10295,14 @@
         "afk": false
       },
       "leftDuringSeason": false,
-      "dateLeftKingdom": null
+      "dateLeftKingdom": null,
+      "serverStatusLevel": 2,
+      "serverStatusUpdate": {
+        "season": 1,
+        "previous": 2,
+        "current": 2,
+        "reason": "RANK_2"
+      }
     },
     {
       "rank": 136,
@@ -9835,7 +10374,14 @@
         "afk": false
       },
       "leftDuringSeason": false,
-      "dateLeftKingdom": null
+      "dateLeftKingdom": null,
+      "serverStatusLevel": 2,
+      "serverStatusUpdate": {
+        "season": 1,
+        "previous": 2,
+        "current": 2,
+        "reason": "LV2_RANK_3_BELOW_LV3_THRESHOLD"
+      }
     },
     {
       "rank": 137,
@@ -9907,7 +10453,14 @@
         "afk": false
       },
       "leftDuringSeason": false,
-      "dateLeftKingdom": null
+      "dateLeftKingdom": null,
+      "serverStatusLevel": 2,
+      "serverStatusUpdate": {
+        "season": 1,
+        "previous": 2,
+        "current": 2,
+        "reason": "LV2_RANK_3_BELOW_LV3_THRESHOLD"
+      }
     },
     {
       "rank": 138,
@@ -9979,7 +10532,14 @@
         "afk": false
       },
       "leftDuringSeason": false,
-      "dateLeftKingdom": null
+      "dateLeftKingdom": null,
+      "serverStatusLevel": 2,
+      "serverStatusUpdate": {
+        "season": 1,
+        "previous": 2,
+        "current": 2,
+        "reason": "RANK_1"
+      }
     },
     {
       "rank": 139,
@@ -10267,7 +10827,14 @@
         "afk": false
       },
       "leftDuringSeason": false,
-      "dateLeftKingdom": null
+      "dateLeftKingdom": null,
+      "serverStatusLevel": 2,
+      "serverStatusUpdate": {
+        "season": 1,
+        "previous": 2,
+        "current": 2,
+        "reason": "RANK_1"
+      }
     },
     {
       "rank": 143,
@@ -10411,7 +10978,14 @@
         "afk": false
       },
       "leftDuringSeason": false,
-      "dateLeftKingdom": null
+      "dateLeftKingdom": null,
+      "serverStatusLevel": 2,
+      "serverStatusUpdate": {
+        "season": 1,
+        "previous": 2,
+        "current": 2,
+        "reason": "RANK_2"
+      }
     },
     {
       "rank": 145,
@@ -10483,7 +11057,14 @@
         "afk": false
       },
       "leftDuringSeason": false,
-      "dateLeftKingdom": null
+      "dateLeftKingdom": null,
+      "serverStatusLevel": 2,
+      "serverStatusUpdate": {
+        "season": 1,
+        "previous": 2,
+        "current": 2,
+        "reason": "RANK_1"
+      }
     },
     {
       "rank": 146,
@@ -10636,7 +11217,7 @@
       "alliance": "[REF] ᴿᵉᵇᵉˡˢ of FúRy",
       "faction": "League of Order",
       "dateJoinKingdom": "2026-05-07",
-      "serverStatus": "LV2",
+      "serverStatus": "LV3",
       "serverStatusColor": "green",
       "troopTier": "T4",
       "startPower": 71888501,
@@ -10699,7 +11280,14 @@
         "afk": false
       },
       "leftDuringSeason": false,
-      "dateLeftKingdom": null
+      "dateLeftKingdom": null,
+      "serverStatusLevel": 3,
+      "serverStatusUpdate": {
+        "season": 1,
+        "previous": 2,
+        "current": 3,
+        "reason": "LV2_RANK_3_LV3_THRESHOLD"
+      }
     },
     {
       "rank": 149,
@@ -10915,7 +11503,14 @@
         "afk": false
       },
       "leftDuringSeason": false,
-      "dateLeftKingdom": null
+      "dateLeftKingdom": null,
+      "serverStatusLevel": 2,
+      "serverStatusUpdate": {
+        "season": 1,
+        "previous": 2,
+        "current": 2,
+        "reason": "RANK_1"
+      }
     },
     {
       "rank": 152,
@@ -10987,7 +11582,14 @@
         "afk": false
       },
       "leftDuringSeason": false,
-      "dateLeftKingdom": null
+      "dateLeftKingdom": null,
+      "serverStatusLevel": 2,
+      "serverStatusUpdate": {
+        "season": 1,
+        "previous": 2,
+        "current": 2,
+        "reason": "LV2_RANK_3_BELOW_LV3_THRESHOLD"
+      }
     },
     {
       "rank": 153,
@@ -11059,7 +11661,14 @@
         "afk": false
       },
       "leftDuringSeason": false,
-      "dateLeftKingdom": null
+      "dateLeftKingdom": null,
+      "serverStatusLevel": 2,
+      "serverStatusUpdate": {
+        "season": 1,
+        "previous": 2,
+        "current": 2,
+        "reason": "LV2_RANK_3_BELOW_LV3_THRESHOLD"
+      }
     },
     {
       "rank": 154,
@@ -11131,7 +11740,14 @@
         "afk": false
       },
       "leftDuringSeason": false,
-      "dateLeftKingdom": null
+      "dateLeftKingdom": null,
+      "serverStatusLevel": 2,
+      "serverStatusUpdate": {
+        "season": 1,
+        "previous": 2,
+        "current": 2,
+        "reason": "RANK_1"
+      }
     },
     {
       "rank": 155,
@@ -11491,7 +12107,14 @@
         "afk": false
       },
       "leftDuringSeason": false,
-      "dateLeftKingdom": null
+      "dateLeftKingdom": null,
+      "serverStatusLevel": 2,
+      "serverStatusUpdate": {
+        "season": 1,
+        "previous": 2,
+        "current": 2,
+        "reason": "RANK_2"
+      }
     },
     {
       "rank": 160,
@@ -11707,7 +12330,14 @@
         "afk": false
       },
       "leftDuringSeason": false,
-      "dateLeftKingdom": null
+      "dateLeftKingdom": null,
+      "serverStatusLevel": 2,
+      "serverStatusUpdate": {
+        "season": 1,
+        "previous": 2,
+        "current": 2,
+        "reason": "LV2_RANK_3_BELOW_LV3_THRESHOLD"
+      }
     },
     {
       "rank": 163,
@@ -11779,7 +12409,14 @@
         "afk": false
       },
       "leftDuringSeason": false,
-      "dateLeftKingdom": null
+      "dateLeftKingdom": null,
+      "serverStatusLevel": 2,
+      "serverStatusUpdate": {
+        "season": 1,
+        "previous": 2,
+        "current": 2,
+        "reason": "RANK_1"
+      }
     },
     {
       "rank": 164,
@@ -11995,7 +12632,14 @@
         "afk": false
       },
       "leftDuringSeason": false,
-      "dateLeftKingdom": null
+      "dateLeftKingdom": null,
+      "serverStatusLevel": 2,
+      "serverStatusUpdate": {
+        "season": 1,
+        "previous": 2,
+        "current": 2,
+        "reason": "RANK_1"
+      }
     },
     {
       "rank": 167,
@@ -12283,7 +12927,14 @@
         "afk": false
       },
       "leftDuringSeason": false,
-      "dateLeftKingdom": null
+      "dateLeftKingdom": null,
+      "serverStatusLevel": 2,
+      "serverStatusUpdate": {
+        "season": 1,
+        "previous": 2,
+        "current": 2,
+        "reason": "RANK_1"
+      }
     },
     {
       "rank": 171,
@@ -12427,7 +13078,14 @@
         "afk": false
       },
       "leftDuringSeason": false,
-      "dateLeftKingdom": null
+      "dateLeftKingdom": null,
+      "serverStatusLevel": 2,
+      "serverStatusUpdate": {
+        "season": 1,
+        "previous": 2,
+        "current": 2,
+        "reason": "RANK_2"
+      }
     },
     {
       "rank": 173,
@@ -12643,7 +13301,14 @@
         "afk": false
       },
       "leftDuringSeason": false,
-      "dateLeftKingdom": null
+      "dateLeftKingdom": null,
+      "serverStatusLevel": 2,
+      "serverStatusUpdate": {
+        "season": 1,
+        "previous": 2,
+        "current": 2,
+        "reason": "RANK_1"
+      }
     },
     {
       "rank": 176,
@@ -12715,7 +13380,14 @@
         "afk": false
       },
       "leftDuringSeason": false,
-      "dateLeftKingdom": null
+      "dateLeftKingdom": null,
+      "serverStatusLevel": 2,
+      "serverStatusUpdate": {
+        "season": 1,
+        "previous": 2,
+        "current": 2,
+        "reason": "RANK_2"
+      }
     },
     {
       "rank": 177,
