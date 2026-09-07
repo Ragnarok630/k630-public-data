@@ -1,6 +1,6 @@
 {
   "schemaVersion": "630.1.0",
-  "updatedAt": "2026-09-07T12:45:21.389Z",
+  "updatedAt": "2026-09-07T12:46:27.342Z",
   "updatedBy": "ragnarok99gaming@gmail.com",
   "github": {
     "repositoryRead": false,
@@ -28,10 +28,17 @@
       "sosNumber": 2,
       "sosName": "The Icebound Oath"
     },
-    "participatingServers": [],
+    "participatingServers": [
+      80,
+      91,
+      337,
+      594,
+      630,
+      668
+    ],
     "active": false,
     "week0Unlocked": false,
-    "updatedAt": "2026-09-07T12:45:10.902Z"
+    "updatedAt": "2026-09-07T12:46:27.342Z"
   },
   "saveSeason": {
     "active": false,
