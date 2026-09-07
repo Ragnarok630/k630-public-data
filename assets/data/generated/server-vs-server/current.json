@@ -2,15 +2,16 @@
   "schemaVersion": 1,
   "kingdom": 630,
   "dataset": "server-vs-server",
-  "generatedFrom": "season-2-W0",
-  "generatedAt": "2026-09-07T12:47:44.012Z",
+  "generatedFrom": "season-2-W1",
+  "generatedAt": "2026-09-07T12:55:34.907Z",
   "generatedBy": "ragnarok99gaming@gmail.com",
   "season": {
     "number": 2,
-    "currentWeek": "W0",
-    "officialDate": "2026-07-17",
+    "currentWeek": "W1",
+    "officialDate": "2026-07-24",
     "availableWeeks": [
-      "W0"
+      "W0",
+      "W1"
     ]
   },
   "participatingServers": [
@@ -23,14 +24,14 @@
   ],
   "summary": {
     "serverCount": 6,
-    "currentWeek": "W0",
+    "currentWeek": "W1",
     "homeServer": {
       "serverNumber": 630,
-      "playerCount": 557,
-      "totalPower": 23740051908,
-      "totalMerits": 0,
-      "totalKills": 49543188632,
-      "totalHealing": 70545654796
+      "playerCount": 548,
+      "totalPower": 23514681070,
+      "totalMerits": 82593923,
+      "totalKills": 49381110797,
+      "totalHealing": 70258533685
     }
   },
   "labels": [
@@ -48,13 +49,13 @@
       "kingdom": 80,
       "isHomeKingdom": false,
       "current": {
-        "week": "W0",
-        "officialDate": "2026-07-17",
-        "playerCount": 513,
-        "totalPower": 25072740391,
-        "totalMerits": 0,
-        "totalKills": 114073767274,
-        "totalHealing": 94460536994
+        "week": "W1",
+        "officialDate": "2026-07-24",
+        "playerCount": 506,
+        "totalPower": 25316029405,
+        "totalMerits": 88456416,
+        "totalKills": 114333962368,
+        "totalHealing": 94977680846
       },
       "weeklyTotals": {
         "W0": {
@@ -64,12 +65,20 @@
           "totalMerits": 0,
           "totalKills": 114073767274,
           "totalHealing": 94460536994
+        },
+        "W1": {
+          "officialDate": "2026-07-24",
+          "playerCount": 506,
+          "totalPower": 25316029405,
+          "totalMerits": 88456416,
+          "totalKills": 114333962368,
+          "totalHealing": 94977680846
         }
       },
       "series": {
         "power": [
           25072740391,
-          null,
+          25316029405,
           null,
           null,
           null,
@@ -78,7 +87,7 @@
         ],
         "merits": [
           0,
-          null,
+          88456416,
           null,
           null,
           null,
@@ -87,7 +96,7 @@
         ],
         "kills": [
           114073767274,
-          null,
+          114333962368,
           null,
           null,
           null,
@@ -96,7 +105,7 @@
         ],
         "healing": [
           94460536994,
-          null,
+          94977680846,
           null,
           null,
           null,
@@ -110,13 +119,13 @@
       "kingdom": 91,
       "isHomeKingdom": false,
       "current": {
-        "week": "W0",
-        "officialDate": "2026-07-17",
-        "playerCount": 358,
-        "totalPower": 16454895348,
-        "totalMerits": 0,
-        "totalKills": 26633840601,
-        "totalHealing": 40827564375
+        "week": "W1",
+        "officialDate": "2026-07-24",
+        "playerCount": 346,
+        "totalPower": 15865161890,
+        "totalMerits": 28226433,
+        "totalKills": 25079390990,
+        "totalHealing": 38868308109
       },
       "weeklyTotals": {
         "W0": {
@@ -126,12 +135,20 @@
           "totalMerits": 0,
           "totalKills": 26633840601,
           "totalHealing": 40827564375
+        },
+        "W1": {
+          "officialDate": "2026-07-24",
+          "playerCount": 346,
+          "totalPower": 15865161890,
+          "totalMerits": 28226433,
+          "totalKills": 25079390990,
+          "totalHealing": 38868308109
         }
       },
       "series": {
         "power": [
           16454895348,
-          null,
+          15865161890,
           null,
           null,
           null,
@@ -140,7 +157,7 @@
         ],
         "merits": [
           0,
-          null,
+          28226433,
           null,
           null,
           null,
@@ -149,7 +166,7 @@
         ],
         "kills": [
           26633840601,
-          null,
+          25079390990,
           null,
           null,
           null,
@@ -158,7 +175,7 @@
         ],
         "healing": [
           40827564375,
-          null,
+          38868308109,
           null,
           null,
           null,
@@ -172,13 +189,13 @@
       "kingdom": 337,
       "isHomeKingdom": false,
       "current": {
-        "week": "W0",
-        "officialDate": "2026-07-17",
-        "playerCount": 386,
-        "totalPower": 13541753993,
-        "totalMerits": 0,
-        "totalKills": 34845418824,
-        "totalHealing": 43302027255
+        "week": "W1",
+        "officialDate": "2026-07-24",
+        "playerCount": 382,
+        "totalPower": 13368470057,
+        "totalMerits": 43757704,
+        "totalKills": 34155983892,
+        "totalHealing": 42799225218
       },
       "weeklyTotals": {
         "W0": {
@@ -188,12 +205,20 @@
           "totalMerits": 0,
           "totalKills": 34845418824,
           "totalHealing": 43302027255
+        },
+        "W1": {
+          "officialDate": "2026-07-24",
+          "playerCount": 382,
+          "totalPower": 13368470057,
+          "totalMerits": 43757704,
+          "totalKills": 34155983892,
+          "totalHealing": 42799225218
         }
       },
       "series": {
         "power": [
           13541753993,
-          null,
+          13368470057,
           null,
           null,
           null,
@@ -202,7 +227,7 @@
         ],
         "merits": [
           0,
-          null,
+          43757704,
           null,
           null,
           null,
@@ -211,7 +236,7 @@
         ],
         "kills": [
           34845418824,
-          null,
+          34155983892,
           null,
           null,
           null,
@@ -220,7 +245,7 @@
         ],
         "healing": [
           43302027255,
-          null,
+          42799225218,
           null,
           null,
           null,
@@ -234,13 +259,13 @@
       "kingdom": 594,
       "isHomeKingdom": false,
       "current": {
-        "week": "W0",
-        "officialDate": "2026-07-17",
-        "playerCount": 503,
-        "totalPower": 14004055601,
-        "totalMerits": 0,
-        "totalKills": 25579711379,
-        "totalHealing": 32689022593
+        "week": "W1",
+        "officialDate": "2026-07-24",
+        "playerCount": 501,
+        "totalPower": 14050729009,
+        "totalMerits": 51105257,
+        "totalKills": 25702026976,
+        "totalHealing": 32871687254
       },
       "weeklyTotals": {
         "W0": {
@@ -250,12 +275,20 @@
           "totalMerits": 0,
           "totalKills": 25579711379,
           "totalHealing": 32689022593
+        },
+        "W1": {
+          "officialDate": "2026-07-24",
+          "playerCount": 501,
+          "totalPower": 14050729009,
+          "totalMerits": 51105257,
+          "totalKills": 25702026976,
+          "totalHealing": 32871687254
         }
       },
       "series": {
         "power": [
           14004055601,
-          null,
+          14050729009,
           null,
           null,
           null,
@@ -264,7 +297,7 @@
         ],
         "merits": [
           0,
-          null,
+          51105257,
           null,
           null,
           null,
@@ -273,7 +306,7 @@
         ],
         "kills": [
           25579711379,
-          null,
+          25702026976,
           null,
           null,
           null,
@@ -282,7 +315,7 @@
         ],
         "healing": [
           32689022593,
-          null,
+          32871687254,
           null,
           null,
           null,
@@ -296,13 +329,13 @@
       "kingdom": 630,
       "isHomeKingdom": true,
       "current": {
-        "week": "W0",
-        "officialDate": "2026-07-17",
-        "playerCount": 557,
-        "totalPower": 23740051908,
-        "totalMerits": 0,
-        "totalKills": 49543188632,
-        "totalHealing": 70545654796
+        "week": "W1",
+        "officialDate": "2026-07-24",
+        "playerCount": 548,
+        "totalPower": 23514681070,
+        "totalMerits": 82593923,
+        "totalKills": 49381110797,
+        "totalHealing": 70258533685
       },
       "weeklyTotals": {
         "W0": {
@@ -312,12 +345,20 @@
           "totalMerits": 0,
           "totalKills": 49543188632,
           "totalHealing": 70545654796
+        },
+        "W1": {
+          "officialDate": "2026-07-24",
+          "playerCount": 548,
+          "totalPower": 23514681070,
+          "totalMerits": 82593923,
+          "totalKills": 49381110797,
+          "totalHealing": 70258533685
         }
       },
       "series": {
         "power": [
           23740051908,
-          null,
+          23514681070,
           null,
           null,
           null,
@@ -326,7 +367,7 @@
         ],
         "merits": [
           0,
-          null,
+          82593923,
           null,
           null,
           null,
@@ -335,7 +376,7 @@
         ],
         "kills": [
           49543188632,
-          null,
+          49381110797,
           null,
           null,
           null,
@@ -344,7 +385,7 @@
         ],
         "healing": [
           70545654796,
-          null,
+          70258533685,
           null,
           null,
           null,
@@ -358,13 +399,13 @@
       "kingdom": 668,
       "isHomeKingdom": false,
       "current": {
-        "week": "W0",
-        "officialDate": "2026-07-17",
+        "week": "W1",
+        "officialDate": "2026-07-24",
         "playerCount": 600,
-        "totalPower": 22528872008,
-        "totalMerits": 0,
-        "totalKills": 77697922497,
-        "totalHealing": 72394832057
+        "totalPower": 22720619123,
+        "totalMerits": 91786993,
+        "totalKills": 77348841408,
+        "totalHealing": 72288776588
       },
       "weeklyTotals": {
         "W0": {
@@ -374,12 +415,20 @@
           "totalMerits": 0,
           "totalKills": 77697922497,
           "totalHealing": 72394832057
+        },
+        "W1": {
+          "officialDate": "2026-07-24",
+          "playerCount": 600,
+          "totalPower": 22720619123,
+          "totalMerits": 91786993,
+          "totalKills": 77348841408,
+          "totalHealing": 72288776588
         }
       },
       "series": {
         "power": [
           22528872008,
-          null,
+          22720619123,
           null,
           null,
           null,
@@ -388,7 +437,7 @@
         ],
         "merits": [
           0,
-          null,
+          91786993,
           null,
           null,
           null,
@@ -397,7 +446,7 @@
         ],
         "kills": [
           77697922497,
-          null,
+          77348841408,
           null,
           null,
           null,
@@ -406,7 +455,7 @@
         ],
         "healing": [
           72394832057,
-          null,
+          72288776588,
           null,
           null,
           null,
@@ -422,86 +471,86 @@
         "rank": 1,
         "serverNumber": 80,
         "kingdom": 80,
-        "value": 25072740391,
+        "value": 25316029405,
         "isHomeKingdom": false
       },
       {
         "rank": 2,
         "serverNumber": 630,
         "kingdom": 630,
-        "value": 23740051908,
+        "value": 23514681070,
         "isHomeKingdom": true
       },
       {
         "rank": 3,
         "serverNumber": 668,
         "kingdom": 668,
-        "value": 22528872008,
+        "value": 22720619123,
         "isHomeKingdom": false
       },
       {
         "rank": 4,
         "serverNumber": 91,
         "kingdom": 91,
-        "value": 16454895348,
+        "value": 15865161890,
         "isHomeKingdom": false
       },
       {
         "rank": 5,
         "serverNumber": 594,
         "kingdom": 594,
-        "value": 14004055601,
+        "value": 14050729009,
         "isHomeKingdom": false
       },
       {
         "rank": 6,
         "serverNumber": 337,
         "kingdom": 337,
-        "value": 13541753993,
+        "value": 13368470057,
         "isHomeKingdom": false
       }
     ],
     "merits": [
       {
         "rank": 1,
-        "serverNumber": 80,
-        "kingdom": 80,
-        "value": 0,
+        "serverNumber": 668,
+        "kingdom": 668,
+        "value": 91786993,
         "isHomeKingdom": false
       },
       {
         "rank": 2,
-        "serverNumber": 91,
-        "kingdom": 91,
-        "value": 0,
+        "serverNumber": 80,
+        "kingdom": 80,
+        "value": 88456416,
         "isHomeKingdom": false
       },
       {
         "rank": 3,
-        "serverNumber": 337,
-        "kingdom": 337,
-        "value": 0,
-        "isHomeKingdom": false
+        "serverNumber": 630,
+        "kingdom": 630,
+        "value": 82593923,
+        "isHomeKingdom": true
       },
       {
         "rank": 4,
         "serverNumber": 594,
         "kingdom": 594,
-        "value": 0,
+        "value": 51105257,
         "isHomeKingdom": false
       },
       {
         "rank": 5,
-        "serverNumber": 630,
-        "kingdom": 630,
-        "value": 0,
-        "isHomeKingdom": true
+        "serverNumber": 337,
+        "kingdom": 337,
+        "value": 43757704,
+        "isHomeKingdom": false
       },
       {
         "rank": 6,
-        "serverNumber": 668,
-        "kingdom": 668,
-        "value": 0,
+        "serverNumber": 91,
+        "kingdom": 91,
+        "value": 28226433,
         "isHomeKingdom": false
       }
     ],
@@ -510,42 +559,42 @@
         "rank": 1,
         "serverNumber": 80,
         "kingdom": 80,
-        "value": 114073767274,
+        "value": 114333962368,
         "isHomeKingdom": false
       },
       {
         "rank": 2,
         "serverNumber": 668,
         "kingdom": 668,
-        "value": 77697922497,
+        "value": 77348841408,
         "isHomeKingdom": false
       },
       {
         "rank": 3,
         "serverNumber": 630,
         "kingdom": 630,
-        "value": 49543188632,
+        "value": 49381110797,
         "isHomeKingdom": true
       },
       {
         "rank": 4,
         "serverNumber": 337,
         "kingdom": 337,
-        "value": 34845418824,
+        "value": 34155983892,
         "isHomeKingdom": false
       },
       {
         "rank": 5,
-        "serverNumber": 91,
-        "kingdom": 91,
-        "value": 26633840601,
+        "serverNumber": 594,
+        "kingdom": 594,
+        "value": 25702026976,
         "isHomeKingdom": false
       },
       {
         "rank": 6,
-        "serverNumber": 594,
-        "kingdom": 594,
-        "value": 25579711379,
+        "serverNumber": 91,
+        "kingdom": 91,
+        "value": 25079390990,
         "isHomeKingdom": false
       }
     ],
@@ -554,42 +603,42 @@
         "rank": 1,
         "serverNumber": 80,
         "kingdom": 80,
-        "value": 94460536994,
+        "value": 94977680846,
         "isHomeKingdom": false
       },
       {
         "rank": 2,
         "serverNumber": 668,
         "kingdom": 668,
-        "value": 72394832057,
+        "value": 72288776588,
         "isHomeKingdom": false
       },
       {
         "rank": 3,
         "serverNumber": 630,
         "kingdom": 630,
-        "value": 70545654796,
+        "value": 70258533685,
         "isHomeKingdom": true
       },
       {
         "rank": 4,
         "serverNumber": 337,
         "kingdom": 337,
-        "value": 43302027255,
+        "value": 42799225218,
         "isHomeKingdom": false
       },
       {
         "rank": 5,
         "serverNumber": 91,
         "kingdom": 91,
-        "value": 40827564375,
+        "value": 38868308109,
         "isHomeKingdom": false
       },
       {
         "rank": 6,
         "serverNumber": 594,
         "kingdom": 594,
-        "value": 32689022593,
+        "value": 32871687254,
         "isHomeKingdom": false
       }
     ]
@@ -613,7 +662,7 @@
           "label": "Server 80 Power",
           "data": [
             25072740391,
-            null,
+            25316029405,
             null,
             null,
             null,
@@ -628,7 +677,7 @@
           "label": "Server 91 Power",
           "data": [
             16454895348,
-            null,
+            15865161890,
             null,
             null,
             null,
@@ -643,7 +692,7 @@
           "label": "Server 337 Power",
           "data": [
             13541753993,
-            null,
+            13368470057,
             null,
             null,
             null,
@@ -658,7 +707,7 @@
           "label": "Server 594 Power",
           "data": [
             14004055601,
-            null,
+            14050729009,
             null,
             null,
             null,
@@ -673,7 +722,7 @@
           "label": "Server 630 Power",
           "data": [
             23740051908,
-            null,
+            23514681070,
             null,
             null,
             null,
@@ -688,7 +737,7 @@
           "label": "Server 668 Power",
           "data": [
             22528872008,
-            null,
+            22720619123,
             null,
             null,
             null,
@@ -717,7 +766,7 @@
           "label": "Server 80 Merits",
           "data": [
             0,
-            null,
+            88456416,
             null,
             null,
             null,
@@ -732,7 +781,7 @@
           "label": "Server 91 Merits",
           "data": [
             0,
-            null,
+            28226433,
             null,
             null,
             null,
@@ -747,7 +796,7 @@
           "label": "Server 337 Merits",
           "data": [
             0,
-            null,
+            43757704,
             null,
             null,
             null,
@@ -762,7 +811,7 @@
           "label": "Server 594 Merits",
           "data": [
             0,
-            null,
+            51105257,
             null,
             null,
             null,
@@ -777,7 +826,7 @@
           "label": "Server 630 Merits",
           "data": [
             0,
-            null,
+            82593923,
             null,
             null,
             null,
@@ -792,7 +841,7 @@
           "label": "Server 668 Merits",
           "data": [
             0,
-            null,
+            91786993,
             null,
             null,
             null,
@@ -821,7 +870,7 @@
           "label": "Server 80 Kills",
           "data": [
             114073767274,
-            null,
+            114333962368,
             null,
             null,
             null,
@@ -836,7 +885,7 @@
           "label": "Server 91 Kills",
           "data": [
             26633840601,
-            null,
+            25079390990,
             null,
             null,
             null,
@@ -851,7 +900,7 @@
           "label": "Server 337 Kills",
           "data": [
             34845418824,
-            null,
+            34155983892,
             null,
             null,
             null,
@@ -866,7 +915,7 @@
           "label": "Server 594 Kills",
           "data": [
             25579711379,
-            null,
+            25702026976,
             null,
             null,
             null,
@@ -881,7 +930,7 @@
           "label": "Server 630 Kills",
           "data": [
             49543188632,
-            null,
+            49381110797,
             null,
             null,
             null,
@@ -896,7 +945,7 @@
           "label": "Server 668 Kills",
           "data": [
             77697922497,
-            null,
+            77348841408,
             null,
             null,
             null,
@@ -925,7 +974,7 @@
           "label": "Server 80 Healing",
           "data": [
             94460536994,
-            null,
+            94977680846,
             null,
             null,
             null,
@@ -940,7 +989,7 @@
           "label": "Server 91 Healing",
           "data": [
             40827564375,
-            null,
+            38868308109,
             null,
             null,
             null,
@@ -955,7 +1004,7 @@
           "label": "Server 337 Healing",
           "data": [
             43302027255,
-            null,
+            42799225218,
             null,
             null,
             null,
@@ -970,7 +1019,7 @@
           "label": "Server 594 Healing",
           "data": [
             32689022593,
-            null,
+            32871687254,
             null,
             null,
             null,
@@ -985,7 +1034,7 @@
           "label": "Server 630 Healing",
           "data": [
             70545654796,
-            null,
+            70258533685,
             null,
             null,
             null,
@@ -1000,7 +1049,7 @@
           "label": "Server 668 Healing",
           "data": [
             72394832057,
-            null,
+            72288776588,
             null,
             null,
             null,
