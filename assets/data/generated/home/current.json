@@ -2,21 +2,21 @@
   "schemaVersion": 1,
   "kingdom": 630,
   "dataset": "home",
-  "generatedFrom": "season-2-W2",
-  "generatedAt": "2026-09-07T13:01:46.623Z",
+  "generatedFrom": "season-2-W3",
+  "generatedAt": "2026-09-07T13:08:40.887Z",
   "generatedBy": "ragnarok99gaming@gmail.com",
   "currentSeason": 2,
-  "currentWeek": "W2",
-  "currentWeekDate": "2026-07-31",
+  "currentWeek": "W3",
+  "currentWeekDate": "2026-08-07",
   "seasonName": "The Icebound Oath",
   "totals": {
-    "activePlayers": 525,
+    "activePlayers": 524,
     "warriors": 229,
-    "farmers": 296,
-    "serverPower": 22643740638,
-    "serverMerits": 524710624,
-    "serverKills": 50806522998,
-    "serverHealing": 71917040570
+    "farmers": 295,
+    "serverPower": 22253792035,
+    "serverMerits": 621576028,
+    "serverKills": 50734104893,
+    "serverHealing": 72004929965
   },
   "playerRanking": {
     "topIdMerits": [
@@ -36,24 +36,24 @@
       },
       {
         "rank": 3,
-        "id": "5435638",
-        "name": "乄Sweet Daddy",
-        "kingdom": 630,
-        "merits": 7751320
-      },
-      {
-        "rank": 4,
         "id": "8479606",
         "name": "kuzziak",
         "kingdom": 630,
-        "merits": 7746360
+        "merits": 9492311
+      },
+      {
+        "rank": 4,
+        "id": "11605279",
+        "name": "ᴋɪɴɢ 彡",
+        "kingdom": 630,
+        "merits": 8830078
       },
       {
         "rank": 5,
-        "id": "11241673",
-        "name": "ꜰʟᴜꜰꜰʏ Dragon",
+        "id": "14793459",
+        "name": "ᴿᵉᶠ PᴜssNBᴏᴏᴛs",
         "kingdom": 630,
-        "merits": 7699952
+        "merits": 8256080
       }
     ]
   },
@@ -63,31 +63,31 @@
         "rank": 1,
         "kingdom": 80,
         "server": 80,
-        "merits": 1358746940
+        "merits": 1777743065
       },
       {
         "rank": 2,
-        "kingdom": 630,
-        "server": 630,
-        "merits": 524710624
+        "kingdom": 668,
+        "server": 668,
+        "merits": 1251581015
       },
       {
         "rank": 3,
-        "kingdom": 337,
-        "server": 337,
-        "merits": 354661567
+        "kingdom": 630,
+        "server": 630,
+        "merits": 621576028
       },
       {
         "rank": 4,
-        "kingdom": 594,
-        "server": 594,
-        "merits": 331331133
+        "kingdom": 337,
+        "server": 337,
+        "merits": 604253388
       },
       {
         "rank": 5,
-        "kingdom": 668,
-        "server": 668,
-        "merits": 279108150
+        "kingdom": 594,
+        "server": 594,
+        "merits": 395789413
       }
     ]
   },
@@ -110,7 +110,7 @@
             23740051908,
             23514681070,
             22643740638,
-            null,
+            22253792035,
             null,
             null,
             null
@@ -136,7 +136,7 @@
             0,
             82593923,
             524710624,
-            null,
+            621576028,
             null,
             null,
             null
@@ -166,6 +166,13 @@
       "serverMerits": 524710624,
       "serverKills": 50806522998,
       "serverHealing": 71917040570
+    },
+    "W3": {
+      "officialDate": "2026-08-07",
+      "serverPower": 22253792035,
+      "serverMerits": 621576028,
+      "serverKills": 50734104893,
+      "serverHealing": 72004929965
     }
   }
 }
