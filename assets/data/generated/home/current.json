@@ -2,198 +2,72 @@
   "schemaVersion": 1,
   "kingdom": 630,
   "dataset": "home",
-  "generatedFrom": "season-1-W6",
-  "generatedAt": "2026-08-06T11:58:08.431Z",
-  "generatedBy": "ragnarok99gaming@gmail.com",
-  "currentSeason": 1,
-  "currentWeek": "W6",
-  "currentWeekDate": "2026-06-19",
-  "seasonName": "Rise of the Dragon",
+  "generatedFrom": "matchmaking",
+  "matchmakingDate": "2026-07-15",
+  "generatedAt": "2026-09-07T12:30:24.620Z",
+  "currentSeason": 2,
+  "currentWeek": null,
   "totals": {
-    "activePlayers": 440,
-    "warriors": 198,
-    "farmers": 242,
-    "serverPower": 17783208495,
-    "serverMerits": 1482730395,
-    "serverKills": 39671687451,
-    "serverHealing": 57562256158
+    "activePlayers": 498,
+    "warriors": 221,
+    "farmers": 277,
+    "serverPower": 22572642162,
+    "serverMerits": 1770656987,
+    "serverKills": 45915846335,
+    "serverHealing": 66672156036
   },
   "playerRanking": {
     "topIdMerits": [
       {
         "rank": 1,
-        "id": "13460043",
-        "name": "MeeH",
-        "kingdom": 630,
-        "merits": 33247628
-      },
-      {
-        "rank": 2,
-        "id": "1218693",
-        "name": "Sport",
-        "kingdom": 630,
-        "merits": 29798735
-      },
-      {
-        "rank": 3,
-        "id": "2805585",
-        "name": "VicのƁaKa実",
-        "kingdom": 630,
-        "merits": 23393029
-      },
-      {
-        "rank": 4,
         "id": "11003912",
         "name": "ᵀᵂLook三小",
         "kingdom": 630,
-        "merits": 22647573
+        "merits": 27405807
+      },
+      {
+        "rank": 2,
+        "id": "4081192",
+        "name": "Ardenis",
+        "kingdom": 630,
+        "merits": 24367135
+      },
+      {
+        "rank": 3,
+        "id": "5398378",
+        "name": "Pangolin",
+        "kingdom": 630,
+        "merits": 24273519
+      },
+      {
+        "rank": 4,
+        "id": "3074537",
+        "name": "TrDaphne",
+        "kingdom": 630,
+        "merits": 23721102
       },
       {
         "rank": 5,
         "id": "14788590",
         "name": "NeiKos496",
         "kingdom": 630,
-        "merits": 21254971
+        "merits": 23594172
       }
     ]
   },
   "serverRanking": {
-    "topServerMerits": [
-      {
-        "rank": 1,
-        "kingdom": 148,
-        "server": 148,
-        "merits": 2540595755
-      },
-      {
-        "rank": 2,
-        "kingdom": 476,
-        "server": 476,
-        "merits": 2508228242
-      },
-      {
-        "rank": 3,
-        "kingdom": 194,
-        "server": 194,
-        "merits": 2324178122
-      },
-      {
-        "rank": 4,
-        "kingdom": 22,
-        "server": 22,
-        "merits": 2133908958
-      },
-      {
-        "rank": 5,
-        "kingdom": 297,
-        "server": 297,
-        "merits": 1713385477
-      }
-    ]
+    "topServerMerits": []
   },
   "charts": {
     "powerDevelopment": {
-      "active": true,
-      "labels": [
-        "W0",
-        "W1",
-        "W2",
-        "W3",
-        "W4",
-        "W5",
-        "W6"
-      ],
-      "datasets": [
-        {
-          "label": "Server 630 Power",
-          "data": [
-            19097252651,
-            18999003482,
-            18360488156,
-            18552150514,
-            18201408510,
-            17558553086,
-            17783208495
-          ]
-        }
-      ]
+      "active": false,
+      "labels": [],
+      "datasets": []
     },
     "meritsDevelopment": {
-      "active": true,
-      "labels": [
-        "W0",
-        "W1",
-        "W2",
-        "W3",
-        "W4",
-        "W5",
-        "W6"
-      ],
-      "datasets": [
-        {
-          "label": "Server 630 Merits",
-          "data": [
-            0,
-            73696579,
-            394496265,
-            631215733,
-            1017164325,
-            1270199120,
-            1482730395
-          ]
-        }
-      ]
-    }
-  },
-  "weeklyTotals": {
-    "W0": {
-      "officialDate": "2026-05-07",
-      "serverPower": 19097252651,
-      "serverMerits": 0,
-      "serverKills": 38202044532,
-      "serverHealing": 53622698381
-    },
-    "W1": {
-      "officialDate": "2026-05-15",
-      "serverPower": 18999003482,
-      "serverMerits": 73696579,
-      "serverKills": 38393059654,
-      "serverHealing": 53874797186
-    },
-    "W2": {
-      "officialDate": "2026-05-22",
-      "serverPower": 18360488156,
-      "serverMerits": 394496265,
-      "serverKills": 39120530189,
-      "serverHealing": 54952182061
-    },
-    "W3": {
-      "officialDate": "2026-05-29",
-      "serverPower": 18552150514,
-      "serverMerits": 631215733,
-      "serverKills": 40099375194,
-      "serverHealing": 56733132669
-    },
-    "W4": {
-      "officialDate": "2026-06-05",
-      "serverPower": 18201408510,
-      "serverMerits": 1017164325,
-      "serverKills": 40707475171,
-      "serverHealing": 57835216060
-    },
-    "W5": {
-      "officialDate": "2026-06-12",
-      "serverPower": 17558553086,
-      "serverMerits": 1270199120,
-      "serverKills": 39371736163,
-      "serverHealing": 56990065971
-    },
-    "W6": {
-      "officialDate": "2026-06-19",
-      "serverPower": 17783208495,
-      "serverMerits": 1482730395,
-      "serverKills": 39671687451,
-      "serverHealing": 57562256158
+      "active": false,
+      "labels": [],
+      "datasets": []
     }
   }
 }
