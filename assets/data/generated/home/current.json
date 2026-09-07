@@ -2,58 +2,58 @@
   "schemaVersion": 1,
   "kingdom": 630,
   "dataset": "home",
-  "generatedFrom": "season-2-W0",
-  "generatedAt": "2026-09-07T12:47:41.897Z",
+  "generatedFrom": "season-2-W1",
+  "generatedAt": "2026-09-07T12:55:33.112Z",
   "generatedBy": "ragnarok99gaming@gmail.com",
   "currentSeason": 2,
-  "currentWeek": "W0",
-  "currentWeekDate": "2026-07-17",
+  "currentWeek": "W1",
+  "currentWeekDate": "2026-07-24",
   "seasonName": "The Icebound Oath",
   "totals": {
-    "activePlayers": 557,
-    "warriors": 233,
-    "farmers": 324,
-    "serverPower": 23740051908,
-    "serverMerits": 0,
-    "serverKills": 49543188632,
-    "serverHealing": 70545654796
+    "activePlayers": 548,
+    "warriors": 230,
+    "farmers": 318,
+    "serverPower": 23514681070,
+    "serverMerits": 82593923,
+    "serverKills": 49381110797,
+    "serverHealing": 70258533685
   },
   "playerRanking": {
     "topIdMerits": [
       {
         "rank": 1,
-        "id": "1440213",
-        "name": "SpitFire",
+        "id": "1910274",
+        "name": "Tr Gökhan",
         "kingdom": 630,
-        "merits": 0
+        "merits": 3525599
       },
       {
         "rank": 2,
-        "id": "1633862",
-        "name": "BKillick",
+        "id": "8752661",
+        "name": "ᴳᵀ MS2005",
         "kingdom": 630,
-        "merits": 0
+        "merits": 2272354
       },
       {
         "rank": 3,
-        "id": "4835621",
-        "name": "N0va",
+        "id": "8479606",
+        "name": "kuzziak",
         "kingdom": 630,
-        "merits": 0
+        "merits": 2050299
       },
       {
         "rank": 4,
-        "id": "1035977",
-        "name": "FRACCHIA",
+        "id": "13878830",
+        "name": "ziomus13",
         "kingdom": 630,
-        "merits": 0
+        "merits": 1948216
       },
       {
         "rank": 5,
-        "id": "5398378",
-        "name": "Pangolin",
+        "id": "3311533",
+        "name": "ᴿᵉᶠ Yami어둠",
         "kingdom": 630,
-        "merits": 0
+        "merits": 1455951
       }
     ]
   },
@@ -61,33 +61,33 @@
     "topServerMerits": [
       {
         "rank": 1,
-        "kingdom": 80,
-        "server": 80,
-        "merits": 0
+        "kingdom": 668,
+        "server": 668,
+        "merits": 91786993
       },
       {
         "rank": 2,
-        "kingdom": 91,
-        "server": 91,
-        "merits": 0
+        "kingdom": 80,
+        "server": 80,
+        "merits": 88456416
       },
       {
         "rank": 3,
-        "kingdom": 337,
-        "server": 337,
-        "merits": 0
+        "kingdom": 630,
+        "server": 630,
+        "merits": 82593923
       },
       {
         "rank": 4,
         "kingdom": 594,
         "server": 594,
-        "merits": 0
+        "merits": 51105257
       },
       {
         "rank": 5,
-        "kingdom": 630,
-        "server": 630,
-        "merits": 0
+        "kingdom": 337,
+        "server": 337,
+        "merits": 43757704
       }
     ]
   },
@@ -108,7 +108,7 @@
           "label": "Server 630 Power",
           "data": [
             23740051908,
-            null,
+            23514681070,
             null,
             null,
             null,
@@ -134,7 +134,7 @@
           "label": "Server 630 Merits",
           "data": [
             0,
-            null,
+            82593923,
             null,
             null,
             null,
@@ -152,6 +152,13 @@
       "serverMerits": 0,
       "serverKills": 49543188632,
       "serverHealing": 70545654796
+    },
+    "W1": {
+      "officialDate": "2026-07-24",
+      "serverPower": 23514681070,
+      "serverMerits": 82593923,
+      "serverKills": 49381110797,
+      "serverHealing": 70258533685
     }
   }
 }
