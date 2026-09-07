@@ -1,6 +1,6 @@
 {
   "schemaVersion": "630.1.0",
-  "updatedAt": "2026-08-06T11:58:12.182Z",
+  "updatedAt": "2026-09-07T09:55:44.857Z",
   "updatedBy": "ragnarok99gaming@gmail.com",
   "github": {
     "repositoryRead": false,
@@ -14,42 +14,51 @@
     "updatedAt": ""
   },
   "matchmaking": {
-    "ready": true,
-    "seasonNumber": 1,
-    "officialDate": "2026-05-07",
-    "playerCount": 467,
-    "updatedAt": "2026-08-02T16:32:10.387Z"
+    "ready": false,
+    "seasonNumber": 0,
+    "officialDate": "",
+    "playerCount": 0,
+    "updatedAt": ""
   },
   "season": {
     "websiteStatus": "in-season-migration-open",
-    "selectedSeason": {
-      "year": 2026,
-      "season": 1,
-      "sosNumber": 4,
-      "sosName": "Rise of the Dragon"
+    "selectedSeason": null,
+    "participatingServers": [],
+    "active": false,
+    "week0Unlocked": false,
+    "updatedAt": ""
+  },
+  "saveSeason": {
+    "active": false,
+    "seasonNumber": 0,
+    "officialDate": "",
+    "currentStep": null,
+    "status": "waiting",
+    "steps": {
+      "7A": {
+        "status": "waiting"
+      },
+      "7B": {
+        "status": "waiting"
+      },
+      "7C": {
+        "status": "waiting"
+      },
+      "7D": {
+        "status": "waiting"
+      },
+      "7E": {
+        "status": "waiting"
+      },
+      "7F": {
+        "status": "waiting"
+      },
+      "7G": {
+        "status": "waiting"
+      }
     },
-    "participatingServers": [
-      22,
-      47,
-      148,
-      194,
-      203,
-      228,
-      289,
-      297,
-      476,
-      538,
-      594,
-      630,
-      653,
-      654,
-      672,
-      729,
-      730
-    ],
-    "active": true,
-    "week0Unlocked": true,
-    "updatedAt": "2026-08-05T08:32:41.202Z"
+    "updatedAt": "",
+    "updatedBy": ""
   },
   "meritConfiguration": {
     "version": 1,
@@ -139,42 +148,26 @@
         }
       }
     },
-    "savedAt": "2026-08-06T10:01:36.242Z",
-    "savedBy": "ragnarok99gaming@gmail.com",
-    "updatePending": true,
+    "savedAt": "",
+    "savedBy": "",
+    "updatePending": false,
     "recalculatedAt": ""
   },
   "weeks": {
-    "uploaded": [
-      "W0",
-      "W1",
-      "W2",
-      "W3",
-      "W4",
-      "W5",
-      "W6"
-    ],
-    "latestWeek": "W6",
-    "officialDates": {
-      "W0": "2026-05-08",
-      "W1": "2026-05-15",
-      "W2": "2026-05-22",
-      "W3": "2026-05-29",
-      "W4": "2026-06-05",
-      "W5": "2026-06-12",
-      "W6": "2026-06-19"
-    },
-    "ready": true,
-    "updatedAt": "2026-08-06T11:57:53.102Z"
+    "uploaded": [],
+    "latestWeek": null,
+    "officialDates": {},
+    "ready": false,
+    "updatedAt": ""
   },
   "websiteBuild": {
-    "ready": true,
-    "lastBuiltAt": "2026-08-06T11:58:12.182Z"
+    "ready": false,
+    "lastBuiltAt": ""
   },
   "archive": {
-    "ready": true,
-    "archived": false,
-    "seasonNumber": 0,
-    "archivedAt": ""
+    "ready": false,
+    "archived": true,
+    "seasonNumber": 1,
+    "archivedAt": "2026-06-26T23:59:59.000Z"
   }
 }
