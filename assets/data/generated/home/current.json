@@ -2,72 +2,156 @@
   "schemaVersion": 1,
   "kingdom": 630,
   "dataset": "home",
-  "generatedFrom": "matchmaking",
-  "matchmakingDate": "2026-07-15",
-  "generatedAt": "2026-09-07T12:30:24.620Z",
+  "generatedFrom": "season-2-W0",
+  "generatedAt": "2026-09-07T12:47:41.897Z",
+  "generatedBy": "ragnarok99gaming@gmail.com",
   "currentSeason": 2,
-  "currentWeek": null,
+  "currentWeek": "W0",
+  "currentWeekDate": "2026-07-17",
+  "seasonName": "The Icebound Oath",
   "totals": {
-    "activePlayers": 498,
-    "warriors": 221,
-    "farmers": 277,
-    "serverPower": 22572642162,
-    "serverMerits": 1770656987,
-    "serverKills": 45915846335,
-    "serverHealing": 66672156036
+    "activePlayers": 557,
+    "warriors": 233,
+    "farmers": 324,
+    "serverPower": 23740051908,
+    "serverMerits": 0,
+    "serverKills": 49543188632,
+    "serverHealing": 70545654796
   },
   "playerRanking": {
     "topIdMerits": [
       {
         "rank": 1,
-        "id": "11003912",
-        "name": "ᵀᵂLook三小",
+        "id": "1440213",
+        "name": "SpitFire",
         "kingdom": 630,
-        "merits": 27405807
+        "merits": 0
       },
       {
         "rank": 2,
-        "id": "4081192",
-        "name": "Ardenis",
+        "id": "1633862",
+        "name": "BKillick",
         "kingdom": 630,
-        "merits": 24367135
+        "merits": 0
       },
       {
         "rank": 3,
-        "id": "5398378",
-        "name": "Pangolin",
+        "id": "4835621",
+        "name": "N0va",
         "kingdom": 630,
-        "merits": 24273519
+        "merits": 0
       },
       {
         "rank": 4,
-        "id": "3074537",
-        "name": "TrDaphne",
+        "id": "1035977",
+        "name": "FRACCHIA",
         "kingdom": 630,
-        "merits": 23721102
+        "merits": 0
       },
       {
         "rank": 5,
-        "id": "14788590",
-        "name": "NeiKos496",
+        "id": "5398378",
+        "name": "Pangolin",
         "kingdom": 630,
-        "merits": 23594172
+        "merits": 0
       }
     ]
   },
   "serverRanking": {
-    "topServerMerits": []
+    "topServerMerits": [
+      {
+        "rank": 1,
+        "kingdom": 80,
+        "server": 80,
+        "merits": 0
+      },
+      {
+        "rank": 2,
+        "kingdom": 91,
+        "server": 91,
+        "merits": 0
+      },
+      {
+        "rank": 3,
+        "kingdom": 337,
+        "server": 337,
+        "merits": 0
+      },
+      {
+        "rank": 4,
+        "kingdom": 594,
+        "server": 594,
+        "merits": 0
+      },
+      {
+        "rank": 5,
+        "kingdom": 630,
+        "server": 630,
+        "merits": 0
+      }
+    ]
   },
   "charts": {
     "powerDevelopment": {
-      "active": false,
-      "labels": [],
-      "datasets": []
+      "active": true,
+      "labels": [
+        "W0",
+        "W1",
+        "W2",
+        "W3",
+        "W4",
+        "W5",
+        "W6"
+      ],
+      "datasets": [
+        {
+          "label": "Server 630 Power",
+          "data": [
+            23740051908,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ]
+        }
+      ]
     },
     "meritsDevelopment": {
-      "active": false,
-      "labels": [],
-      "datasets": []
+      "active": true,
+      "labels": [
+        "W0",
+        "W1",
+        "W2",
+        "W3",
+        "W4",
+        "W5",
+        "W6"
+      ],
+      "datasets": [
+        {
+          "label": "Server 630 Merits",
+          "data": [
+            0,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ]
+        }
+      ]
+    }
+  },
+  "weeklyTotals": {
+    "W0": {
+      "officialDate": "2026-07-17",
+      "serverPower": 23740051908,
+      "serverMerits": 0,
+      "serverKills": 49543188632,
+      "serverHealing": 70545654796
     }
   }
 }
