@@ -1,6 +1,6 @@
 {
   "schemaVersion": "630.1.0",
-  "updatedAt": "2026-09-08T11:29:51.063Z",
+  "updatedAt": "2026-09-08T11:32:02.168Z",
   "updatedBy": "ragnarok99gaming@gmail.com",
   "github": {
     "repositoryRead": false,
@@ -14,63 +14,51 @@
     "updatedAt": ""
   },
   "matchmaking": {
-    "ready": true,
-    "seasonNumber": 2,
-    "officialDate": "2026-07-15",
-    "playerCount": 498,
-    "updatedAt": "2026-09-07T12:30:24.620Z"
+    "ready": false,
+    "seasonNumber": 0,
+    "officialDate": "",
+    "playerCount": 0,
+    "updatedAt": ""
   },
   "season": {
     "websiteStatus": "in-season-migration-open",
-    "selectedSeason": {
-      "year": 2026,
-      "season": 2,
-      "sosNumber": 2,
-      "sosName": "The Icebound Oath"
-    },
-    "participatingServers": [
-      80,
-      91,
-      337,
-      594,
-      630,
-      668
-    ],
-    "active": true,
-    "week0Unlocked": true,
-    "updatedAt": "2026-09-07T12:46:33.797Z"
+    "selectedSeason": null,
+    "participatingServers": [],
+    "active": false,
+    "week0Unlocked": false,
+    "updatedAt": ""
   },
   "saveSeason": {
-    "active": true,
-    "seasonNumber": 2,
-    "officialDate": "2026-08-31",
-    "currentStep": "7G",
-    "status": "completed",
+    "active": false,
+    "seasonNumber": 0,
+    "officialDate": "",
+    "currentStep": null,
+    "status": "waiting",
     "steps": {
       "7A": {
-        "status": "completed"
+        "status": "waiting"
       },
       "7B": {
-        "status": "completed"
+        "status": "waiting"
       },
       "7C": {
-        "status": "completed"
+        "status": "waiting"
       },
       "7D": {
-        "status": "completed"
+        "status": "waiting"
       },
       "7E": {
-        "status": "completed"
+        "status": "waiting"
       },
       "7F": {
-        "status": "completed"
+        "status": "waiting"
       },
       "7G": {
-        "status": "completed"
+        "status": "waiting"
       }
     },
-    "updatedAt": "2026-09-08T11:29:51.063Z",
-    "updatedBy": "ragnarok99gaming@gmail.com"
+    "updatedAt": "",
+    "updatedBy": ""
   },
   "meritConfiguration": {
     "version": 1,
@@ -160,42 +148,26 @@
         }
       }
     },
-    "savedAt": "2026-09-07T12:45:21.389Z",
-    "savedBy": "ragnarok99gaming@gmail.com",
-    "updatePending": true,
+    "savedAt": "",
+    "savedBy": "",
+    "updatePending": false,
     "recalculatedAt": ""
   },
   "weeks": {
-    "uploaded": [
-      "W0",
-      "W1",
-      "W2",
-      "W3",
-      "W4",
-      "W5",
-      "W6"
-    ],
-    "latestWeek": "W6",
-    "officialDates": {
-      "W0": "2026-07-17",
-      "W1": "2026-07-24",
-      "W2": "2026-07-31",
-      "W3": "2026-08-07",
-      "W4": "2026-08-14",
-      "W5": "2026-08-21",
-      "W6": "2026-08-28"
-    },
-    "ready": true,
-    "updatedAt": "2026-09-07T13:45:09.605Z"
+    "uploaded": [],
+    "latestWeek": null,
+    "officialDates": {},
+    "ready": false,
+    "updatedAt": ""
   },
   "websiteBuild": {
-    "ready": true,
-    "lastBuiltAt": "2026-09-07T13:45:29.972Z"
+    "ready": false,
+    "lastBuiltAt": ""
   },
   "archive": {
-    "ready": true,
+    "ready": false,
     "archived": true,
-    "seasonNumber": 1,
-    "archivedAt": "2026-06-26T23:59:59.000Z"
+    "seasonNumber": 2,
+    "archivedAt": "2026-08-31T23:59:59.000Z"
   }
 }
