@@ -1,6 +1,6 @@
 {
   "schemaVersion": "630.1.0",
-  "updatedAt": "2026-09-08T06:06:48.944Z",
+  "updatedAt": "2026-09-08T06:44:42.919Z",
   "updatedBy": "ragnarok99gaming@gmail.com",
   "github": {
     "repositoryRead": false,
@@ -45,10 +45,10 @@
     "seasonNumber": 2,
     "officialDate": "2026-08-31",
     "currentStep": "7A",
-    "status": "waiting",
+    "status": "running",
     "steps": {
       "7A": {
-        "status": "waiting"
+        "status": "running"
       },
       "7B": {
         "status": "waiting"
@@ -69,7 +69,7 @@
         "status": "waiting"
       }
     },
-    "updatedAt": "2026-09-08T06:06:48.944Z",
+    "updatedAt": "2026-09-08T06:44:42.919Z",
     "updatedBy": "ragnarok99gaming@gmail.com"
   },
   "meritConfiguration": {
