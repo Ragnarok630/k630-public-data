@@ -1,6 +1,6 @@
 {
   "schemaVersion": "630.1.0",
-  "updatedAt": "2026-09-08T11:32:02.168Z",
+  "updatedAt": "2026-09-08T11:35:13.390Z",
   "updatedBy": "ragnarok99gaming@gmail.com",
   "github": {
     "repositoryRead": false,
@@ -14,11 +14,11 @@
     "updatedAt": ""
   },
   "matchmaking": {
-    "ready": false,
-    "seasonNumber": 0,
-    "officialDate": "",
-    "playerCount": 0,
-    "updatedAt": ""
+    "ready": true,
+    "seasonNumber": 3,
+    "officialDate": "2026-09-02",
+    "playerCount": 471,
+    "updatedAt": "2026-09-08T11:35:13.357Z"
   },
   "season": {
     "websiteStatus": "in-season-migration-open",
