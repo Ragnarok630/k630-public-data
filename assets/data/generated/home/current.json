@@ -2,72 +2,156 @@
   "schemaVersion": 1,
   "kingdom": 630,
   "dataset": "home",
-  "generatedFrom": "matchmaking",
-  "matchmakingDate": "2026-09-02",
-  "generatedAt": "2026-09-08T11:35:13.357Z",
+  "generatedFrom": "season-3-W0",
+  "generatedAt": "2026-09-08T11:49:42.540Z",
+  "generatedBy": "ragnarok99gaming@gmail.com",
   "currentSeason": 3,
-  "currentWeek": null,
+  "currentWeek": "W0",
+  "currentWeekDate": "2026-09-04",
+  "seasonName": "(SoS-8) Symphony of the Gods",
   "totals": {
     "activePlayers": 471,
     "warriors": 217,
     "farmers": 254,
-    "serverPower": 23316189438,
-    "serverMerits": 1389021172,
-    "serverKills": 56857088121,
-    "serverHealing": 76563698010
+    "serverPower": 22876908343,
+    "serverMerits": 0,
+    "serverKills": 56875286618,
+    "serverHealing": 76596762525
   },
   "playerRanking": {
     "topIdMerits": [
       {
         "rank": 1,
-        "id": "6437617",
-        "name": "JM SUPERMAN",
+        "id": "353126",
+        "name": "Aadi",
         "kingdom": 630,
-        "merits": 19647046
+        "merits": 0
       },
       {
         "rank": 2,
-        "id": "11605279",
-        "name": "ᴋɪɴɢ 彡",
+        "id": "4706389",
+        "name": "CapCai 乄",
         "kingdom": 630,
-        "merits": 19335158
+        "merits": 0
       },
       {
         "rank": 3,
-        "id": "6683730",
-        "name": "JM BATMAN",
+        "id": "6685458",
+        "name": "Moonlight彡",
         "kingdom": 630,
-        "merits": 18958815
+        "merits": 0
       },
       {
         "rank": 4,
-        "id": "5398378",
-        "name": "Pangolin",
+        "id": "4901487",
+        "name": "RegularGordo",
         "kingdom": 630,
-        "merits": 18612516
+        "merits": 0
       },
       {
         "rank": 5,
-        "id": "5435638",
-        "name": "乄Sweet Daddy",
+        "id": "4921693",
+        "name": "父 Hyrxx",
         "kingdom": 630,
-        "merits": 18147953
+        "merits": 0
       }
     ]
   },
   "serverRanking": {
-    "topServerMerits": []
+    "topServerMerits": [
+      {
+        "rank": 1,
+        "kingdom": 55,
+        "server": 55,
+        "merits": 0
+      },
+      {
+        "rank": 2,
+        "kingdom": 110,
+        "server": 110,
+        "merits": 0
+      },
+      {
+        "rank": 3,
+        "kingdom": 300,
+        "server": 300,
+        "merits": 0
+      },
+      {
+        "rank": 4,
+        "kingdom": 310,
+        "server": 310,
+        "merits": 0
+      },
+      {
+        "rank": 5,
+        "kingdom": 583,
+        "server": 583,
+        "merits": 0
+      }
+    ]
   },
   "charts": {
     "powerDevelopment": {
-      "active": false,
-      "labels": [],
-      "datasets": []
+      "active": true,
+      "labels": [
+        "W0",
+        "W1",
+        "W2",
+        "W3",
+        "W4",
+        "W5",
+        "W6"
+      ],
+      "datasets": [
+        {
+          "label": "Server 630 Power",
+          "data": [
+            22876908343,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ]
+        }
+      ]
     },
     "meritsDevelopment": {
-      "active": false,
-      "labels": [],
-      "datasets": []
+      "active": true,
+      "labels": [
+        "W0",
+        "W1",
+        "W2",
+        "W3",
+        "W4",
+        "W5",
+        "W6"
+      ],
+      "datasets": [
+        {
+          "label": "Server 630 Merits",
+          "data": [
+            0,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ]
+        }
+      ]
+    }
+  },
+  "weeklyTotals": {
+    "W0": {
+      "officialDate": "2026-09-04",
+      "serverPower": 22876908343,
+      "serverMerits": 0,
+      "serverKills": 56875286618,
+      "serverHealing": 76596762525
     }
   }
 }
