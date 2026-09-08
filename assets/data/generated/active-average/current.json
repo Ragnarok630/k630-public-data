@@ -15,6 +15,14 @@
         "merits",
         "meritPowerPercentage"
       ]
+    },
+    {
+      "season": 3,
+      "columns": [
+        "currentPower",
+        "merits",
+        "meritPowerPercentage"
+      ]
     }
   ],
   "columns": {
@@ -82,7 +90,8 @@
           "currentPower": 240502774,
           "merits": 6855090,
           "meritPowerPercentage": 2.850316395934793
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -149,7 +158,9 @@
       "averageMeritsValue": null,
       "averageMeritsPercentage": null,
       "seasonsPlayed": 0,
-      "seasons": {},
+      "seasons": {
+        "3": null
+      },
       "active": true,
       "source": "season-week",
       "sourceDate": "2026-08-28",
@@ -223,7 +234,8 @@
           "currentPower": 180539774,
           "merits": 4131990,
           "meritPowerPercentage": 2.288686813134041
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -297,7 +309,8 @@
           "currentPower": 179401404,
           "merits": 12770268,
           "meritPowerPercentage": 7.118265362070411
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -369,7 +382,8 @@
           "currentPower": 175860291,
           "merits": 12547118,
           "meritPowerPercentage": 7.134707857386633
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -436,7 +450,9 @@
       "averageMeritsValue": null,
       "averageMeritsPercentage": null,
       "seasonsPlayed": 0,
-      "seasons": {},
+      "seasons": {
+        "3": null
+      },
       "active": true,
       "source": "season-week",
       "sourceDate": "2026-08-28",
@@ -503,7 +519,9 @@
       "averageMeritsValue": null,
       "averageMeritsPercentage": null,
       "seasonsPlayed": 0,
-      "seasons": {},
+      "seasons": {
+        "3": null
+      },
       "active": true,
       "source": "season-week",
       "sourceDate": "2026-08-28",
@@ -570,7 +588,9 @@
       "averageMeritsValue": null,
       "averageMeritsPercentage": null,
       "seasonsPlayed": 0,
-      "seasons": {},
+      "seasons": {
+        "3": null
+      },
       "active": true,
       "source": "season-week",
       "sourceDate": "2026-08-28",
@@ -637,7 +657,9 @@
       "averageMeritsValue": null,
       "averageMeritsPercentage": null,
       "seasonsPlayed": 0,
-      "seasons": {},
+      "seasons": {
+        "3": null
+      },
       "active": true,
       "source": "season-week",
       "sourceDate": "2026-08-28",
@@ -711,7 +733,8 @@
           "currentPower": 153536584,
           "merits": 18612516,
           "meritPowerPercentage": 12.122528400136868
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -776,7 +799,9 @@
       "averageMeritsValue": null,
       "averageMeritsPercentage": null,
       "seasonsPlayed": 0,
-      "seasons": {},
+      "seasons": {
+        "3": null
+      },
       "active": true,
       "source": "season-week",
       "sourceDate": "2026-08-28",
@@ -850,7 +875,8 @@
           "currentPower": 148498058,
           "merits": 4450596,
           "meritPowerPercentage": 2.9970735374869344
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -915,7 +941,9 @@
       "averageMeritsValue": null,
       "averageMeritsPercentage": null,
       "seasonsPlayed": 0,
-      "seasons": {},
+      "seasons": {
+        "3": null
+      },
       "active": true,
       "source": "season-week",
       "sourceDate": "2026-08-28",
@@ -988,7 +1016,8 @@
           "currentPower": 143847127,
           "merits": 14838626,
           "meritPowerPercentage": 10.315552565745717
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -1054,7 +1083,9 @@
       "averageMeritsValue": null,
       "averageMeritsPercentage": null,
       "seasonsPlayed": 0,
-      "seasons": {},
+      "seasons": {
+        "3": null
+      },
       "active": true,
       "source": "season-week",
       "sourceDate": "2026-08-28",
@@ -1134,7 +1165,8 @@
           "currentPower": 141678281,
           "merits": 5263314,
           "meritPowerPercentage": 3.7149759037519656
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -1199,7 +1231,9 @@
       "averageMeritsValue": null,
       "averageMeritsPercentage": null,
       "seasonsPlayed": 0,
-      "seasons": {},
+      "seasons": {
+        "3": null
+      },
       "active": true,
       "source": "season-week",
       "sourceDate": "2026-08-28",
@@ -1273,7 +1307,8 @@
           "currentPower": 141399213,
           "merits": 18147953,
           "meritPowerPercentage": 12.834550217758284
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -1338,7 +1373,9 @@
       "averageMeritsValue": null,
       "averageMeritsPercentage": null,
       "seasonsPlayed": 0,
-      "seasons": {},
+      "seasons": {
+        "3": null
+      },
       "active": true,
       "source": "season-week",
       "sourceDate": "2026-08-28",
@@ -1405,7 +1442,9 @@
       "averageMeritsValue": null,
       "averageMeritsPercentage": null,
       "seasonsPlayed": 0,
-      "seasons": {},
+      "seasons": {
+        "3": null
+      },
       "active": true,
       "source": "season-week",
       "sourceDate": "2026-08-28",
@@ -1479,7 +1518,8 @@
           "currentPower": 140604004,
           "merits": 15382979,
           "meritPowerPercentage": 10.940640780044927
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -1544,7 +1584,9 @@
       "averageMeritsValue": null,
       "averageMeritsPercentage": null,
       "seasonsPlayed": 0,
-      "seasons": {},
+      "seasons": {
+        "3": null
+      },
       "active": true,
       "source": "season-week",
       "sourceDate": "2026-08-28",
@@ -1614,7 +1656,8 @@
           "currentPower": 139331033,
           "merits": 14296236,
           "meritPowerPercentage": 10.260625857844605
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -1696,7 +1739,8 @@
           "currentPower": 138897225,
           "merits": 13279217,
           "meritPowerPercentage": 9.56046242104549
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -1761,7 +1805,9 @@
       "averageMeritsValue": null,
       "averageMeritsPercentage": null,
       "seasonsPlayed": 0,
-      "seasons": {},
+      "seasons": {
+        "3": null
+      },
       "active": true,
       "source": "season-week",
       "sourceDate": "2026-08-28",
@@ -1831,7 +1877,8 @@
           "currentPower": 137310543,
           "merits": 0,
           "meritPowerPercentage": null
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -1914,7 +1961,8 @@
           "currentPower": 136528962,
           "merits": 8123624,
           "meritPowerPercentage": 5.950110424189704
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -1983,7 +2031,8 @@
           "currentPower": 135607879,
           "merits": 7234561,
           "meritPowerPercentage": 5.33491199283487
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -2065,7 +2114,8 @@
           "currentPower": 135249968,
           "merits": 12004215,
           "meritPowerPercentage": 8.875576961319503
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -2133,7 +2183,8 @@
           "currentPower": 135043393,
           "merits": 6668096,
           "meritPowerPercentage": 4.9377432333916556
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -2221,7 +2272,8 @@
           "currentPower": 134767839,
           "merits": 146414,
           "meritPowerPercentage": 0.10864164706239743
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -2292,7 +2344,8 @@
           "currentPower": 134305455,
           "merits": 19335158,
           "meritPowerPercentage": 14.396405566698686
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -2365,7 +2418,8 @@
           "currentPower": 133716341,
           "merits": 7522084,
           "meritPowerPercentage": 5.625403704398402
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -2433,7 +2487,8 @@
           "currentPower": 132789399,
           "merits": 8196860,
           "meritPowerPercentage": 6.172827094427922
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -2515,7 +2570,8 @@
           "currentPower": 132155072,
           "merits": 9963755,
           "meritPowerPercentage": 7.539441997352927
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -2583,7 +2639,8 @@
           "currentPower": 131755906,
           "merits": 14874309,
           "meritPowerPercentage": 11.28929203370967
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -2665,7 +2722,8 @@
           "currentPower": 130925242,
           "merits": 7949699,
           "meritPowerPercentage": 6.071937602376171
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -2736,7 +2794,8 @@
           "currentPower": 130532522,
           "merits": 14648790,
           "meritPowerPercentage": 11.222329711824614
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -2815,7 +2874,8 @@
           "currentPower": 130509616,
           "merits": 11334086,
           "meritPowerPercentage": 8.684483448330734
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -2888,7 +2948,8 @@
           "currentPower": 130267121,
           "merits": 2989164,
           "meritPowerPercentage": 2.294641945760051
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -2954,7 +3015,9 @@
       "averageMeritsValue": null,
       "averageMeritsPercentage": null,
       "seasonsPlayed": 0,
-      "seasons": {},
+      "seasons": {
+        "3": null
+      },
       "active": true,
       "source": "season-week",
       "sourceDate": "2026-08-28",
@@ -3021,7 +3084,9 @@
       "averageMeritsValue": null,
       "averageMeritsPercentage": null,
       "seasonsPlayed": 0,
-      "seasons": {},
+      "seasons": {
+        "3": null
+      },
       "active": true,
       "source": "season-week",
       "sourceDate": "2026-08-28",
@@ -3095,7 +3160,8 @@
           "currentPower": 129992505,
           "merits": 12018537,
           "meritPowerPercentage": 9.245561503719003
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -3163,7 +3229,8 @@
           "currentPower": 129639148,
           "merits": 6518662,
           "meritPowerPercentage": 5.028312898199546
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -3251,7 +3318,8 @@
           "currentPower": 129320034,
           "merits": 12151679,
           "meritPowerPercentage": 9.396594343611138
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -3318,7 +3386,9 @@
       "averageMeritsValue": null,
       "averageMeritsPercentage": null,
       "seasonsPlayed": 0,
-      "seasons": {},
+      "seasons": {
+        "3": null
+      },
       "active": true,
       "source": "season-week",
       "sourceDate": "2026-08-28",
@@ -3398,7 +3468,8 @@
           "currentPower": 128300404,
           "merits": 7114250,
           "meritPowerPercentage": 5.544994230883326
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -3468,7 +3539,8 @@
           "currentPower": 127848688,
           "merits": 10092386,
           "meritPowerPercentage": 7.894008267022653
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -3550,7 +3622,8 @@
           "currentPower": 127838278,
           "merits": 1091379,
           "meritPowerPercentage": 0.8537184770276709
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -3628,7 +3701,8 @@
           "currentPower": 127827400,
           "merits": 7356386,
           "meritPowerPercentage": 5.754936735003606
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -3701,7 +3775,8 @@
           "merits": 2701339,
           "meritPowerPercentage": 2.131221650557752
         },
-        "2": null
+        "2": null,
+        "3": null
       },
       "active": true,
       "source": "matchmaking",
@@ -3775,7 +3850,8 @@
           "currentPower": 126409155,
           "merits": 7132420,
           "meritPowerPercentage": 5.642328674691323
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -3846,7 +3922,8 @@
           "currentPower": 126331708,
           "merits": 15070025,
           "meritPowerPercentage": 11.928933154295674
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -3912,7 +3989,9 @@
       "averageMeritsValue": null,
       "averageMeritsPercentage": null,
       "seasonsPlayed": 0,
-      "seasons": {},
+      "seasons": {
+        "3": null
+      },
       "active": true,
       "source": "season-week",
       "sourceDate": "2026-08-28",
@@ -3979,7 +4058,9 @@
       "averageMeritsValue": null,
       "averageMeritsPercentage": null,
       "seasonsPlayed": 0,
-      "seasons": {},
+      "seasons": {
+        "3": null
+      },
       "active": true,
       "source": "season-week",
       "sourceDate": "2026-08-28",
@@ -4046,7 +4127,9 @@
       "averageMeritsValue": null,
       "averageMeritsPercentage": null,
       "seasonsPlayed": 0,
-      "seasons": {},
+      "seasons": {
+        "3": null
+      },
       "active": true,
       "source": "season-week",
       "sourceDate": "2026-08-28",
@@ -4116,7 +4199,8 @@
           "currentPower": 124935075,
           "merits": 6752924,
           "meritPowerPercentage": 5.405146633161264
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -4204,7 +4288,8 @@
           "currentPower": 124846538,
           "merits": 0,
           "meritPowerPercentage": 0
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -4284,7 +4369,8 @@
           "currentPower": 124841619,
           "merits": 7548561,
           "meritPowerPercentage": 6.046510018425826
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -4352,7 +4438,8 @@
           "currentPower": 124791200,
           "merits": 792955,
           "meritPowerPercentage": 0.6354254146125689
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -4436,7 +4523,8 @@
           "currentPower": 124536364,
           "merits": 7617006,
           "meritPowerPercentage": 6.116290660292603
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -4514,7 +4602,8 @@
           "currentPower": 124122429,
           "merits": 3545609,
           "meritPowerPercentage": 2.85654174556961
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -4579,7 +4668,9 @@
       "averageMeritsValue": null,
       "averageMeritsPercentage": null,
       "seasonsPlayed": 0,
-      "seasons": {},
+      "seasons": {
+        "3": null
+      },
       "active": true,
       "source": "season-week",
       "sourceDate": "2026-08-28",
@@ -4649,7 +4740,8 @@
           "currentPower": 123361284,
           "merits": 12598399,
           "meritPowerPercentage": 10.212603656103319
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -4733,7 +4825,8 @@
           "currentPower": 123298406,
           "merits": 14045623,
           "meritPowerPercentage": 11.391569003738782
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -4805,7 +4898,8 @@
           "currentPower": 123144560,
           "merits": 6739739,
           "meritPowerPercentage": 5.473030233735051
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -4877,7 +4971,8 @@
           "currentPower": 123110591,
           "merits": 8187929,
           "meritPowerPercentage": 6.65087295373312
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -4942,7 +5037,9 @@
       "averageMeritsValue": null,
       "averageMeritsPercentage": null,
       "seasonsPlayed": 0,
-      "seasons": {},
+      "seasons": {
+        "3": null
+      },
       "active": true,
       "source": "season-week",
       "sourceDate": "2026-08-28",
@@ -5022,7 +5119,8 @@
           "currentPower": 122203935,
           "merits": 4439425,
           "meritPowerPercentage": 3.632800367680468
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -5090,7 +5188,8 @@
           "currentPower": 121723944,
           "merits": 14140682,
           "meritPowerPercentage": 11.617009386419488
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -5168,7 +5267,8 @@
           "currentPower": 121550287,
           "merits": 5224082,
           "meritPowerPercentage": 4.297877141170386
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -5250,7 +5350,8 @@
           "currentPower": 121481141,
           "merits": 10066483,
           "meritPowerPercentage": 8.286457401647224
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -5318,7 +5419,8 @@
           "currentPower": 120742566,
           "merits": 2618792,
           "meritPowerPercentage": 2.168905371780818
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -5406,7 +5508,8 @@
           "currentPower": 120505289,
           "merits": 5326494,
           "meritPowerPercentage": 4.420132961964848
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -5484,7 +5587,8 @@
           "currentPower": 120179666,
           "merits": 16150367,
           "meritPowerPercentage": 13.438518792355438
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -5549,7 +5653,9 @@
       "averageMeritsValue": null,
       "averageMeritsPercentage": null,
       "seasonsPlayed": 0,
-      "seasons": {},
+      "seasons": {
+        "3": null
+      },
       "active": true,
       "source": "season-week",
       "sourceDate": "2026-08-28",
@@ -5623,7 +5729,8 @@
           "currentPower": 120087403,
           "merits": 12409644,
           "meritPowerPercentage": 10.333843259146839
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -5703,7 +5810,8 @@
           "currentPower": 120075628,
           "merits": 9136472,
           "meritPowerPercentage": 7.608931264552704
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -5771,7 +5879,8 @@
           "currentPower": 120065734,
           "merits": 6405745,
           "meritPowerPercentage": 5.3351983006242225
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -5846,7 +5955,9 @@
       "averageMeritsValue": null,
       "averageMeritsPercentage": null,
       "seasonsPlayed": 0,
-      "seasons": {},
+      "seasons": {
+        "3": null
+      },
       "active": true,
       "source": "season-week",
       "sourceDate": "2026-08-28",
@@ -5913,7 +6024,9 @@
       "averageMeritsValue": null,
       "averageMeritsPercentage": null,
       "seasonsPlayed": 0,
-      "seasons": {},
+      "seasons": {
+        "3": null
+      },
       "active": true,
       "source": "season-week",
       "sourceDate": "2026-08-28",
@@ -5983,7 +6096,8 @@
           "currentPower": 119541260,
           "merits": 8760052,
           "meritPowerPercentage": 7.328057274952599
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -6073,7 +6187,8 @@
           "currentPower": 119057926,
           "merits": 34777,
           "meritPowerPercentage": 0.029210151031859904
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -6151,7 +6266,8 @@
           "currentPower": 118851692,
           "merits": 4681243,
           "meritPowerPercentage": 3.9387264255354477
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -6219,7 +6335,8 @@
           "currentPower": 118795896,
           "merits": 17334067,
           "meritPowerPercentage": 14.591469557163828
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -6297,7 +6414,8 @@
           "currentPower": 118736494,
           "merits": 12008056,
           "meritPowerPercentage": 10.113197379737354
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -6375,7 +6493,8 @@
           "currentPower": 118419875,
           "merits": 12264819,
           "meritPowerPercentage": 10.357061261886994
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -6450,7 +6569,9 @@
       "averageMeritsValue": null,
       "averageMeritsPercentage": null,
       "seasonsPlayed": 0,
-      "seasons": {},
+      "seasons": {
+        "3": null
+      },
       "active": true,
       "source": "season-week",
       "sourceDate": "2026-08-28",
@@ -6520,7 +6641,8 @@
           "currentPower": 117188516,
           "merits": 16655283,
           "meritPowerPercentage": 14.21238494051755
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -6608,7 +6730,8 @@
           "currentPower": 117032668,
           "merits": 10968553,
           "meritPowerPercentage": 9.37221477339985
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -6680,7 +6803,8 @@
           "currentPower": 116847315,
           "merits": 4299615,
           "meritPowerPercentage": 3.6796866064059754
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -6745,7 +6869,9 @@
       "averageMeritsValue": null,
       "averageMeritsPercentage": null,
       "seasonsPlayed": 0,
-      "seasons": {},
+      "seasons": {
+        "3": null
+      },
       "active": true,
       "source": "season-week",
       "sourceDate": "2026-08-28",
@@ -6819,7 +6945,8 @@
           "currentPower": 116602278,
           "merits": 12033661,
           "meritPowerPercentage": 10.320262353708047
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -6884,7 +7011,9 @@
       "averageMeritsValue": null,
       "averageMeritsPercentage": null,
       "seasonsPlayed": 0,
-      "seasons": {},
+      "seasons": {
+        "3": null
+      },
       "active": true,
       "source": "season-week",
       "sourceDate": "2026-08-28",
@@ -6951,7 +7080,9 @@
       "averageMeritsValue": null,
       "averageMeritsPercentage": null,
       "seasonsPlayed": 0,
-      "seasons": {},
+      "seasons": {
+        "3": null
+      },
       "active": true,
       "source": "season-week",
       "sourceDate": "2026-08-28",
@@ -7021,7 +7152,8 @@
           "currentPower": 113234013,
           "merits": 2193274,
           "meritPowerPercentage": 1.936939212778761
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -7111,7 +7243,8 @@
           "currentPower": 113015011,
           "merits": 12474872,
           "meritPowerPercentage": 11.038243406444478
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -7183,7 +7316,8 @@
           "currentPower": 112955055,
           "merits": 4589714,
           "meritPowerPercentage": 4.0633099598774045
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -7261,7 +7395,8 @@
           "currentPower": 112926249,
           "merits": 0,
           "meritPowerPercentage": 0
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -7329,7 +7464,8 @@
           "currentPower": 112734734,
           "merits": 516954,
           "meritPowerPercentage": 0.4585578744524292
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -7411,7 +7547,8 @@
           "currentPower": 112554196,
           "merits": 3936870,
           "meritPowerPercentage": 3.4977549837413435
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -7481,7 +7618,8 @@
           "currentPower": 112452827,
           "merits": 17343248,
           "meritPowerPercentage": 15.422687417186943
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -7569,7 +7707,8 @@
           "currentPower": 112352004,
           "merits": 0,
           "meritPowerPercentage": 0
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -7637,7 +7776,8 @@
           "currentPower": 112209639,
           "merits": 5213885,
           "meritPowerPercentage": 4.646557146485428
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -7719,7 +7859,8 @@
           "currentPower": 111442710,
           "merits": 7610253,
           "meritPowerPercentage": 6.8288477550483115
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -7793,7 +7934,8 @@
           "currentPower": 111184578,
           "merits": 2590968,
           "meritPowerPercentage": 2.330330380891494
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -7861,7 +8003,8 @@
           "currentPower": 110418478,
           "merits": 9459325,
           "meritPowerPercentage": 8.566795314820405
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -7943,7 +8086,8 @@
           "currentPower": 110365279,
           "merits": 10169493,
           "meritPowerPercentage": 9.214395226600207
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -8017,7 +8161,8 @@
           "currentPower": 110191360,
           "merits": 6349124,
           "meritPowerPercentage": 5.761907285652886
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -8085,7 +8230,8 @@
           "currentPower": 110107877,
           "merits": 2109662,
           "meritPowerPercentage": 1.9159955286396086
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -8163,7 +8309,8 @@
           "currentPower": 110016364,
           "merits": 6747719,
           "meritPowerPercentage": 6.133377576448536
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -8245,7 +8392,8 @@
           "currentPower": 109713789,
           "merits": 9215182,
           "meritPowerPercentage": 8.399292453567528
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -8317,7 +8465,8 @@
           "currentPower": 109447079,
           "merits": 14142238,
           "meritPowerPercentage": 12.921530779272786
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -8395,7 +8544,8 @@
           "currentPower": 109304175,
           "merits": 13547133,
           "meritPowerPercentage": 12.393975801930713
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -8460,7 +8610,9 @@
       "averageMeritsValue": null,
       "averageMeritsPercentage": null,
       "seasonsPlayed": 0,
-      "seasons": {},
+      "seasons": {
+        "3": null
+      },
       "active": true,
       "source": "season-week",
       "sourceDate": "2026-08-28",
@@ -8534,7 +8686,8 @@
           "currentPower": 109198602,
           "merits": 8817713,
           "meritPowerPercentage": 8.07493213145714
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -8606,7 +8759,8 @@
           "currentPower": 109189624,
           "merits": 5088349,
           "meritPowerPercentage": 4.660103051550026
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -8678,7 +8832,8 @@
           "currentPower": 109096981,
           "merits": 8085985,
           "meritPowerPercentage": 7.411740385373267
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -8745,7 +8900,9 @@
       "averageMeritsValue": null,
       "averageMeritsPercentage": null,
       "seasonsPlayed": 0,
-      "seasons": {},
+      "seasons": {
+        "3": null
+      },
       "active": true,
       "source": "season-week",
       "sourceDate": "2026-08-28",
@@ -8825,7 +8982,8 @@
           "currentPower": 107573000,
           "merits": 0,
           "meritPowerPercentage": 0
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -8896,7 +9054,8 @@
           "currentPower": 107348653,
           "merits": 9021377,
           "meritPowerPercentage": 8.403810153071973
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -8965,7 +9124,8 @@
           "currentPower": 106998692,
           "merits": 14841141,
           "meritPowerPercentage": 13.870394789498922
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -9043,7 +9203,8 @@
           "currentPower": 106884782,
           "merits": 4944347,
           "meritPowerPercentage": 4.625866196742582
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -9123,7 +9284,8 @@
           "currentPower": 106558948,
           "merits": 4365292,
           "meritPowerPercentage": 4.096598250951201
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -9211,7 +9373,8 @@
           "currentPower": 106302585,
           "merits": 3603648,
           "meritPowerPercentage": 3.3899909395430035
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -9283,7 +9446,8 @@
           "currentPower": 106145795,
           "merits": 6480655,
           "meritPowerPercentage": 6.1054279163861365
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -9351,7 +9515,8 @@
           "currentPower": 105882320,
           "merits": 2268852,
           "meritPowerPercentage": 2.142805333317215
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -9426,7 +9591,9 @@
       "averageMeritsValue": null,
       "averageMeritsPercentage": null,
       "seasonsPlayed": 0,
-      "seasons": {},
+      "seasons": {
+        "3": null
+      },
       "active": true,
       "source": "season-week",
       "sourceDate": "2026-08-28",
@@ -9496,7 +9663,8 @@
           "currentPower": 105265166,
           "merits": 11941999,
           "meritPowerPercentage": 11.344682627489515
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -9574,7 +9742,8 @@
           "currentPower": 105233409,
           "merits": 13017931,
           "meritPowerPercentage": 12.370530541303665
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -9656,7 +9825,8 @@
           "currentPower": 104649528,
           "merits": 3616258,
           "meritPowerPercentage": 3.4555894031361514
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -9724,7 +9894,8 @@
           "currentPower": 104635964,
           "merits": 4741723,
           "meritPowerPercentage": 4.531637898418942
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -9802,7 +9973,8 @@
           "currentPower": 104303169,
           "merits": 1492176,
           "meritPowerPercentage": 1.4306142510396782
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -9886,7 +10058,8 @@
           "currentPower": 103428642,
           "merits": 7013930,
           "meritPowerPercentage": 6.7814194060480855
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -9964,7 +10137,8 @@
           "currentPower": 103038078,
           "merits": 3379405,
           "meritPowerPercentage": 3.2797632347140637
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -10032,7 +10206,8 @@
           "currentPower": 102921235,
           "merits": 5565144,
           "meritPowerPercentage": 5.407187350598737
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -10120,7 +10295,8 @@
           "currentPower": 102797156,
           "merits": 3327352,
           "meritPowerPercentage": 3.2368132830445235
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -10188,7 +10364,8 @@
           "currentPower": 102444263,
           "merits": 9618637,
           "meritPowerPercentage": 9.389141683805173
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -10270,7 +10447,8 @@
           "currentPower": 102171908,
           "merits": 5617967,
           "meritPowerPercentage": 5.4985436897194875
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -10338,7 +10516,8 @@
           "currentPower": 101741409,
           "merits": 5578994,
           "meritPowerPercentage": 5.483503771802492
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -10420,7 +10599,8 @@
           "currentPower": 101670618,
           "merits": 13805156,
           "meritPowerPercentage": 13.578314238239408
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -10491,7 +10671,8 @@
           "currentPower": 101625264,
           "merits": 8058121,
           "meritPowerPercentage": 7.92924975820973
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -10564,7 +10745,8 @@
           "currentPower": 101579746,
           "merits": 5091920,
           "meritPowerPercentage": 5.012731573477256
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -10631,7 +10813,9 @@
       "averageMeritsValue": null,
       "averageMeritsPercentage": null,
       "seasonsPlayed": 0,
-      "seasons": {},
+      "seasons": {
+        "3": null
+      },
       "active": true,
       "source": "season-week",
       "sourceDate": "2026-08-28",
@@ -10705,7 +10889,8 @@
           "currentPower": 101286370,
           "merits": 10320894,
           "meritPowerPercentage": 10.189815273269247
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -10775,7 +10960,8 @@
           "currentPower": 100902348,
           "merits": 4191828,
           "meritPowerPercentage": 4.154341383611807
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -10853,7 +11039,8 @@
           "currentPower": 100450602,
           "merits": 0,
           "meritPowerPercentage": 0
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -10935,7 +11122,8 @@
           "currentPower": 100157197,
           "merits": 4453036,
           "meritPowerPercentage": 4.446046947579814
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -11003,7 +11191,8 @@
           "currentPower": 99666802,
           "merits": 2108808,
           "meritPowerPercentage": 2.115857996527269
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -11091,7 +11280,8 @@
           "currentPower": 99322961,
           "merits": 3329479,
           "meritPowerPercentage": 3.3521745289087788
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -11161,7 +11351,8 @@
           "currentPower": 98860084,
           "merits": 2760473,
           "meritPowerPercentage": 2.7923029076123385
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -11239,7 +11430,8 @@
           "currentPower": 98518721,
           "merits": 5910243,
           "meritPowerPercentage": 5.999106504843887
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -11321,7 +11513,8 @@
           "currentPower": 98266707,
           "merits": 0,
           "meritPowerPercentage": 0
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -11388,7 +11581,9 @@
       "averageMeritsValue": null,
       "averageMeritsPercentage": null,
       "seasonsPlayed": 0,
-      "seasons": {},
+      "seasons": {
+        "3": null
+      },
       "active": true,
       "source": "season-week",
       "sourceDate": "2026-08-28",
@@ -11458,7 +11653,8 @@
           "currentPower": 98220375,
           "merits": 5060768,
           "meritPowerPercentage": 5.152462510960684
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -11546,7 +11742,8 @@
           "currentPower": 98041405,
           "merits": 9124693,
           "meritPowerPercentage": 9.306979025851374
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -11614,7 +11811,8 @@
           "currentPower": 97828146,
           "merits": 13812203,
           "meritPowerPercentage": 14.118843671022857
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -11692,7 +11890,8 @@
           "currentPower": 97545904,
           "merits": 12012117,
           "meritPowerPercentage": 12.314322290764766
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -11782,7 +11981,8 @@
           "currentPower": 97499282,
           "merits": 4339997,
           "meritPowerPercentage": 4.451311754275277
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -11860,7 +12060,8 @@
           "currentPower": 96677906,
           "merits": 13492425,
           "meritPowerPercentage": 13.956058378012449
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -11928,7 +12129,8 @@
           "currentPower": 96619835,
           "merits": 2044388,
           "meritPowerPercentage": 2.115909222987185
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -12006,7 +12208,8 @@
           "currentPower": 96468394,
           "merits": 13986083,
           "meritPowerPercentage": 14.498098724438183
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -12084,7 +12287,8 @@
           "currentPower": 96386280,
           "merits": 3660224,
           "meritPowerPercentage": 3.797453330494755
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -12162,7 +12366,8 @@
           "currentPower": 96030058,
           "merits": 6928652,
           "meritPowerPercentage": 7.215086759606039
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -12240,7 +12445,8 @@
           "currentPower": 95976888,
           "merits": 2318231,
           "meritPowerPercentage": 2.4154054671995615
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -12318,7 +12524,8 @@
           "currentPower": 95872293,
           "merits": 5741599,
           "meritPowerPercentage": 5.9887990787912
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -12396,7 +12603,8 @@
           "currentPower": 95571193,
           "merits": 6342144,
           "meritPowerPercentage": 6.6360414691067
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -12471,7 +12679,9 @@
       "averageMeritsValue": null,
       "averageMeritsPercentage": null,
       "seasonsPlayed": 0,
-      "seasons": {},
+      "seasons": {
+        "3": null
+      },
       "active": true,
       "source": "season-week",
       "sourceDate": "2026-08-28",
@@ -12541,7 +12751,8 @@
           "currentPower": 95423512,
           "merits": 1061065,
           "meritPowerPercentage": 1.1119534145840282
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -12619,7 +12830,8 @@
           "currentPower": 95371598,
           "merits": 4761119,
           "meritPowerPercentage": 4.992177021087557
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -12697,7 +12909,8 @@
           "currentPower": 95127159,
           "merits": 3859960,
           "meritPowerPercentage": 4.057684514682079
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -12777,7 +12990,8 @@
           "currentPower": 95065436,
           "merits": 6222994,
           "meritPowerPercentage": 6.54601110754912
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -12855,7 +13069,8 @@
           "currentPower": 94509590,
           "merits": 13599304,
           "meritPowerPercentage": 14.389337632297423
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -12933,7 +13148,8 @@
           "currentPower": 94444200,
           "merits": 1904482,
           "meritPowerPercentage": 2.0165155721579517
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -13011,7 +13227,8 @@
           "currentPower": 94092304,
           "merits": 4654885,
           "meritPowerPercentage": 4.947147430888715
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -13099,7 +13316,8 @@
           "currentPower": 94040994,
           "merits": 6093890,
           "meritPowerPercentage": 6.4800357171894625
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -13167,7 +13385,8 @@
           "currentPower": 93143712,
           "merits": 5586189,
           "meritPowerPercentage": 5.997387134410104
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -13245,7 +13464,8 @@
           "currentPower": 92925415,
           "merits": 9372052,
           "meritPowerPercentage": 10.085563782523867
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -13326,7 +13546,8 @@
           "currentPower": 92702134,
           "merits": 5484982,
           "meritPowerPercentage": 5.916780729125394
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -13392,7 +13613,9 @@
       "averageMeritsValue": null,
       "averageMeritsPercentage": null,
       "seasonsPlayed": 0,
-      "seasons": {},
+      "seasons": {
+        "3": null
+      },
       "active": true,
       "source": "season-week",
       "sourceDate": "2026-08-28",
@@ -13465,7 +13688,8 @@
           "currentPower": 92211716,
           "merits": 123442,
           "meritPowerPercentage": 0.13386802171645953
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -13534,7 +13758,8 @@
           "currentPower": 91221076,
           "merits": 947876,
           "meritPowerPercentage": 1.0390975874917328
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -13614,7 +13839,8 @@
           "currentPower": 90807672,
           "merits": 6724264,
           "meritPowerPercentage": 7.404951423047162
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -13692,7 +13918,8 @@
           "currentPower": 90524936,
           "merits": 0,
           "meritPowerPercentage": 0
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -13772,7 +13999,8 @@
           "currentPower": 90384483,
           "merits": 8516760,
           "meritPowerPercentage": 9.422812099284785
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -13850,7 +14078,8 @@
           "currentPower": 90188865,
           "merits": 3438388,
           "meritPowerPercentage": 3.8124307252342073
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -13928,7 +14157,8 @@
           "currentPower": 89924199,
           "merits": 5577164,
           "meritPowerPercentage": 6.2020724810681935
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -14006,7 +14236,8 @@
           "currentPower": 89918843,
           "merits": 7385462,
           "meritPowerPercentage": 8.213475344650508
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -14086,7 +14317,8 @@
           "currentPower": 89888449,
           "merits": 8180632,
           "meritPowerPercentage": 9.100871236525618
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -14168,7 +14400,8 @@
           "currentPower": 88841184,
           "merits": 8241173,
           "meritPowerPercentage": 9.276298028626002
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -14248,7 +14481,8 @@
           "currentPower": 88376089,
           "merits": 1601305,
           "meritPowerPercentage": 1.8119210955352416
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -14315,7 +14549,9 @@
       "averageMeritsValue": null,
       "averageMeritsPercentage": null,
       "seasonsPlayed": 0,
-      "seasons": {},
+      "seasons": {
+        "3": null
+      },
       "active": true,
       "source": "season-week",
       "sourceDate": "2026-08-28",
@@ -14385,7 +14621,8 @@
           "currentPower": 87688222,
           "merits": 0,
           "meritPowerPercentage": null
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -14465,7 +14702,8 @@
           "currentPower": 87332227,
           "merits": 3905637,
           "meritPowerPercentage": 4.472160088165392
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -14553,7 +14791,8 @@
           "currentPower": 87040741,
           "merits": 9353705,
           "meritPowerPercentage": 10.746352676386337
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -14621,7 +14860,8 @@
           "currentPower": 86901798,
           "merits": 515144,
           "meritPowerPercentage": 0.5927886555350673
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -14711,7 +14951,8 @@
           "currentPower": 86556507,
           "merits": 4549834,
           "meritPowerPercentage": 5.256489844258618
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -14781,7 +15022,8 @@
           "currentPower": 85849417,
           "merits": 3586552,
           "meritPowerPercentage": 4.177724351931243
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -14869,7 +15111,8 @@
           "currentPower": 85314455,
           "merits": 3477480,
           "meritPowerPercentage": 4.07607362667909
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -14937,7 +15180,8 @@
           "currentPower": 85239062,
           "merits": 2344413,
           "meritPowerPercentage": 2.750397464486411
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -15015,7 +15259,8 @@
           "currentPower": 84458940,
           "merits": 2269734,
           "meritPowerPercentage": 2.687381584471697
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -15093,7 +15338,8 @@
           "currentPower": 84441895,
           "merits": 3145491,
           "meritPowerPercentage": 3.725036014409672
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -15171,7 +15417,8 @@
           "currentPower": 83896869,
           "merits": 2647772,
           "meritPowerPercentage": 3.1559842835136074
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -15249,7 +15496,8 @@
           "currentPower": 82727454,
           "merits": 2560046,
           "meritPowerPercentage": 3.0945543180864723
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -15329,7 +15577,8 @@
           "currentPower": 82325053,
           "merits": 2696156,
           "meritPowerPercentage": 3.2750127716285835
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -15407,7 +15656,8 @@
           "currentPower": 81754785,
           "merits": 7011640,
           "meritPowerPercentage": 8.576427667200152
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -15485,7 +15735,8 @@
           "currentPower": 81178254,
           "merits": 2032662,
           "meritPowerPercentage": 2.5039489023747663
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -15563,7 +15814,8 @@
           "currentPower": 79841015,
           "merits": 4615343,
           "meritPowerPercentage": 5.780666741273267
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -15641,7 +15893,8 @@
           "currentPower": 79450686,
           "merits": 2672062,
           "meritPowerPercentage": 3.3631704577100816
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -15719,7 +15972,8 @@
           "currentPower": 79148512,
           "merits": 957768,
           "meritPowerPercentage": 1.2100897108463644
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -15797,7 +16051,8 @@
           "currentPower": 78818329,
           "merits": 1494242,
           "meritPowerPercentage": 1.8958052257108875
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -15874,7 +16129,9 @@
       "averageMeritsValue": null,
       "averageMeritsPercentage": null,
       "seasonsPlayed": 0,
-      "seasons": {},
+      "seasons": {
+        "3": null
+      },
       "active": true,
       "source": "season-week",
       "sourceDate": "2026-08-28",
@@ -15944,7 +16201,8 @@
           "currentPower": 77436151,
           "merits": 484944,
           "meritPowerPercentage": 0.6262501347723236
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -16028,7 +16286,8 @@
           "currentPower": 77359289,
           "merits": 9684764,
           "meritPowerPercentage": 12.519199859760862
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -16108,7 +16367,8 @@
           "currentPower": 77280082,
           "merits": 3632367,
           "meritPowerPercentage": 4.700262869803891
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -16186,7 +16446,8 @@
           "currentPower": 77216029,
           "merits": 3245345,
           "meritPowerPercentage": 4.2029421119286
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -16254,7 +16515,8 @@
           "currentPower": 76656187,
           "merits": 1181241,
           "meritPowerPercentage": 1.5409597662351768
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -16332,7 +16594,8 @@
           "currentPower": 76297546,
           "merits": 3150779,
           "meritPowerPercentage": 4.129594154967972
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -16410,7 +16673,8 @@
           "currentPower": 75802363,
           "merits": 130208,
           "meritPowerPercentage": 0.1717730092398307
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -16494,7 +16758,8 @@
           "currentPower": 75427526,
           "merits": 4601442,
           "meritPowerPercentage": 6.100481142653413
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -16564,7 +16829,8 @@
           "currentPower": 75051922,
           "merits": 780997,
           "meritPowerPercentage": 1.0406089267107643
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -16639,7 +16905,9 @@
       "averageMeritsValue": null,
       "averageMeritsPercentage": null,
       "seasonsPlayed": 0,
-      "seasons": {},
+      "seasons": {
+        "3": null
+      },
       "active": true,
       "source": "season-week",
       "sourceDate": "2026-08-28",
@@ -16719,7 +16987,8 @@
           "currentPower": 74137302,
           "merits": 1639277,
           "meritPowerPercentage": 2.2111365746759977
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -16790,7 +17059,8 @@
           "currentPower": 74123112,
           "merits": 12465342,
           "meritPowerPercentage": 16.817078592167043
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -16861,7 +17131,8 @@
           "currentPower": 73472919,
           "merits": 2826625,
           "meritPowerPercentage": 3.847165783627026
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -16942,7 +17213,8 @@
           "currentPower": 72122300,
           "merits": 1658447,
           "meritPowerPercentage": 2.2994926673164886
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -17011,7 +17283,8 @@
           "currentPower": 70215826,
           "merits": 2029080,
           "meritPowerPercentage": 2.8897758747436795
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -17091,7 +17364,8 @@
           "currentPower": 70049179,
           "merits": 899393,
           "meritPowerPercentage": 1.2839450980574663
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -17169,7 +17443,8 @@
           "currentPower": 69740891,
           "merits": 680024,
           "meritPowerPercentage": 0.9750721423963453
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -17253,7 +17528,8 @@
           "currentPower": 69134281,
           "merits": 1182447,
           "meritPowerPercentage": 1.7103627648922826
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -17321,7 +17597,8 @@
           "currentPower": 68825810,
           "merits": 5739063,
           "meritPowerPercentage": 8.338533175272474
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -17399,7 +17676,8 @@
           "currentPower": 68774678,
           "merits": 1536215,
           "meritPowerPercentage": 2.233692755348124
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -17477,7 +17755,8 @@
           "currentPower": 68604775,
           "merits": 4694017,
           "meritPowerPercentage": 6.842114123980438
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -17557,7 +17836,8 @@
           "currentPower": 68381932,
           "merits": 5909035,
           "meritPowerPercentage": 8.641222655130598
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -17635,7 +17915,8 @@
           "currentPower": 68228503,
           "merits": 6382351,
           "meritPowerPercentage": 9.354376425348216
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -17713,7 +17994,8 @@
           "currentPower": 67347673,
           "merits": 1541019,
           "meritPowerPercentage": 2.288154781531947
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -17791,7 +18073,8 @@
           "currentPower": 66824042,
           "merits": 1504275,
           "meritPowerPercentage": 2.2510984893730313
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -17871,7 +18154,8 @@
           "currentPower": 66812812,
           "merits": 0,
           "meritPowerPercentage": null
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -17951,7 +18235,8 @@
           "currentPower": 66439197,
           "merits": 597389,
           "meritPowerPercentage": 0.899151445192813
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -18026,7 +18311,9 @@
       "averageMeritsValue": null,
       "averageMeritsPercentage": null,
       "seasonsPlayed": 0,
-      "seasons": {},
+      "seasons": {
+        "3": null
+      },
       "active": true,
       "source": "season-week",
       "sourceDate": "2026-08-28",
@@ -18096,7 +18383,8 @@
           "currentPower": 63838592,
           "merits": 1241060,
           "meritPowerPercentage": 1.944059167219728
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -18178,7 +18466,8 @@
           "currentPower": 63354752,
           "merits": 3394798,
           "meritPowerPercentage": 5.358395215563309
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -18258,7 +18547,8 @@
           "currentPower": 61517215,
           "merits": 964519,
           "meritPowerPercentage": 1.5678846969909157
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -18326,7 +18616,8 @@
           "currentPower": 61011453,
           "merits": 3157400,
           "meritPowerPercentage": 5.175093928675981
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -18404,7 +18695,8 @@
           "currentPower": 59904817,
           "merits": 2718379,
           "meritPowerPercentage": 4.537830405190955
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -18484,7 +18776,8 @@
           "currentPower": 58428193,
           "merits": 2053223,
           "meritPowerPercentage": 3.5140963541350665
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -18562,7 +18855,8 @@
           "currentPower": 58341479,
           "merits": 542914,
           "meritPowerPercentage": 0.9305797681268931
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -18640,7 +18934,8 @@
           "currentPower": 53405305,
           "merits": 941179,
           "meritPowerPercentage": 1.762332412482243
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -18721,7 +19016,8 @@
           "currentPower": 52331833,
           "merits": 170608,
           "meritPowerPercentage": 0.32601189413716886
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -18793,7 +19089,8 @@
           "currentPower": 49228450,
           "merits": 0,
           "meritPowerPercentage": 0
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -18864,7 +19161,8 @@
           "currentPower": 47432552,
           "merits": 0,
           "meritPowerPercentage": 0
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -18942,7 +19240,8 @@
           "currentPower": 47006777,
           "merits": 135698,
           "meritPowerPercentage": 0.28867752409402586
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -19017,7 +19316,9 @@
       "averageMeritsValue": null,
       "averageMeritsPercentage": null,
       "seasonsPlayed": 0,
-      "seasons": {},
+      "seasons": {
+        "3": null
+      },
       "active": true,
       "source": "season-week",
       "sourceDate": "2026-08-28",
@@ -19087,7 +19388,8 @@
           "currentPower": 41207563,
           "merits": 0,
           "meritPowerPercentage": 0
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -19165,7 +19467,8 @@
           "currentPower": 39033410,
           "merits": 0,
           "meritPowerPercentage": 0
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -19243,7 +19546,8 @@
           "currentPower": 36676359,
           "merits": 0,
           "meritPowerPercentage": 0
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -19323,7 +19627,8 @@
           "currentPower": 35111878,
           "merits": 0,
           "meritPowerPercentage": 0
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -19401,7 +19706,8 @@
           "currentPower": 33816688,
           "merits": 0,
           "meritPowerPercentage": null
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -19481,7 +19787,8 @@
           "currentPower": 32449443,
           "merits": 0,
           "meritPowerPercentage": 0
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -19559,7 +19866,8 @@
           "currentPower": 30102291,
           "merits": 0,
           "meritPowerPercentage": 0
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -19640,7 +19948,8 @@
           "currentPower": 29769074,
           "merits": 0,
           "meritPowerPercentage": 0
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -19709,7 +20018,8 @@
           "currentPower": 28379292,
           "merits": 0,
           "meritPowerPercentage": 0
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -19792,7 +20102,8 @@
           "currentPower": 27538450,
           "merits": 0,
           "meritPowerPercentage": 0
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -19860,7 +20171,9 @@
       "averageMeritsValue": null,
       "averageMeritsPercentage": null,
       "seasonsPlayed": 0,
-      "seasons": {},
+      "seasons": {
+        "3": null
+      },
       "active": true,
       "source": "season-week",
       "sourceDate": "2026-08-28",
@@ -19930,7 +20243,8 @@
           "currentPower": 24205521,
           "merits": 0,
           "meritPowerPercentage": 0
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -20010,7 +20324,8 @@
           "currentPower": 24015305,
           "merits": 0,
           "meritPowerPercentage": null
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -20094,7 +20409,8 @@
           "currentPower": 23907754,
           "merits": 495301,
           "meritPowerPercentage": 2.071716983535969
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -20166,7 +20482,8 @@
           "currentPower": 23088546,
           "merits": 670354,
           "meritPowerPercentage": 2.903405004368833
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -20234,7 +20551,8 @@
           "currentPower": 23024623,
           "merits": 1064,
           "meritPowerPercentage": 0.0046211397250673775
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -20318,7 +20636,8 @@
           "currentPower": 22801869,
           "merits": 0,
           "meritPowerPercentage": 0
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -20396,7 +20715,8 @@
           "currentPower": 22521444,
           "merits": 0,
           "meritPowerPercentage": 0
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -20464,7 +20784,8 @@
           "currentPower": 22092594,
           "merits": 43279,
           "meritPowerPercentage": 0.19589822725208278
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -20542,7 +20863,8 @@
           "currentPower": 21649721,
           "merits": 49615,
           "meritPowerPercentage": 0.2291715445201349
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -20624,7 +20946,8 @@
           "currentPower": 21611351,
           "merits": 472971,
           "meritPowerPercentage": 2.1885304625333233
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -20692,7 +21015,8 @@
           "currentPower": 21555540,
           "merits": 42808,
           "meritPowerPercentage": 0.19859395774821692
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -20770,7 +21094,8 @@
           "currentPower": 21323817,
           "merits": 50901,
           "meritPowerPercentage": 0.2387049185424917
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -20848,7 +21173,8 @@
           "currentPower": 20746231,
           "merits": 0,
           "meritPowerPercentage": 0
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -20928,7 +21254,8 @@
           "currentPower": 20612019,
           "merits": 164640,
           "meritPowerPercentage": 0.7987572687566415
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -21008,7 +21335,8 @@
           "currentPower": 20316149,
           "merits": 0,
           "meritPowerPercentage": 0
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -21086,7 +21414,8 @@
           "currentPower": 20269689,
           "merits": 0,
           "meritPowerPercentage": 0
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -21176,7 +21505,8 @@
           "currentPower": 20183205,
           "merits": 188055,
           "meritPowerPercentage": 0.9317400284048049
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -21254,7 +21584,8 @@
           "currentPower": 20082960,
           "merits": 79797,
           "meritPowerPercentage": 0.397336846759641
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -21319,7 +21650,9 @@
       "averageMeritsValue": null,
       "averageMeritsPercentage": null,
       "seasonsPlayed": 0,
-      "seasons": {},
+      "seasons": {
+        "3": null
+      },
       "active": true,
       "source": "season-week",
       "sourceDate": "2026-08-28",
@@ -21386,7 +21719,9 @@
       "averageMeritsValue": null,
       "averageMeritsPercentage": null,
       "seasonsPlayed": 0,
-      "seasons": {},
+      "seasons": {
+        "3": null
+      },
       "active": true,
       "source": "season-week",
       "sourceDate": "2026-08-28",
@@ -21453,7 +21788,9 @@
       "averageMeritsValue": null,
       "averageMeritsPercentage": null,
       "seasonsPlayed": 0,
-      "seasons": {},
+      "seasons": {
+        "3": null
+      },
       "active": true,
       "source": "season-week",
       "sourceDate": "2026-08-28",
@@ -21526,7 +21863,8 @@
           "currentPower": 19724071,
           "merits": 314659,
           "meritPowerPercentage": 1.5953045393113825
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -21605,7 +21943,8 @@
           "currentPower": 19685292,
           "merits": 67617,
           "meritPowerPercentage": 0.34348995178735475
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -21673,7 +22012,8 @@
           "currentPower": 19605735,
           "merits": 187129,
           "meritPowerPercentage": 0.9544605188226812
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -21751,7 +22091,8 @@
           "currentPower": 19501300,
           "merits": 11264,
           "meritPowerPercentage": 0.057760251880643855
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -21829,7 +22170,8 @@
           "currentPower": 19344821,
           "merits": 245759,
           "meritPowerPercentage": 1.2704123754879924
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -21907,7 +22249,8 @@
           "currentPower": 19269537,
           "merits": 0,
           "meritPowerPercentage": 0
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -21988,7 +22331,8 @@
           "currentPower": 19245823,
           "merits": 0,
           "meritPowerPercentage": 0
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -22057,7 +22401,8 @@
           "currentPower": 18723483,
           "merits": 1418583,
           "meritPowerPercentage": 7.576490976598745
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -22145,7 +22490,8 @@
           "currentPower": 18635415,
           "merits": 198836,
           "meritPowerPercentage": 1.0669791898919343
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -22213,7 +22559,8 @@
           "currentPower": 18583748,
           "merits": 448,
           "meritPowerPercentage": 0.0024107085395260416
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -22301,7 +22648,8 @@
           "currentPower": 18560332,
           "merits": 1032,
           "meritPowerPercentage": 0.00556024536630056
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -22369,7 +22717,8 @@
           "currentPower": 18508196,
           "merits": 5718,
           "meritPowerPercentage": 0.030894421044601
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -22447,7 +22796,8 @@
           "currentPower": 18449866,
           "merits": 0,
           "meritPowerPercentage": 0
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -22531,7 +22881,8 @@
           "currentPower": 18333069,
           "merits": 7064,
           "meritPowerPercentage": 0.03853146464457206
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -22602,7 +22953,8 @@
           "currentPower": 18273830,
           "merits": 222981,
           "meritPowerPercentage": 1.2202203916748706
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -22681,7 +23033,8 @@
           "currentPower": 18051912,
           "merits": 10056,
           "meritPowerPercentage": 0.05570601053229154
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -22746,7 +23099,9 @@
       "averageMeritsValue": null,
       "averageMeritsPercentage": null,
       "seasonsPlayed": 0,
-      "seasons": {},
+      "seasons": {
+        "3": null
+      },
       "active": true,
       "source": "season-week",
       "sourceDate": "2026-08-28",
@@ -22820,7 +23175,8 @@
           "currentPower": 17885009,
           "merits": 0,
           "meritPowerPercentage": 0
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -22890,7 +23246,8 @@
           "currentPower": 17685080,
           "merits": 0,
           "meritPowerPercentage": 0
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -22965,7 +23322,9 @@
       "averageMeritsValue": null,
       "averageMeritsPercentage": null,
       "seasonsPlayed": 0,
-      "seasons": {},
+      "seasons": {
+        "3": null
+      },
       "active": true,
       "source": "season-week",
       "sourceDate": "2026-08-28",
@@ -23032,7 +23391,9 @@
       "averageMeritsValue": null,
       "averageMeritsPercentage": null,
       "seasonsPlayed": 0,
-      "seasons": {},
+      "seasons": {
+        "3": null
+      },
       "active": true,
       "source": "season-week",
       "sourceDate": "2026-08-28",
@@ -23100,7 +23461,8 @@
       "averageMeritsPercentage": null,
       "seasonsPlayed": 0,
       "seasons": {
-        "2": null
+        "2": null,
+        "3": null
       },
       "active": true,
       "source": "matchmaking",
@@ -23175,7 +23537,8 @@
           "currentPower": 17321694,
           "merits": 31025,
           "meritPowerPercentage": 0.1791106574218434
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -23253,7 +23616,8 @@
           "currentPower": 17249062,
           "merits": 0,
           "meritPowerPercentage": 0
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -23325,7 +23689,8 @@
           "currentPower": 17147851,
           "merits": 21,
           "meritPowerPercentage": 0.00012246432512155606
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -23390,7 +23755,9 @@
       "averageMeritsValue": null,
       "averageMeritsPercentage": null,
       "seasonsPlayed": 0,
-      "seasons": {},
+      "seasons": {
+        "3": null
+      },
       "active": true,
       "source": "season-week",
       "sourceDate": "2026-08-28",
@@ -23464,7 +23831,8 @@
           "currentPower": 17114972,
           "merits": 7822,
           "meritPowerPercentage": 0.04570267482763045
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -23529,7 +23897,9 @@
       "averageMeritsValue": null,
       "averageMeritsPercentage": null,
       "seasonsPlayed": 0,
-      "seasons": {},
+      "seasons": {
+        "3": null
+      },
       "active": true,
       "source": "season-week",
       "sourceDate": "2026-08-28",
@@ -23596,7 +23966,9 @@
       "averageMeritsValue": null,
       "averageMeritsPercentage": null,
       "seasonsPlayed": 0,
-      "seasons": {},
+      "seasons": {
+        "3": null
+      },
       "active": true,
       "source": "season-week",
       "sourceDate": "2026-08-28",
@@ -23670,7 +24042,8 @@
           "currentPower": 16925606,
           "merits": 0,
           "meritPowerPercentage": 0
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -23741,7 +24114,8 @@
           "currentPower": 16785351,
           "merits": 33044,
           "meritPowerPercentage": 0.19686213293960905
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -23812,7 +24186,8 @@
           "currentPower": 16592499,
           "merits": 0,
           "meritPowerPercentage": 0
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -23893,7 +24268,8 @@
           "currentPower": 16520958,
           "merits": 1252,
           "meritPowerPercentage": 0.007578253028668192
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -23959,7 +24335,9 @@
       "averageMeritsValue": null,
       "averageMeritsPercentage": null,
       "seasonsPlayed": 0,
-      "seasons": {},
+      "seasons": {
+        "3": null
+      },
       "active": true,
       "source": "season-week",
       "sourceDate": "2026-08-28",
@@ -24033,7 +24411,8 @@
           "currentPower": 16487252,
           "merits": 89790,
           "meritPowerPercentage": 0.544602581436858
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -24101,7 +24480,8 @@
           "currentPower": 16466246,
           "merits": 0,
           "meritPowerPercentage": 0
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -24184,7 +24564,8 @@
           "currentPower": 16408261,
           "merits": 0,
           "meritPowerPercentage": 0
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -24258,7 +24639,8 @@
           "currentPower": 16300249,
           "merits": 163797,
           "meritPowerPercentage": 1.0048742200195837
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -24327,7 +24709,8 @@
           "currentPower": 16210633,
           "merits": 0,
           "meritPowerPercentage": 0
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -24407,7 +24790,8 @@
           "currentPower": 16190859,
           "merits": 17890,
           "meritPowerPercentage": 0.11049444627984223
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -24489,7 +24873,8 @@
           "currentPower": 16158476,
           "merits": 306,
           "meritPowerPercentage": 0.0018937429495207345
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -24560,7 +24945,8 @@
           "currentPower": 16125426,
           "merits": 0,
           "meritPowerPercentage": 0
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -24632,7 +25018,8 @@
           "currentPower": 16109609,
           "merits": 0,
           "meritPowerPercentage": 0
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -24701,7 +25088,8 @@
           "currentPower": 16031257,
           "merits": 398317,
           "meritPowerPercentage": 2.4846273751334658
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -24779,7 +25167,8 @@
           "currentPower": 15869394,
           "merits": 14846,
           "meritPowerPercentage": 0.0935511463134635
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -24860,7 +25249,8 @@
           "currentPower": 15850558,
           "merits": 117183,
           "meritPowerPercentage": 0.7392988940830979
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -24928,7 +25318,9 @@
       "averageMeritsValue": null,
       "averageMeritsPercentage": null,
       "seasonsPlayed": 0,
-      "seasons": {},
+      "seasons": {
+        "3": null
+      },
       "active": true,
       "source": "season-week",
       "sourceDate": "2026-08-28",
@@ -24993,7 +25385,8 @@
           "merits": 301571,
           "meritPowerPercentage": 1.9708128273826075
         },
-        "2": null
+        "2": null,
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -25073,7 +25466,8 @@
           "currentPower": 15735610,
           "merits": 44291,
           "meritPowerPercentage": 0.28146986357694426
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -25155,7 +25549,8 @@
           "currentPower": 15698545,
           "merits": 0,
           "meritPowerPercentage": 0
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -25222,7 +25617,9 @@
       "averageMeritsValue": null,
       "averageMeritsPercentage": null,
       "seasonsPlayed": 0,
-      "seasons": {},
+      "seasons": {
+        "3": null
+      },
       "active": true,
       "source": "season-week",
       "sourceDate": "2026-08-28",
@@ -25296,7 +25693,8 @@
           "currentPower": 15543421,
           "merits": 918821,
           "meritPowerPercentage": 5.911317720854373
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -25368,7 +25766,8 @@
           "currentPower": 15521922,
           "merits": 44598,
           "meritPowerPercentage": 0.2873226653245648
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -25436,7 +25835,8 @@
           "currentPower": 15351015,
           "merits": 52943,
           "meritPowerPercentage": 0.34488273250986984
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -25514,7 +25914,8 @@
           "currentPower": 15057434,
           "merits": 0,
           "meritPowerPercentage": 0
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -25591,7 +25992,9 @@
       "averageMeritsValue": null,
       "averageMeritsPercentage": null,
       "seasonsPlayed": 0,
-      "seasons": {},
+      "seasons": {
+        "3": null
+      },
       "active": true,
       "source": "season-week",
       "sourceDate": "2026-08-28",
@@ -25658,7 +26061,9 @@
       "averageMeritsValue": null,
       "averageMeritsPercentage": null,
       "seasonsPlayed": 0,
-      "seasons": {},
+      "seasons": {
+        "3": null
+      },
       "active": true,
       "source": "season-week",
       "sourceDate": "2026-08-28",
@@ -25738,7 +26143,8 @@
           "currentPower": 14925347,
           "merits": 0,
           "meritPowerPercentage": 0
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -25812,7 +26218,8 @@
           "currentPower": 14895470,
           "merits": 0,
           "meritPowerPercentage": 0
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -25880,7 +26287,8 @@
           "currentPower": 14884639,
           "merits": 0,
           "meritPowerPercentage": 0
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -25960,7 +26368,8 @@
           "currentPower": 14506079,
           "merits": 0,
           "meritPowerPercentage": 0
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -26038,7 +26447,8 @@
           "currentPower": 14375610,
           "merits": 2975,
           "meritPowerPercentage": 0.0206947739956774
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -26116,7 +26526,8 @@
           "currentPower": 14182054,
           "merits": 2905,
           "meritPowerPercentage": 0.020483633752910544
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -26194,7 +26605,8 @@
           "currentPower": 14055413,
           "merits": 0,
           "meritPowerPercentage": 0
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -26271,7 +26683,9 @@
       "averageMeritsValue": null,
       "averageMeritsPercentage": null,
       "seasonsPlayed": 0,
-      "seasons": {},
+      "seasons": {
+        "3": null
+      },
       "active": true,
       "source": "season-week",
       "sourceDate": "2026-08-28",
@@ -26345,7 +26759,8 @@
           "currentPower": 13896992,
           "merits": 98357,
           "meritPowerPercentage": 0.7077574773015628
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -26423,7 +26838,8 @@
           "currentPower": 13831703,
           "merits": 102053,
           "meritPowerPercentage": 0.7378194861471504
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -26495,7 +26911,8 @@
           "currentPower": 13564606,
           "merits": 27258,
           "meritPowerPercentage": 0.2009494415097645
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -26573,7 +26990,8 @@
           "currentPower": 13329534,
           "merits": 0,
           "meritPowerPercentage": 0
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -26645,7 +27063,8 @@
           "currentPower": 13227440,
           "merits": 0,
           "meritPowerPercentage": 0
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -26717,7 +27136,8 @@
           "currentPower": 13224135,
           "merits": 4356,
           "meritPowerPercentage": 0.032939772620288583
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -26789,7 +27209,8 @@
           "currentPower": 13199812,
           "merits": 6300,
           "meritPowerPercentage": 0.047727952489020294
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -26857,7 +27278,8 @@
           "currentPower": 13195443,
           "merits": 0,
           "meritPowerPercentage": 0
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -26947,7 +27369,8 @@
           "currentPower": 12851042,
           "merits": 0,
           "meritPowerPercentage": 0
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -27015,7 +27438,8 @@
           "currentPower": 12839753,
           "merits": 51582,
           "meritPowerPercentage": 0.40173670007514944
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -27093,7 +27517,8 @@
           "currentPower": 12442733,
           "merits": 0,
           "meritPowerPercentage": 0
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -27171,7 +27596,8 @@
           "currentPower": 12434114,
           "merits": 0,
           "meritPowerPercentage": 0
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -27249,7 +27675,8 @@
           "currentPower": 12354188,
           "merits": 0,
           "meritPowerPercentage": 0
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -27332,7 +27759,8 @@
           "currentPower": 12335417,
           "merits": 38549,
           "meritPowerPercentage": 0.3125066627257108
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -27401,7 +27829,8 @@
           "currentPower": 12287056,
           "merits": 0,
           "meritPowerPercentage": 0
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -27479,7 +27908,8 @@
           "currentPower": 12284288,
           "merits": 0,
           "meritPowerPercentage": 0
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -27556,7 +27986,9 @@
       "averageMeritsValue": null,
       "averageMeritsPercentage": null,
       "seasonsPlayed": 0,
-      "seasons": {},
+      "seasons": {
+        "3": null
+      },
       "active": true,
       "source": "season-week",
       "sourceDate": "2026-08-28",
@@ -27630,7 +28062,8 @@
           "currentPower": 12099244,
           "merits": 17580,
           "meritPowerPercentage": 0.1452983343422118
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -27695,7 +28128,9 @@
       "averageMeritsValue": null,
       "averageMeritsPercentage": null,
       "seasonsPlayed": 0,
-      "seasons": {},
+      "seasons": {
+        "3": null
+      },
       "active": true,
       "source": "season-week",
       "sourceDate": "2026-08-28",
@@ -27762,7 +28197,9 @@
       "averageMeritsValue": null,
       "averageMeritsPercentage": null,
       "seasonsPlayed": 0,
-      "seasons": {},
+      "seasons": {
+        "3": null
+      },
       "active": true,
       "source": "season-week",
       "sourceDate": "2026-08-28",
@@ -27829,7 +28266,9 @@
       "averageMeritsValue": null,
       "averageMeritsPercentage": null,
       "seasonsPlayed": 0,
-      "seasons": {},
+      "seasons": {
+        "3": null
+      },
       "active": true,
       "source": "season-week",
       "sourceDate": "2026-08-28",
@@ -27899,7 +28338,8 @@
           "currentPower": 11810308,
           "merits": 0,
           "meritPowerPercentage": 0
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -27989,7 +28429,8 @@
           "currentPower": 11731147,
           "merits": 35615,
           "meritPowerPercentage": 0.3035935019823722
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -28060,7 +28501,8 @@
           "currentPower": 11676635,
           "merits": 40741,
           "meritPowerPercentage": 0.3489104523691971
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -28141,7 +28583,8 @@
           "currentPower": 11651034,
           "merits": 0,
           "meritPowerPercentage": 0
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -28211,7 +28654,8 @@
           "currentPower": 11612899,
           "merits": 0,
           "meritPowerPercentage": null
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -28301,7 +28745,8 @@
           "currentPower": 11553487,
           "merits": 0,
           "meritPowerPercentage": 0
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -28372,7 +28817,8 @@
           "currentPower": 11311631,
           "merits": 0,
           "meritPowerPercentage": 0
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -28440,7 +28886,9 @@
       "averageMeritsValue": null,
       "averageMeritsPercentage": null,
       "seasonsPlayed": 0,
-      "seasons": {},
+      "seasons": {
+        "3": null
+      },
       "active": true,
       "source": "season-week",
       "sourceDate": "2026-08-28",
@@ -28514,7 +28962,8 @@
           "currentPower": 10850364,
           "merits": 0,
           "meritPowerPercentage": 0
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -28592,7 +29041,8 @@
           "currentPower": 10801604,
           "merits": 0,
           "meritPowerPercentage": 0
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -28672,7 +29122,8 @@
           "currentPower": 10772569,
           "merits": 0,
           "meritPowerPercentage": 0
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -28742,7 +29193,8 @@
           "currentPower": 10657676,
           "merits": 31681,
           "meritPowerPercentage": 0.2972599279617808
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -28830,7 +29282,8 @@
           "currentPower": 10641318,
           "merits": 9372,
           "meritPowerPercentage": 0.08807179712137161
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -28901,7 +29354,8 @@
           "currentPower": 10601286,
           "merits": 0,
           "meritPowerPercentage": 0
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -28965,7 +29419,8 @@
           "merits": 22706,
           "meritPowerPercentage": 0.21504836599326327
         },
-        "2": null
+        "2": null,
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -29055,7 +29510,8 @@
           "currentPower": 10514860,
           "merits": 0,
           "meritPowerPercentage": 0
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -29125,7 +29581,8 @@
           "currentPower": 10294426,
           "merits": 2919,
           "meritPowerPercentage": 0.028355150641716204
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -29213,7 +29670,8 @@
           "currentPower": 10128683,
           "merits": 3944,
           "meritPowerPercentage": 0.03893892226659675
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -29291,7 +29749,8 @@
           "currentPower": 10126223,
           "merits": 3655,
           "meritPowerPercentage": 0.03609440558439213
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -29369,7 +29828,8 @@
           "currentPower": 10085333,
           "merits": 0,
           "meritPowerPercentage": 0
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -29439,7 +29899,8 @@
           "currentPower": 10028630,
           "merits": 19,
           "meritPowerPercentage": 0.00018945758294004264
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -29521,7 +29982,8 @@
           "currentPower": 9995432,
           "merits": 27,
           "meritPowerPercentage": 0.0002701233923656326
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -29592,7 +30054,8 @@
           "currentPower": 9991558,
           "merits": 8430,
           "meritPowerPercentage": 0.08437122618914888
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -29658,7 +30121,9 @@
       "averageMeritsValue": null,
       "averageMeritsPercentage": null,
       "seasonsPlayed": 0,
-      "seasons": {},
+      "seasons": {
+        "3": null
+      },
       "active": true,
       "source": "season-week",
       "sourceDate": "2026-08-28",
@@ -29728,7 +30193,8 @@
           "currentPower": 9711116,
           "merits": 0,
           "meritPowerPercentage": 0
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -29808,7 +30274,8 @@
           "currentPower": 9591873,
           "merits": 1487,
           "meritPowerPercentage": 0.015502707344019255
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -29886,7 +30353,8 @@
           "currentPower": 9481172,
           "merits": 0,
           "meritPowerPercentage": 0
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -29974,7 +30442,8 @@
           "currentPower": 9421610,
           "merits": 77447,
           "meritPowerPercentage": 0.8220144964607959
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -30045,7 +30514,8 @@
           "currentPower": 9089547,
           "merits": 0,
           "meritPowerPercentage": 0
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -30113,7 +30583,9 @@
       "averageMeritsValue": null,
       "averageMeritsPercentage": null,
       "seasonsPlayed": 0,
-      "seasons": {},
+      "seasons": {
+        "3": null
+      },
       "active": true,
       "source": "season-week",
       "sourceDate": "2026-08-14",
@@ -30180,7 +30652,9 @@
       "averageMeritsValue": null,
       "averageMeritsPercentage": null,
       "seasonsPlayed": 0,
-      "seasons": {},
+      "seasons": {
+        "3": null
+      },
       "active": true,
       "source": "season-week",
       "sourceDate": "2026-08-28",
@@ -30250,7 +30724,8 @@
           "currentPower": 8818854,
           "merits": 668829,
           "meritPowerPercentage": 7.584080652656229
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -30328,7 +30803,8 @@
           "currentPower": 8790729,
           "merits": 0,
           "meritPowerPercentage": 0
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -30416,7 +30892,8 @@
           "currentPower": 8784696,
           "merits": 0,
           "meritPowerPercentage": 0
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -30486,7 +30963,8 @@
           "currentPower": 8664452,
           "merits": 0,
           "meritPowerPercentage": 0
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -30564,7 +31042,8 @@
           "currentPower": 8602270,
           "merits": 29567,
           "meritPowerPercentage": 0.3437116017051313
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -30646,7 +31125,8 @@
           "currentPower": 8235623,
           "merits": 0,
           "meritPowerPercentage": 0
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -30726,7 +31206,8 @@
           "currentPower": 8185265,
           "merits": 10,
           "meritPowerPercentage": 0.00012217075439829988
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -30794,7 +31275,8 @@
           "currentPower": 8161738,
           "merits": 0,
           "meritPowerPercentage": 0
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -30875,7 +31357,8 @@
           "currentPower": 8092780,
           "merits": 0,
           "meritPowerPercentage": 0
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -30948,7 +31431,8 @@
           "currentPower": 8075189,
           "merits": 0,
           "meritPowerPercentage": 0
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -31021,7 +31505,8 @@
           "currentPower": 7893447,
           "merits": 0,
           "meritPowerPercentage": 0
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -31102,7 +31587,8 @@
           "currentPower": 7853984,
           "merits": 0,
           "meritPowerPercentage": 0
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -31175,7 +31661,8 @@
           "currentPower": 7762277,
           "merits": 0,
           "meritPowerPercentage": 0
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -31246,7 +31733,8 @@
           "currentPower": 7730084,
           "merits": 13909,
           "meritPowerPercentage": 0.17993336165557838
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -31324,7 +31812,8 @@
           "currentPower": 7707843,
           "merits": 0,
           "meritPowerPercentage": 0
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -31407,7 +31896,8 @@
           "currentPower": 7616056,
           "merits": 0,
           "meritPowerPercentage": 0
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -31476,7 +31966,8 @@
           "currentPower": 7556737,
           "merits": 27818,
           "meritPowerPercentage": 0.36812184941728154
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -31551,7 +32042,9 @@
       "averageMeritsValue": null,
       "averageMeritsPercentage": null,
       "seasonsPlayed": 0,
-      "seasons": {},
+      "seasons": {
+        "3": null
+      },
       "active": true,
       "source": "season-week",
       "sourceDate": "2026-08-28",
@@ -31624,7 +32117,8 @@
           "currentPower": 7456993,
           "merits": 0,
           "meritPowerPercentage": 0
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -31698,7 +32192,8 @@
           "currentPower": 7371868,
           "merits": 0,
           "meritPowerPercentage": 0
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -31767,7 +32262,8 @@
           "currentPower": 7273473,
           "merits": 0,
           "meritPowerPercentage": 0
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -31847,7 +32343,8 @@
           "currentPower": 7180607,
           "merits": 0,
           "meritPowerPercentage": null
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -31927,7 +32424,8 @@
           "currentPower": 7142519,
           "merits": 0,
           "meritPowerPercentage": 0
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -32004,7 +32502,9 @@
       "averageMeritsValue": null,
       "averageMeritsPercentage": null,
       "seasonsPlayed": 0,
-      "seasons": {},
+      "seasons": {
+        "3": null
+      },
       "active": true,
       "source": "season-week",
       "sourceDate": "2026-08-28",
@@ -32077,7 +32577,8 @@
           "currentPower": 7081014,
           "merits": 0,
           "meritPowerPercentage": 0
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -32146,7 +32647,8 @@
           "currentPower": 7075975,
           "merits": 0,
           "meritPowerPercentage": 0
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -32223,7 +32725,9 @@
       "averageMeritsValue": null,
       "averageMeritsPercentage": null,
       "seasonsPlayed": 0,
-      "seasons": {},
+      "seasons": {
+        "3": null
+      },
       "active": true,
       "source": "season-week",
       "sourceDate": "2026-08-28",
@@ -32296,7 +32800,8 @@
           "currentPower": 6931012,
           "merits": 0,
           "meritPowerPercentage": 0
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -32375,7 +32880,8 @@
           "currentPower": 6921423,
           "merits": 0,
           "meritPowerPercentage": 0
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -32455,7 +32961,8 @@
           "currentPower": 6880496,
           "merits": 0,
           "meritPowerPercentage": 0
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -32528,7 +33035,8 @@
           "currentPower": 6823943,
           "merits": 0,
           "meritPowerPercentage": 0
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -32597,7 +33105,8 @@
           "currentPower": 6804823,
           "merits": 0,
           "meritPowerPercentage": 0
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -32678,7 +33187,8 @@
           "currentPower": 6727330,
           "merits": 12,
           "meritPowerPercentage": 0.00017837685976457228
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -32752,7 +33262,8 @@
           "currentPower": 6568721,
           "merits": 12076,
           "meritPowerPercentage": 0.1838409638649594
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -32823,7 +33334,8 @@
           "currentPower": 6545351,
           "merits": 0,
           "meritPowerPercentage": 0
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -32906,7 +33418,8 @@
           "currentPower": 6531727,
           "merits": 0,
           "meritPowerPercentage": 0
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -32975,7 +33488,8 @@
           "currentPower": 6458987,
           "merits": 0,
           "meritPowerPercentage": 0
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -33058,7 +33572,8 @@
           "currentPower": 6409408,
           "merits": 0,
           "meritPowerPercentage": 0
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -33132,7 +33647,8 @@
           "currentPower": 6403209,
           "merits": 0,
           "meritPowerPercentage": 0
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -33204,7 +33720,8 @@
           "currentPower": 6390869,
           "merits": 0,
           "meritPowerPercentage": 0
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -33276,7 +33793,8 @@
           "currentPower": 6201682,
           "merits": 0,
           "meritPowerPercentage": 0
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -33348,7 +33866,8 @@
           "currentPower": 6189955,
           "merits": 0,
           "meritPowerPercentage": 0
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -33427,7 +33946,8 @@
           "currentPower": 6040864,
           "merits": 0,
           "meritPowerPercentage": 0
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -33495,7 +34015,8 @@
           "currentPower": 5973610,
           "merits": 0,
           "meritPowerPercentage": 0
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -33572,7 +34093,9 @@
       "averageMeritsValue": null,
       "averageMeritsPercentage": null,
       "seasonsPlayed": 0,
-      "seasons": {},
+      "seasons": {
+        "3": null
+      },
       "active": true,
       "source": "season-week",
       "sourceDate": "2026-08-07",
@@ -33646,7 +34169,8 @@
           "currentPower": 5946834,
           "merits": 511,
           "meritPowerPercentage": 0.008592807534227455
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -33718,7 +34242,8 @@
           "currentPower": 5940769,
           "merits": 3646,
           "meritPowerPercentage": 0.06137252601472974
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -33792,7 +34317,8 @@
           "currentPower": 5909142,
           "merits": 48,
           "meritPowerPercentage": 0.0008123006690311386
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -33864,7 +34390,8 @@
           "currentPower": 5859362,
           "merits": 0,
           "meritPowerPercentage": 0
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -33944,7 +34471,8 @@
           "currentPower": 5783218,
           "merits": 0,
           "meritPowerPercentage": 0
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -34017,7 +34545,8 @@
           "currentPower": 5741973,
           "merits": 0,
           "meritPowerPercentage": 0
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -34096,7 +34625,8 @@
           "currentPower": 5739184,
           "merits": 0,
           "meritPowerPercentage": 0
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -34170,7 +34700,8 @@
           "currentPower": 5734603,
           "merits": 179,
           "meritPowerPercentage": 0.003121401777943477
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -34248,7 +34779,8 @@
           "currentPower": 5674867,
           "merits": 0,
           "meritPowerPercentage": 0
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -34315,7 +34847,9 @@
       "averageMeritsValue": null,
       "averageMeritsPercentage": null,
       "seasonsPlayed": 0,
-      "seasons": {},
+      "seasons": {
+        "3": null
+      },
       "active": true,
       "source": "season-week",
       "sourceDate": "2026-08-28",
@@ -34385,7 +34919,8 @@
           "currentPower": 5634875,
           "merits": 0,
           "meritPowerPercentage": 0
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -34469,7 +35004,8 @@
           "currentPower": 5625547,
           "merits": 215,
           "meritPowerPercentage": 0.0038218505684869397
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -34547,7 +35083,8 @@
           "currentPower": 5462696,
           "merits": 0,
           "meritPowerPercentage": 0
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -34627,7 +35164,8 @@
           "currentPower": 5437165,
           "merits": 0,
           "meritPowerPercentage": 0
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -34697,7 +35235,8 @@
           "currentPower": 5320684,
           "merits": 0,
           "meritPowerPercentage": 0
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -34777,7 +35316,8 @@
           "currentPower": 5304335,
           "merits": 0,
           "meritPowerPercentage": 0
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -34857,7 +35397,8 @@
           "currentPower": 5295864,
           "merits": 0,
           "meritPowerPercentage": 0
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -34947,7 +35488,8 @@
           "currentPower": 5136748,
           "merits": 0,
           "meritPowerPercentage": 0
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -35015,7 +35557,8 @@
           "currentPower": 5094012,
           "merits": 0,
           "meritPowerPercentage": 0
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -35095,7 +35638,8 @@
           "currentPower": 4971572,
           "merits": 0,
           "meritPowerPercentage": null
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -35179,7 +35723,8 @@
           "currentPower": 4880929,
           "merits": 0,
           "meritPowerPercentage": 0
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -35247,7 +35792,8 @@
           "currentPower": 4803702,
           "merits": 0,
           "meritPowerPercentage": 0
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -35330,7 +35876,8 @@
           "currentPower": 4702981,
           "merits": 0,
           "meritPowerPercentage": 0
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -35404,7 +35951,8 @@
           "currentPower": 4654023,
           "merits": 0,
           "meritPowerPercentage": 0
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -35473,7 +36021,8 @@
           "currentPower": 4599396,
           "merits": 0,
           "meritPowerPercentage": 0
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -35550,7 +36099,9 @@
       "averageMeritsValue": null,
       "averageMeritsPercentage": null,
       "seasonsPlayed": 0,
-      "seasons": {},
+      "seasons": {
+        "3": null
+      },
       "active": true,
       "source": "season-week",
       "sourceDate": "2026-08-07",
@@ -35623,7 +36174,8 @@
           "currentPower": 4523411,
           "merits": 0,
           "meritPowerPercentage": 0
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -35695,7 +36247,8 @@
           "currentPower": 4522017,
           "merits": 0,
           "meritPowerPercentage": 0
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -35768,7 +36321,8 @@
           "currentPower": 4437977,
           "merits": 0,
           "meritPowerPercentage": 0
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -35846,7 +36400,8 @@
           "currentPower": 4431187,
           "merits": 18581,
           "meritPowerPercentage": 0.41932330998443534
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -35911,7 +36466,9 @@
       "averageMeritsValue": null,
       "averageMeritsPercentage": null,
       "seasonsPlayed": 0,
-      "seasons": {},
+      "seasons": {
+        "3": null
+      },
       "active": true,
       "source": "season-week",
       "sourceDate": "2026-08-28",
@@ -35978,7 +36535,9 @@
       "averageMeritsValue": null,
       "averageMeritsPercentage": null,
       "seasonsPlayed": 0,
-      "seasons": {},
+      "seasons": {
+        "3": null
+      },
       "active": true,
       "source": "season-week",
       "sourceDate": "2026-08-28",
@@ -36053,7 +36612,8 @@
           "merits": 0,
           "meritPowerPercentage": 0
         },
-        "2": null
+        "2": null,
+        "3": null
       },
       "active": true,
       "source": "matchmaking",
@@ -36120,7 +36680,9 @@
       "averageMeritsValue": null,
       "averageMeritsPercentage": null,
       "seasonsPlayed": 0,
-      "seasons": {},
+      "seasons": {
+        "3": null
+      },
       "active": true,
       "source": "season-week",
       "sourceDate": "2026-08-28",
@@ -36187,7 +36749,9 @@
       "averageMeritsValue": null,
       "averageMeritsPercentage": null,
       "seasonsPlayed": 0,
-      "seasons": {},
+      "seasons": {
+        "3": null
+      },
       "active": true,
       "source": "season-week",
       "sourceDate": "2026-08-28",
@@ -36254,7 +36818,9 @@
       "averageMeritsValue": null,
       "averageMeritsPercentage": null,
       "seasonsPlayed": 0,
-      "seasons": {},
+      "seasons": {
+        "3": null
+      },
       "active": true,
       "source": "season-week",
       "sourceDate": "2026-08-28",
@@ -36328,7 +36894,8 @@
           "currentPower": 4208964,
           "merits": 0,
           "meritPowerPercentage": 0
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -36399,7 +36966,8 @@
           "currentPower": 4188106,
           "merits": 0,
           "meritPowerPercentage": 0
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -36470,7 +37038,8 @@
           "currentPower": 4127532,
           "merits": 0,
           "meritPowerPercentage": null
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -36553,7 +37122,8 @@
           "currentPower": 4071651,
           "merits": 0,
           "meritPowerPercentage": 0
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -36626,7 +37196,8 @@
           "currentPower": 3949904,
           "merits": 0,
           "meritPowerPercentage": 0
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -36700,7 +37271,8 @@
           "currentPower": 3886633,
           "merits": 0,
           "meritPowerPercentage": 0
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -36772,7 +37344,8 @@
           "currentPower": 3884335,
           "merits": 0,
           "meritPowerPercentage": 0
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -36850,7 +37423,8 @@
           "currentPower": 3879690,
           "merits": 69151,
           "meritPowerPercentage": null
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -36924,7 +37498,8 @@
           "currentPower": 3875655,
           "merits": 0,
           "meritPowerPercentage": null
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -36994,7 +37569,8 @@
           "currentPower": 3837250,
           "merits": 0,
           "meritPowerPercentage": 0
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -37074,7 +37650,8 @@
           "currentPower": 3816328,
           "merits": 0,
           "meritPowerPercentage": null
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -37157,7 +37734,8 @@
           "currentPower": 3801771,
           "merits": 0,
           "meritPowerPercentage": 0
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -37225,7 +37803,9 @@
       "averageMeritsValue": null,
       "averageMeritsPercentage": null,
       "seasonsPlayed": 0,
-      "seasons": {},
+      "seasons": {
+        "3": null
+      },
       "active": true,
       "source": "season-week",
       "sourceDate": "2026-08-28",
@@ -37305,7 +37885,8 @@
           "currentPower": 3783845,
           "merits": 0,
           "meritPowerPercentage": 0
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -37385,7 +37966,8 @@
           "currentPower": 3725493,
           "merits": 0,
           "meritPowerPercentage": 0
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -37459,7 +38041,8 @@
           "currentPower": 3705935,
           "merits": 528,
           "meritPowerPercentage": 0.014247416643842917
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -37531,7 +38114,8 @@
           "currentPower": 3667181,
           "merits": 0,
           "meritPowerPercentage": 0
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -37599,7 +38183,8 @@
           "currentPower": 3606429,
           "merits": 0,
           "meritPowerPercentage": 0
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -37683,7 +38268,8 @@
           "currentPower": 3582039,
           "merits": 0,
           "meritPowerPercentage": 0
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -37754,7 +38340,8 @@
           "currentPower": 3521500,
           "merits": 0,
           "meritPowerPercentage": 0
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -37825,7 +38412,8 @@
           "currentPower": 3467144,
           "merits": 0,
           "meritPowerPercentage": 0
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -37905,7 +38493,8 @@
           "currentPower": 3454986,
           "merits": 0,
           "meritPowerPercentage": 0
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -37988,7 +38577,8 @@
           "currentPower": 3450157,
           "merits": 0,
           "meritPowerPercentage": 0
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -38057,7 +38647,8 @@
           "currentPower": 3427825,
           "merits": 0,
           "meritPowerPercentage": 0
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -38141,7 +38732,8 @@
           "currentPower": 3353353,
           "merits": 0,
           "meritPowerPercentage": 0
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -38209,7 +38801,8 @@
           "currentPower": 3351912,
           "merits": 12611,
           "meritPowerPercentage": 0.37623302759738325
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -38297,7 +38890,8 @@
           "currentPower": 3328779,
           "merits": 0,
           "meritPowerPercentage": 0
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -38377,7 +38971,8 @@
           "currentPower": 3254732,
           "merits": 0,
           "meritPowerPercentage": 0
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -38451,7 +39046,8 @@
           "currentPower": 3225057,
           "merits": 0,
           "meritPowerPercentage": null
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -38518,7 +39114,9 @@
       "averageMeritsValue": null,
       "averageMeritsPercentage": null,
       "seasonsPlayed": 0,
-      "seasons": {},
+      "seasons": {
+        "3": null
+      },
       "active": true,
       "source": "season-week",
       "sourceDate": "2026-07-24",
@@ -38598,7 +39196,8 @@
           "currentPower": 3189360,
           "merits": 2679,
           "meritPowerPercentage": 0.0839980434946196
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -38670,7 +39269,8 @@
           "currentPower": 3029966,
           "merits": 0,
           "meritPowerPercentage": 0
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -38736,7 +39336,9 @@
       "averageMeritsValue": null,
       "averageMeritsPercentage": null,
       "seasonsPlayed": 0,
-      "seasons": {},
+      "seasons": {
+        "3": null
+      },
       "active": true,
       "source": "season-week",
       "sourceDate": "2026-08-28",
@@ -38813,7 +39415,8 @@
           "currentPower": 2944217,
           "merits": 0,
           "meritPowerPercentage": 0
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -38893,7 +39496,8 @@
           "currentPower": 2918739,
           "merits": 0,
           "meritPowerPercentage": 0
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -38973,7 +39577,8 @@
           "currentPower": 2913517,
           "merits": 0,
           "meritPowerPercentage": 0
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -39046,7 +39651,8 @@
           "currentPower": 2903609,
           "merits": 0,
           "meritPowerPercentage": 0
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -39127,7 +39733,8 @@
           "currentPower": 2888767,
           "merits": 0,
           "meritPowerPercentage": 0
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -39194,7 +39801,9 @@
       "averageMeritsValue": null,
       "averageMeritsPercentage": null,
       "seasonsPlayed": 0,
-      "seasons": {},
+      "seasons": {
+        "3": null
+      },
       "active": true,
       "source": "season-week",
       "sourceDate": "2026-08-28",
@@ -39274,7 +39883,8 @@
           "currentPower": 2775170,
           "merits": 0,
           "meritPowerPercentage": 0
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -39344,7 +39954,8 @@
           "currentPower": 2774882,
           "merits": 0,
           "meritPowerPercentage": 0
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -39427,7 +40038,8 @@
           "currentPower": 2773491,
           "merits": 0,
           "meritPowerPercentage": 0
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -39491,7 +40103,8 @@
           "merits": 0,
           "meritPowerPercentage": 0
         },
-        "2": null
+        "2": null,
+        "3": null
       },
       "active": true,
       "source": "matchmaking",
@@ -39568,7 +40181,9 @@
       "averageMeritsValue": null,
       "averageMeritsPercentage": null,
       "seasonsPlayed": 0,
-      "seasons": {},
+      "seasons": {
+        "3": null
+      },
       "active": true,
       "source": "season-week",
       "sourceDate": "2026-07-24",
@@ -39648,7 +40263,8 @@
           "currentPower": 2699524,
           "merits": 5824,
           "meritPowerPercentage": 0.21574173817310013
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -39713,7 +40329,9 @@
       "averageMeritsValue": null,
       "averageMeritsPercentage": null,
       "seasonsPlayed": 0,
-      "seasons": {},
+      "seasons": {
+        "3": null
+      },
       "active": true,
       "source": "season-week",
       "sourceDate": "2026-08-28",
@@ -39783,7 +40401,8 @@
           "currentPower": 2662587,
           "merits": 0,
           "meritPowerPercentage": 0
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -39873,7 +40492,8 @@
           "currentPower": 2653002,
           "merits": 0,
           "meritPowerPercentage": 0
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -39947,7 +40567,8 @@
           "currentPower": 2608600,
           "merits": 0,
           "meritPowerPercentage": 0
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -40027,7 +40648,8 @@
           "currentPower": 2572279,
           "merits": 0,
           "meritPowerPercentage": 0
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -40097,7 +40719,8 @@
           "currentPower": 2565036,
           "merits": 0,
           "meritPowerPercentage": 0
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -40187,7 +40810,8 @@
           "currentPower": 2558808,
           "merits": 0,
           "meritPowerPercentage": 0
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -40255,7 +40879,8 @@
       "averageMeritsPercentage": null,
       "seasonsPlayed": 0,
       "seasons": {
-        "2": null
+        "2": null,
+        "3": null
       },
       "active": true,
       "source": "matchmaking",
@@ -40323,7 +40948,9 @@
       "averageMeritsValue": null,
       "averageMeritsPercentage": null,
       "seasonsPlayed": 0,
-      "seasons": {},
+      "seasons": {
+        "3": null
+      },
       "active": true,
       "source": "season-week",
       "sourceDate": "2026-08-07",
@@ -40393,7 +41020,8 @@
           "currentPower": 2367947,
           "merits": 0,
           "meritPowerPercentage": 0
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -40476,7 +41104,8 @@
           "currentPower": 2320196,
           "merits": 0,
           "meritPowerPercentage": null
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -40547,7 +41176,8 @@
           "currentPower": 2278629,
           "merits": 0,
           "meritPowerPercentage": 0
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -40624,7 +41254,9 @@
       "averageMeritsValue": null,
       "averageMeritsPercentage": null,
       "seasonsPlayed": 0,
-      "seasons": {},
+      "seasons": {
+        "3": null
+      },
       "active": true,
       "source": "season-week",
       "sourceDate": "2026-08-28",
@@ -40698,7 +41330,8 @@
           "currentPower": 2278378,
           "merits": 0,
           "meritPowerPercentage": 0
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -40771,7 +41404,8 @@
           "currentPower": 2255633,
           "merits": 0,
           "meritPowerPercentage": null
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -40845,7 +41479,8 @@
           "currentPower": 2241401,
           "merits": 0,
           "meritPowerPercentage": 0
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -40913,7 +41548,9 @@
       "averageMeritsValue": null,
       "averageMeritsPercentage": null,
       "seasonsPlayed": 0,
-      "seasons": {},
+      "seasons": {
+        "3": null
+      },
       "active": true,
       "source": "season-week",
       "sourceDate": "2026-08-07",
@@ -40980,7 +41617,9 @@
       "averageMeritsValue": null,
       "averageMeritsPercentage": null,
       "seasonsPlayed": 0,
-      "seasons": {},
+      "seasons": {
+        "3": null
+      },
       "active": true,
       "source": "season-week",
       "sourceDate": "2026-08-28",
@@ -41054,7 +41693,8 @@
           "currentPower": 2196248,
           "merits": 0,
           "meritPowerPercentage": 0
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -41125,7 +41765,8 @@
           "currentPower": 2180334,
           "merits": 0,
           "meritPowerPercentage": 0
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -41200,7 +41841,8 @@
           "currentPower": 2147262,
           "merits": 14,
           "meritPowerPercentage": 0.0006519930963245287
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -41265,7 +41907,9 @@
       "averageMeritsValue": null,
       "averageMeritsPercentage": null,
       "seasonsPlayed": 0,
-      "seasons": {},
+      "seasons": {
+        "3": null
+      },
       "active": true,
       "source": "season-week",
       "sourceDate": "2026-08-28",
@@ -41339,7 +41983,8 @@
           "currentPower": 2069258,
           "merits": 25,
           "meritPowerPercentage": 0.0012081625394223436
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -41404,7 +42049,9 @@
       "averageMeritsValue": null,
       "averageMeritsPercentage": null,
       "seasonsPlayed": 0,
-      "seasons": {},
+      "seasons": {
+        "3": null
+      },
       "active": true,
       "source": "season-week",
       "sourceDate": "2026-08-28",
@@ -41477,7 +42124,8 @@
           "currentPower": 2011223,
           "merits": 0,
           "meritPowerPercentage": 0
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -41558,7 +42206,8 @@
           "currentPower": 1983461,
           "merits": 0,
           "meritPowerPercentage": 0
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -41632,7 +42281,8 @@
           "currentPower": 1973041,
           "merits": 0,
           "meritPowerPercentage": 0
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -41703,7 +42353,8 @@
           "currentPower": 1824886,
           "merits": 0,
           "meritPowerPercentage": 0
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -41777,7 +42428,8 @@
           "currentPower": 1815663,
           "merits": 0,
           "meritPowerPercentage": 0
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -41851,7 +42503,8 @@
           "currentPower": 1811243,
           "merits": 0,
           "meritPowerPercentage": 0
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -41925,7 +42578,8 @@
           "currentPower": 1770789,
           "merits": 0,
           "meritPowerPercentage": 0
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -41999,7 +42653,8 @@
           "currentPower": 1760084,
           "merits": 0,
           "meritPowerPercentage": 0
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -42073,7 +42728,8 @@
           "currentPower": 1750451,
           "merits": 0,
           "meritPowerPercentage": 0
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -42141,7 +42797,9 @@
       "averageMeritsValue": null,
       "averageMeritsPercentage": null,
       "seasonsPlayed": 0,
-      "seasons": {},
+      "seasons": {
+        "3": null
+      },
       "active": true,
       "source": "season-week",
       "sourceDate": "2026-08-28",
@@ -42214,7 +42872,8 @@
           "currentPower": 1723902,
           "merits": 0,
           "meritPowerPercentage": 0
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -42288,7 +42947,8 @@
           "currentPower": 1673835,
           "merits": 0,
           "meritPowerPercentage": 0
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -42356,7 +43016,9 @@
       "averageMeritsValue": null,
       "averageMeritsPercentage": null,
       "seasonsPlayed": 0,
-      "seasons": {},
+      "seasons": {
+        "3": null
+      },
       "active": true,
       "source": "season-week",
       "sourceDate": "2026-08-28",
@@ -42429,7 +43091,8 @@
           "currentPower": 1657202,
           "merits": 0,
           "meritPowerPercentage": 0
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -42500,7 +43163,8 @@
           "currentPower": 1540153,
           "merits": 0,
           "meritPowerPercentage": 0
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -42580,7 +43244,8 @@
           "currentPower": 1492887,
           "merits": 0,
           "meritPowerPercentage": 0
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -42657,7 +43322,9 @@
       "averageMeritsValue": null,
       "averageMeritsPercentage": null,
       "seasonsPlayed": 0,
-      "seasons": {},
+      "seasons": {
+        "3": null
+      },
       "active": true,
       "source": "season-week",
       "sourceDate": "2026-08-07",
@@ -42730,7 +43397,8 @@
           "currentPower": 1464260,
           "merits": 0,
           "meritPowerPercentage": 0
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -42804,7 +43472,8 @@
           "currentPower": 1454313,
           "merits": 0,
           "meritPowerPercentage": 0
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -42878,7 +43547,8 @@
           "currentPower": 1453909,
           "merits": 0,
           "meritPowerPercentage": 0
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -42952,7 +43622,8 @@
           "currentPower": 1427540,
           "merits": 0,
           "meritPowerPercentage": 0
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -43026,7 +43697,8 @@
           "currentPower": 1374791,
           "merits": 0,
           "meritPowerPercentage": 0
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -43100,7 +43772,8 @@
           "currentPower": 1352129,
           "merits": 0,
           "meritPowerPercentage": 0
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -43174,7 +43847,8 @@
           "currentPower": 1339893,
           "merits": 7665,
           "meritPowerPercentage": 0.5720606048393416
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -43246,7 +43920,8 @@
           "currentPower": 1268798,
           "merits": 0,
           "meritPowerPercentage": 0
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -43314,7 +43989,9 @@
       "averageMeritsValue": null,
       "averageMeritsPercentage": null,
       "seasonsPlayed": 0,
-      "seasons": {},
+      "seasons": {
+        "3": null
+      },
       "active": true,
       "source": "season-week",
       "sourceDate": "2026-08-28",
@@ -43384,7 +44061,8 @@
           "currentPower": 1126381,
           "merits": 0,
           "meritPowerPercentage": 0
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -43461,7 +44139,9 @@
       "averageMeritsValue": null,
       "averageMeritsPercentage": null,
       "seasonsPlayed": 0,
-      "seasons": {},
+      "seasons": {
+        "3": null
+      },
       "active": true,
       "source": "season-week",
       "sourceDate": "2026-08-14",
@@ -43534,7 +44214,8 @@
           "currentPower": 1071457,
           "merits": 607,
           "meritPowerPercentage": null
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -43605,7 +44286,8 @@
           "currentPower": 1025458,
           "merits": 0,
           "meritPowerPercentage": 0
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -43683,7 +44365,8 @@
       "averageMeritsPercentage": null,
       "seasonsPlayed": 0,
       "seasons": {
-        "2": null
+        "2": null,
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -43751,7 +44434,9 @@
       "averageMeritsValue": null,
       "averageMeritsPercentage": null,
       "seasonsPlayed": 0,
-      "seasons": {},
+      "seasons": {
+        "3": null
+      },
       "active": true,
       "source": "season-week",
       "sourceDate": "2026-08-21",
@@ -43818,7 +44503,9 @@
       "averageMeritsValue": null,
       "averageMeritsPercentage": null,
       "seasonsPlayed": 0,
-      "seasons": {},
+      "seasons": {
+        "3": null
+      },
       "active": true,
       "source": "season-week",
       "sourceDate": "2026-08-28",
@@ -43886,7 +44573,9 @@
       "averageMeritsValue": null,
       "averageMeritsPercentage": null,
       "seasonsPlayed": 0,
-      "seasons": {},
+      "seasons": {
+        "3": null
+      },
       "active": true,
       "source": "matchmaking",
       "sourceDate": "2026-07-15",
@@ -43950,7 +44639,9 @@
       "averageMeritsValue": null,
       "averageMeritsPercentage": null,
       "seasonsPlayed": 0,
-      "seasons": {},
+      "seasons": {
+        "3": null
+      },
       "active": true,
       "source": "season-week",
       "sourceDate": "2026-08-07",
@@ -44017,7 +44708,9 @@
       "averageMeritsValue": null,
       "averageMeritsPercentage": null,
       "seasonsPlayed": 0,
-      "seasons": {},
+      "seasons": {
+        "3": null
+      },
       "active": true,
       "source": "season-week",
       "sourceDate": "2026-08-07",
@@ -44084,7 +44777,9 @@
       "averageMeritsValue": null,
       "averageMeritsPercentage": null,
       "seasonsPlayed": 0,
-      "seasons": {},
+      "seasons": {
+        "3": null
+      },
       "active": true,
       "source": "season-week",
       "sourceDate": "2026-08-07",
@@ -44158,7 +44853,8 @@
           "currentPower": 827673,
           "merits": 0,
           "meritPowerPercentage": 0
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -44226,7 +44922,8 @@
           "currentPower": 747645,
           "merits": 0,
           "meritPowerPercentage": 0
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -44303,7 +45000,9 @@
       "averageMeritsValue": null,
       "averageMeritsPercentage": null,
       "seasonsPlayed": 0,
-      "seasons": {},
+      "seasons": {
+        "3": null
+      },
       "active": true,
       "source": "season-week",
       "sourceDate": "2026-07-24",
@@ -44373,7 +45072,8 @@
           "currentPower": 659100,
           "merits": 0,
           "meritPowerPercentage": 0
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -44453,7 +45153,8 @@
           "currentPower": 643866,
           "merits": 0,
           "meritPowerPercentage": 0
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -44530,7 +45231,9 @@
       "averageMeritsValue": null,
       "averageMeritsPercentage": null,
       "seasonsPlayed": 0,
-      "seasons": {},
+      "seasons": {
+        "3": null
+      },
       "active": true,
       "source": "season-week",
       "sourceDate": "2026-08-21",
@@ -44597,7 +45300,9 @@
       "averageMeritsValue": null,
       "averageMeritsPercentage": null,
       "seasonsPlayed": 0,
-      "seasons": {},
+      "seasons": {
+        "3": null
+      },
       "active": true,
       "source": "season-week",
       "sourceDate": "2026-08-07",
@@ -44667,7 +45372,8 @@
           "currentPower": 603199,
           "merits": 0,
           "meritPowerPercentage": 0
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -44747,7 +45453,8 @@
           "currentPower": 582156,
           "merits": 0,
           "meritPowerPercentage": 0
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -44830,7 +45537,8 @@
           "currentPower": 569492,
           "merits": 0,
           "meritPowerPercentage": null
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -44898,7 +45606,9 @@
       "averageMeritsValue": null,
       "averageMeritsPercentage": null,
       "seasonsPlayed": 0,
-      "seasons": {},
+      "seasons": {
+        "3": null
+      },
       "active": true,
       "source": "season-week",
       "sourceDate": "2026-08-21",
@@ -44968,7 +45678,8 @@
           "currentPower": 556136,
           "merits": 0,
           "meritPowerPercentage": 0
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -45045,7 +45756,9 @@
       "averageMeritsValue": null,
       "averageMeritsPercentage": null,
       "seasonsPlayed": 0,
-      "seasons": {},
+      "seasons": {
+        "3": null
+      },
       "active": true,
       "source": "season-week",
       "sourceDate": "2026-08-14",
@@ -45115,7 +45828,8 @@
           "currentPower": 551186,
           "merits": 0,
           "meritPowerPercentage": 0
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -45195,7 +45909,8 @@
           "currentPower": 549432,
           "merits": 0,
           "meritPowerPercentage": 0
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -45275,7 +45990,8 @@
           "currentPower": 523758,
           "merits": 0,
           "meritPowerPercentage": 0
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -45355,7 +46071,8 @@
           "currentPower": 514264,
           "merits": 0,
           "meritPowerPercentage": 0
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -45432,7 +46149,9 @@
       "averageMeritsValue": null,
       "averageMeritsPercentage": null,
       "seasonsPlayed": 0,
-      "seasons": {},
+      "seasons": {
+        "3": null
+      },
       "active": true,
       "source": "season-week",
       "sourceDate": "2026-08-21",
@@ -45502,7 +46221,8 @@
           "currentPower": 497107,
           "merits": 0,
           "meritPowerPercentage": 0
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -45579,7 +46299,9 @@
       "averageMeritsValue": null,
       "averageMeritsPercentage": null,
       "seasonsPlayed": 0,
-      "seasons": {},
+      "seasons": {
+        "3": null
+      },
       "active": true,
       "source": "season-week",
       "sourceDate": "2026-08-28",
@@ -45649,7 +46371,8 @@
           "currentPower": 492958,
           "merits": 0,
           "meritPowerPercentage": 0
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -45729,7 +46452,8 @@
           "currentPower": 484744,
           "merits": 0,
           "meritPowerPercentage": 0
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -45809,7 +46533,8 @@
           "currentPower": 478430,
           "merits": 0,
           "meritPowerPercentage": 0
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -45889,7 +46614,8 @@
           "currentPower": 468014,
           "merits": 0,
           "meritPowerPercentage": 0
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -45969,7 +46695,8 @@
           "currentPower": 447614,
           "merits": 0,
           "meritPowerPercentage": 0
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -46049,7 +46776,8 @@
           "currentPower": 442316,
           "merits": 0,
           "meritPowerPercentage": 0
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -46129,7 +46857,8 @@
           "currentPower": 440692,
           "merits": 0,
           "meritPowerPercentage": 0
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -46212,7 +46941,8 @@
           "currentPower": 438588,
           "merits": 0,
           "meritPowerPercentage": null
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -46283,7 +47013,8 @@
           "currentPower": 430009,
           "merits": 0,
           "meritPowerPercentage": 0
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -46363,7 +47094,8 @@
           "currentPower": 428085,
           "merits": 0,
           "meritPowerPercentage": 0
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -46443,7 +47175,8 @@
           "currentPower": 427684,
           "merits": 0,
           "meritPowerPercentage": 0
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -46523,7 +47256,8 @@
           "currentPower": 427308,
           "merits": 0,
           "meritPowerPercentage": 0
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -46600,7 +47334,9 @@
       "averageMeritsValue": null,
       "averageMeritsPercentage": null,
       "seasonsPlayed": 0,
-      "seasons": {},
+      "seasons": {
+        "3": null
+      },
       "active": true,
       "source": "season-week",
       "sourceDate": "2026-08-14",
@@ -46670,7 +47406,8 @@
           "currentPower": 422848,
           "merits": 0,
           "meritPowerPercentage": 0
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -46750,7 +47487,8 @@
           "currentPower": 422478,
           "merits": 0,
           "meritPowerPercentage": 0
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -46830,7 +47568,8 @@
           "currentPower": 420958,
           "merits": 0,
           "meritPowerPercentage": 0
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -46910,7 +47649,8 @@
           "currentPower": 413258,
           "merits": 0,
           "meritPowerPercentage": 0
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -46990,7 +47730,8 @@
           "currentPower": 412595,
           "merits": 0,
           "meritPowerPercentage": 0
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -47070,7 +47811,8 @@
           "currentPower": 409788,
           "merits": 0,
           "meritPowerPercentage": 0
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -47150,7 +47892,8 @@
           "currentPower": 408673,
           "merits": 0,
           "meritPowerPercentage": 0
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -47230,7 +47973,8 @@
           "currentPower": 407266,
           "merits": 0,
           "meritPowerPercentage": 0
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -47310,7 +48054,8 @@
           "currentPower": 402328,
           "merits": 0,
           "meritPowerPercentage": 0
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -47390,7 +48135,8 @@
           "currentPower": 401608,
           "merits": 0,
           "meritPowerPercentage": 0
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -47470,7 +48216,8 @@
           "currentPower": 397805,
           "merits": 0,
           "meritPowerPercentage": 0
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -47550,7 +48297,8 @@
           "currentPower": 388528,
           "merits": 0,
           "meritPowerPercentage": 0
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -47630,7 +48378,8 @@
           "currentPower": 386108,
           "merits": 0,
           "meritPowerPercentage": 0
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -47710,7 +48459,8 @@
           "currentPower": 385086,
           "merits": 0,
           "meritPowerPercentage": 0
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -47787,7 +48537,9 @@
       "averageMeritsValue": null,
       "averageMeritsPercentage": null,
       "seasonsPlayed": 0,
-      "seasons": {},
+      "seasons": {
+        "3": null
+      },
       "active": true,
       "source": "season-week",
       "sourceDate": "2026-08-28",
@@ -47857,7 +48609,8 @@
           "currentPower": 378578,
           "merits": 0,
           "meritPowerPercentage": 0
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -47937,7 +48690,8 @@
           "currentPower": 375162,
           "merits": 0,
           "meritPowerPercentage": 0
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -48020,7 +48774,8 @@
           "currentPower": 370726,
           "merits": 0,
           "meritPowerPercentage": null
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -48091,7 +48846,8 @@
           "currentPower": 368479,
           "merits": 0,
           "meritPowerPercentage": 0
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -48171,7 +48927,8 @@
           "currentPower": 365278,
           "merits": 0,
           "meritPowerPercentage": 0
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -48248,7 +49005,9 @@
       "averageMeritsValue": null,
       "averageMeritsPercentage": null,
       "seasonsPlayed": 0,
-      "seasons": {},
+      "seasons": {
+        "3": null
+      },
       "active": true,
       "source": "season-week",
       "sourceDate": "2026-08-28",
@@ -48318,7 +49077,8 @@
           "currentPower": 361798,
           "merits": 0,
           "meritPowerPercentage": 0
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -48395,7 +49155,9 @@
       "averageMeritsValue": null,
       "averageMeritsPercentage": null,
       "seasonsPlayed": 0,
-      "seasons": {},
+      "seasons": {
+        "3": null
+      },
       "active": true,
       "source": "season-week",
       "sourceDate": "2026-08-21",
@@ -48465,7 +49227,8 @@
           "currentPower": 356278,
           "merits": 0,
           "meritPowerPercentage": 0
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -48545,7 +49308,8 @@
           "currentPower": 354914,
           "merits": 0,
           "meritPowerPercentage": 0
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -48625,7 +49389,8 @@
           "currentPower": 349538,
           "merits": 0,
           "meritPowerPercentage": 0
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -48705,7 +49470,8 @@
           "currentPower": 348558,
           "merits": 0,
           "meritPowerPercentage": 0
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -48789,7 +49555,8 @@
           "currentPower": 348509,
           "merits": 0,
           "meritPowerPercentage": null
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -48859,7 +49626,8 @@
           "currentPower": 342893,
           "merits": 0,
           "meritPowerPercentage": 0
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -48939,7 +49707,8 @@
           "currentPower": 340772,
           "merits": 0,
           "meritPowerPercentage": 0
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -49019,7 +49788,8 @@
           "currentPower": 339622,
           "merits": 0,
           "meritPowerPercentage": 0
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -49102,7 +49872,8 @@
           "currentPower": 338569,
           "merits": 0,
           "meritPowerPercentage": null
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -49173,7 +49944,8 @@
           "currentPower": 337542,
           "merits": 0,
           "meritPowerPercentage": 0
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -49253,7 +50025,8 @@
           "currentPower": 337341,
           "merits": 0,
           "meritPowerPercentage": 0
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -49333,7 +50106,8 @@
           "currentPower": 335011,
           "merits": 0,
           "meritPowerPercentage": 0
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -49413,7 +50187,8 @@
           "currentPower": 331022,
           "merits": 0,
           "meritPowerPercentage": 0
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -49493,7 +50268,8 @@
           "currentPower": 330294,
           "merits": 0,
           "meritPowerPercentage": 0
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -49573,7 +50349,8 @@
           "currentPower": 329088,
           "merits": 0,
           "meritPowerPercentage": 0
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -49653,7 +50430,8 @@
           "currentPower": 327058,
           "merits": 0,
           "meritPowerPercentage": 0
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -49733,7 +50511,8 @@
           "currentPower": 325311,
           "merits": 0,
           "meritPowerPercentage": 0
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -49813,7 +50592,8 @@
           "currentPower": 324242,
           "merits": 0,
           "meritPowerPercentage": 0
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -49893,7 +50673,8 @@
           "currentPower": 323658,
           "merits": 0,
           "meritPowerPercentage": 0
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -49973,7 +50754,8 @@
           "currentPower": 321842,
           "merits": 0,
           "meritPowerPercentage": 0
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -50053,7 +50835,8 @@
           "currentPower": 320341,
           "merits": 0,
           "meritPowerPercentage": 0
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -50133,7 +50916,8 @@
           "currentPower": 317126,
           "merits": 0,
           "meritPowerPercentage": 0
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -50213,7 +50997,8 @@
           "currentPower": 310138,
           "merits": 0,
           "meritPowerPercentage": 0
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -50293,7 +51078,8 @@
           "currentPower": 307036,
           "merits": 0,
           "meritPowerPercentage": 0
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -50373,7 +51159,8 @@
           "currentPower": 302556,
           "merits": 0,
           "meritPowerPercentage": 0
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -50453,7 +51240,8 @@
           "currentPower": 298331,
           "merits": 0,
           "meritPowerPercentage": 0
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -50533,7 +51321,8 @@
           "currentPower": 283406,
           "merits": 0,
           "meritPowerPercentage": 0
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -50613,7 +51402,8 @@
           "currentPower": 277040,
           "merits": 0,
           "meritPowerPercentage": 0
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -50690,7 +51480,9 @@
       "averageMeritsValue": null,
       "averageMeritsPercentage": null,
       "seasonsPlayed": 0,
-      "seasons": {},
+      "seasons": {
+        "3": null
+      },
       "active": true,
       "source": "season-week",
       "sourceDate": "2026-08-28",
@@ -50757,7 +51549,9 @@
       "averageMeritsValue": null,
       "averageMeritsPercentage": null,
       "seasonsPlayed": 0,
-      "seasons": {},
+      "seasons": {
+        "3": null
+      },
       "active": true,
       "source": "season-week",
       "sourceDate": "2026-08-21",
@@ -50827,7 +51621,8 @@
           "currentPower": 253906,
           "merits": 0,
           "meritPowerPercentage": 0
-        }
+        },
+        "3": null
       },
       "active": true,
       "source": "season-week",
@@ -50904,7 +51699,9 @@
       "averageMeritsValue": null,
       "averageMeritsPercentage": null,
       "seasonsPlayed": 0,
-      "seasons": {},
+      "seasons": {
+        "3": null
+      },
       "active": true,
       "source": "season-week",
       "sourceDate": "2026-08-14",
@@ -50971,7 +51768,9 @@
       "averageMeritsValue": null,
       "averageMeritsPercentage": null,
       "seasonsPlayed": 0,
-      "seasons": {},
+      "seasons": {
+        "3": null
+      },
       "active": true,
       "source": "season-week",
       "sourceDate": "2026-08-14",
