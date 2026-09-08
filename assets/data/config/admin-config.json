@@ -1,6 +1,6 @@
 {
   "schemaVersion": "630.1.0",
-  "updatedAt": "2026-09-08T11:36:53.214Z",
+  "updatedAt": "2026-09-08T11:37:36.336Z",
   "updatedBy": "ragnarok99gaming@gmail.com",
   "github": {
     "repositoryRead": false,
@@ -28,10 +28,19 @@
       "sosNumber": 8,
       "sosName": "(SoS-8) Symphony of the Gods"
     },
-    "participatingServers": [],
+    "participatingServers": [
+      55,
+      110,
+      300,
+      310,
+      583,
+      604,
+      630,
+      801
+    ],
     "active": false,
     "week0Unlocked": false,
-    "updatedAt": "2026-09-08T11:36:41.624Z"
+    "updatedAt": "2026-09-08T11:37:36.336Z"
   },
   "saveSeason": {
     "active": false,
