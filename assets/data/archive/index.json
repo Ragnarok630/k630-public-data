@@ -1,5 +1,11 @@
 [
   {
+    "season": 2,
+    "archivedAt": "2026-08-31",
+    "seasonInfo": "https://raw.githubusercontent.com/Ragnarok630/k630-public-data/main/assets/data/archive/season-2/season-info.json",
+    "serverVsServer": "https://raw.githubusercontent.com/Ragnarok630/k630-public-data/main/assets/data/archive/season-2/server-vs-server.json"
+  },
+  {
     "season": 1,
     "archivedAt": "2026-08-14T12:31:13.389Z",
     "seasonInfo": "https://raw.githubusercontent.com/Ragnarok630/k630-public-data/main/assets/data/archive/season-1/season-info.json",
