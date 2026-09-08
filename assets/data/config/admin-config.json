@@ -45,10 +45,10 @@
     "seasonNumber": 2,
     "officialDate": "2026-08-31",
     "currentStep": "7A",
-    "status": "running",
+    "status": "waiting",
     "steps": {
       "7A": {
-        "status": "running"
+        "status": "waiting"
       },
       "7B": {
         "status": "waiting"
