@@ -2,51 +2,49 @@
   "schemaVersion": 1,
   "kingdom": 630,
   "dataset": "home",
-  "generatedFrom": "season-2-W6",
-  "generatedAt": "2026-09-07T13:45:26.536Z",
-  "generatedBy": "ragnarok99gaming@gmail.com",
-  "currentSeason": 2,
-  "currentWeek": "W6",
-  "currentWeekDate": "2026-08-28",
-  "seasonName": "The Icebound Oath",
+  "generatedFrom": "matchmaking",
+  "matchmakingDate": "2026-09-02",
+  "generatedAt": "2026-09-08T11:35:13.357Z",
+  "currentSeason": 3,
+  "currentWeek": null,
   "totals": {
-    "activePlayers": 392,
-    "warriors": 223,
-    "farmers": 169,
-    "serverPower": 23467300629,
-    "serverMerits": 1411823838,
-    "serverKills": 59373388866,
-    "serverHealing": 78361242496
+    "activePlayers": 471,
+    "warriors": 217,
+    "farmers": 254,
+    "serverPower": 23316189438,
+    "serverMerits": 1389021172,
+    "serverKills": 56857088121,
+    "serverHealing": 76563698010
   },
   "playerRanking": {
     "topIdMerits": [
       {
         "rank": 1,
+        "id": "6437617",
+        "name": "JM SUPERMAN",
+        "kingdom": 630,
+        "merits": 19647046
+      },
+      {
+        "rank": 2,
         "id": "11605279",
         "name": "ᴋɪɴɢ 彡",
         "kingdom": 630,
         "merits": 19335158
       },
       {
-        "rank": 2,
-        "id": "6437617",
-        "name": "JM SUPERMAN",
+        "rank": 3,
+        "id": "6683730",
+        "name": "JM BATMAN",
         "kingdom": 630,
-        "merits": 18896458
+        "merits": 18958815
       },
       {
-        "rank": 3,
+        "rank": 4,
         "id": "5398378",
         "name": "Pangolin",
         "kingdom": 630,
         "merits": 18612516
-      },
-      {
-        "rank": 4,
-        "id": "6683730",
-        "name": "JM BATMAN",
-        "kingdom": 630,
-        "merits": 18196249
       },
       {
         "rank": 5,
@@ -58,142 +56,18 @@
     ]
   },
   "serverRanking": {
-    "topServerMerits": [
-      {
-        "rank": 1,
-        "kingdom": 80,
-        "server": 80,
-        "merits": 2531954615
-      },
-      {
-        "rank": 2,
-        "kingdom": 668,
-        "server": 668,
-        "merits": 2233205586
-      },
-      {
-        "rank": 3,
-        "kingdom": 630,
-        "server": 630,
-        "merits": 1411823838
-      },
-      {
-        "rank": 4,
-        "kingdom": 337,
-        "server": 337,
-        "merits": 1184835305
-      },
-      {
-        "rank": 5,
-        "kingdom": 594,
-        "server": 594,
-        "merits": 708564452
-      }
-    ]
+    "topServerMerits": []
   },
   "charts": {
     "powerDevelopment": {
-      "active": true,
-      "labels": [
-        "W0",
-        "W1",
-        "W2",
-        "W3",
-        "W4",
-        "W5",
-        "W6"
-      ],
-      "datasets": [
-        {
-          "label": "Server 630 Power",
-          "data": [
-            23740051908,
-            23514681070,
-            22643740638,
-            22253792035,
-            23330283023,
-            23792812875,
-            23467300629
-          ]
-        }
-      ]
+      "active": false,
+      "labels": [],
+      "datasets": []
     },
     "meritsDevelopment": {
-      "active": true,
-      "labels": [
-        "W0",
-        "W1",
-        "W2",
-        "W3",
-        "W4",
-        "W5",
-        "W6"
-      ],
-      "datasets": [
-        {
-          "label": "Server 630 Merits",
-          "data": [
-            0,
-            82593923,
-            524710624,
-            621576028,
-            1135675866,
-            1333753000,
-            1411823838
-          ]
-        }
-      ]
-    }
-  },
-  "weeklyTotals": {
-    "W0": {
-      "officialDate": "2026-07-17",
-      "serverPower": 23740051908,
-      "serverMerits": 0,
-      "serverKills": 49543188632,
-      "serverHealing": 70545654796
-    },
-    "W1": {
-      "officialDate": "2026-07-24",
-      "serverPower": 23514681070,
-      "serverMerits": 82593923,
-      "serverKills": 49381110797,
-      "serverHealing": 70258533685
-    },
-    "W2": {
-      "officialDate": "2026-07-31",
-      "serverPower": 22643740638,
-      "serverMerits": 524710624,
-      "serverKills": 50806522998,
-      "serverHealing": 71917040570
-    },
-    "W3": {
-      "officialDate": "2026-08-07",
-      "serverPower": 22253792035,
-      "serverMerits": 621576028,
-      "serverKills": 50734104893,
-      "serverHealing": 72004929965
-    },
-    "W4": {
-      "officialDate": "2026-08-14",
-      "serverPower": 23330283023,
-      "serverMerits": 1135675866,
-      "serverKills": 56703524726,
-      "serverHealing": 79184516889
-    },
-    "W5": {
-      "officialDate": "2026-08-21",
-      "serverPower": 23792812875,
-      "serverMerits": 1333753000,
-      "serverKills": 58962924611,
-      "serverHealing": 81209331995
-    },
-    "W6": {
-      "officialDate": "2026-08-28",
-      "serverPower": 23467300629,
-      "serverMerits": 1411823838,
-      "serverKills": 59373388866,
-      "serverHealing": 78361242496
+      "active": false,
+      "labels": [],
+      "datasets": []
     }
   }
 }
