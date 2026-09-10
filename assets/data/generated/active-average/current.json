@@ -6429,7 +6429,7 @@
       "noteFlags": {
         "new": false,
         "left": false,
-        "afk": false
+        "afk": true
       },
       "leftDuringSeason": false,
       "dateLeftKingdom": null
