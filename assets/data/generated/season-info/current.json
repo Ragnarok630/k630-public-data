@@ -19229,7 +19229,7 @@
       "noteFlags": {
         "new": false,
         "left": false,
-        "afk": true
+        "afk": false
       },
       "leftDuringSeason": false,
       "dateLeftKingdom": null,
