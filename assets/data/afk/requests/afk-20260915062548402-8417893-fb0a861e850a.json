@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 2,
+  "requestId": "afk-20260915062548402-8417893-fb0a861e850a",
+  "status": "pending",
+  "playerId": "8417893",
+  "playerName": "Lady Simms",
+  "reason": "private",
+  "weeks": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+  ],
+  "note": "Private reason send to officers! (23-08 -> Rebel) Don't delete this note or kick her from the alliance!",
+  "seasonNumber": null,
+  "seasonLabel": "",
+  "adminNote": "",
+  "reviewedAt": "",
+  "reviewedBy": "",
+  "submittedAt": "2026-09-15T06:25:48.402Z",
+  "createdAt": "2026-09-15T06:25:48.402Z",
+  "updatedAt": "2026-09-15T06:25:48.402Z",
+  "source": "public-afk-service",
+  "functionVersion": "630.3.1"
+}
