@@ -2,58 +2,58 @@
   "schemaVersion": 1,
   "kingdom": 630,
   "dataset": "home",
-  "generatedFrom": "season-3-W0",
-  "generatedAt": "2026-09-08T11:49:42.540Z",
+  "generatedFrom": "season-3-W1",
+  "generatedAt": "2026-09-15T06:17:24.991Z",
   "generatedBy": "ragnarok99gaming@gmail.com",
   "currentSeason": 3,
-  "currentWeek": "W0",
-  "currentWeekDate": "2026-09-04",
+  "currentWeek": "W1",
+  "currentWeekDate": "2026-09-11",
   "seasonName": "(SoS-8) Symphony of the Gods",
   "totals": {
-    "activePlayers": 471,
+    "activePlayers": 462,
     "warriors": 217,
-    "farmers": 254,
-    "serverPower": 22876908343,
-    "serverMerits": 0,
-    "serverKills": 56875286618,
-    "serverHealing": 76596762525
+    "farmers": 245,
+    "serverPower": 20776973662,
+    "serverMerits": 195535749,
+    "serverKills": 56230938869,
+    "serverHealing": 76370151647
   },
   "playerRanking": {
     "topIdMerits": [
       {
         "rank": 1,
-        "id": "353126",
-        "name": "Aadi",
+        "id": "10036741",
+        "name": "BaoChauPham",
         "kingdom": 630,
-        "merits": 0
+        "merits": 4274400
       },
       {
         "rank": 2,
-        "id": "4706389",
-        "name": "CapCai 乄",
+        "id": "10480848",
+        "name": "Apöłāķí",
         "kingdom": 630,
-        "merits": 0
+        "merits": 3736521
       },
       {
         "rank": 3,
-        "id": "6685458",
-        "name": "Moonlight彡",
+        "id": "4706389",
+        "name": "CapCai 乄",
         "kingdom": 630,
-        "merits": 0
+        "merits": 3616862
       },
       {
         "rank": 4,
-        "id": "4901487",
-        "name": "RegularGordo",
+        "id": "6186450",
+        "name": "Hesur",
         "kingdom": 630,
-        "merits": 0
+        "merits": 3525224
       },
       {
         "rank": 5,
-        "id": "4921693",
-        "name": "父 Hyrxx",
+        "id": "3074537",
+        "name": "TrDaphne",
         "kingdom": 630,
-        "merits": 0
+        "merits": 3503454
       }
     ]
   },
@@ -61,33 +61,33 @@
     "topServerMerits": [
       {
         "rank": 1,
-        "kingdom": 55,
-        "server": 55,
-        "merits": 0
+        "kingdom": 583,
+        "server": 583,
+        "merits": 397751195
       },
       {
         "rank": 2,
-        "kingdom": 110,
-        "server": 110,
-        "merits": 0
+        "kingdom": 310,
+        "server": 310,
+        "merits": 296188568
       },
       {
         "rank": 3,
-        "kingdom": 300,
-        "server": 300,
-        "merits": 0
+        "kingdom": 110,
+        "server": 110,
+        "merits": 268607231
       },
       {
         "rank": 4,
-        "kingdom": 310,
-        "server": 310,
-        "merits": 0
+        "kingdom": 801,
+        "server": 801,
+        "merits": 244500660
       },
       {
         "rank": 5,
-        "kingdom": 583,
-        "server": 583,
-        "merits": 0
+        "kingdom": 630,
+        "server": 630,
+        "merits": 195535749
       }
     ]
   },
@@ -108,7 +108,7 @@
           "label": "Server 630 Power",
           "data": [
             22876908343,
-            null,
+            20776973662,
             null,
             null,
             null,
@@ -134,7 +134,7 @@
           "label": "Server 630 Merits",
           "data": [
             0,
-            null,
+            195535749,
             null,
             null,
             null,
@@ -152,6 +152,13 @@
       "serverMerits": 0,
       "serverKills": 56875286618,
       "serverHealing": 76596762525
+    },
+    "W1": {
+      "officialDate": "2026-09-11",
+      "serverPower": 20776973662,
+      "serverMerits": 195535749,
+      "serverKills": 56230938869,
+      "serverHealing": 76370151647
     }
   }
 }
