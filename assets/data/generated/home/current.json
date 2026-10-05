@@ -2,58 +2,58 @@
   "schemaVersion": 1,
   "kingdom": 630,
   "dataset": "home",
-  "generatedFrom": "season-3-W3",
-  "generatedAt": "2026-09-28T11:58:48.700Z",
+  "generatedFrom": "season-3-W4",
+  "generatedAt": "2026-10-05T07:11:54.183Z",
   "generatedBy": "ragnarok99gaming@gmail.com",
   "currentSeason": 3,
-  "currentWeek": "W3",
-  "currentWeekDate": "2026-09-25",
+  "currentWeek": "W4",
+  "currentWeekDate": "2026-10-02",
   "seasonName": "(SoS-8) Symphony of the Gods",
   "totals": {
-    "activePlayers": 449,
-    "warriors": 211,
-    "farmers": 238,
-    "serverPower": 21433426931,
-    "serverMerits": 564123873,
-    "serverKills": 55247447671,
-    "serverHealing": 75676472403
+    "activePlayers": 453,
+    "warriors": 210,
+    "farmers": 243,
+    "serverPower": 20419364600,
+    "serverMerits": 1030182603,
+    "serverKills": 56264363375,
+    "serverHealing": 76822571655
   },
   "playerRanking": {
     "topIdMerits": [
       {
         "rank": 1,
-        "id": "13119692",
-        "name": "Eskandar",
+        "id": "11005917",
+        "name": "Rubbish Paper",
         "kingdom": 630,
-        "merits": 23183404
+        "merits": 24470954
       },
       {
         "rank": 2,
-        "id": "49477",
-        "name": "MiTS",
+        "id": "13119692",
+        "name": "Eskandar",
         "kingdom": 630,
-        "merits": 10679131
+        "merits": 24199209
       },
       {
         "rank": 3,
-        "id": "6691653",
-        "name": "jason999",
+        "id": "11605279",
+        "name": "ᴋɪɴɢ 彡",
         "kingdom": 630,
-        "merits": 9299826
+        "merits": 16093968
       },
       {
         "rank": 4,
-        "id": "353126",
-        "name": "Aadi",
+        "id": "4706389",
+        "name": "CapCai 乄",
         "kingdom": 630,
-        "merits": 8995514
+        "merits": 15049089
       },
       {
         "rank": 5,
-        "id": "8454847",
-        "name": "UDaJo",
+        "id": "14793459",
+        "name": "ᴿᵉᶠ PᴜssNBᴏᴏᴛs",
         "kingdom": 630,
-        "merits": 8844261
+        "merits": 14863560
       }
     ]
   },
@@ -63,31 +63,31 @@
         "rank": 1,
         "kingdom": 583,
         "server": 583,
-        "merits": 779574836
+        "merits": 1189457312
       },
       {
         "rank": 2,
-        "kingdom": 310,
-        "server": 310,
-        "merits": 683839984
+        "kingdom": 630,
+        "server": 630,
+        "merits": 1030182603
       },
       {
         "rank": 3,
-        "kingdom": 630,
-        "server": 630,
-        "merits": 564123873
+        "kingdom": 110,
+        "server": 110,
+        "merits": 972548624
       },
       {
         "rank": 4,
-        "kingdom": 801,
-        "server": 801,
-        "merits": 551565727
+        "kingdom": 310,
+        "server": 310,
+        "merits": 961199669
       },
       {
         "rank": 5,
-        "kingdom": 110,
-        "server": 110,
-        "merits": 541684415
+        "kingdom": 604,
+        "server": 604,
+        "merits": 917891581
       }
     ]
   },
@@ -111,7 +111,7 @@
             20776973662,
             21484853800,
             21433426931,
-            null,
+            20419364600,
             null,
             null
           ]
@@ -137,7 +137,7 @@
             195535749,
             384612743,
             564123873,
-            null,
+            1030182603,
             null,
             null
           ]
@@ -173,6 +173,13 @@
       "serverMerits": 564123873,
       "serverKills": 55247447671,
       "serverHealing": 75676472403
+    },
+    "W4": {
+      "officialDate": "2026-10-02",
+      "serverPower": 20419364600,
+      "serverMerits": 1030182603,
+      "serverKills": 56264363375,
+      "serverHealing": 76822571655
     }
   }
 }
