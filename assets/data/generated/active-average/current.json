@@ -132,8 +132,8 @@
       "castleLevel": 25,
       "meritPowerRatio": 13.545519273405263,
       "playerType": "warrior",
-      "averageMeritsValue": null,
-      "averageMeritsPercentage": null,
+      "averageMeritsValue": 25168719,
+      "averageMeritsPercentage": 13.55,
       "seasonsPlayed": 0,
       "seasons": {
         "3": {
@@ -206,8 +206,8 @@
       "castleLevel": 25,
       "meritPowerRatio": 9.837890520346809,
       "playerType": "warrior",
-      "averageMeritsValue": null,
-      "averageMeritsPercentage": null,
+      "averageMeritsValue": 17245821,
+      "averageMeritsPercentage": 9.84,
       "seasonsPlayed": 0,
       "seasons": {
         "3": {
@@ -400,8 +400,8 @@
       "castleLevel": 25,
       "meritPowerRatio": 14.206598996506333,
       "playerType": "warrior",
-      "averageMeritsValue": null,
-      "averageMeritsPercentage": null,
+      "averageMeritsValue": 24470954,
+      "averageMeritsPercentage": 14.21,
       "seasonsPlayed": 0,
       "seasons": {
         "3": {
@@ -534,8 +534,8 @@
       "castleLevel": 25,
       "meritPowerRatio": 4.941145085542237,
       "playerType": "warrior",
-      "averageMeritsValue": null,
-      "averageMeritsPercentage": null,
+      "averageMeritsValue": 8125935,
+      "averageMeritsPercentage": 4.94,
       "seasonsPlayed": 0,
       "seasons": {
         "3": {
@@ -608,8 +608,8 @@
       "castleLevel": 25,
       "meritPowerRatio": 0,
       "playerType": "warrior",
-      "averageMeritsValue": null,
-      "averageMeritsPercentage": null,
+      "averageMeritsValue": 0,
+      "averageMeritsPercentage": 0,
       "seasonsPlayed": 0,
       "seasons": {
         "3": {
@@ -683,8 +683,8 @@
       "serverRank": 8,
       "castleLevel": 25,
       "playerType": "warrior",
-      "averageMeritsValue": 10041918,
-      "averageMeritsPercentage": 8.13,
+      "averageMeritsValue": 10876115,
+      "averageMeritsPercentage": 8.01,
       "seasonsPlayed": 0,
       "seasons": {
         "1": {
@@ -768,8 +768,8 @@
       "castleLevel": 25,
       "meritPowerRatio": 2.398692025668065,
       "playerType": "warrior",
-      "averageMeritsValue": null,
-      "averageMeritsPercentage": null,
+      "averageMeritsValue": 3810210,
+      "averageMeritsPercentage": 2.4,
       "seasonsPlayed": 0,
       "seasons": {
         "3": {
@@ -842,8 +842,8 @@
       "castleLevel": 25,
       "meritPowerRatio": 4.3170091367291645,
       "playerType": "warrior",
-      "averageMeritsValue": null,
-      "averageMeritsPercentage": null,
+      "averageMeritsValue": 6739558,
+      "averageMeritsPercentage": 4.32,
       "seasonsPlayed": 0,
       "seasons": {
         "3": {
@@ -917,8 +917,8 @@
       "serverRank": 12,
       "castleLevel": 25,
       "playerType": "warrior",
-      "averageMeritsValue": 18612516,
-      "averageMeritsPercentage": 12.12,
+      "averageMeritsValue": 19317105,
+      "averageMeritsPercentage": 12.49,
       "seasonsPlayed": 0,
       "seasons": {
         "2": {
@@ -1057,8 +1057,8 @@
       "serverRank": 15,
       "castleLevel": 25,
       "playerType": "warrior",
-      "averageMeritsValue": 4450596,
-      "averageMeritsPercentage": 3,
+      "averageMeritsValue": 5355244,
+      "averageMeritsPercentage": 3.56,
       "seasonsPlayed": 0,
       "seasons": {
         "2": {
@@ -1196,8 +1196,8 @@
       "castleLevel": 25,
       "meritPowerRatio": 7.427174440368114,
       "playerType": "warrior",
-      "averageMeritsValue": null,
-      "averageMeritsPercentage": null,
+      "averageMeritsValue": 11006529,
+      "averageMeritsPercentage": 7.43,
       "seasonsPlayed": 0,
       "seasons": {
         "3": {
@@ -1261,8 +1261,8 @@
       "castleLevel": 25,
       "faction": "Wilderburg",
       "playerType": "warrior",
-      "averageMeritsValue": 15032711,
-      "averageMeritsPercentage": 11.24,
+      "averageMeritsValue": 15340560,
+      "averageMeritsPercentage": 11.13,
       "seasonsPlayed": 0,
       "seasons": {
         "1": {
@@ -1356,8 +1356,8 @@
       "castleLevel": 25,
       "meritPowerRatio": 11.529206454618834,
       "playerType": "warrior",
-      "averageMeritsValue": null,
-      "averageMeritsPercentage": null,
+      "averageMeritsValue": 16862779,
+      "averageMeritsPercentage": 11.53,
       "seasonsPlayed": 0,
       "seasons": {
         "3": {
@@ -1430,8 +1430,8 @@
       "castleLevel": 25,
       "meritPowerRatio": 3.961735547441214,
       "playerType": "warrior",
-      "averageMeritsValue": 14838626,
-      "averageMeritsPercentage": 10.32,
+      "averageMeritsValue": 10298820,
+      "averageMeritsPercentage": 7.14,
       "seasonsPlayed": 0,
       "seasons": {
         "2": {
@@ -1511,8 +1511,8 @@
       "serverRank": 18,
       "castleLevel": 25,
       "playerType": "warrior",
-      "averageMeritsValue": 9352385,
-      "averageMeritsPercentage": 6.8,
+      "averageMeritsValue": 8643377,
+      "averageMeritsPercentage": 6.19,
       "seasonsPlayed": 0,
       "seasons": {
         "1": {
@@ -1596,8 +1596,8 @@
       "castleLevel": 25,
       "meritPowerRatio": 4.214322911590491,
       "playerType": "warrior",
-      "averageMeritsValue": null,
-      "averageMeritsPercentage": null,
+      "averageMeritsValue": 6090413,
+      "averageMeritsPercentage": 4.21,
       "seasonsPlayed": 0,
       "seasons": {
         "3": {
@@ -1661,8 +1661,8 @@
       "castleLevel": 25,
       "faction": "League of Order",
       "playerType": "warrior",
-      "averageMeritsValue": 16551731,
-      "averageMeritsPercentage": 13,
+      "averageMeritsValue": 16558659,
+      "averageMeritsPercentage": 12.51,
       "seasonsPlayed": 0,
       "seasons": {
         "1": {
@@ -1757,8 +1757,8 @@
       "serverRank": 0,
       "castleLevel": 25,
       "playerType": "warrior",
-      "averageMeritsValue": 13279217,
-      "averageMeritsPercentage": 9.56,
+      "averageMeritsValue": 12646460,
+      "averageMeritsPercentage": 9,
       "seasonsPlayed": 0,
       "seasons": {
         "2": {
@@ -1836,8 +1836,8 @@
       "castleLevel": 25,
       "meritPowerRatio": 3.786304925779249,
       "playerType": "warrior",
-      "averageMeritsValue": null,
-      "averageMeritsPercentage": null,
+      "averageMeritsValue": 5372494,
+      "averageMeritsPercentage": 3.79,
       "seasonsPlayed": 0,
       "seasons": {
         "3": {
@@ -1910,8 +1910,8 @@
       "castleLevel": 25,
       "meritPowerRatio": 8.479289646048175,
       "playerType": "warrior",
-      "averageMeritsValue": 8123624,
-      "averageMeritsPercentage": 5.95,
+      "averageMeritsValue": 10067525,
+      "averageMeritsPercentage": 7.21,
       "seasonsPlayed": 0,
       "seasons": {
         "2": {
@@ -1991,8 +1991,8 @@
       "serverRank": 0,
       "castleLevel": 25,
       "playerType": "warrior",
-      "averageMeritsValue": 18147953,
-      "averageMeritsPercentage": 12.83,
+      "averageMeritsValue": 9073977,
+      "averageMeritsPercentage": 6.42,
       "seasonsPlayed": 0,
       "seasons": {
         "2": {
@@ -2070,8 +2070,8 @@
       "castleLevel": 25,
       "meritPowerRatio": 5.612898055930481,
       "playerType": "warrior",
-      "averageMeritsValue": null,
-      "averageMeritsPercentage": null,
+      "averageMeritsValue": 7929061,
+      "averageMeritsPercentage": 5.61,
       "seasonsPlayed": 0,
       "seasons": {
         "3": {
@@ -2145,8 +2145,8 @@
       "serverRank": 24,
       "castleLevel": 25,
       "playerType": "warrior",
-      "averageMeritsValue": 15382979,
-      "averageMeritsPercentage": 10.94,
+      "averageMeritsValue": 15938093,
+      "averageMeritsPercentage": 11.34,
       "seasonsPlayed": 0,
       "seasons": {
         "2": {
@@ -2224,8 +2224,8 @@
       "castleLevel": 25,
       "meritPowerRatio": 6.101570023881783,
       "playerType": "warrior",
-      "averageMeritsValue": null,
-      "averageMeritsPercentage": null,
+      "averageMeritsValue": 8487524,
+      "averageMeritsPercentage": 6.1,
       "seasonsPlayed": 0,
       "seasons": {
         "3": {
@@ -2298,8 +2298,8 @@
       "castleLevel": 25,
       "meritPowerRatio": 11.575656143896726,
       "playerType": "warrior",
-      "averageMeritsValue": 19335158,
-      "averageMeritsPercentage": 14.4,
+      "averageMeritsValue": 17714563,
+      "averageMeritsPercentage": 12.99,
       "seasonsPlayed": 0,
       "seasons": {
         "2": {
@@ -2369,8 +2369,8 @@
       "castleLevel": 25,
       "faction": "League of Order",
       "playerType": "warrior",
-      "averageMeritsValue": 14244766,
-      "averageMeritsPercentage": 10.77,
+      "averageMeritsValue": 10573636,
+      "averageMeritsPercentage": 7.95,
       "seasonsPlayed": 0,
       "seasons": {
         "1": {
@@ -2455,8 +2455,8 @@
       "castleLevel": 25,
       "faction": "League of Order",
       "playerType": "warrior",
-      "averageMeritsValue": 11164269,
-      "averageMeritsPercentage": 9.06,
+      "averageMeritsValue": 11720739,
+      "averageMeritsPercentage": 9.13,
       "seasonsPlayed": 0,
       "seasons": {
         "1": {
@@ -2541,8 +2541,8 @@
       "castleLevel": 25,
       "faction": "Wilderburg",
       "playerType": "warrior",
-      "averageMeritsValue": 6609445,
-      "averageMeritsPercentage": 5.01,
+      "averageMeritsValue": 6702238,
+      "averageMeritsPercentage": 5,
       "seasonsPlayed": 0,
       "seasons": {
         "1": {
@@ -2637,8 +2637,8 @@
       "serverRank": 27,
       "castleLevel": 25,
       "playerType": "warrior",
-      "averageMeritsValue": 12004215,
-      "averageMeritsPercentage": 8.88,
+      "averageMeritsValue": 10629676,
+      "averageMeritsPercentage": 7.82,
       "seasonsPlayed": 0,
       "seasons": {
         "2": {
@@ -2717,8 +2717,8 @@
       "serverRank": 165,
       "castleLevel": 25,
       "playerType": "warrior",
-      "averageMeritsValue": 7949699,
-      "averageMeritsPercentage": 6.07,
+      "averageMeritsValue": 9515098,
+      "averageMeritsPercentage": 7.13,
       "seasonsPlayed": 0,
       "seasons": {
         "2": {
@@ -2797,8 +2797,8 @@
       "serverRank": 0,
       "castleLevel": 25,
       "playerType": "warrior",
-      "averageMeritsValue": 7522084,
-      "averageMeritsPercentage": 5.63,
+      "averageMeritsValue": 6579776,
+      "averageMeritsPercentage": 4.9,
       "seasonsPlayed": 0,
       "seasons": {
         "2": {
@@ -2876,8 +2876,8 @@
       "castleLevel": 25,
       "meritPowerRatio": 6.692579372649261,
       "playerType": "warrior",
-      "averageMeritsValue": 14648790,
-      "averageMeritsPercentage": 11.22,
+      "averageMeritsValue": 11818768,
+      "averageMeritsPercentage": 8.96,
       "seasonsPlayed": 0,
       "seasons": {
         "2": {
@@ -2956,8 +2956,8 @@
       "castleLevel": 25,
       "meritPowerRatio": 3.403008321409409,
       "playerType": "warrior",
-      "averageMeritsValue": null,
-      "averageMeritsPercentage": null,
+      "averageMeritsValue": 4564890,
+      "averageMeritsPercentage": 3.4,
       "seasonsPlayed": 0,
       "seasons": {
         "3": {
@@ -3031,8 +3031,8 @@
       "serverRank": 29,
       "castleLevel": 25,
       "playerType": "warrior",
-      "averageMeritsValue": 9963755,
-      "averageMeritsPercentage": 7.54,
+      "averageMeritsValue": 10706676,
+      "averageMeritsPercentage": 8.05,
       "seasonsPlayed": 0,
       "seasons": {
         "2": {
@@ -3101,8 +3101,8 @@
       "castleLevel": 25,
       "faction": "League of Order",
       "playerType": "warrior",
-      "averageMeritsValue": 5899995,
-      "averageMeritsPercentage": 4.73,
+      "averageMeritsValue": 5554203,
+      "averageMeritsPercentage": 4.37,
       "seasonsPlayed": 0,
       "seasons": {
         "1": {
@@ -3196,8 +3196,8 @@
       "castleLevel": 25,
       "meritPowerRatio": 12.269347685019593,
       "playerType": "warrior",
-      "averageMeritsValue": 15070025,
-      "averageMeritsPercentage": 11.93,
+      "averageMeritsValue": 15711428,
+      "averageMeritsPercentage": 12.1,
       "seasonsPlayed": 0,
       "seasons": {
         "2": {
@@ -3277,8 +3277,8 @@
       "serverRank": 33,
       "castleLevel": 25,
       "playerType": "warrior",
-      "averageMeritsValue": 10066483,
-      "averageMeritsPercentage": 8.29,
+      "averageMeritsValue": 9078903,
+      "averageMeritsPercentage": 7.19,
       "seasonsPlayed": 0,
       "seasons": {
         "2": {
@@ -3357,8 +3357,8 @@
       "serverRank": 34,
       "castleLevel": 25,
       "playerType": "warrior",
-      "averageMeritsValue": 7132420,
-      "averageMeritsPercentage": 5.64,
+      "averageMeritsValue": 9741414,
+      "averageMeritsPercentage": 7.52,
       "seasonsPlayed": 0,
       "seasons": {
         "2": {
@@ -3436,8 +3436,8 @@
       "castleLevel": 25,
       "meritPowerRatio": 9.434323347584368,
       "playerType": "warrior",
-      "averageMeritsValue": null,
-      "averageMeritsPercentage": null,
+      "averageMeritsValue": 12322472,
+      "averageMeritsPercentage": 9.43,
       "seasonsPlayed": 0,
       "seasons": {
         "3": {
@@ -3511,8 +3511,8 @@
       "serverRank": 35,
       "castleLevel": 25,
       "playerType": "warrior",
-      "averageMeritsValue": 9730419,
-      "averageMeritsPercentage": 7.79,
+      "averageMeritsValue": 9295284,
+      "averageMeritsPercentage": 7.35,
       "seasonsPlayed": 0,
       "seasons": {
         "1": {
@@ -3596,8 +3596,8 @@
       "castleLevel": 25,
       "meritPowerRatio": 1.3030137706210378,
       "playerType": "warrior",
-      "averageMeritsValue": null,
-      "averageMeritsPercentage": null,
+      "averageMeritsValue": 1694132,
+      "averageMeritsPercentage": 1.3,
       "seasonsPlayed": 0,
       "seasons": {
         "3": {
@@ -3671,8 +3671,8 @@
       "serverRank": 0,
       "castleLevel": 25,
       "playerType": "warrior",
-      "averageMeritsValue": 12018537,
-      "averageMeritsPercentage": 9.25,
+      "averageMeritsValue": 6009269,
+      "averageMeritsPercentage": 4.62,
       "seasonsPlayed": 0,
       "seasons": {
         "2": {
@@ -3751,8 +3751,8 @@
       "serverRank": 0,
       "castleLevel": 25,
       "playerType": "warrior",
-      "averageMeritsValue": 1091379,
-      "averageMeritsPercentage": 0.85,
+      "averageMeritsValue": 1685847,
+      "averageMeritsPercentage": 1.31,
       "seasonsPlayed": 0,
       "seasons": {
         "2": {
@@ -3881,8 +3881,8 @@
       "castleLevel": 25,
       "faction": "Springwardens",
       "playerType": "warrior",
-      "averageMeritsValue": 11457874,
-      "averageMeritsPercentage": 9.19,
+      "averageMeritsValue": 11655832,
+      "averageMeritsPercentage": 9.23,
       "seasonsPlayed": 0,
       "seasons": {
         "1": {
@@ -3976,8 +3976,8 @@
       "castleLevel": 25,
       "meritPowerRatio": 7.0191302689428285,
       "playerType": "warrior",
-      "averageMeritsValue": null,
-      "averageMeritsPercentage": null,
+      "averageMeritsValue": 9080319,
+      "averageMeritsPercentage": 7.02,
       "seasonsPlayed": 0,
       "seasons": {
         "3": {
@@ -4050,8 +4050,8 @@
       "castleLevel": 25,
       "meritPowerRatio": 7.132237953757622,
       "playerType": "warrior",
-      "averageMeritsValue": null,
-      "averageMeritsPercentage": null,
+      "averageMeritsValue": 9215960,
+      "averageMeritsPercentage": 7.13,
       "seasonsPlayed": 0,
       "seasons": {
         "3": {
@@ -4124,8 +4124,8 @@
       "castleLevel": 25,
       "meritPowerRatio": 4.290104636860188,
       "playerType": "warrior",
-      "averageMeritsValue": null,
-      "averageMeritsPercentage": null,
+      "averageMeritsValue": 5499424,
+      "averageMeritsPercentage": 4.29,
       "seasonsPlayed": 0,
       "seasons": {
         "3": {
@@ -4199,8 +4199,8 @@
       "serverRank": 44,
       "castleLevel": 25,
       "playerType": "warrior",
-      "averageMeritsValue": 8187929,
-      "averageMeritsPercentage": 6.65,
+      "averageMeritsValue": 8460353,
+      "averageMeritsPercentage": 6.76,
       "seasonsPlayed": 0,
       "seasons": {
         "2": {
@@ -4279,8 +4279,8 @@
       "serverRank": 38,
       "castleLevel": 25,
       "playerType": "warrior",
-      "averageMeritsValue": 7617006,
-      "averageMeritsPercentage": 6.12,
+      "averageMeritsValue": 7397560,
+      "averageMeritsPercentage": 5.89,
       "seasonsPlayed": 0,
       "seasons": {
         "2": {
@@ -4349,8 +4349,8 @@
       "castleLevel": 25,
       "faction": "League of Order",
       "playerType": "warrior",
-      "averageMeritsValue": 5495569,
-      "averageMeritsPercentage": 4.66,
+      "averageMeritsValue": 5893021,
+      "averageMeritsPercentage": 4.88,
       "seasonsPlayed": 0,
       "seasons": {
         "1": {
@@ -4444,8 +4444,8 @@
       "castleLevel": 25,
       "meritPowerRatio": 5.738255927917813,
       "playerType": "warrior",
-      "averageMeritsValue": null,
-      "averageMeritsPercentage": null,
+      "averageMeritsValue": 7195440,
+      "averageMeritsPercentage": 5.74,
       "seasonsPlayed": 0,
       "seasons": {
         "3": {
@@ -4578,8 +4578,8 @@
       "castleLevel": 25,
       "meritPowerRatio": 10.965157014037114,
       "playerType": "warrior",
-      "averageMeritsValue": null,
-      "averageMeritsPercentage": null,
+      "averageMeritsValue": 13703695,
+      "averageMeritsPercentage": 10.97,
       "seasonsPlayed": 0,
       "seasons": {
         "3": {
@@ -4643,7 +4643,7 @@
       "castleLevel": 25,
       "faction": "League of Order",
       "playerType": "warrior",
-      "averageMeritsValue": 10578661,
+      "averageMeritsValue": 7052440,
       "averageMeritsPercentage": 8.67,
       "seasonsPlayed": 0,
       "seasons": {
@@ -4739,8 +4739,8 @@
       "serverRank": 0,
       "castleLevel": 25,
       "playerType": "warrior",
-      "averageMeritsValue": 14045623,
-      "averageMeritsPercentage": 11.39,
+      "averageMeritsValue": 11359013,
+      "averageMeritsPercentage": 9.17,
       "seasonsPlayed": 0,
       "seasons": {
         "2": {
@@ -4809,8 +4809,8 @@
       "castleLevel": 25,
       "faction": "League of Order",
       "playerType": "warrior",
-      "averageMeritsValue": 13227832,
-      "averageMeritsPercentage": 11.04,
+      "averageMeritsValue": 13206472,
+      "averageMeritsPercentage": 10.89,
       "seasonsPlayed": 0,
       "seasons": {
         "1": {
@@ -4904,8 +4904,8 @@
       "castleLevel": 25,
       "meritPowerRatio": 3.3803982753600725,
       "playerType": "warrior",
-      "averageMeritsValue": null,
-      "averageMeritsPercentage": null,
+      "averageMeritsValue": 4207881,
+      "averageMeritsPercentage": 3.38,
       "seasonsPlayed": 0,
       "seasons": {
         "3": {
@@ -4979,8 +4979,8 @@
       "serverRank": 167,
       "castleLevel": 25,
       "playerType": "warrior",
-      "averageMeritsValue": 7978967,
-      "averageMeritsPercentage": 6.45,
+      "averageMeritsValue": 5451006,
+      "averageMeritsPercentage": 4.41,
       "seasonsPlayed": 0,
       "seasons": {
         "1": {
@@ -5055,8 +5055,8 @@
       "castleLevel": 25,
       "faction": "Wilderburg",
       "playerType": "warrior",
-      "averageMeritsValue": 7546193,
-      "averageMeritsPercentage": 6.53,
+      "averageMeritsValue": 8605082,
+      "averageMeritsPercentage": 7.24,
       "seasonsPlayed": 0,
       "seasons": {
         "1": {
@@ -5150,8 +5150,8 @@
       "castleLevel": 25,
       "meritPowerRatio": 8.770034408415363,
       "playerType": "warrior",
-      "averageMeritsValue": null,
-      "averageMeritsPercentage": null,
+      "averageMeritsValue": 10844401,
+      "averageMeritsPercentage": 8.77,
       "seasonsPlayed": 0,
       "seasons": {
         "3": {
@@ -5225,8 +5225,8 @@
       "serverRank": 79,
       "castleLevel": 25,
       "playerType": "warrior",
-      "averageMeritsValue": 6739739,
-      "averageMeritsPercentage": 5.47,
+      "averageMeritsValue": 3852181,
+      "averageMeritsPercentage": 3.13,
       "seasonsPlayed": 0,
       "seasons": {
         "2": {
@@ -5305,8 +5305,8 @@
       "serverRank": 0,
       "castleLevel": 25,
       "playerType": "warrior",
-      "averageMeritsValue": 11880534,
-      "averageMeritsPercentage": 10.01,
+      "averageMeritsValue": 11087341,
+      "averageMeritsPercentage": 9.25,
       "seasonsPlayed": 0,
       "seasons": {
         "1": {
@@ -5391,8 +5391,8 @@
       "serverRank": 49,
       "castleLevel": 25,
       "playerType": "warrior",
-      "averageMeritsValue": 8850443,
-      "averageMeritsPercentage": 7.58,
+      "averageMeritsValue": 7192478,
+      "averageMeritsPercentage": 6.11,
       "seasonsPlayed": 0,
       "seasons": {
         "1": {
@@ -5467,8 +5467,8 @@
       "castleLevel": 25,
       "faction": "League of Order",
       "playerType": "warrior",
-      "averageMeritsValue": 10630513,
-      "averageMeritsPercentage": 9.38,
+      "averageMeritsValue": 8542035,
+      "averageMeritsPercentage": 7.44,
       "seasonsPlayed": 0,
       "seasons": {
         "1": {
@@ -5553,8 +5553,8 @@
       "castleLevel": 25,
       "faction": "League of Order",
       "playerType": "warrior",
-      "averageMeritsValue": 6758640,
-      "averageMeritsPercentage": 5.69,
+      "averageMeritsValue": 5801471,
+      "averageMeritsPercentage": 4.85,
       "seasonsPlayed": 0,
       "seasons": {
         "1": {
@@ -5648,8 +5648,8 @@
       "castleLevel": 25,
       "meritPowerRatio": 9.908126113367127,
       "playerType": "warrior",
-      "averageMeritsValue": null,
-      "averageMeritsPercentage": null,
+      "averageMeritsValue": 12152530,
+      "averageMeritsPercentage": 9.91,
       "seasonsPlayed": 0,
       "seasons": {
         "3": {
@@ -5723,8 +5723,8 @@
       "serverRank": 0,
       "castleLevel": 25,
       "playerType": "warrior",
-      "averageMeritsValue": 6004184,
-      "averageMeritsPercentage": 5.01,
+      "averageMeritsValue": 4002789,
+      "averageMeritsPercentage": 3.34,
       "seasonsPlayed": 0,
       "seasons": {
         "1": {
@@ -5799,8 +5799,8 @@
       "castleLevel": 25,
       "faction": "League of Order",
       "playerType": "warrior",
-      "averageMeritsValue": 13647138,
-      "averageMeritsPercentage": 14.11,
+      "averageMeritsValue": 13725236,
+      "averageMeritsPercentage": 13.21,
       "seasonsPlayed": 0,
       "seasons": {
         "1": {
@@ -5894,8 +5894,8 @@
       "castleLevel": 25,
       "meritPowerRatio": 6.340558697341166,
       "playerType": "warrior",
-      "averageMeritsValue": null,
-      "averageMeritsPercentage": null,
+      "averageMeritsValue": 7681439,
+      "averageMeritsPercentage": 6.34,
       "seasonsPlayed": 0,
       "seasons": {
         "3": {
@@ -5969,8 +5969,8 @@
       "serverRank": 52,
       "castleLevel": 25,
       "playerType": "warrior",
-      "averageMeritsValue": 4299615,
-      "averageMeritsPercentage": 3.68,
+      "averageMeritsValue": 2798106,
+      "averageMeritsPercentage": 2.38,
       "seasonsPlayed": 0,
       "seasons": {
         "2": {
@@ -6049,8 +6049,8 @@
       "serverRank": 51,
       "castleLevel": 25,
       "playerType": "warrior",
-      "averageMeritsValue": 17115588,
-      "averageMeritsPercentage": 14.36,
+      "averageMeritsValue": 16636399,
+      "averageMeritsPercentage": 13.91,
       "seasonsPlayed": 0,
       "seasons": {
         "1": {
@@ -6135,8 +6135,8 @@
       "serverRank": 0,
       "castleLevel": 25,
       "playerType": "warrior",
-      "averageMeritsValue": 2937043,
-      "averageMeritsPercentage": 2.51,
+      "averageMeritsValue": 1958029,
+      "averageMeritsPercentage": 1.67,
       "seasonsPlayed": 0,
       "seasons": {
         "1": {
@@ -6211,8 +6211,8 @@
       "castleLevel": 25,
       "faction": "League of Order",
       "playerType": "warrior",
-      "averageMeritsValue": 18907938,
-      "averageMeritsPercentage": 17.71,
+      "averageMeritsValue": 19403442,
+      "averageMeritsPercentage": 17.48,
       "seasonsPlayed": 0,
       "seasons": {
         "1": {
@@ -6306,8 +6306,8 @@
       "castleLevel": 25,
       "meritPowerRatio": 4.891333985607519,
       "playerType": "warrior",
-      "averageMeritsValue": null,
-      "averageMeritsPercentage": null,
+      "averageMeritsValue": 5822940,
+      "averageMeritsPercentage": 4.89,
       "seasonsPlayed": 0,
       "seasons": {
         "3": {
@@ -6381,8 +6381,8 @@
       "serverRank": 53,
       "castleLevel": 25,
       "playerType": "warrior",
-      "averageMeritsValue": 3926340,
-      "averageMeritsPercentage": 3.37,
+      "averageMeritsValue": 2617560,
+      "averageMeritsPercentage": 2.24,
       "seasonsPlayed": 0,
       "seasons": {
         "1": {
@@ -6466,8 +6466,8 @@
       "castleLevel": 25,
       "meritPowerRatio": 8.212542714628874,
       "playerType": "warrior",
-      "averageMeritsValue": null,
-      "averageMeritsPercentage": null,
+      "averageMeritsValue": 9770444,
+      "averageMeritsPercentage": 8.21,
       "seasonsPlayed": 0,
       "seasons": {
         "3": {
@@ -6531,8 +6531,8 @@
       "castleLevel": 25,
       "faction": "League of Order",
       "playerType": "warrior",
-      "averageMeritsValue": 18874315,
-      "averageMeritsPercentage": 16.35,
+      "averageMeritsValue": 18644952,
+      "averageMeritsPercentage": 16,
       "seasonsPlayed": 0,
       "seasons": {
         "1": {
@@ -6626,8 +6626,8 @@
       "castleLevel": 25,
       "meritPowerRatio": 5.908944704783357,
       "playerType": "warrior",
-      "averageMeritsValue": null,
-      "averageMeritsPercentage": null,
+      "averageMeritsValue": 7013588,
+      "averageMeritsPercentage": 5.91,
       "seasonsPlayed": 0,
       "seasons": {
         "3": {
@@ -6701,8 +6701,8 @@
       "serverRank": 57,
       "castleLevel": 25,
       "playerType": "warrior",
-      "averageMeritsValue": 2590968,
-      "averageMeritsPercentage": 2.33,
+      "averageMeritsValue": 3729312,
+      "averageMeritsPercentage": 3.22,
       "seasonsPlayed": 0,
       "seasons": {
         "2": {
@@ -6781,8 +6781,8 @@
       "serverRank": 0,
       "castleLevel": 25,
       "playerType": "warrior",
-      "averageMeritsValue": 13709577,
-      "averageMeritsPercentage": 12.28,
+      "averageMeritsValue": 12792074,
+      "averageMeritsPercentage": 11.29,
       "seasonsPlayed": 0,
       "seasons": {
         "1": {
@@ -6857,7 +6857,7 @@
       "castleLevel": 25,
       "faction": "League of Order",
       "playerType": "warrior",
-      "averageMeritsValue": 6119990,
+      "averageMeritsValue": 6328439,
       "averageMeritsPercentage": 5.79,
       "seasonsPlayed": 0,
       "seasons": {
@@ -6953,8 +6953,8 @@
       "serverRank": 0,
       "castleLevel": 25,
       "playerType": "warrior",
-      "averageMeritsValue": 12033661,
-      "averageMeritsPercentage": 10.32,
+      "averageMeritsValue": 6016831,
+      "averageMeritsPercentage": 5.16,
       "seasonsPlayed": 0,
       "seasons": {
         "2": {
@@ -7023,8 +7023,8 @@
       "castleLevel": 25,
       "faction": "Springwardens",
       "playerType": "warrior",
-      "averageMeritsValue": 11079533,
-      "averageMeritsPercentage": 10.66,
+      "averageMeritsValue": 12354147,
+      "averageMeritsPercentage": 11.37,
       "seasonsPlayed": 0,
       "seasons": {
         "1": {
@@ -7109,8 +7109,8 @@
       "castleLevel": 25,
       "faction": "League of Order",
       "playerType": "warrior",
-      "averageMeritsValue": 5521012,
-      "averageMeritsPercentage": 5.19,
+      "averageMeritsValue": 5380562,
+      "averageMeritsPercentage": 4.92,
       "seasonsPlayed": 0,
       "seasons": {
         "1": {
@@ -7205,8 +7205,8 @@
       "serverRank": 61,
       "castleLevel": 25,
       "playerType": "warrior",
-      "averageMeritsValue": 4589714,
-      "averageMeritsPercentage": 4.06,
+      "averageMeritsValue": 4390007,
+      "averageMeritsPercentage": 3.84,
       "seasonsPlayed": 0,
       "seasons": {
         "2": {
@@ -7285,8 +7285,8 @@
       "serverRank": 62,
       "castleLevel": 25,
       "playerType": "warrior",
-      "averageMeritsValue": 13002923,
-      "averageMeritsPercentage": 11.73,
+      "averageMeritsValue": 13010405,
+      "averageMeritsPercentage": 11.6,
       "seasonsPlayed": 0,
       "seasons": {
         "1": {
@@ -7361,8 +7361,8 @@
       "castleLevel": 25,
       "faction": "League of Order",
       "playerType": "warrior",
-      "averageMeritsValue": 13867263,
-      "averageMeritsPercentage": 13.62,
+      "averageMeritsValue": 14612833,
+      "averageMeritsPercentage": 13.78,
       "seasonsPlayed": 0,
       "seasons": {
         "1": {
@@ -7447,8 +7447,8 @@
       "castleLevel": 25,
       "faction": "League of Order",
       "playerType": "warrior",
-      "averageMeritsValue": 6301534,
-      "averageMeritsPercentage": 5.63,
+      "averageMeritsValue": 5457786,
+      "averageMeritsPercentage": 4.85,
       "seasonsPlayed": 0,
       "seasons": {
         "1": {
@@ -7603,8 +7603,8 @@
       "serverRank": 65,
       "castleLevel": 25,
       "playerType": "warrior",
-      "averageMeritsValue": 13701413,
-      "averageMeritsPercentage": 13.22,
+      "averageMeritsValue": 13221395,
+      "averageMeritsPercentage": 12.41,
       "seasonsPlayed": 0,
       "seasons": {
         "1": {
@@ -7749,8 +7749,8 @@
       "serverRank": 0,
       "castleLevel": 25,
       "playerType": "warrior",
-      "averageMeritsValue": 2887629,
-      "averageMeritsPercentage": 2.6,
+      "averageMeritsValue": 1925086,
+      "averageMeritsPercentage": 1.73,
       "seasonsPlayed": 0,
       "seasons": {
         "1": {
@@ -7835,8 +7835,8 @@
       "serverRank": 67,
       "castleLevel": 25,
       "playerType": "warrior",
-      "averageMeritsValue": 5088349,
-      "averageMeritsPercentage": 4.66,
+      "averageMeritsValue": 4760913,
+      "averageMeritsPercentage": 4.3,
       "seasonsPlayed": 0,
       "seasons": {
         "2": {
@@ -7915,8 +7915,8 @@
       "serverRank": 73,
       "castleLevel": 25,
       "playerType": "warrior",
-      "averageMeritsValue": 14142238,
-      "averageMeritsPercentage": 12.92,
+      "averageMeritsValue": 14680021,
+      "averageMeritsPercentage": 13.21,
       "seasonsPlayed": 0,
       "seasons": {
         "2": {
@@ -8055,8 +8055,8 @@
       "serverRank": 69,
       "castleLevel": 25,
       "playerType": "warrior",
-      "averageMeritsValue": 3880619,
-      "averageMeritsPercentage": 3.89,
+      "averageMeritsValue": 3268997,
+      "averageMeritsPercentage": 3.2,
       "seasonsPlayed": 0,
       "seasons": {
         "1": {
@@ -8227,8 +8227,8 @@
       "serverRank": 0,
       "castleLevel": 25,
       "playerType": "warrior",
-      "averageMeritsValue": 9340143,
-      "averageMeritsPercentage": 11.3,
+      "averageMeritsValue": 8354584,
+      "averageMeritsPercentage": 9.43,
       "seasonsPlayed": 0,
       "seasons": {
         "1": {
@@ -8303,8 +8303,8 @@
       "castleLevel": 25,
       "faction": "Wilderburg",
       "playerType": "warrior",
-      "averageMeritsValue": 6032848,
-      "averageMeritsPercentage": 6.27,
+      "averageMeritsValue": 5170548,
+      "averageMeritsPercentage": 5.21,
       "seasonsPlayed": 0,
       "seasons": {
         "1": {
@@ -8399,8 +8399,8 @@
       "serverRank": 0,
       "castleLevel": 25,
       "playerType": "warrior",
-      "averageMeritsValue": 8817713,
-      "averageMeritsPercentage": 8.07,
+      "averageMeritsValue": 9006842,
+      "averageMeritsPercentage": 8.17,
       "seasonsPlayed": 0,
       "seasons": {
         "2": {
@@ -8539,8 +8539,8 @@
       "serverRank": 76,
       "castleLevel": 25,
       "playerType": "warrior",
-      "averageMeritsValue": 9215182,
-      "averageMeritsPercentage": 8.4,
+      "averageMeritsValue": 13656819,
+      "averageMeritsPercentage": 12.38,
       "seasonsPlayed": 0,
       "seasons": {
         "2": {
@@ -8619,8 +8619,8 @@
       "serverRank": 78,
       "castleLevel": 25,
       "playerType": "warrior",
-      "averageMeritsValue": 3599624,
-      "averageMeritsPercentage": 3.74,
+      "averageMeritsValue": 3918429,
+      "averageMeritsPercentage": 3.87,
       "seasonsPlayed": 0,
       "seasons": {
         "1": {
@@ -8695,8 +8695,8 @@
       "castleLevel": 25,
       "faction": "League of Order",
       "playerType": "warrior",
-      "averageMeritsValue": 3828374,
-      "averageMeritsPercentage": 3.8,
+      "averageMeritsValue": 4176790,
+      "averageMeritsPercentage": 4,
       "seasonsPlayed": 0,
       "seasons": {
         "1": {
@@ -8790,8 +8790,8 @@
       "castleLevel": 25,
       "meritPowerRatio": 10.88256634432402,
       "playerType": "warrior",
-      "averageMeritsValue": null,
-      "averageMeritsPercentage": null,
+      "averageMeritsValue": 12008053,
+      "averageMeritsPercentage": 10.88,
       "seasonsPlayed": 0,
       "seasons": {
         "3": {
@@ -8864,8 +8864,8 @@
       "castleLevel": 25,
       "meritPowerRatio": 11.218311658207465,
       "playerType": "warrior",
-      "averageMeritsValue": null,
-      "averageMeritsPercentage": null,
+      "averageMeritsValue": 12364207,
+      "averageMeritsPercentage": 11.22,
       "seasonsPlayed": 0,
       "seasons": {
         "3": {
@@ -8939,8 +8939,8 @@
       "serverRank": 111,
       "castleLevel": 25,
       "playerType": "warrior",
-      "averageMeritsValue": 6349124,
-      "averageMeritsPercentage": 5.76,
+      "averageMeritsValue": 9189797,
+      "averageMeritsPercentage": 8.34,
       "seasonsPlayed": 0,
       "seasons": {
         "2": {
@@ -9009,8 +9009,8 @@
       "castleLevel": 25,
       "faction": "League of Order",
       "playerType": "warrior",
-      "averageMeritsValue": 2534362,
-      "averageMeritsPercentage": 2.41,
+      "averageMeritsValue": 1689575,
+      "averageMeritsPercentage": 1.61,
       "seasonsPlayed": 0,
       "seasons": {
         "1": {
@@ -9095,8 +9095,8 @@
       "castleLevel": 25,
       "faction": "Springwardens",
       "playerType": "warrior",
-      "averageMeritsValue": 11413978,
-      "averageMeritsPercentage": 12.1,
+      "averageMeritsValue": 12170793,
+      "averageMeritsPercentage": 12.21,
       "seasonsPlayed": 0,
       "seasons": {
         "1": {
@@ -9190,8 +9190,8 @@
       "castleLevel": 25,
       "meritPowerRatio": 2.559236908227308,
       "playerType": "warrior",
-      "averageMeritsValue": 9021377,
-      "averageMeritsPercentage": 8.4,
+      "averageMeritsValue": 5897286,
+      "averageMeritsPercentage": 5.48,
       "seasonsPlayed": 0,
       "seasons": {
         "2": {
@@ -9270,8 +9270,8 @@
       "castleLevel": 25,
       "meritPowerRatio": 6.091609072670217,
       "playerType": "warrior",
-      "averageMeritsValue": null,
-      "averageMeritsPercentage": null,
+      "averageMeritsValue": 6586807,
+      "averageMeritsPercentage": 6.09,
       "seasonsPlayed": 0,
       "seasons": {
         "3": {
@@ -9335,8 +9335,8 @@
       "castleLevel": 25,
       "faction": "Wilderburg",
       "playerType": "warrior",
-      "averageMeritsValue": 5523915,
-      "averageMeritsPercentage": 5.24,
+      "averageMeritsValue": 5253991,
+      "averageMeritsPercentage": 4.95,
       "seasonsPlayed": 0,
       "seasons": {
         "1": {
@@ -9430,8 +9430,8 @@
       "castleLevel": 25,
       "meritPowerRatio": 6.090910032740468,
       "playerType": "warrior",
-      "averageMeritsValue": null,
-      "averageMeritsPercentage": null,
+      "averageMeritsValue": 6572917,
+      "averageMeritsPercentage": 6.09,
       "seasonsPlayed": 0,
       "seasons": {
         "3": {
@@ -9505,8 +9505,8 @@
       "serverRank": 0,
       "castleLevel": 25,
       "playerType": "warrior",
-      "averageMeritsValue": 2001875,
-      "averageMeritsPercentage": 1.87,
+      "averageMeritsValue": 1334583,
+      "averageMeritsPercentage": 1.24,
       "seasonsPlayed": 0,
       "seasons": {
         "1": {
@@ -9581,7 +9581,7 @@
       "castleLevel": 25,
       "faction": "League of Order",
       "playerType": "warrior",
-      "averageMeritsValue": 5471464,
+      "averageMeritsValue": 5700902,
       "averageMeritsPercentage": 5.78,
       "seasonsPlayed": 0,
       "seasons": {
@@ -9667,8 +9667,8 @@
       "castleLevel": 25,
       "faction": "League of Order",
       "playerType": "warrior",
-      "averageMeritsValue": 14558729,
-      "averageMeritsPercentage": 14.03,
+      "averageMeritsValue": 11922652,
+      "averageMeritsPercentage": 11.43,
       "seasonsPlayed": 0,
       "seasons": {
         "1": {
@@ -9763,8 +9763,8 @@
       "serverRank": 86,
       "castleLevel": 25,
       "playerType": "warrior",
-      "averageMeritsValue": 6480655,
-      "averageMeritsPercentage": 6.11,
+      "averageMeritsValue": 5237795,
+      "averageMeritsPercentage": 4.93,
       "seasonsPlayed": 0,
       "seasons": {
         "2": {
@@ -9842,8 +9842,8 @@
       "castleLevel": 25,
       "meritPowerRatio": 7.081992988827637,
       "playerType": "warrior",
-      "averageMeritsValue": 8058121,
-      "averageMeritsPercentage": 7.93,
+      "averageMeritsValue": 7789324,
+      "averageMeritsPercentage": 7.51,
       "seasonsPlayed": 0,
       "seasons": {
         "2": {
@@ -9913,8 +9913,8 @@
       "castleLevel": 25,
       "faction": "League of Order",
       "playerType": "warrior",
-      "averageMeritsValue": 8856990,
-      "averageMeritsPercentage": 9.09,
+      "averageMeritsValue": 6769466,
+      "averageMeritsPercentage": 6.88,
       "seasonsPlayed": 0,
       "seasons": {
         "1": {
@@ -10009,8 +10009,8 @@
       "serverRank": 88,
       "castleLevel": 25,
       "playerType": "warrior",
-      "averageMeritsValue": 7727364,
-      "averageMeritsPercentage": 7.75,
+      "averageMeritsValue": 5451264,
+      "averageMeritsPercentage": 5.45,
       "seasonsPlayed": 0,
       "seasons": {
         "1": {
@@ -10085,8 +10085,8 @@
       "castleLevel": 25,
       "faction": "Wilderburg",
       "playerType": "warrior",
-      "averageMeritsValue": 8443667,
-      "averageMeritsPercentage": 9.07,
+      "averageMeritsValue": 6542741,
+      "averageMeritsPercentage": 6.91,
       "seasonsPlayed": 0,
       "seasons": {
         "1": {
@@ -10181,8 +10181,8 @@
       "serverRank": 94,
       "castleLevel": 25,
       "playerType": "warrior",
-      "averageMeritsValue": 7013930,
-      "averageMeritsPercentage": 6.78,
+      "averageMeritsValue": 9654195,
+      "averageMeritsPercentage": 9.22,
       "seasonsPlayed": 0,
       "seasons": {
         "2": {
@@ -10251,8 +10251,8 @@
       "castleLevel": 25,
       "faction": "League of Order",
       "playerType": "warrior",
-      "averageMeritsValue": 10851625,
-      "averageMeritsPercentage": 10.48,
+      "averageMeritsValue": 9188909,
+      "averageMeritsPercentage": 8.84,
       "seasonsPlayed": 0,
       "seasons": {
         "1": {
@@ -10406,8 +10406,8 @@
       "castleLevel": 25,
       "meritPowerRatio": 14.17942084246505,
       "playerType": "warrior",
-      "averageMeritsValue": null,
-      "averageMeritsPercentage": null,
+      "averageMeritsValue": 14895237,
+      "averageMeritsPercentage": 14.18,
       "seasonsPlayed": 0,
       "seasons": {
         "3": {
@@ -10481,8 +10481,8 @@
       "serverRank": 0,
       "castleLevel": 25,
       "playerType": "warrior",
-      "averageMeritsValue": 3616258,
-      "averageMeritsPercentage": 3.46,
+      "averageMeritsValue": 1808129,
+      "averageMeritsPercentage": 1.73,
       "seasonsPlayed": 0,
       "seasons": {
         "2": {
@@ -10561,8 +10561,8 @@
       "serverRank": 93,
       "castleLevel": 25,
       "playerType": "warrior",
-      "averageMeritsValue": 5617967,
-      "averageMeritsPercentage": 5.5,
+      "averageMeritsValue": 5619664,
+      "averageMeritsPercentage": 5.44,
       "seasonsPlayed": 0,
       "seasons": {
         "2": {
@@ -10691,8 +10691,8 @@
       "castleLevel": 25,
       "faction": "Springwardens",
       "playerType": "warrior",
-      "averageMeritsValue": 1749300,
-      "averageMeritsPercentage": 1.77,
+      "averageMeritsValue": 1166200,
+      "averageMeritsPercentage": 1.18,
       "seasonsPlayed": 0,
       "seasons": {
         "1": {
@@ -10777,8 +10777,8 @@
       "castleLevel": 25,
       "faction": "League of Order",
       "playerType": "warrior",
-      "averageMeritsValue": 6162136,
-      "averageMeritsPercentage": 7.03,
+      "averageMeritsValue": 6591620,
+      "averageMeritsPercentage": 7.09,
       "seasonsPlayed": 0,
       "seasons": {
         "1": {
@@ -10872,8 +10872,8 @@
       "castleLevel": 25,
       "meritPowerRatio": 9.783799858708491,
       "playerType": "warrior",
-      "averageMeritsValue": null,
-      "averageMeritsPercentage": null,
+      "averageMeritsValue": 9973428,
+      "averageMeritsPercentage": 9.78,
       "seasonsPlayed": 0,
       "seasons": {
         "3": {
@@ -10937,8 +10937,8 @@
       "castleLevel": 25,
       "faction": "Wilderburg",
       "playerType": "warrior",
-      "averageMeritsValue": 5236613,
-      "averageMeritsPercentage": 5.47,
+      "averageMeritsValue": 4676168,
+      "averageMeritsPercentage": 4.81,
       "seasonsPlayed": 0,
       "seasons": {
         "1": {
@@ -11033,8 +11033,8 @@
       "serverRank": 107,
       "castleLevel": 25,
       "playerType": "warrior",
-      "averageMeritsValue": 4453036,
-      "averageMeritsPercentage": 4.45,
+      "averageMeritsValue": 4881088,
+      "averageMeritsPercentage": 4.83,
       "seasonsPlayed": 0,
       "seasons": {
         "2": {
@@ -11103,8 +11103,8 @@
       "castleLevel": 25,
       "faction": "League of Order",
       "playerType": "warrior",
-      "averageMeritsValue": 2944526,
-      "averageMeritsPercentage": 3.19,
+      "averageMeritsValue": 2989380,
+      "averageMeritsPercentage": 3.14,
       "seasonsPlayed": 0,
       "seasons": {
         "1": {
@@ -11189,8 +11189,8 @@
       "castleLevel": 25,
       "faction": "Springwardens",
       "playerType": "warrior",
-      "averageMeritsValue": 4890618,
-      "averageMeritsPercentage": 5.4,
+      "averageMeritsValue": 4480735,
+      "averageMeritsPercentage": 4.81,
       "seasonsPlayed": 0,
       "seasons": {
         "1": {
@@ -11285,8 +11285,8 @@
       "serverRank": 101,
       "castleLevel": 25,
       "playerType": "warrior",
-      "averageMeritsValue": 6678281,
-      "averageMeritsPercentage": 7.7,
+      "averageMeritsValue": 6181529,
+      "averageMeritsPercentage": 6.84,
       "seasonsPlayed": 0,
       "seasons": {
         "1": {
@@ -11361,8 +11361,8 @@
       "castleLevel": 25,
       "faction": "Wilderburg",
       "playerType": "warrior",
-      "averageMeritsValue": 6707230,
-      "averageMeritsPercentage": 7.51,
+      "averageMeritsValue": 6746436,
+      "averageMeritsPercentage": 7.26,
       "seasonsPlayed": 0,
       "seasons": {
         "1": {
@@ -11447,8 +11447,8 @@
       "castleLevel": 25,
       "faction": "League of Order",
       "playerType": "warrior",
-      "averageMeritsValue": 8350219,
-      "averageMeritsPercentage": 8.69,
+      "averageMeritsValue": 7422826,
+      "averageMeritsPercentage": 7.64,
       "seasonsPlayed": 0,
       "seasons": {
         "1": {
@@ -11533,8 +11533,8 @@
       "castleLevel": 25,
       "faction": "Springwardens",
       "playerType": "warrior",
-      "averageMeritsValue": 13770016,
-      "averageMeritsPercentage": 14.67,
+      "averageMeritsValue": 13821340,
+      "averageMeritsPercentage": 14.4,
       "seasonsPlayed": 0,
       "seasons": {
         "1": {
@@ -11619,8 +11619,8 @@
       "castleLevel": 25,
       "faction": "Wilderburg",
       "playerType": "warrior",
-      "averageMeritsValue": 13698320,
-      "averageMeritsPercentage": 15.2,
+      "averageMeritsValue": 13555744,
+      "averageMeritsPercentage": 14.54,
       "seasonsPlayed": 0,
       "seasons": {
         "1": {
@@ -11705,8 +11705,8 @@
       "castleLevel": 25,
       "faction": "League of Order",
       "playerType": "warrior",
-      "averageMeritsValue": 2763883,
-      "averageMeritsPercentage": 3.06,
+      "averageMeritsValue": 2389870,
+      "averageMeritsPercentage": 2.58,
       "seasonsPlayed": 0,
       "seasons": {
         "1": {
@@ -11791,7 +11791,7 @@
       "castleLevel": 25,
       "faction": "League of Order",
       "playerType": "warrior",
-      "averageMeritsValue": 7119845,
+      "averageMeritsValue": 4746563,
       "averageMeritsPercentage": 7.56,
       "seasonsPlayed": 0,
       "seasons": {
@@ -11877,8 +11877,8 @@
       "castleLevel": 25,
       "faction": "Wilderburg",
       "playerType": "warrior",
-      "averageMeritsValue": 4948826,
-      "averageMeritsPercentage": 5.41,
+      "averageMeritsValue": 3777083,
+      "averageMeritsPercentage": 4.08,
       "seasonsPlayed": 0,
       "seasons": {
         "1": {
@@ -11963,8 +11963,8 @@
       "castleLevel": 25,
       "faction": "Springwardens",
       "playerType": "warrior",
-      "averageMeritsValue": 5444757,
-      "averageMeritsPercentage": 6.17,
+      "averageMeritsValue": 5940721,
+      "averageMeritsPercentage": 6.44,
       "seasonsPlayed": 0,
       "seasons": {
         "1": {
@@ -12049,8 +12049,8 @@
       "castleLevel": 25,
       "faction": "League of Order",
       "playerType": "warrior",
-      "averageMeritsValue": 13004936,
-      "averageMeritsPercentage": 13.9,
+      "averageMeritsValue": 13543875,
+      "averageMeritsPercentage": 14.19,
       "seasonsPlayed": 0,
       "seasons": {
         "1": {
@@ -12145,8 +12145,8 @@
       "serverRank": 109,
       "castleLevel": 25,
       "playerType": "warrior",
-      "averageMeritsValue": 5682674,
-      "averageMeritsPercentage": 6.22,
+      "averageMeritsValue": 5648310,
+      "averageMeritsPercentage": 6.03,
       "seasonsPlayed": 0,
       "seasons": {
         "1": {
@@ -12221,8 +12221,8 @@
       "castleLevel": 25,
       "faction": "League of Order",
       "playerType": "warrior",
-      "averageMeritsValue": 3776368,
-      "averageMeritsPercentage": 3.82,
+      "averageMeritsValue": 2517578,
+      "averageMeritsPercentage": 2.55,
       "seasonsPlayed": 0,
       "seasons": {
         "1": {
@@ -12307,8 +12307,8 @@
       "castleLevel": 25,
       "faction": "League of Order",
       "playerType": "warrior",
-      "averageMeritsValue": 2480521,
-      "averageMeritsPercentage": 2.78,
+      "averageMeritsValue": 1824343,
+      "averageMeritsPercentage": 2.02,
       "seasonsPlayed": 0,
       "seasons": {
         "1": {
@@ -12403,8 +12403,8 @@
       "serverRank": 117,
       "castleLevel": 25,
       "playerType": "warrior",
-      "averageMeritsValue": 13676660,
-      "averageMeritsPercentage": 14.55,
+      "averageMeritsValue": 13530569,
+      "averageMeritsPercentage": 14.18,
       "seasonsPlayed": 0,
       "seasons": {
         "1": {
@@ -12488,8 +12488,8 @@
       "castleLevel": 25,
       "meritPowerRatio": 5.661813262051926,
       "playerType": "warrior",
-      "averageMeritsValue": 5484982,
-      "averageMeritsPercentage": 5.92,
+      "averageMeritsValue": 5523482,
+      "averageMeritsPercentage": 5.79,
       "seasonsPlayed": 0,
       "seasons": {
         "2": {
@@ -12569,8 +12569,8 @@
       "serverRank": 138,
       "castleLevel": 25,
       "playerType": "warrior",
-      "averageMeritsValue": 10773379,
-      "averageMeritsPercentage": 11.25,
+      "averageMeritsValue": 9544314,
+      "averageMeritsPercentage": 9.91,
       "seasonsPlayed": 0,
       "seasons": {
         "1": {
@@ -12645,8 +12645,8 @@
       "castleLevel": 25,
       "faction": "Springwardens",
       "playerType": "warrior",
-      "averageMeritsValue": 10688556,
-      "averageMeritsPercentage": 12.16,
+      "averageMeritsValue": 10088117,
+      "averageMeritsPercentage": 11.17,
       "seasonsPlayed": 0,
       "seasons": {
         "1": {
@@ -12740,8 +12740,8 @@
       "castleLevel": 25,
       "meritPowerRatio": 12.016731073960486,
       "playerType": "warrior",
-      "averageMeritsValue": null,
-      "averageMeritsPercentage": null,
+      "averageMeritsValue": 11625617,
+      "averageMeritsPercentage": 12.02,
       "seasonsPlayed": 0,
       "seasons": {
         "3": {
@@ -12805,8 +12805,8 @@
       "castleLevel": 25,
       "faction": "League of Order",
       "playerType": "warrior",
-      "averageMeritsValue": 6975191,
-      "averageMeritsPercentage": 8.24,
+      "averageMeritsValue": 6820181,
+      "averageMeritsPercentage": 7.74,
       "seasonsPlayed": 0,
       "seasons": {
         "1": {
@@ -12891,8 +12891,8 @@
       "castleLevel": 25,
       "faction": "League of Order",
       "playerType": "warrior",
-      "averageMeritsValue": 7191696,
-      "averageMeritsPercentage": 8.75,
+      "averageMeritsValue": 7660432,
+      "averageMeritsPercentage": 8.81,
       "seasonsPlayed": 0,
       "seasons": {
         "1": {
@@ -12977,8 +12977,8 @@
       "castleLevel": 25,
       "faction": "Wilderburg",
       "playerType": "warrior",
-      "averageMeritsValue": 6417115,
-      "averageMeritsPercentage": 6.95,
+      "averageMeritsValue": 6557105,
+      "averageMeritsPercentage": 7.01,
       "seasonsPlayed": 0,
       "seasons": {
         "1": {
@@ -13063,8 +13063,8 @@
       "castleLevel": 25,
       "faction": "League of Order",
       "playerType": "warrior",
-      "averageMeritsValue": 1743329,
-      "averageMeritsPercentage": 1.91,
+      "averageMeritsValue": 1211597,
+      "averageMeritsPercentage": 1.33,
       "seasonsPlayed": 0,
       "seasons": {
         "1": {
@@ -13149,8 +13149,8 @@
       "castleLevel": 25,
       "faction": "Wilderburg",
       "playerType": "warrior",
-      "averageMeritsValue": 4718377,
-      "averageMeritsPercentage": 5.04,
+      "averageMeritsValue": 4050929,
+      "averageMeritsPercentage": 4.31,
       "seasonsPlayed": 0,
       "seasons": {
         "1": {
@@ -13235,8 +13235,8 @@
       "castleLevel": 25,
       "faction": "Wilderburg",
       "playerType": "warrior",
-      "averageMeritsValue": 6783943,
-      "averageMeritsPercentage": 7.42,
+      "averageMeritsValue": 5876482,
+      "averageMeritsPercentage": 6.37,
       "seasonsPlayed": 0,
       "seasons": {
         "1": {
@@ -13321,8 +13321,8 @@
       "castleLevel": 25,
       "faction": "Springwardens",
       "playerType": "warrior",
-      "averageMeritsValue": 9717533,
-      "averageMeritsPercentage": 11.28,
+      "averageMeritsValue": 9918544,
+      "averageMeritsPercentage": 11.17,
       "seasonsPlayed": 0,
       "seasons": {
         "1": {
@@ -13407,8 +13407,8 @@
       "castleLevel": 25,
       "faction": "Wilderburg",
       "playerType": "warrior",
-      "averageMeritsValue": 10092880,
-      "averageMeritsPercentage": 11.94,
+      "averageMeritsValue": 9909627,
+      "averageMeritsPercentage": 11.34,
       "seasonsPlayed": 0,
       "seasons": {
         "1": {
@@ -13493,8 +13493,8 @@
       "castleLevel": 25,
       "faction": "League of Order",
       "playerType": "warrior",
-      "averageMeritsValue": 3962735,
-      "averageMeritsPercentage": 4.67,
+      "averageMeritsValue": 4125921,
+      "averageMeritsPercentage": 4.71,
       "seasonsPlayed": 0,
       "seasons": {
         "1": {
@@ -13579,8 +13579,8 @@
       "castleLevel": 25,
       "faction": "League of Order",
       "playerType": "warrior",
-      "averageMeritsValue": 3925065,
-      "averageMeritsPercentage": 4.92,
+      "averageMeritsValue": 3908767,
+      "averageMeritsPercentage": 4.66,
       "seasonsPlayed": 0,
       "seasons": {
         "1": {
@@ -13665,8 +13665,8 @@
       "castleLevel": 25,
       "faction": "League of Order",
       "playerType": "warrior",
-      "averageMeritsValue": 5253634,
-      "averageMeritsPercentage": 6.48,
+      "averageMeritsValue": 5299020,
+      "averageMeritsPercentage": 6.25,
       "seasonsPlayed": 0,
       "seasons": {
         "1": {
@@ -13820,8 +13820,8 @@
       "castleLevel": 25,
       "meritPowerRatio": 0,
       "playerType": "warrior",
-      "averageMeritsValue": 123442,
-      "averageMeritsPercentage": 0.13,
+      "averageMeritsValue": 61721,
+      "averageMeritsPercentage": 0.07,
       "seasonsPlayed": 0,
       "seasons": {
         "2": {
@@ -13891,8 +13891,8 @@
       "castleLevel": 25,
       "faction": "League of Order",
       "playerType": "warrior",
-      "averageMeritsValue": 3162650,
-      "averageMeritsPercentage": 4.05,
+      "averageMeritsValue": 3086830,
+      "averageMeritsPercentage": 3.77,
       "seasonsPlayed": 0,
       "seasons": {
         "1": {
@@ -13987,8 +13987,8 @@
       "serverRank": 129,
       "castleLevel": 25,
       "playerType": "warrior",
-      "averageMeritsValue": 3873214,
-      "averageMeritsPercentage": 4.92,
+      "averageMeritsValue": 4467123,
+      "averageMeritsPercentage": 5.35,
       "seasonsPlayed": 0,
       "seasons": {
         "1": {
@@ -14072,8 +14072,8 @@
       "castleLevel": 25,
       "meritPowerRatio": 10.462533778197816,
       "playerType": "warrior",
-      "averageMeritsValue": null,
-      "averageMeritsPercentage": null,
+      "averageMeritsValue": 9433354,
+      "averageMeritsPercentage": 10.46,
       "seasonsPlayed": 0,
       "seasons": {
         "3": {
@@ -14137,8 +14137,8 @@
       "castleLevel": 25,
       "faction": "Wilderburg",
       "playerType": "warrior",
-      "averageMeritsValue": 2818222,
-      "averageMeritsPercentage": 4.05,
+      "averageMeritsValue": 3332222,
+      "averageMeritsPercentage": 4.34,
       "seasonsPlayed": 0,
       "seasons": {
         "1": {
@@ -14223,8 +14223,8 @@
       "castleLevel": 25,
       "faction": "League of Order",
       "playerType": "warrior",
-      "averageMeritsValue": 4975470,
-      "averageMeritsPercentage": 6.49,
+      "averageMeritsValue": 4996288,
+      "averageMeritsPercentage": 6.23,
       "seasonsPlayed": 0,
       "seasons": {
         "1": {
@@ -14309,8 +14309,8 @@
       "castleLevel": 25,
       "faction": "League of Order",
       "playerType": "warrior",
-      "averageMeritsValue": 2690380,
-      "averageMeritsPercentage": 3.32,
+      "averageMeritsValue": 3172279,
+      "averageMeritsPercentage": 3.78,
       "seasonsPlayed": 0,
       "seasons": {
         "1": {
@@ -14395,8 +14395,8 @@
       "castleLevel": 25,
       "faction": "League of Order",
       "playerType": "warrior",
-      "averageMeritsValue": 2960022,
-      "averageMeritsPercentage": 3.89,
+      "averageMeritsValue": 3409801,
+      "averageMeritsPercentage": 4.23,
       "seasonsPlayed": 0,
       "seasons": {
         "1": {
@@ -14481,8 +14481,8 @@
       "castleLevel": 25,
       "faction": "League of Order",
       "playerType": "warrior",
-      "averageMeritsValue": 4800948,
-      "averageMeritsPercentage": 5.92,
+      "averageMeritsValue": 4130494,
+      "averageMeritsPercentage": 5.01,
       "seasonsPlayed": 0,
       "seasons": {
         "1": {
@@ -14567,8 +14567,8 @@
       "castleLevel": 25,
       "faction": "League of Order",
       "playerType": "warrior",
-      "averageMeritsValue": 6245556,
-      "averageMeritsPercentage": 8.04,
+      "averageMeritsValue": 6694423,
+      "averageMeritsPercentage": 8.28,
       "seasonsPlayed": 0,
       "seasons": {
         "1": {
@@ -14653,8 +14653,8 @@
       "castleLevel": 25,
       "faction": "League of Order",
       "playerType": "warrior",
-      "averageMeritsValue": 2883327,
-      "averageMeritsPercentage": 3.51,
+      "averageMeritsValue": 1922218,
+      "averageMeritsPercentage": 2.34,
       "seasonsPlayed": 0,
       "seasons": {
         "1": {
@@ -14739,8 +14739,8 @@
       "castleLevel": 25,
       "faction": "League of Order",
       "playerType": "warrior",
-      "averageMeritsValue": 4859620,
-      "averageMeritsPercentage": 6.31,
+      "averageMeritsValue": 4687013,
+      "averageMeritsPercentage": 5.92,
       "seasonsPlayed": 0,
       "seasons": {
         "1": {
@@ -14825,8 +14825,8 @@
       "castleLevel": 25,
       "faction": "Wilderburg",
       "playerType": "warrior",
-      "averageMeritsValue": 4095364,
-      "averageMeritsPercentage": 5.53,
+      "averageMeritsValue": 3580159,
+      "averageMeritsPercentage": 4.72,
       "seasonsPlayed": 0,
       "seasons": {
         "1": {
@@ -14921,8 +14921,8 @@
       "serverRank": 140,
       "castleLevel": 25,
       "playerType": "warrior",
-      "averageMeritsValue": 4363993,
-      "averageMeritsPercentage": 5.89,
+      "averageMeritsValue": 4209152,
+      "averageMeritsPercentage": 5.52,
       "seasonsPlayed": 0,
       "seasons": {
         "1": {
@@ -15007,8 +15007,8 @@
       "serverRank": 141,
       "castleLevel": 25,
       "playerType": "warrior",
-      "averageMeritsValue": 2631516,
-      "averageMeritsPercentage": 3.52,
+      "averageMeritsValue": 3018068,
+      "averageMeritsPercentage": 3.92,
       "seasonsPlayed": 0,
       "seasons": {
         "1": {
@@ -15083,8 +15083,8 @@
       "castleLevel": 25,
       "faction": "League of Order",
       "playerType": "warrior",
-      "averageMeritsValue": 3216683,
-      "averageMeritsPercentage": 4.6,
+      "averageMeritsValue": 4231752,
+      "averageMeritsPercentage": 5.68,
       "seasonsPlayed": 0,
       "seasons": {
         "1": {
@@ -15169,8 +15169,8 @@
       "castleLevel": 25,
       "faction": "League of Order",
       "playerType": "warrior",
-      "averageMeritsValue": 1275277,
-      "averageMeritsPercentage": 1.76,
+      "averageMeritsValue": 850184,
+      "averageMeritsPercentage": 1.18,
       "seasonsPlayed": 0,
       "seasons": {
         "1": {
@@ -15264,8 +15264,8 @@
       "castleLevel": 25,
       "meritPowerRatio": 0.2828254590279965,
       "playerType": "warrior",
-      "averageMeritsValue": null,
-      "averageMeritsPercentage": null,
+      "averageMeritsValue": 221642,
+      "averageMeritsPercentage": 0.28,
       "seasonsPlayed": 0,
       "seasons": {
         "3": {
@@ -15338,8 +15338,8 @@
       "castleLevel": 25,
       "meritPowerRatio": 0,
       "playerType": "warrior",
-      "averageMeritsValue": null,
-      "averageMeritsPercentage": null,
+      "averageMeritsValue": 0,
+      "averageMeritsPercentage": 0,
       "seasonsPlayed": 0,
       "seasons": {
         "3": {
@@ -15403,8 +15403,8 @@
       "castleLevel": 25,
       "faction": "League of Order",
       "playerType": "warrior",
-      "averageMeritsValue": 3528375,
-      "averageMeritsPercentage": 4.81,
+      "averageMeritsValue": 3656310,
+      "averageMeritsPercentage": 4.9,
       "seasonsPlayed": 0,
       "seasons": {
         "1": {
@@ -15499,8 +15499,8 @@
       "serverRank": 0,
       "castleLevel": 25,
       "playerType": "warrior",
-      "averageMeritsValue": 1597148,
-      "averageMeritsPercentage": 2.23,
+      "averageMeritsValue": 1196630,
+      "averageMeritsPercentage": 1.66,
       "seasonsPlayed": 0,
       "seasons": {
         "1": {
@@ -15575,8 +15575,8 @@
       "castleLevel": 25,
       "faction": "League of Order",
       "playerType": "warrior",
-      "averageMeritsValue": 2016152,
-      "averageMeritsPercentage": 3.04,
+      "averageMeritsValue": 1439234,
+      "averageMeritsPercentage": 2.15,
       "seasonsPlayed": 0,
       "seasons": {
         "1": {
@@ -15661,8 +15661,8 @@
       "castleLevel": 25,
       "faction": "League of Order",
       "playerType": "warrior",
-      "averageMeritsValue": 1681493,
-      "averageMeritsPercentage": 2.52,
+      "averageMeritsValue": 1358626,
+      "averageMeritsPercentage": 2,
       "seasonsPlayed": 0,
       "seasons": {
         "1": {
@@ -15757,8 +15757,8 @@
       "serverRank": 148,
       "castleLevel": 25,
       "playerType": "warrior",
-      "averageMeritsValue": 1182447,
-      "averageMeritsPercentage": 1.71,
+      "averageMeritsValue": 1216267,
+      "averageMeritsPercentage": 1.7,
       "seasonsPlayed": 0,
       "seasons": {
         "2": {
@@ -15827,8 +15827,8 @@
       "castleLevel": 25,
       "faction": "League of Order",
       "playerType": "warrior",
-      "averageMeritsValue": 5466747,
-      "averageMeritsPercentage": 8.64,
+      "averageMeritsValue": 5975452,
+      "averageMeritsPercentage": 8.98,
       "seasonsPlayed": 0,
       "seasons": {
         "1": {
@@ -15913,8 +15913,8 @@
       "castleLevel": 25,
       "faction": "League of Order",
       "playerType": "warrior",
-      "averageMeritsValue": 5312300,
-      "averageMeritsPercentage": 8.27,
+      "averageMeritsValue": 5397816,
+      "averageMeritsPercentage": 8.09,
       "seasonsPlayed": 0,
       "seasons": {
         "1": {
@@ -16008,8 +16008,8 @@
       "castleLevel": 25,
       "meritPowerRatio": 0,
       "playerType": "warrior",
-      "averageMeritsValue": 1658447,
-      "averageMeritsPercentage": 2.3,
+      "averageMeritsValue": 829224,
+      "averageMeritsPercentage": 1.15,
       "seasonsPlayed": 0,
       "seasons": {
         "2": {
@@ -16139,8 +16139,8 @@
       "castleLevel": 25,
       "faction": "Wilderburg",
       "playerType": "warrior",
-      "averageMeritsValue": 5302916,
-      "averageMeritsPercentage": 7.8,
+      "averageMeritsValue": 4840044,
+      "averageMeritsPercentage": 7.06,
       "seasonsPlayed": 0,
       "seasons": {
         "1": {
@@ -16234,8 +16234,8 @@
       "castleLevel": 25,
       "meritPowerRatio": 5.280649170925469,
       "playerType": "warrior",
-      "averageMeritsValue": null,
-      "averageMeritsPercentage": null,
+      "averageMeritsValue": 3671683,
+      "averageMeritsPercentage": 5.28,
       "seasonsPlayed": 0,
       "seasons": {
         "3": {
@@ -16299,8 +16299,8 @@
       "castleLevel": 25,
       "faction": "League of Order",
       "playerType": "warrior",
-      "averageMeritsValue": 2762304,
-      "averageMeritsPercentage": 4.21,
+      "averageMeritsValue": 2617575,
+      "averageMeritsPercentage": 3.96,
       "seasonsPlayed": 0,
       "seasons": {
         "1": {
@@ -16385,8 +16385,8 @@
       "castleLevel": 25,
       "faction": "League of Order",
       "playerType": "warrior",
-      "averageMeritsValue": 1153073,
-      "averageMeritsPercentage": 1.74,
+      "averageMeritsValue": 1364052,
+      "averageMeritsPercentage": 2.05,
       "seasonsPlayed": 0,
       "seasons": {
         "1": {
@@ -16471,8 +16471,8 @@
       "castleLevel": 25,
       "faction": "League of Order",
       "playerType": "warrior",
-      "averageMeritsValue": 1887186,
-      "averageMeritsPercentage": 3.09,
+      "averageMeritsValue": 1611902,
+      "averageMeritsPercentage": 2.59,
       "seasonsPlayed": 0,
       "seasons": {
         "1": {
@@ -16627,8 +16627,8 @@
       "serverRank": 166,
       "castleLevel": 25,
       "playerType": "warrior",
-      "averageMeritsValue": 1425881,
-      "averageMeritsPercentage": 2.46,
+      "averageMeritsValue": 1492061,
+      "averageMeritsPercentage": 2.49,
       "seasonsPlayed": 0,
       "seasons": {
         "1": {
@@ -16763,8 +16763,8 @@
       "castleLevel": 25,
       "faction": "Springwardens",
       "playerType": "warrior",
-      "averageMeritsValue": 2793155,
-      "averageMeritsPercentage": 4.75,
+      "averageMeritsValue": 2225707,
+      "averageMeritsPercentage": 3.75,
       "seasonsPlayed": 0,
       "seasons": {
         "1": {
@@ -16849,8 +16849,8 @@
       "castleLevel": 25,
       "faction": "League of Order",
       "playerType": "warrior",
-      "averageMeritsValue": 1079923,
-      "averageMeritsPercentage": 1.99,
+      "averageMeritsValue": 944973,
+      "averageMeritsPercentage": 1.69,
       "seasonsPlayed": 0,
       "seasons": {
         "1": {
@@ -16935,8 +16935,8 @@
       "castleLevel": 25,
       "faction": "League of Order",
       "playerType": "warrior",
-      "averageMeritsValue": 2438682,
-      "averageMeritsPercentage": 4.52,
+      "averageMeritsValue": 2727802,
+      "averageMeritsPercentage": 4.83,
       "seasonsPlayed": 0,
       "seasons": {
         "1": {
@@ -17021,8 +17021,8 @@
       "castleLevel": 25,
       "faction": "Wilderburg",
       "playerType": "warrior",
-      "averageMeritsValue": 937002,
-      "averageMeritsPercentage": 1.82,
+      "averageMeritsValue": 1004432,
+      "averageMeritsPercentage": 1.89,
       "seasonsPlayed": 0,
       "seasons": {
         "1": {
@@ -17176,8 +17176,8 @@
       "castleLevel": 25,
       "meritPowerRatio": 0,
       "playerType": "warrior",
-      "averageMeritsValue": 170608,
-      "averageMeritsPercentage": 0.33,
+      "averageMeritsValue": 85304,
+      "averageMeritsPercentage": 0.16,
       "seasonsPlayed": 0,
       "seasons": {
         "2": {
@@ -17247,8 +17247,8 @@
       "castleLevel": 25,
       "faction": "League of Order",
       "playerType": "warrior",
-      "averageMeritsValue": 90512,
-      "averageMeritsPercentage": 0.2,
+      "averageMeritsValue": 342789,
+      "averageMeritsPercentage": 0.71,
       "seasonsPlayed": 0,
       "seasons": {
         "1": {
@@ -17488,8 +17488,8 @@
       "castleLevel": 25,
       "meritPowerRatio": 4.3969806566328415,
       "playerType": "warrior",
-      "averageMeritsValue": null,
-      "averageMeritsPercentage": null,
+      "averageMeritsValue": 2021618,
+      "averageMeritsPercentage": 4.4,
       "seasonsPlayed": 0,
       "seasons": {
         "3": {
@@ -17553,8 +17553,8 @@
       "castleLevel": 25,
       "faction": "Wilderburg",
       "playerType": "warrior",
-      "averageMeritsValue": 0,
-      "averageMeritsPercentage": 0,
+      "averageMeritsValue": 37558,
+      "averageMeritsPercentage": 0.1,
       "seasonsPlayed": 0,
       "seasons": {
         "1": {
@@ -17699,7 +17699,7 @@
       "castleLevel": 25,
       "faction": "Springwardens",
       "playerType": "warrior",
-      "averageMeritsValue": 0,
+      "averageMeritsValue": 71,
       "averageMeritsPercentage": 0,
       "seasonsPlayed": 0,
       "seasons": {
@@ -17794,8 +17794,8 @@
       "castleLevel": 25,
       "meritPowerRatio": 0.7589398251505515,
       "playerType": "warrior",
-      "averageMeritsValue": 0,
-      "averageMeritsPercentage": 0,
+      "averageMeritsValue": 123588,
+      "averageMeritsPercentage": 0.38,
       "seasonsPlayed": 0,
       "seasons": {
         "2": {
@@ -17865,8 +17865,8 @@
       "castleLevel": 25,
       "faction": "Springwardens",
       "playerType": "warrior",
-      "averageMeritsValue": 14222,
-      "averageMeritsPercentage": 0.06,
+      "averageMeritsValue": 9481,
+      "averageMeritsPercentage": 0.04,
       "seasonsPlayed": 0,
       "seasons": {
         "1": {
@@ -17961,8 +17961,8 @@
       "serverRank": 184,
       "castleLevel": 24,
       "playerType": "warrior",
-      "averageMeritsValue": 495301,
-      "averageMeritsPercentage": 2.07,
+      "averageMeritsValue": 396366,
+      "averageMeritsPercentage": 1.63,
       "seasonsPlayed": 0,
       "seasons": {
         "2": {
@@ -18040,8 +18040,8 @@
       "castleLevel": 22,
       "meritPowerRatio": 0.15826891969996912,
       "playerType": "warrior",
-      "averageMeritsValue": null,
-      "averageMeritsPercentage": null,
+      "averageMeritsValue": 39169,
+      "averageMeritsPercentage": 0.16,
       "seasonsPlayed": 0,
       "seasons": {
         "3": {
@@ -18115,8 +18115,8 @@
       "serverRank": 190,
       "castleLevel": 24,
       "playerType": "warrior",
-      "averageMeritsValue": 670354,
-      "averageMeritsPercentage": 2.9,
+      "averageMeritsValue": 496999,
+      "averageMeritsPercentage": 2.11,
       "seasonsPlayed": 0,
       "seasons": {
         "2": {
@@ -18255,8 +18255,8 @@
       "serverRank": 192,
       "castleLevel": 24,
       "playerType": "warrior",
-      "averageMeritsValue": 472971,
-      "averageMeritsPercentage": 2.19,
+      "averageMeritsValue": 395476,
+      "averageMeritsPercentage": 1.76,
       "seasonsPlayed": 0,
       "seasons": {
         "2": {
@@ -18577,8 +18577,8 @@
       "castleLevel": 21,
       "faction": "Wilderburg",
       "playerType": "warrior",
-      "averageMeritsValue": 21640,
-      "averageMeritsPercentage": 0.1,
+      "averageMeritsValue": 43606,
+      "averageMeritsPercentage": 0.2,
       "seasonsPlayed": 0,
       "seasons": {
         "1": {
@@ -18663,8 +18663,8 @@
       "castleLevel": 24,
       "faction": "League of Order",
       "playerType": "warrior",
-      "averageMeritsValue": 24808,
-      "averageMeritsPercentage": 0.11,
+      "averageMeritsValue": 16538,
+      "averageMeritsPercentage": 0.08,
       "seasonsPlayed": 0,
       "seasons": {
         "1": {
@@ -18749,8 +18749,8 @@
       "castleLevel": 21,
       "faction": "Wilderburg",
       "playerType": "warrior",
-      "averageMeritsValue": 21404,
-      "averageMeritsPercentage": 0.1,
+      "averageMeritsValue": 38254,
+      "averageMeritsPercentage": 0.18,
       "seasonsPlayed": 0,
       "seasons": {
         "1": {
@@ -18844,8 +18844,8 @@
       "castleLevel": 23,
       "meritPowerRatio": 3.324719608618313,
       "playerType": "warrior",
-      "averageMeritsValue": 314659,
-      "averageMeritsPercentage": 1.6,
+      "averageMeritsValue": 513820,
+      "averageMeritsPercentage": 2.46,
       "seasonsPlayed": 0,
       "seasons": {
         "2": {
@@ -18915,8 +18915,8 @@
       "castleLevel": 21,
       "faction": "Wilderburg",
       "playerType": "warrior",
-      "averageMeritsValue": 25451,
-      "averageMeritsPercentage": 0.12,
+      "averageMeritsValue": 22947,
+      "averageMeritsPercentage": 0.11,
       "seasonsPlayed": 0,
       "seasons": {
         "1": {
@@ -19010,8 +19010,8 @@
       "castleLevel": 25,
       "meritPowerRatio": 0,
       "playerType": "warrior",
-      "averageMeritsValue": null,
-      "averageMeritsPercentage": null,
+      "averageMeritsValue": 0,
+      "averageMeritsPercentage": 0,
       "seasonsPlayed": 0,
       "seasons": {
         "3": {
@@ -19145,8 +19145,8 @@
       "serverRank": 188,
       "castleLevel": 24,
       "playerType": "warrior",
-      "averageMeritsValue": 160693,
-      "averageMeritsPercentage": 0.8,
+      "averageMeritsValue": 114488,
+      "averageMeritsPercentage": 0.57,
       "seasonsPlayed": 0,
       "seasons": {
         "1": {
@@ -19291,8 +19291,8 @@
       "serverRank": 202,
       "castleLevel": 25,
       "playerType": "warrior",
-      "averageMeritsValue": 39899,
-      "averageMeritsPercentage": 0.2,
+      "averageMeritsValue": 73220,
+      "averageMeritsPercentage": 0.36,
       "seasonsPlayed": 0,
       "seasons": {
         "1": {
@@ -19376,8 +19376,8 @@
       "castleLevel": 25,
       "meritPowerRatio": 0,
       "playerType": "warrior",
-      "averageMeritsValue": null,
-      "averageMeritsPercentage": null,
+      "averageMeritsValue": 0,
+      "averageMeritsPercentage": 0,
       "seasonsPlayed": 0,
       "seasons": {
         "3": {
@@ -19451,8 +19451,8 @@
       "serverRank": 195,
       "castleLevel": 25,
       "playerType": "farmer",
-      "averageMeritsValue": 33809,
-      "averageMeritsPercentage": 0.17,
+      "averageMeritsValue": 72231,
+      "averageMeritsPercentage": 0.37,
       "seasonsPlayed": 0,
       "seasons": {
         "1": {
@@ -19527,8 +19527,8 @@
       "castleLevel": 25,
       "faction": "Springwardens",
       "playerType": "farmer",
-      "averageMeritsValue": 345852,
-      "averageMeritsPercentage": 1.77,
+      "averageMeritsValue": 359915,
+      "averageMeritsPercentage": 1.84,
       "seasonsPlayed": 0,
       "seasons": {
         "1": {
@@ -19613,8 +19613,8 @@
       "castleLevel": 25,
       "faction": "Springwardens",
       "playerType": "farmer",
-      "averageMeritsValue": 395078,
-      "averageMeritsPercentage": 2.08,
+      "averageMeritsValue": 351452,
+      "averageMeritsPercentage": 1.84,
       "seasonsPlayed": 0,
       "seasons": {
         "1": {
@@ -19699,8 +19699,8 @@
       "castleLevel": 25,
       "faction": "League of Order",
       "playerType": "farmer",
-      "averageMeritsValue": 5632,
-      "averageMeritsPercentage": 0.03,
+      "averageMeritsValue": 3755,
+      "averageMeritsPercentage": 0.02,
       "seasonsPlayed": 0,
       "seasons": {
         "1": {
@@ -19785,8 +19785,8 @@
       "castleLevel": 24,
       "faction": "Wilderburg",
       "playerType": "farmer",
-      "averageMeritsValue": 732494,
-      "averageMeritsPercentage": 3.92,
+      "averageMeritsValue": 816650,
+      "averageMeritsPercentage": 4.3,
       "seasonsPlayed": 0,
       "seasons": {
         "1": {
@@ -19871,7 +19871,7 @@
       "castleLevel": 24,
       "faction": "League of Order",
       "playerType": "farmer",
-      "averageMeritsValue": 1672,
+      "averageMeritsValue": 1115,
       "averageMeritsPercentage": 0.01,
       "seasonsPlayed": 0,
       "seasons": {
@@ -19966,8 +19966,8 @@
       "castleLevel": 21,
       "meritPowerRatio": 3.0117734061294534,
       "playerType": "farmer",
-      "averageMeritsValue": 222981,
-      "averageMeritsPercentage": 1.22,
+      "averageMeritsValue": 399994,
+      "averageMeritsPercentage": 2.12,
       "seasonsPlayed": 0,
       "seasons": {
         "2": {
@@ -20047,8 +20047,8 @@
       "serverRank": 197,
       "castleLevel": 25,
       "playerType": "farmer",
-      "averageMeritsValue": 101438,
-      "averageMeritsPercentage": 0.55,
+      "averageMeritsValue": 144844,
+      "averageMeritsPercentage": 0.77,
       "seasonsPlayed": 0,
       "seasons": {
         "1": {
@@ -20123,7 +20123,7 @@
       "castleLevel": 25,
       "faction": "League of Order",
       "playerType": "farmer",
-      "averageMeritsValue": 224,
+      "averageMeritsValue": 149,
       "averageMeritsPercentage": 0,
       "seasonsPlayed": 0,
       "seasons": {
@@ -20219,8 +20219,8 @@
       "serverRank": 201,
       "castleLevel": 24,
       "playerType": "farmer",
-      "averageMeritsValue": 7064,
-      "averageMeritsPercentage": 0.04,
+      "averageMeritsValue": 53866,
+      "averageMeritsPercentage": 0.29,
       "seasonsPlayed": 0,
       "seasons": {
         "2": {
@@ -20289,8 +20289,8 @@
       "castleLevel": 25,
       "faction": "League of Order",
       "playerType": "farmer",
-      "averageMeritsValue": 2859,
-      "averageMeritsPercentage": 0.02,
+      "averageMeritsValue": 11534,
+      "averageMeritsPercentage": 0.06,
       "seasonsPlayed": 0,
       "seasons": {
         "1": {
@@ -20384,8 +20384,8 @@
       "castleLevel": 23,
       "meritPowerRatio": 0,
       "playerType": "farmer",
-      "averageMeritsValue": null,
-      "averageMeritsPercentage": null,
+      "averageMeritsValue": 0,
+      "averageMeritsPercentage": 0,
       "seasonsPlayed": 0,
       "seasons": {
         "3": {
@@ -20458,8 +20458,8 @@
       "castleLevel": 23,
       "meritPowerRatio": 0,
       "playerType": "farmer",
-      "averageMeritsValue": null,
-      "averageMeritsPercentage": null,
+      "averageMeritsValue": 0,
+      "averageMeritsPercentage": 0,
       "seasonsPlayed": 0,
       "seasons": {
         "3": {
@@ -20523,7 +20523,7 @@
       "castleLevel": 24,
       "faction": "League of Order",
       "playerType": "farmer",
-      "averageMeritsValue": 142,
+      "averageMeritsValue": 95,
       "averageMeritsPercentage": 0,
       "seasonsPlayed": 0,
       "seasons": {
@@ -20619,7 +20619,7 @@
       "serverRank": 0,
       "castleLevel": 24,
       "playerType": "farmer",
-      "averageMeritsValue": 516,
+      "averageMeritsValue": 344,
       "averageMeritsPercentage": 0,
       "seasonsPlayed": 0,
       "seasons": {
@@ -20704,8 +20704,8 @@
       "castleLevel": 23,
       "meritPowerRatio": 0,
       "playerType": "farmer",
-      "averageMeritsValue": null,
-      "averageMeritsPercentage": null,
+      "averageMeritsValue": 0,
+      "averageMeritsPercentage": 0,
       "seasonsPlayed": 0,
       "seasons": {
         "3": {
@@ -20779,8 +20779,8 @@
       "serverRank": 206,
       "castleLevel": 24,
       "playerType": "farmer",
-      "averageMeritsValue": 11778,
-      "averageMeritsPercentage": 0.07,
+      "averageMeritsValue": 7852,
+      "averageMeritsPercentage": 0.05,
       "seasonsPlayed": 0,
       "seasons": {
         "1": {
@@ -20950,8 +20950,8 @@
       "castleLevel": 25,
       "meritPowerRatio": 1.6779148135212938,
       "playerType": "farmer",
-      "averageMeritsValue": null,
-      "averageMeritsPercentage": null,
+      "averageMeritsValue": 300799,
+      "averageMeritsPercentage": 1.68,
       "seasonsPlayed": 0,
       "seasons": {
         "3": {
@@ -21024,8 +21024,8 @@
       "castleLevel": 23,
       "meritPowerRatio": 0,
       "playerType": "farmer",
-      "averageMeritsValue": null,
-      "averageMeritsPercentage": null,
+      "averageMeritsValue": 0,
+      "averageMeritsPercentage": 0,
       "seasonsPlayed": 0,
       "seasons": {
         "3": {
@@ -21099,8 +21099,8 @@
       "serverRank": 221,
       "castleLevel": 23,
       "playerType": "farmer",
-      "averageMeritsValue": 31025,
-      "averageMeritsPercentage": 0.18,
+      "averageMeritsValue": 15513,
+      "averageMeritsPercentage": 0.09,
       "seasonsPlayed": 0,
       "seasons": {
         "2": {
@@ -21169,8 +21169,8 @@
       "castleLevel": 21,
       "faction": "League of Order",
       "playerType": "farmer",
-      "averageMeritsValue": 8945,
-      "averageMeritsPercentage": 0.06,
+      "averageMeritsValue": 5963,
+      "averageMeritsPercentage": 0.04,
       "seasonsPlayed": 0,
       "seasons": {
         "1": {
@@ -21265,8 +21265,8 @@
       "serverRank": 210,
       "castleLevel": 24,
       "playerType": "farmer",
-      "averageMeritsValue": 4569,
-      "averageMeritsPercentage": 0.03,
+      "averageMeritsValue": 3046,
+      "averageMeritsPercentage": 0.02,
       "seasonsPlayed": 0,
       "seasons": {
         "1": {
@@ -21350,8 +21350,8 @@
       "castleLevel": 23,
       "meritPowerRatio": 0,
       "playerType": "farmer",
-      "averageMeritsValue": null,
-      "averageMeritsPercentage": null,
+      "averageMeritsValue": 0,
+      "averageMeritsPercentage": 0,
       "seasonsPlayed": 0,
       "seasons": {
         "3": {
@@ -21425,7 +21425,7 @@
       "serverRank": 233,
       "castleLevel": 23,
       "playerType": "farmer",
-      "averageMeritsValue": 21,
+      "averageMeritsValue": 11,
       "averageMeritsPercentage": 0,
       "seasonsPlayed": 0,
       "seasons": {
@@ -21505,7 +21505,7 @@
       "serverRank": 0,
       "castleLevel": 23,
       "playerType": "farmer",
-      "averageMeritsValue": 7822,
+      "averageMeritsValue": 3911,
       "averageMeritsPercentage": 0.05,
       "seasonsPlayed": 0,
       "seasons": {
@@ -21584,8 +21584,8 @@
       "castleLevel": 23,
       "meritPowerRatio": 0,
       "playerType": "farmer",
-      "averageMeritsValue": null,
-      "averageMeritsPercentage": null,
+      "averageMeritsValue": 0,
+      "averageMeritsPercentage": 0,
       "seasonsPlayed": 0,
       "seasons": {
         "3": {
@@ -21659,7 +21659,7 @@
       "serverRank": 212,
       "castleLevel": 24,
       "playerType": "farmer",
-      "averageMeritsValue": 4356,
+      "averageMeritsValue": 4692,
       "averageMeritsPercentage": 0.03,
       "seasonsPlayed": 0,
       "seasons": {
@@ -21739,8 +21739,8 @@
       "serverRank": 227,
       "castleLevel": 23,
       "playerType": "farmer",
-      "averageMeritsValue": 918821,
-      "averageMeritsPercentage": 5.91,
+      "averageMeritsValue": 959460,
+      "averageMeritsPercentage": 5.89,
       "seasonsPlayed": 0,
       "seasons": {
         "2": {
@@ -21819,7 +21819,7 @@
       "serverRank": 213,
       "castleLevel": 24,
       "playerType": "farmer",
-      "averageMeritsValue": 6300,
+      "averageMeritsValue": 7796,
       "averageMeritsPercentage": 0.05,
       "seasonsPlayed": 0,
       "seasons": {
@@ -21979,7 +21979,7 @@
       "serverRank": 0,
       "castleLevel": 23,
       "playerType": "farmer",
-      "averageMeritsValue": 306,
+      "averageMeritsValue": 153,
       "averageMeritsPercentage": 0,
       "seasonsPlayed": 0,
       "seasons": {
@@ -22058,8 +22058,8 @@
       "castleLevel": 22,
       "meritPowerRatio": 0.023197228745943557,
       "playerType": "farmer",
-      "averageMeritsValue": 163797,
-      "averageMeritsPercentage": 1,
+      "averageMeritsValue": 83835,
+      "averageMeritsPercentage": 0.51,
       "seasonsPlayed": 0,
       "seasons": {
         "2": {
@@ -22224,8 +22224,8 @@
       "castleLevel": 24,
       "meritPowerRatio": 0,
       "playerType": "farmer",
-      "averageMeritsValue": 1252,
-      "averageMeritsPercentage": 0.01,
+      "averageMeritsValue": 626,
+      "averageMeritsPercentage": 0,
       "seasonsPlayed": 0,
       "seasons": {
         "2": {
@@ -22304,8 +22304,8 @@
       "castleLevel": 23,
       "meritPowerRatio": 0,
       "playerType": "farmer",
-      "averageMeritsValue": null,
-      "averageMeritsPercentage": null,
+      "averageMeritsValue": 0,
+      "averageMeritsPercentage": 0,
       "seasonsPlayed": 0,
       "seasons": {
         "3": {
@@ -22379,8 +22379,8 @@
       "serverRank": 224,
       "castleLevel": 24,
       "playerType": "farmer",
-      "averageMeritsValue": 89790,
-      "averageMeritsPercentage": 0.54,
+      "averageMeritsValue": 44895,
+      "averageMeritsPercentage": 0.27,
       "seasonsPlayed": 0,
       "seasons": {
         "2": {
@@ -22449,8 +22449,8 @@
       "castleLevel": 23,
       "faction": "Wilderburg",
       "playerType": "farmer",
-      "averageMeritsValue": 22146,
-      "averageMeritsPercentage": 0.14,
+      "averageMeritsValue": 14764,
+      "averageMeritsPercentage": 0.09,
       "seasonsPlayed": 0,
       "seasons": {
         "1": {
@@ -22595,8 +22595,8 @@
       "castleLevel": 22,
       "faction": "Springwardens",
       "playerType": "farmer",
-      "averageMeritsValue": 9160,
-      "averageMeritsPercentage": 0.06,
+      "averageMeritsValue": 6107,
+      "averageMeritsPercentage": 0.04,
       "seasonsPlayed": 0,
       "seasons": {
         "1": {
@@ -22681,8 +22681,8 @@
       "castleLevel": 22,
       "faction": "Wilderburg",
       "playerType": "farmer",
-      "averageMeritsValue": 395275,
-      "averageMeritsPercentage": 2.53,
+      "averageMeritsValue": 280179,
+      "averageMeritsPercentage": 1.79,
       "seasonsPlayed": 0,
       "seasons": {
         "1": {
@@ -22767,8 +22767,8 @@
       "castleLevel": 21,
       "faction": "League of Order",
       "playerType": "farmer",
-      "averageMeritsValue": 41069,
-      "averageMeritsPercentage": 0.36,
+      "averageMeritsValue": 29742,
+      "averageMeritsPercentage": 0.26,
       "seasonsPlayed": 0,
       "seasons": {
         "1": {
@@ -22862,8 +22862,8 @@
       "castleLevel": 24,
       "meritPowerRatio": 0,
       "playerType": "farmer",
-      "averageMeritsValue": null,
-      "averageMeritsPercentage": null,
+      "averageMeritsValue": 0,
+      "averageMeritsPercentage": 0,
       "seasonsPlayed": 0,
       "seasons": {
         "3": {
@@ -22936,8 +22936,8 @@
       "castleLevel": 23,
       "meritPowerRatio": 3.7058887189653307,
       "playerType": "farmer",
-      "averageMeritsValue": null,
-      "averageMeritsPercentage": null,
+      "averageMeritsValue": 587272,
+      "averageMeritsPercentage": 3.71,
       "seasonsPlayed": 0,
       "seasons": {
         "3": {
@@ -23011,8 +23011,8 @@
       "serverRank": 0,
       "castleLevel": 23,
       "playerType": "farmer",
-      "averageMeritsValue": 44598,
-      "averageMeritsPercentage": 0.29,
+      "averageMeritsValue": 38727,
+      "averageMeritsPercentage": 0.25,
       "seasonsPlayed": 0,
       "seasons": {
         "2": {
@@ -23081,8 +23081,8 @@
       "castleLevel": 22,
       "faction": "League of Order",
       "playerType": "farmer",
-      "averageMeritsValue": 166327,
-      "averageMeritsPercentage": 1.09,
+      "averageMeritsValue": 147951,
+      "averageMeritsPercentage": 0.96,
       "seasonsPlayed": 0,
       "seasons": {
         "1": {
@@ -23176,8 +23176,8 @@
       "castleLevel": 23,
       "meritPowerRatio": 2.299396946718959,
       "playerType": "farmer",
-      "averageMeritsValue": null,
-      "averageMeritsPercentage": null,
+      "averageMeritsValue": 357721,
+      "averageMeritsPercentage": 2.3,
       "seasonsPlayed": 0,
       "seasons": {
         "3": {
@@ -23311,8 +23311,8 @@
       "serverRank": 223,
       "castleLevel": 24,
       "playerType": "farmer",
-      "averageMeritsValue": 1828,
-      "averageMeritsPercentage": 0.02,
+      "averageMeritsValue": 11052,
+      "averageMeritsPercentage": 0.08,
       "seasonsPlayed": 0,
       "seasons": {
         "1": {
@@ -23657,8 +23657,8 @@
       "serverRank": 230,
       "castleLevel": 24,
       "playerType": "farmer",
-      "averageMeritsValue": 1972,
-      "averageMeritsPercentage": 0.02,
+      "averageMeritsValue": 9106,
+      "averageMeritsPercentage": 0.07,
       "seasonsPlayed": 0,
       "seasons": {
         "1": {
@@ -23829,8 +23829,8 @@
       "serverRank": 231,
       "castleLevel": 23,
       "playerType": "farmer",
-      "averageMeritsValue": 98357,
-      "averageMeritsPercentage": 0.71,
+      "averageMeritsValue": 49179,
+      "averageMeritsPercentage": 0.35,
       "seasonsPlayed": 0,
       "seasons": {
         "2": {
@@ -23985,8 +23985,8 @@
       "castleLevel": 24,
       "faction": "Springwardens",
       "playerType": "farmer",
-      "averageMeritsValue": 6716,
-      "averageMeritsPercentage": 0.05,
+      "averageMeritsValue": 4477,
+      "averageMeritsPercentage": 0.03,
       "seasonsPlayed": 0,
       "seasons": {
         "1": {
@@ -24141,8 +24141,8 @@
       "serverRank": 234,
       "castleLevel": 22,
       "playerType": "farmer",
-      "averageMeritsValue": 51027,
-      "averageMeritsPercentage": 0.37,
+      "averageMeritsValue": 34018,
+      "averageMeritsPercentage": 0.25,
       "seasonsPlayed": 0,
       "seasons": {
         "1": {
@@ -24227,8 +24227,8 @@
       "serverRank": 0,
       "castleLevel": 23,
       "playerType": "farmer",
-      "averageMeritsValue": null,
-      "averageMeritsPercentage": null,
+      "averageMeritsValue": 0,
+      "averageMeritsPercentage": 0,
       "seasonsPlayed": 0,
       "seasons": {
         "3": {
@@ -24374,8 +24374,8 @@
       "serverRank": 235,
       "castleLevel": 24,
       "playerType": "farmer",
-      "averageMeritsValue": 27258,
-      "averageMeritsPercentage": 0.2,
+      "averageMeritsValue": 13629,
+      "averageMeritsPercentage": 0.1,
       "seasonsPlayed": 0,
       "seasons": {
         "2": {
@@ -24756,8 +24756,8 @@
       "castleLevel": 23,
       "faction": "Wilderburg",
       "playerType": "farmer",
-      "averageMeritsValue": 13376,
-      "averageMeritsPercentage": 0.13,
+      "averageMeritsValue": 32323,
+      "averageMeritsPercentage": 0.27,
       "seasonsPlayed": 0,
       "seasons": {
         "1": {
@@ -24842,8 +24842,8 @@
       "castleLevel": 23,
       "faction": "League of Order",
       "playerType": "farmer",
-      "averageMeritsValue": 25791,
-      "averageMeritsPercentage": 0.2,
+      "averageMeritsValue": 17194,
+      "averageMeritsPercentage": 0.13,
       "seasonsPlayed": 0,
       "seasons": {
         "1": {
@@ -24928,8 +24928,8 @@
       "castleLevel": 21,
       "faction": "League of Order",
       "playerType": "farmer",
-      "averageMeritsValue": 1418,
-      "averageMeritsPercentage": 0.02,
+      "averageMeritsValue": 8236,
+      "averageMeritsPercentage": 0.08,
       "seasonsPlayed": 0,
       "seasons": {
         "1": {
@@ -25023,8 +25023,8 @@
       "castleLevel": 23,
       "meritPowerRatio": 0.09084861482539774,
       "playerType": "farmer",
-      "averageMeritsValue": null,
-      "averageMeritsPercentage": null,
+      "averageMeritsValue": 11238,
+      "averageMeritsPercentage": 0.09,
       "seasonsPlayed": 0,
       "seasons": {
         "3": {
@@ -25157,8 +25157,8 @@
       "castleLevel": 23,
       "meritPowerRatio": 0,
       "playerType": "farmer",
-      "averageMeritsValue": 38549,
-      "averageMeritsPercentage": 0.31,
+      "averageMeritsValue": 19275,
+      "averageMeritsPercentage": 0.16,
       "seasonsPlayed": 0,
       "seasons": {
         "2": {
@@ -25228,8 +25228,8 @@
       "castleLevel": 23,
       "faction": "Wilderburg",
       "playerType": "farmer",
-      "averageMeritsValue": 3756,
-      "averageMeritsPercentage": 0.03,
+      "averageMeritsValue": 2504,
+      "averageMeritsPercentage": 0.02,
       "seasonsPlayed": 0,
       "seasons": {
         "1": {
@@ -25443,8 +25443,8 @@
       "castleLevel": 22,
       "meritPowerRatio": 0,
       "playerType": "farmer",
-      "averageMeritsValue": null,
-      "averageMeritsPercentage": null,
+      "averageMeritsValue": 0,
+      "averageMeritsPercentage": 0,
       "seasonsPlayed": 0,
       "seasons": {
         "3": {
@@ -25578,8 +25578,8 @@
       "serverRank": 0,
       "castleLevel": 23,
       "playerType": "farmer",
-      "averageMeritsValue": 17580,
-      "averageMeritsPercentage": 0.15,
+      "averageMeritsValue": 8790,
+      "averageMeritsPercentage": 0.07,
       "seasonsPlayed": 0,
       "seasons": {
         "2": {
@@ -25657,8 +25657,8 @@
       "castleLevel": 25,
       "meritPowerRatio": 0,
       "playerType": "farmer",
-      "averageMeritsValue": null,
-      "averageMeritsPercentage": null,
+      "averageMeritsValue": 0,
+      "averageMeritsPercentage": 0,
       "seasonsPlayed": 0,
       "seasons": {
         "3": {
@@ -25722,8 +25722,8 @@
       "castleLevel": 22,
       "faction": "League of Order",
       "playerType": "farmer",
-      "averageMeritsValue": 12807,
-      "averageMeritsPercentage": 0.15,
+      "averageMeritsValue": 8538,
+      "averageMeritsPercentage": 0.1,
       "seasonsPlayed": 0,
       "seasons": {
         "1": {
@@ -25817,8 +25817,8 @@
       "castleLevel": 23,
       "meritPowerRatio": 0,
       "playerType": "farmer",
-      "averageMeritsValue": null,
-      "averageMeritsPercentage": null,
+      "averageMeritsValue": 0,
+      "averageMeritsPercentage": 0,
       "seasonsPlayed": 0,
       "seasons": {
         "3": {
@@ -25892,8 +25892,8 @@
       "serverRank": 253,
       "castleLevel": 23,
       "playerType": "farmer",
-      "averageMeritsValue": 7784,
-      "averageMeritsPercentage": 0.09,
+      "averageMeritsValue": 5189,
+      "averageMeritsPercentage": 0.06,
       "seasonsPlayed": 0,
       "seasons": {
         "1": {
@@ -26038,8 +26038,8 @@
       "serverRank": 255,
       "castleLevel": 22,
       "playerType": "farmer",
-      "averageMeritsValue": 17975,
-      "averageMeritsPercentage": 0.15,
+      "averageMeritsValue": 15979,
+      "averageMeritsPercentage": 0.14,
       "seasonsPlayed": 0,
       "seasons": {
         "1": {
@@ -26114,8 +26114,8 @@
       "castleLevel": 22,
       "faction": "Wilderburg",
       "playerType": "farmer",
-      "averageMeritsValue": 19260,
-      "averageMeritsPercentage": 0.18,
+      "averageMeritsValue": 12840,
+      "averageMeritsPercentage": 0.12,
       "seasonsPlayed": 0,
       "seasons": {
         "1": {
@@ -26330,8 +26330,8 @@
       "serverRank": 260,
       "castleLevel": 23,
       "playerType": "farmer",
-      "averageMeritsValue": 4977,
-      "averageMeritsPercentage": 0.05,
+      "averageMeritsValue": 3318,
+      "averageMeritsPercentage": 0.03,
       "seasonsPlayed": 0,
       "seasons": {
         "1": {
@@ -26546,7 +26546,7 @@
       "castleLevel": 21,
       "faction": "League of Order",
       "playerType": "farmer",
-      "averageMeritsValue": 10,
+      "averageMeritsValue": 6,
       "averageMeritsPercentage": 0,
       "seasonsPlayed": 0,
       "seasons": {
@@ -26642,7 +26642,7 @@
       "serverRank": 266,
       "castleLevel": 23,
       "playerType": "farmer",
-      "averageMeritsValue": 27,
+      "averageMeritsValue": 14,
       "averageMeritsPercentage": 0,
       "seasonsPlayed": 0,
       "seasons": {
@@ -26721,8 +26721,8 @@
       "castleLevel": 23,
       "meritPowerRatio": 0,
       "playerType": "farmer",
-      "averageMeritsValue": null,
-      "averageMeritsPercentage": null,
+      "averageMeritsValue": 0,
+      "averageMeritsPercentage": 0,
       "seasonsPlayed": 0,
       "seasons": {
         "3": {
@@ -26795,7 +26795,7 @@
       "castleLevel": 25,
       "meritPowerRatio": 0,
       "playerType": "farmer",
-      "averageMeritsValue": 8430,
+      "averageMeritsValue": 4215,
       "averageMeritsPercentage": 0.08,
       "seasonsPlayed": 0,
       "seasons": {
@@ -26866,7 +26866,7 @@
       "castleLevel": 21,
       "faction": "League of Order",
       "playerType": "farmer",
-      "averageMeritsValue": 142,
+      "averageMeritsValue": 95,
       "averageMeritsPercentage": 0,
       "seasonsPlayed": 0,
       "seasons": {
@@ -27048,8 +27048,8 @@
       "serverRank": 270,
       "castleLevel": 21,
       "playerType": "farmer",
-      "averageMeritsValue": 170342,
-      "averageMeritsPercentage": 1.81,
+      "averageMeritsValue": 140138,
+      "averageMeritsPercentage": 1.49,
       "seasonsPlayed": 0,
       "seasons": {
         "1": {
@@ -27210,8 +27210,8 @@
       "castleLevel": 21,
       "faction": "League of Order",
       "playerType": "farmer",
-      "averageMeritsValue": 724123,
-      "averageMeritsPercentage": 8.45,
+      "averageMeritsValue": 575616,
+      "averageMeritsPercentage": 6.67,
       "seasonsPlayed": 0,
       "seasons": {
         "1": {
@@ -27305,8 +27305,8 @@
       "castleLevel": 21,
       "meritPowerRatio": 0,
       "playerType": "farmer",
-      "averageMeritsValue": null,
-      "averageMeritsPercentage": null,
+      "averageMeritsValue": 0,
+      "averageMeritsPercentage": 0,
       "seasonsPlayed": 0,
       "seasons": {
         "3": {
@@ -27370,8 +27370,8 @@
       "castleLevel": 22,
       "faction": "Springwardens",
       "playerType": "farmer",
-      "averageMeritsValue": 55830,
-      "averageMeritsPercentage": 0.65,
+      "averageMeritsValue": 42269,
+      "averageMeritsPercentage": 0.49,
       "seasonsPlayed": 0,
       "seasons": {
         "1": {
@@ -27466,8 +27466,8 @@
       "serverRank": 271,
       "castleLevel": 22,
       "playerType": "farmer",
-      "averageMeritsValue": 179,
-      "averageMeritsPercentage": 0,
+      "averageMeritsValue": 1148,
+      "averageMeritsPercentage": 0.01,
       "seasonsPlayed": 0,
       "seasons": {
         "2": {
@@ -27536,8 +27536,8 @@
       "castleLevel": 21,
       "faction": "League of Order",
       "playerType": "farmer",
-      "averageMeritsValue": 23238,
-      "averageMeritsPercentage": 0.31,
+      "averageMeritsValue": 25036,
+      "averageMeritsPercentage": 0.32,
       "seasonsPlayed": 0,
       "seasons": {
         "1": {
@@ -27632,8 +27632,8 @@
       "serverRank": 273,
       "castleLevel": 22,
       "playerType": "farmer",
-      "averageMeritsValue": 215,
-      "averageMeritsPercentage": 0,
+      "averageMeritsValue": 2040,
+      "averageMeritsPercentage": 0.02,
       "seasonsPlayed": 0,
       "seasons": {
         "2": {
@@ -27798,7 +27798,7 @@
       "serverRank": 275,
       "castleLevel": 23,
       "playerType": "farmer",
-      "averageMeritsValue": 208,
+      "averageMeritsValue": 139,
       "averageMeritsPercentage": 0,
       "seasonsPlayed": 0,
       "seasons": {
@@ -28154,8 +28154,8 @@
       "castleLevel": 23,
       "faction": "League of Order",
       "playerType": "farmer",
-      "averageMeritsValue": 6955,
-      "averageMeritsPercentage": 0.09,
+      "averageMeritsValue": 4636,
+      "averageMeritsPercentage": 0.06,
       "seasonsPlayed": 0,
       "seasons": {
         "1": {
@@ -28250,8 +28250,8 @@
       "serverRank": 280,
       "castleLevel": 20,
       "playerType": "farmer",
-      "averageMeritsValue": 9291,
-      "averageMeritsPercentage": 0.21,
+      "averageMeritsValue": 6194,
+      "averageMeritsPercentage": 0.14,
       "seasonsPlayed": 0,
       "seasons": {
         "1": {
@@ -28326,8 +28326,8 @@
       "castleLevel": 21,
       "faction": "League of Order",
       "playerType": "farmer",
-      "averageMeritsValue": 5321,
-      "averageMeritsPercentage": 0.08,
+      "averageMeritsValue": 6904,
+      "averageMeritsPercentage": 0.1,
       "seasonsPlayed": 0,
       "seasons": {
         "1": {
@@ -28421,8 +28421,8 @@
       "castleLevel": 22,
       "meritPowerRatio": 0,
       "playerType": "farmer",
-      "averageMeritsValue": null,
-      "averageMeritsPercentage": null,
+      "averageMeritsValue": 0,
+      "averageMeritsPercentage": 0,
       "seasonsPlayed": 0,
       "seasons": {
         "3": {
@@ -28695,8 +28695,8 @@
       "castleLevel": 21,
       "meritPowerRatio": 0.7542051526873537,
       "playerType": "farmer",
-      "averageMeritsValue": null,
-      "averageMeritsPercentage": null,
+      "averageMeritsValue": 53982,
+      "averageMeritsPercentage": 0.75,
       "seasonsPlayed": 0,
       "seasons": {
         "3": {
@@ -28969,8 +28969,8 @@
       "castleLevel": 22,
       "meritPowerRatio": 0,
       "playerType": "farmer",
-      "averageMeritsValue": null,
-      "averageMeritsPercentage": null,
+      "averageMeritsValue": 0,
+      "averageMeritsPercentage": 0,
       "seasonsPlayed": 0,
       "seasons": {
         "3": {
@@ -29123,7 +29123,7 @@
       "castleLevel": 21,
       "meritPowerRatio": 0.0023385099131032956,
       "playerType": "farmer",
-      "averageMeritsValue": 0,
+      "averageMeritsValue": 81,
       "averageMeritsPercentage": 0,
       "seasonsPlayed": 0,
       "seasons": {
@@ -29284,8 +29284,8 @@
       "castleLevel": 22,
       "meritPowerRatio": 0,
       "playerType": "farmer",
-      "averageMeritsValue": 8654,
-      "averageMeritsPercentage": 0.36,
+      "averageMeritsValue": 5769,
+      "averageMeritsPercentage": 0.24,
       "seasonsPlayed": 0,
       "seasons": {
         "1": {
@@ -29590,7 +29590,7 @@
       "serverRank": 291,
       "castleLevel": 21,
       "playerType": "farmer",
-      "averageMeritsValue": 528,
+      "averageMeritsValue": 264,
       "averageMeritsPercentage": 0.01,
       "seasonsPlayed": 0,
       "seasons": {
@@ -30116,8 +30116,8 @@
       "serverRank": 292,
       "castleLevel": 21,
       "playerType": "farmer",
-      "averageMeritsValue": 511,
-      "averageMeritsPercentage": 0.01,
+      "averageMeritsValue": 256,
+      "averageMeritsPercentage": 0,
       "seasonsPlayed": 0,
       "seasons": {
         "2": {
@@ -30196,7 +30196,7 @@
       "serverRank": 293,
       "castleLevel": 21,
       "playerType": "farmer",
-      "averageMeritsValue": 48,
+      "averageMeritsValue": 24,
       "averageMeritsPercentage": 0,
       "seasonsPlayed": 0,
       "seasons": {
@@ -30335,8 +30335,8 @@
       "castleLevel": 23,
       "meritPowerRatio": 0,
       "playerType": "farmer",
-      "averageMeritsValue": null,
-      "averageMeritsPercentage": null,
+      "averageMeritsValue": 0,
+      "averageMeritsPercentage": 0,
       "seasonsPlayed": 0,
       "seasons": {
         "3": {
@@ -30469,8 +30469,8 @@
       "castleLevel": 21,
       "meritPowerRatio": 0,
       "playerType": "farmer",
-      "averageMeritsValue": null,
-      "averageMeritsPercentage": null,
+      "averageMeritsValue": 0,
+      "averageMeritsPercentage": 0,
       "seasonsPlayed": 0,
       "seasons": {
         "3": {
@@ -31523,8 +31523,8 @@
       "castleLevel": 21,
       "meritPowerRatio": 0,
       "playerType": "farmer",
-      "averageMeritsValue": null,
-      "averageMeritsPercentage": null,
+      "averageMeritsValue": 0,
+      "averageMeritsPercentage": 0,
       "seasonsPlayed": 0,
       "seasons": {
         "3": {
@@ -31677,8 +31677,8 @@
       "castleLevel": 21,
       "meritPowerRatio": 0.5484660237183754,
       "playerType": "farmer",
-      "averageMeritsValue": null,
-      "averageMeritsPercentage": null,
+      "averageMeritsValue": 24019,
+      "averageMeritsPercentage": 0.55,
       "seasonsPlayed": 0,
       "seasons": {
         "3": {
@@ -31751,8 +31751,8 @@
       "castleLevel": 21,
       "meritPowerRatio": 0,
       "playerType": "farmer",
-      "averageMeritsValue": null,
-      "averageMeritsPercentage": null,
+      "averageMeritsValue": 0,
+      "averageMeritsPercentage": 0,
       "seasonsPlayed": 0,
       "seasons": {
         "3": {
@@ -31825,7 +31825,7 @@
       "castleLevel": 21,
       "meritPowerRatio": 0,
       "playerType": "farmer",
-      "averageMeritsValue": null,
+      "averageMeritsValue": 0,
       "averageMeritsPercentage": null,
       "seasonsPlayed": 0,
       "seasons": {
@@ -31899,8 +31899,8 @@
       "castleLevel": 20,
       "meritPowerRatio": 0,
       "playerType": "farmer",
-      "averageMeritsValue": null,
-      "averageMeritsPercentage": null,
+      "averageMeritsValue": 0,
+      "averageMeritsPercentage": 0,
       "seasonsPlayed": 0,
       "seasons": {
         "3": {
@@ -32213,7 +32213,7 @@
       "castleLevel": 20,
       "meritPowerRatio": 0,
       "playerType": "farmer",
-      "averageMeritsValue": null,
+      "averageMeritsValue": 0,
       "averageMeritsPercentage": null,
       "seasonsPlayed": 0,
       "seasons": {
@@ -32588,8 +32588,8 @@
       "serverRank": 320,
       "castleLevel": 21,
       "playerType": "farmer",
-      "averageMeritsValue": 1340,
-      "averageMeritsPercentage": 0.04,
+      "averageMeritsValue": 893,
+      "averageMeritsPercentage": 0.03,
       "seasonsPlayed": 0,
       "seasons": {
         "1": {
@@ -33004,8 +33004,8 @@
       "castleLevel": 21,
       "faction": "Springwardens",
       "playerType": "farmer",
-      "averageMeritsValue": 15283,
-      "averageMeritsPercentage": 0.48,
+      "averageMeritsValue": 16400,
+      "averageMeritsPercentage": 0.51,
       "seasonsPlayed": 0,
       "seasons": {
         "1": {
@@ -33300,8 +33300,8 @@
       "serverRank": 326,
       "castleLevel": 20,
       "playerType": "farmer",
-      "averageMeritsValue": null,
-      "averageMeritsPercentage": null,
+      "averageMeritsValue": 0,
+      "averageMeritsPercentage": 0,
       "seasonsPlayed": 0,
       "seasons": {
         "3": {
@@ -33433,8 +33433,8 @@
       "castleLevel": 21,
       "meritPowerRatio": 0,
       "playerType": "farmer",
-      "averageMeritsValue": null,
-      "averageMeritsPercentage": null,
+      "averageMeritsValue": 0,
+      "averageMeritsPercentage": 0,
       "seasonsPlayed": 0,
       "seasons": {
         "3": {
@@ -33688,8 +33688,8 @@
       "serverRank": 328,
       "castleLevel": 16,
       "playerType": "farmer",
-      "averageMeritsValue": 5773,
-      "averageMeritsPercentage": 0.22,
+      "averageMeritsValue": 3868,
+      "averageMeritsPercentage": 0.15,
       "seasonsPlayed": 0,
       "seasons": {
         "1": {
@@ -34253,8 +34253,8 @@
       "castleLevel": 19,
       "meritPowerRatio": 0,
       "playerType": "farmer",
-      "averageMeritsValue": null,
-      "averageMeritsPercentage": null,
+      "averageMeritsValue": 0,
+      "averageMeritsPercentage": 0,
       "seasonsPlayed": 0,
       "seasons": {
         "3": {
@@ -34408,7 +34408,7 @@
       "serverRank": 337,
       "castleLevel": 21,
       "playerType": "farmer",
-      "averageMeritsValue": 14,
+      "averageMeritsValue": 7,
       "averageMeritsPercentage": 0,
       "seasonsPlayed": 0,
       "seasons": {
@@ -34487,8 +34487,8 @@
       "castleLevel": 19,
       "meritPowerRatio": 0,
       "playerType": "farmer",
-      "averageMeritsValue": null,
-      "averageMeritsPercentage": null,
+      "averageMeritsValue": 0,
+      "averageMeritsPercentage": 0,
       "seasonsPlayed": 0,
       "seasons": {
         "3": {
@@ -34562,7 +34562,7 @@
       "serverRank": 338,
       "castleLevel": 21,
       "playerType": "farmer",
-      "averageMeritsValue": 25,
+      "averageMeritsValue": 13,
       "averageMeritsPercentage": 0,
       "seasonsPlayed": 0,
       "seasons": {
@@ -34641,8 +34641,8 @@
       "castleLevel": 17,
       "meritPowerRatio": 0,
       "playerType": "farmer",
-      "averageMeritsValue": null,
-      "averageMeritsPercentage": null,
+      "averageMeritsValue": 0,
+      "averageMeritsPercentage": 0,
       "seasonsPlayed": 0,
       "seasons": {
         "3": {
@@ -34976,8 +34976,8 @@
       "serverRank": 0,
       "castleLevel": 17,
       "playerType": "farmer",
-      "averageMeritsValue": null,
-      "averageMeritsPercentage": null,
+      "averageMeritsValue": 0,
+      "averageMeritsPercentage": 0,
       "seasonsPlayed": 0,
       "seasons": {
         "3": {
@@ -35102,8 +35102,8 @@
       "castleLevel": 15,
       "meritPowerRatio": 0,
       "playerType": "farmer",
-      "averageMeritsValue": null,
-      "averageMeritsPercentage": null,
+      "averageMeritsValue": 0,
+      "averageMeritsPercentage": 0,
       "seasonsPlayed": 0,
       "seasons": {
         "3": {
@@ -35296,8 +35296,8 @@
       "castleLevel": 16,
       "meritPowerRatio": 0.28771472305686263,
       "playerType": "farmer",
-      "averageMeritsValue": 7665,
-      "averageMeritsPercentage": 0.57,
+      "averageMeritsValue": 5964,
+      "averageMeritsPercentage": 0.43,
       "seasonsPlayed": 0,
       "seasons": {
         "2": {
@@ -35497,8 +35497,8 @@
       "serverRank": 346,
       "castleLevel": 18,
       "playerType": "farmer",
-      "averageMeritsValue": null,
-      "averageMeritsPercentage": null,
+      "averageMeritsValue": 0,
+      "averageMeritsPercentage": 0,
       "seasonsPlayed": 0,
       "seasons": {
         "3": {
@@ -35564,8 +35564,8 @@
       "serverRank": 347,
       "castleLevel": 18,
       "playerType": "farmer",
-      "averageMeritsValue": null,
-      "averageMeritsPercentage": null,
+      "averageMeritsValue": 1827,
+      "averageMeritsPercentage": 0.13,
       "seasonsPlayed": 0,
       "seasons": {
         "3": {
@@ -35631,8 +35631,8 @@
       "serverRank": 354,
       "castleLevel": 18,
       "playerType": "farmer",
-      "averageMeritsValue": null,
-      "averageMeritsPercentage": null,
+      "averageMeritsValue": 2294,
+      "averageMeritsPercentage": 0.16,
       "seasonsPlayed": 0,
       "seasons": {
         "3": {
@@ -35698,8 +35698,8 @@
       "serverRank": 348,
       "castleLevel": 18,
       "playerType": "farmer",
-      "averageMeritsValue": null,
-      "averageMeritsPercentage": null,
+      "averageMeritsValue": 2052,
+      "averageMeritsPercentage": 0.14,
       "seasonsPlayed": 0,
       "seasons": {
         "3": {
@@ -35765,8 +35765,8 @@
       "serverRank": 359,
       "castleLevel": 18,
       "playerType": "farmer",
-      "averageMeritsValue": null,
-      "averageMeritsPercentage": null,
+      "averageMeritsValue": 0,
+      "averageMeritsPercentage": 0,
       "seasonsPlayed": 0,
       "seasons": {
         "3": {
@@ -35832,8 +35832,8 @@
       "serverRank": 349,
       "castleLevel": 18,
       "playerType": "farmer",
-      "averageMeritsValue": null,
-      "averageMeritsPercentage": null,
+      "averageMeritsValue": 0,
+      "averageMeritsPercentage": 0,
       "seasonsPlayed": 0,
       "seasons": {
         "3": {
@@ -35899,8 +35899,8 @@
       "serverRank": 350,
       "castleLevel": 18,
       "playerType": "farmer",
-      "averageMeritsValue": null,
-      "averageMeritsPercentage": null,
+      "averageMeritsValue": 1963,
+      "averageMeritsPercentage": 0.14,
       "seasonsPlayed": 0,
       "seasons": {
         "3": {
@@ -35966,8 +35966,8 @@
       "serverRank": 352,
       "castleLevel": 18,
       "playerType": "farmer",
-      "averageMeritsValue": null,
-      "averageMeritsPercentage": null,
+      "averageMeritsValue": 0,
+      "averageMeritsPercentage": 0,
       "seasonsPlayed": 0,
       "seasons": {
         "3": {
@@ -36033,8 +36033,8 @@
       "serverRank": 351,
       "castleLevel": 18,
       "playerType": "farmer",
-      "averageMeritsValue": null,
-      "averageMeritsPercentage": null,
+      "averageMeritsValue": 0,
+      "averageMeritsPercentage": 0,
       "seasonsPlayed": 0,
       "seasons": {
         "3": {
@@ -36100,8 +36100,8 @@
       "serverRank": 353,
       "castleLevel": 17,
       "playerType": "farmer",
-      "averageMeritsValue": null,
-      "averageMeritsPercentage": null,
+      "averageMeritsValue": 0,
+      "averageMeritsPercentage": 0,
       "seasonsPlayed": 0,
       "seasons": {
         "3": {
@@ -36167,8 +36167,8 @@
       "serverRank": 358,
       "castleLevel": 18,
       "playerType": "farmer",
-      "averageMeritsValue": null,
-      "averageMeritsPercentage": null,
+      "averageMeritsValue": 2353,
+      "averageMeritsPercentage": 0.17,
       "seasonsPlayed": 0,
       "seasons": {
         "3": {
@@ -36234,8 +36234,8 @@
       "serverRank": 356,
       "castleLevel": 17,
       "playerType": "farmer",
-      "averageMeritsValue": null,
-      "averageMeritsPercentage": null,
+      "averageMeritsValue": 0,
+      "averageMeritsPercentage": 0,
       "seasonsPlayed": 0,
       "seasons": {
         "3": {
@@ -36301,8 +36301,8 @@
       "serverRank": 357,
       "castleLevel": 18,
       "playerType": "farmer",
-      "averageMeritsValue": null,
-      "averageMeritsPercentage": null,
+      "averageMeritsValue": 0,
+      "averageMeritsPercentage": 0,
       "seasonsPlayed": 0,
       "seasons": {
         "3": {
@@ -36368,8 +36368,8 @@
       "serverRank": 360,
       "castleLevel": 18,
       "playerType": "farmer",
-      "averageMeritsValue": null,
-      "averageMeritsPercentage": null,
+      "averageMeritsValue": 2354,
+      "averageMeritsPercentage": 0.17,
       "seasonsPlayed": 0,
       "seasons": {
         "3": {
@@ -36435,8 +36435,8 @@
       "serverRank": 355,
       "castleLevel": 18,
       "playerType": "farmer",
-      "averageMeritsValue": null,
-      "averageMeritsPercentage": null,
+      "averageMeritsValue": 0,
+      "averageMeritsPercentage": 0,
       "seasonsPlayed": 0,
       "seasons": {
         "3": {
@@ -36502,8 +36502,8 @@
       "serverRank": 361,
       "castleLevel": 18,
       "playerType": "farmer",
-      "averageMeritsValue": null,
-      "averageMeritsPercentage": null,
+      "averageMeritsValue": 0,
+      "averageMeritsPercentage": 0,
       "seasonsPlayed": 0,
       "seasons": {
         "3": {
@@ -36569,8 +36569,8 @@
       "serverRank": 362,
       "castleLevel": 18,
       "playerType": "farmer",
-      "averageMeritsValue": null,
-      "averageMeritsPercentage": null,
+      "averageMeritsValue": 0,
+      "averageMeritsPercentage": 0,
       "seasonsPlayed": 0,
       "seasons": {
         "3": {
@@ -36636,8 +36636,8 @@
       "serverRank": 363,
       "castleLevel": 18,
       "playerType": "farmer",
-      "averageMeritsValue": null,
-      "averageMeritsPercentage": null,
+      "averageMeritsValue": 0,
+      "averageMeritsPercentage": 0,
       "seasonsPlayed": 0,
       "seasons": {
         "3": {
@@ -36703,8 +36703,8 @@
       "serverRank": 364,
       "castleLevel": 17,
       "playerType": "farmer",
-      "averageMeritsValue": null,
-      "averageMeritsPercentage": null,
+      "averageMeritsValue": 2329,
+      "averageMeritsPercentage": 0.17,
       "seasonsPlayed": 0,
       "seasons": {
         "3": {
@@ -36770,8 +36770,8 @@
       "serverRank": 368,
       "castleLevel": 18,
       "playerType": "farmer",
-      "averageMeritsValue": null,
-      "averageMeritsPercentage": null,
+      "averageMeritsValue": 1273,
+      "averageMeritsPercentage": 0.09,
       "seasonsPlayed": 0,
       "seasons": {
         "3": {
@@ -36837,8 +36837,8 @@
       "serverRank": 366,
       "castleLevel": 18,
       "playerType": "farmer",
-      "averageMeritsValue": null,
-      "averageMeritsPercentage": null,
+      "averageMeritsValue": 0,
+      "averageMeritsPercentage": 0,
       "seasonsPlayed": 0,
       "seasons": {
         "3": {
@@ -36904,8 +36904,8 @@
       "serverRank": 375,
       "castleLevel": 18,
       "playerType": "farmer",
-      "averageMeritsValue": null,
-      "averageMeritsPercentage": null,
+      "averageMeritsValue": 2308,
+      "averageMeritsPercentage": 0.17,
       "seasonsPlayed": 0,
       "seasons": {
         "3": {
@@ -36971,8 +36971,8 @@
       "serverRank": 371,
       "castleLevel": 18,
       "playerType": "farmer",
-      "averageMeritsValue": null,
-      "averageMeritsPercentage": null,
+      "averageMeritsValue": 1047,
+      "averageMeritsPercentage": 0.08,
       "seasonsPlayed": 0,
       "seasons": {
         "3": {
@@ -37038,8 +37038,8 @@
       "serverRank": 365,
       "castleLevel": 17,
       "playerType": "farmer",
-      "averageMeritsValue": null,
-      "averageMeritsPercentage": null,
+      "averageMeritsValue": 459,
+      "averageMeritsPercentage": 0.03,
       "seasonsPlayed": 0,
       "seasons": {
         "3": {
@@ -37105,8 +37105,8 @@
       "serverRank": 367,
       "castleLevel": 18,
       "playerType": "farmer",
-      "averageMeritsValue": null,
-      "averageMeritsPercentage": null,
+      "averageMeritsValue": 0,
+      "averageMeritsPercentage": 0,
       "seasonsPlayed": 0,
       "seasons": {
         "3": {
@@ -37172,8 +37172,8 @@
       "serverRank": 372,
       "castleLevel": 18,
       "playerType": "farmer",
-      "averageMeritsValue": null,
-      "averageMeritsPercentage": null,
+      "averageMeritsValue": 1120,
+      "averageMeritsPercentage": 0.08,
       "seasonsPlayed": 0,
       "seasons": {
         "3": {
@@ -37239,8 +37239,8 @@
       "serverRank": 369,
       "castleLevel": 18,
       "playerType": "farmer",
-      "averageMeritsValue": null,
-      "averageMeritsPercentage": null,
+      "averageMeritsValue": 0,
+      "averageMeritsPercentage": 0,
       "seasonsPlayed": 0,
       "seasons": {
         "3": {
@@ -37306,8 +37306,8 @@
       "serverRank": 373,
       "castleLevel": 18,
       "playerType": "farmer",
-      "averageMeritsValue": null,
-      "averageMeritsPercentage": null,
+      "averageMeritsValue": 0,
+      "averageMeritsPercentage": 0,
       "seasonsPlayed": 0,
       "seasons": {
         "3": {
@@ -37373,8 +37373,8 @@
       "serverRank": 370,
       "castleLevel": 18,
       "playerType": "farmer",
-      "averageMeritsValue": null,
-      "averageMeritsPercentage": null,
+      "averageMeritsValue": 0,
+      "averageMeritsPercentage": 0,
       "seasonsPlayed": 0,
       "seasons": {
         "3": {
@@ -37440,8 +37440,8 @@
       "serverRank": 376,
       "castleLevel": 17,
       "playerType": "farmer",
-      "averageMeritsValue": null,
-      "averageMeritsPercentage": null,
+      "averageMeritsValue": 2056,
+      "averageMeritsPercentage": 0.16,
       "seasonsPlayed": 0,
       "seasons": {
         "3": {
@@ -37507,8 +37507,8 @@
       "serverRank": 374,
       "castleLevel": 17,
       "playerType": "farmer",
-      "averageMeritsValue": null,
-      "averageMeritsPercentage": null,
+      "averageMeritsValue": 1964,
+      "averageMeritsPercentage": 0.15,
       "seasonsPlayed": 0,
       "seasons": {
         "3": {
@@ -37574,8 +37574,8 @@
       "serverRank": 377,
       "castleLevel": 17,
       "playerType": "farmer",
-      "averageMeritsValue": null,
-      "averageMeritsPercentage": null,
+      "averageMeritsValue": 1867,
+      "averageMeritsPercentage": 0.14,
       "seasonsPlayed": 0,
       "seasons": {
         "3": {
@@ -37641,8 +37641,8 @@
       "serverRank": 378,
       "castleLevel": 18,
       "playerType": "farmer",
-      "averageMeritsValue": null,
-      "averageMeritsPercentage": null,
+      "averageMeritsValue": 0,
+      "averageMeritsPercentage": 0,
       "seasonsPlayed": 0,
       "seasons": {
         "3": {
@@ -37708,8 +37708,8 @@
       "serverRank": 380,
       "castleLevel": 17,
       "playerType": "farmer",
-      "averageMeritsValue": null,
-      "averageMeritsPercentage": null,
+      "averageMeritsValue": 0,
+      "averageMeritsPercentage": 0,
       "seasonsPlayed": 0,
       "seasons": {
         "3": {
@@ -37775,8 +37775,8 @@
       "serverRank": 379,
       "castleLevel": 18,
       "playerType": "farmer",
-      "averageMeritsValue": null,
-      "averageMeritsPercentage": null,
+      "averageMeritsValue": 0,
+      "averageMeritsPercentage": 0,
       "seasonsPlayed": 0,
       "seasons": {
         "3": {
@@ -37842,8 +37842,8 @@
       "serverRank": 387,
       "castleLevel": 17,
       "playerType": "farmer",
-      "averageMeritsValue": null,
-      "averageMeritsPercentage": null,
+      "averageMeritsValue": 1438,
+      "averageMeritsPercentage": 0.11,
       "seasonsPlayed": 0,
       "seasons": {
         "3": {
@@ -37909,8 +37909,8 @@
       "serverRank": 383,
       "castleLevel": 17,
       "playerType": "farmer",
-      "averageMeritsValue": null,
-      "averageMeritsPercentage": null,
+      "averageMeritsValue": 2206,
+      "averageMeritsPercentage": 0.17,
       "seasonsPlayed": 0,
       "seasons": {
         "3": {
@@ -37976,8 +37976,8 @@
       "serverRank": 382,
       "castleLevel": 18,
       "playerType": "farmer",
-      "averageMeritsValue": null,
-      "averageMeritsPercentage": null,
+      "averageMeritsValue": 0,
+      "averageMeritsPercentage": 0,
       "seasonsPlayed": 0,
       "seasons": {
         "3": {
@@ -38043,8 +38043,8 @@
       "serverRank": 381,
       "castleLevel": 18,
       "playerType": "farmer",
-      "averageMeritsValue": null,
-      "averageMeritsPercentage": null,
+      "averageMeritsValue": 1673,
+      "averageMeritsPercentage": 0.13,
       "seasonsPlayed": 0,
       "seasons": {
         "3": {
@@ -38110,8 +38110,8 @@
       "serverRank": 388,
       "castleLevel": 17,
       "playerType": "farmer",
-      "averageMeritsValue": null,
-      "averageMeritsPercentage": null,
+      "averageMeritsValue": 0,
+      "averageMeritsPercentage": 0,
       "seasonsPlayed": 0,
       "seasons": {
         "3": {
@@ -38176,7 +38176,7 @@
       "castleLevel": 15,
       "meritPowerRatio": 0,
       "playerType": "farmer",
-      "averageMeritsValue": null,
+      "averageMeritsValue": 0,
       "averageMeritsPercentage": null,
       "seasonsPlayed": 0,
       "seasons": {
@@ -38251,8 +38251,8 @@
       "serverRank": 384,
       "castleLevel": 17,
       "playerType": "farmer",
-      "averageMeritsValue": null,
-      "averageMeritsPercentage": null,
+      "averageMeritsValue": 1361,
+      "averageMeritsPercentage": 0.11,
       "seasonsPlayed": 0,
       "seasons": {
         "3": {
@@ -38318,8 +38318,8 @@
       "serverRank": 385,
       "castleLevel": 18,
       "playerType": "farmer",
-      "averageMeritsValue": null,
-      "averageMeritsPercentage": null,
+      "averageMeritsValue": 1575,
+      "averageMeritsPercentage": 0.13,
       "seasonsPlayed": 0,
       "seasons": {
         "3": {
@@ -38385,8 +38385,8 @@
       "serverRank": 389,
       "castleLevel": 17,
       "playerType": "farmer",
-      "averageMeritsValue": null,
-      "averageMeritsPercentage": null,
+      "averageMeritsValue": 0,
+      "averageMeritsPercentage": 0,
       "seasonsPlayed": 0,
       "seasons": {
         "3": {
@@ -38452,8 +38452,8 @@
       "serverRank": 386,
       "castleLevel": 17,
       "playerType": "farmer",
-      "averageMeritsValue": null,
-      "averageMeritsPercentage": null,
+      "averageMeritsValue": 1750,
+      "averageMeritsPercentage": 0.14,
       "seasonsPlayed": 0,
       "seasons": {
         "3": {
@@ -38519,8 +38519,8 @@
       "serverRank": 393,
       "castleLevel": 17,
       "playerType": "farmer",
-      "averageMeritsValue": null,
-      "averageMeritsPercentage": null,
+      "averageMeritsValue": 0,
+      "averageMeritsPercentage": 0,
       "seasonsPlayed": 0,
       "seasons": {
         "3": {
@@ -38586,8 +38586,8 @@
       "serverRank": 390,
       "castleLevel": 17,
       "playerType": "farmer",
-      "averageMeritsValue": null,
-      "averageMeritsPercentage": null,
+      "averageMeritsValue": 0,
+      "averageMeritsPercentage": 0,
       "seasonsPlayed": 0,
       "seasons": {
         "3": {
@@ -38653,8 +38653,8 @@
       "serverRank": 392,
       "castleLevel": 17,
       "playerType": "farmer",
-      "averageMeritsValue": null,
-      "averageMeritsPercentage": null,
+      "averageMeritsValue": 1213,
+      "averageMeritsPercentage": 0.1,
       "seasonsPlayed": 0,
       "seasons": {
         "3": {
@@ -38720,8 +38720,8 @@
       "serverRank": 395,
       "castleLevel": 17,
       "playerType": "farmer",
-      "averageMeritsValue": null,
-      "averageMeritsPercentage": null,
+      "averageMeritsValue": 967,
+      "averageMeritsPercentage": 0.08,
       "seasonsPlayed": 0,
       "seasons": {
         "3": {
@@ -38787,8 +38787,8 @@
       "serverRank": 391,
       "castleLevel": 17,
       "playerType": "farmer",
-      "averageMeritsValue": null,
-      "averageMeritsPercentage": null,
+      "averageMeritsValue": 963,
+      "averageMeritsPercentage": 0.08,
       "seasonsPlayed": 0,
       "seasons": {
         "3": {
@@ -38854,8 +38854,8 @@
       "serverRank": 398,
       "castleLevel": 17,
       "playerType": "farmer",
-      "averageMeritsValue": null,
-      "averageMeritsPercentage": null,
+      "averageMeritsValue": 0,
+      "averageMeritsPercentage": 0,
       "seasonsPlayed": 0,
       "seasons": {
         "3": {
@@ -38921,8 +38921,8 @@
       "serverRank": 394,
       "castleLevel": 17,
       "playerType": "farmer",
-      "averageMeritsValue": null,
-      "averageMeritsPercentage": null,
+      "averageMeritsValue": 0,
+      "averageMeritsPercentage": 0,
       "seasonsPlayed": 0,
       "seasons": {
         "3": {
@@ -38988,8 +38988,8 @@
       "serverRank": 397,
       "castleLevel": 17,
       "playerType": "farmer",
-      "averageMeritsValue": null,
-      "averageMeritsPercentage": null,
+      "averageMeritsValue": 0,
+      "averageMeritsPercentage": 0,
       "seasonsPlayed": 0,
       "seasons": {
         "3": {
@@ -39055,8 +39055,8 @@
       "serverRank": 396,
       "castleLevel": 17,
       "playerType": "farmer",
-      "averageMeritsValue": null,
-      "averageMeritsPercentage": null,
+      "averageMeritsValue": 2254,
+      "averageMeritsPercentage": 0.19,
       "seasonsPlayed": 0,
       "seasons": {
         "3": {
@@ -39122,8 +39122,8 @@
       "serverRank": 399,
       "castleLevel": 16,
       "playerType": "farmer",
-      "averageMeritsValue": null,
-      "averageMeritsPercentage": null,
+      "averageMeritsValue": 0,
+      "averageMeritsPercentage": 0,
       "seasonsPlayed": 0,
       "seasons": {
         "3": {
@@ -39189,8 +39189,8 @@
       "serverRank": 400,
       "castleLevel": 17,
       "playerType": "farmer",
-      "averageMeritsValue": null,
-      "averageMeritsPercentage": null,
+      "averageMeritsValue": 0,
+      "averageMeritsPercentage": 0,
       "seasonsPlayed": 0,
       "seasons": {
         "3": {
@@ -39256,8 +39256,8 @@
       "serverRank": 401,
       "castleLevel": 17,
       "playerType": "farmer",
-      "averageMeritsValue": null,
-      "averageMeritsPercentage": null,
+      "averageMeritsValue": 0,
+      "averageMeritsPercentage": 0,
       "seasonsPlayed": 0,
       "seasons": {
         "3": {
@@ -39323,8 +39323,8 @@
       "serverRank": 402,
       "castleLevel": 16,
       "playerType": "farmer",
-      "averageMeritsValue": null,
-      "averageMeritsPercentage": null,
+      "averageMeritsValue": 1643,
+      "averageMeritsPercentage": 0.14,
       "seasonsPlayed": 0,
       "seasons": {
         "3": {
@@ -39390,8 +39390,8 @@
       "serverRank": 403,
       "castleLevel": 16,
       "playerType": "farmer",
-      "averageMeritsValue": null,
-      "averageMeritsPercentage": null,
+      "averageMeritsValue": 1510,
+      "averageMeritsPercentage": 0.13,
       "seasonsPlayed": 0,
       "seasons": {
         "3": {
@@ -39457,8 +39457,8 @@
       "serverRank": 404,
       "castleLevel": 16,
       "playerType": "farmer",
-      "averageMeritsValue": null,
-      "averageMeritsPercentage": null,
+      "averageMeritsValue": 1726,
+      "averageMeritsPercentage": 0.14,
       "seasonsPlayed": 0,
       "seasons": {
         "3": {
@@ -39524,8 +39524,8 @@
       "serverRank": 405,
       "castleLevel": 17,
       "playerType": "farmer",
-      "averageMeritsValue": null,
-      "averageMeritsPercentage": null,
+      "averageMeritsValue": 1293,
+      "averageMeritsPercentage": 0.11,
       "seasonsPlayed": 0,
       "seasons": {
         "3": {
@@ -39591,8 +39591,8 @@
       "serverRank": 406,
       "castleLevel": 16,
       "playerType": "farmer",
-      "averageMeritsValue": null,
-      "averageMeritsPercentage": null,
+      "averageMeritsValue": 0,
+      "averageMeritsPercentage": 0,
       "seasonsPlayed": 0,
       "seasons": {
         "3": {
@@ -39658,8 +39658,8 @@
       "serverRank": 407,
       "castleLevel": 16,
       "playerType": "farmer",
-      "averageMeritsValue": null,
-      "averageMeritsPercentage": null,
+      "averageMeritsValue": 1562,
+      "averageMeritsPercentage": 0.13,
       "seasonsPlayed": 0,
       "seasons": {
         "3": {
@@ -39725,8 +39725,8 @@
       "serverRank": 416,
       "castleLevel": 17,
       "playerType": "farmer",
-      "averageMeritsValue": null,
-      "averageMeritsPercentage": null,
+      "averageMeritsValue": 0,
+      "averageMeritsPercentage": 0,
       "seasonsPlayed": 0,
       "seasons": {
         "3": {
@@ -39792,8 +39792,8 @@
       "serverRank": 408,
       "castleLevel": 16,
       "playerType": "farmer",
-      "averageMeritsValue": null,
-      "averageMeritsPercentage": null,
+      "averageMeritsValue": 0,
+      "averageMeritsPercentage": 0,
       "seasonsPlayed": 0,
       "seasons": {
         "3": {
@@ -39859,8 +39859,8 @@
       "serverRank": 409,
       "castleLevel": 16,
       "playerType": "farmer",
-      "averageMeritsValue": null,
-      "averageMeritsPercentage": null,
+      "averageMeritsValue": 0,
+      "averageMeritsPercentage": 0,
       "seasonsPlayed": 0,
       "seasons": {
         "3": {
@@ -39926,8 +39926,8 @@
       "serverRank": 410,
       "castleLevel": 16,
       "playerType": "farmer",
-      "averageMeritsValue": null,
-      "averageMeritsPercentage": null,
+      "averageMeritsValue": 0,
+      "averageMeritsPercentage": 0,
       "seasonsPlayed": 0,
       "seasons": {
         "3": {
@@ -39993,8 +39993,8 @@
       "serverRank": 421,
       "castleLevel": 17,
       "playerType": "farmer",
-      "averageMeritsValue": null,
-      "averageMeritsPercentage": null,
+      "averageMeritsValue": 0,
+      "averageMeritsPercentage": 0,
       "seasonsPlayed": 0,
       "seasons": {
         "3": {
@@ -40060,8 +40060,8 @@
       "serverRank": 411,
       "castleLevel": 16,
       "playerType": "farmer",
-      "averageMeritsValue": null,
-      "averageMeritsPercentage": null,
+      "averageMeritsValue": 2512,
+      "averageMeritsPercentage": 0.22,
       "seasonsPlayed": 0,
       "seasons": {
         "3": {
@@ -40127,8 +40127,8 @@
       "serverRank": 413,
       "castleLevel": 16,
       "playerType": "farmer",
-      "averageMeritsValue": null,
-      "averageMeritsPercentage": null,
+      "averageMeritsValue": 0,
+      "averageMeritsPercentage": 0,
       "seasonsPlayed": 0,
       "seasons": {
         "3": {
@@ -40194,8 +40194,8 @@
       "serverRank": 412,
       "castleLevel": 17,
       "playerType": "farmer",
-      "averageMeritsValue": null,
-      "averageMeritsPercentage": null,
+      "averageMeritsValue": 0,
+      "averageMeritsPercentage": 0,
       "seasonsPlayed": 0,
       "seasons": {
         "3": {
@@ -40261,8 +40261,8 @@
       "serverRank": 414,
       "castleLevel": 16,
       "playerType": "farmer",
-      "averageMeritsValue": null,
-      "averageMeritsPercentage": null,
+      "averageMeritsValue": 1916,
+      "averageMeritsPercentage": 0.17,
       "seasonsPlayed": 0,
       "seasons": {
         "3": {
@@ -40328,8 +40328,8 @@
       "serverRank": 415,
       "castleLevel": 16,
       "playerType": "farmer",
-      "averageMeritsValue": null,
-      "averageMeritsPercentage": null,
+      "averageMeritsValue": 0,
+      "averageMeritsPercentage": 0,
       "seasonsPlayed": 0,
       "seasons": {
         "3": {
@@ -40395,8 +40395,8 @@
       "serverRank": 428,
       "castleLevel": 17,
       "playerType": "farmer",
-      "averageMeritsValue": null,
-      "averageMeritsPercentage": null,
+      "averageMeritsValue": 0,
+      "averageMeritsPercentage": 0,
       "seasonsPlayed": 0,
       "seasons": {
         "3": {
@@ -40462,8 +40462,8 @@
       "serverRank": 417,
       "castleLevel": 16,
       "playerType": "farmer",
-      "averageMeritsValue": null,
-      "averageMeritsPercentage": null,
+      "averageMeritsValue": 1667,
+      "averageMeritsPercentage": 0.15,
       "seasonsPlayed": 0,
       "seasons": {
         "3": {
@@ -40529,8 +40529,8 @@
       "serverRank": 418,
       "castleLevel": 16,
       "playerType": "farmer",
-      "averageMeritsValue": null,
-      "averageMeritsPercentage": null,
+      "averageMeritsValue": 0,
+      "averageMeritsPercentage": 0,
       "seasonsPlayed": 0,
       "seasons": {
         "3": {
@@ -40596,8 +40596,8 @@
       "serverRank": 422,
       "castleLevel": 16,
       "playerType": "farmer",
-      "averageMeritsValue": null,
-      "averageMeritsPercentage": null,
+      "averageMeritsValue": 0,
+      "averageMeritsPercentage": 0,
       "seasonsPlayed": 0,
       "seasons": {
         "3": {
@@ -40663,8 +40663,8 @@
       "serverRank": 419,
       "castleLevel": 16,
       "playerType": "farmer",
-      "averageMeritsValue": null,
-      "averageMeritsPercentage": null,
+      "averageMeritsValue": 0,
+      "averageMeritsPercentage": 0,
       "seasonsPlayed": 0,
       "seasons": {
         "3": {
@@ -40930,8 +40930,8 @@
       "serverRank": 425,
       "castleLevel": 16,
       "playerType": "farmer",
-      "averageMeritsValue": null,
-      "averageMeritsPercentage": null,
+      "averageMeritsValue": 960,
+      "averageMeritsPercentage": 0.09,
       "seasonsPlayed": 0,
       "seasons": {
         "3": {
@@ -40997,8 +40997,8 @@
       "serverRank": 426,
       "castleLevel": 16,
       "playerType": "farmer",
-      "averageMeritsValue": null,
-      "averageMeritsPercentage": null,
+      "averageMeritsValue": 2125,
+      "averageMeritsPercentage": 0.19,
       "seasonsPlayed": 0,
       "seasons": {
         "3": {
@@ -41064,8 +41064,8 @@
       "serverRank": 427,
       "castleLevel": 16,
       "playerType": "farmer",
-      "averageMeritsValue": null,
-      "averageMeritsPercentage": null,
+      "averageMeritsValue": 2007,
+      "averageMeritsPercentage": 0.18,
       "seasonsPlayed": 0,
       "seasons": {
         "3": {
@@ -41191,8 +41191,8 @@
       "serverRank": 429,
       "castleLevel": 16,
       "playerType": "farmer",
-      "averageMeritsValue": null,
-      "averageMeritsPercentage": null,
+      "averageMeritsValue": 0,
+      "averageMeritsPercentage": 0,
       "seasonsPlayed": 0,
       "seasons": {
         "3": {
@@ -41258,8 +41258,8 @@
       "serverRank": 436,
       "castleLevel": 16,
       "playerType": "farmer",
-      "averageMeritsValue": null,
-      "averageMeritsPercentage": null,
+      "averageMeritsValue": 0,
+      "averageMeritsPercentage": 0,
       "seasonsPlayed": 0,
       "seasons": {
         "3": {
@@ -41325,8 +41325,8 @@
       "serverRank": 430,
       "castleLevel": 16,
       "playerType": "farmer",
-      "averageMeritsValue": null,
-      "averageMeritsPercentage": null,
+      "averageMeritsValue": 2244,
+      "averageMeritsPercentage": 0.2,
       "seasonsPlayed": 0,
       "seasons": {
         "3": {
@@ -41392,8 +41392,8 @@
       "serverRank": 433,
       "castleLevel": 16,
       "playerType": "farmer",
-      "averageMeritsValue": null,
-      "averageMeritsPercentage": null,
+      "averageMeritsValue": 1371,
+      "averageMeritsPercentage": 0.12,
       "seasonsPlayed": 0,
       "seasons": {
         "3": {
@@ -41459,8 +41459,8 @@
       "serverRank": 432,
       "castleLevel": 16,
       "playerType": "farmer",
-      "averageMeritsValue": null,
-      "averageMeritsPercentage": null,
+      "averageMeritsValue": 1793,
+      "averageMeritsPercentage": 0.16,
       "seasonsPlayed": 0,
       "seasons": {
         "3": {
@@ -41526,8 +41526,8 @@
       "serverRank": 431,
       "castleLevel": 16,
       "playerType": "farmer",
-      "averageMeritsValue": null,
-      "averageMeritsPercentage": null,
+      "averageMeritsValue": 0,
+      "averageMeritsPercentage": 0,
       "seasonsPlayed": 0,
       "seasons": {
         "3": {
@@ -41593,8 +41593,8 @@
       "serverRank": 443,
       "castleLevel": 16,
       "playerType": "farmer",
-      "averageMeritsValue": null,
-      "averageMeritsPercentage": null,
+      "averageMeritsValue": 0,
+      "averageMeritsPercentage": 0,
       "seasonsPlayed": 0,
       "seasons": {
         "3": {
@@ -41660,8 +41660,8 @@
       "serverRank": 434,
       "castleLevel": 17,
       "playerType": "farmer",
-      "averageMeritsValue": null,
-      "averageMeritsPercentage": null,
+      "averageMeritsValue": 1603,
+      "averageMeritsPercentage": 0.15,
       "seasonsPlayed": 0,
       "seasons": {
         "3": {
@@ -41727,8 +41727,8 @@
       "serverRank": 435,
       "castleLevel": 16,
       "playerType": "farmer",
-      "averageMeritsValue": null,
-      "averageMeritsPercentage": null,
+      "averageMeritsValue": 1682,
+      "averageMeritsPercentage": 0.15,
       "seasonsPlayed": 0,
       "seasons": {
         "3": {
@@ -41794,8 +41794,8 @@
       "serverRank": 437,
       "castleLevel": 16,
       "playerType": "farmer",
-      "averageMeritsValue": null,
-      "averageMeritsPercentage": null,
+      "averageMeritsValue": 1417,
+      "averageMeritsPercentage": 0.13,
       "seasonsPlayed": 0,
       "seasons": {
         "3": {
@@ -41861,8 +41861,8 @@
       "serverRank": 438,
       "castleLevel": 16,
       "playerType": "farmer",
-      "averageMeritsValue": null,
-      "averageMeritsPercentage": null,
+      "averageMeritsValue": 2115,
+      "averageMeritsPercentage": 0.19,
       "seasonsPlayed": 0,
       "seasons": {
         "3": {
@@ -41928,8 +41928,8 @@
       "serverRank": 441,
       "castleLevel": 16,
       "playerType": "farmer",
-      "averageMeritsValue": null,
-      "averageMeritsPercentage": null,
+      "averageMeritsValue": 1563,
+      "averageMeritsPercentage": 0.14,
       "seasonsPlayed": 0,
       "seasons": {
         "3": {
@@ -41995,8 +41995,8 @@
       "serverRank": 439,
       "castleLevel": 16,
       "playerType": "farmer",
-      "averageMeritsValue": null,
-      "averageMeritsPercentage": null,
+      "averageMeritsValue": 2432,
+      "averageMeritsPercentage": 0.22,
       "seasonsPlayed": 0,
       "seasons": {
         "3": {
@@ -42062,8 +42062,8 @@
       "serverRank": 442,
       "castleLevel": 16,
       "playerType": "farmer",
-      "averageMeritsValue": null,
-      "averageMeritsPercentage": null,
+      "averageMeritsValue": 0,
+      "averageMeritsPercentage": 0,
       "seasonsPlayed": 0,
       "seasons": {
         "3": {
@@ -42128,7 +42128,7 @@
       "castleLevel": 14,
       "meritPowerRatio": 0,
       "playerType": "farmer",
-      "averageMeritsValue": null,
+      "averageMeritsValue": 0,
       "averageMeritsPercentage": null,
       "seasonsPlayed": 0,
       "seasons": {
@@ -42203,8 +42203,8 @@
       "serverRank": 440,
       "castleLevel": 16,
       "playerType": "farmer",
-      "averageMeritsValue": null,
-      "averageMeritsPercentage": null,
+      "averageMeritsValue": 2044,
+      "averageMeritsPercentage": 0.19,
       "seasonsPlayed": 0,
       "seasons": {
         "3": {
@@ -42270,8 +42270,8 @@
       "serverRank": 444,
       "castleLevel": 16,
       "playerType": "farmer",
-      "averageMeritsValue": null,
-      "averageMeritsPercentage": null,
+      "averageMeritsValue": 1010,
+      "averageMeritsPercentage": 0.09,
       "seasonsPlayed": 0,
       "seasons": {
         "3": {
@@ -42337,8 +42337,8 @@
       "serverRank": 447,
       "castleLevel": 16,
       "playerType": "farmer",
-      "averageMeritsValue": null,
-      "averageMeritsPercentage": null,
+      "averageMeritsValue": 1158,
+      "averageMeritsPercentage": 0.11,
       "seasonsPlayed": 0,
       "seasons": {
         "3": {
@@ -42404,8 +42404,8 @@
       "serverRank": 446,
       "castleLevel": 16,
       "playerType": "farmer",
-      "averageMeritsValue": null,
-      "averageMeritsPercentage": null,
+      "averageMeritsValue": 1539,
+      "averageMeritsPercentage": 0.14,
       "seasonsPlayed": 0,
       "seasons": {
         "3": {
@@ -42471,8 +42471,8 @@
       "serverRank": 445,
       "castleLevel": 16,
       "playerType": "farmer",
-      "averageMeritsValue": null,
-      "averageMeritsPercentage": null,
+      "averageMeritsValue": 0,
+      "averageMeritsPercentage": 0,
       "seasonsPlayed": 0,
       "seasons": {
         "3": {
@@ -42598,8 +42598,8 @@
       "serverRank": 0,
       "castleLevel": 16,
       "playerType": "farmer",
-      "averageMeritsValue": null,
-      "averageMeritsPercentage": null,
+      "averageMeritsValue": 0,
+      "averageMeritsPercentage": 0,
       "seasonsPlayed": 0,
       "seasons": {
         "3": {
@@ -43744,7 +43744,7 @@
       "castleLevel": 10,
       "meritPowerRatio": 0,
       "playerType": "farmer",
-      "averageMeritsValue": null,
+      "averageMeritsValue": 0,
       "averageMeritsPercentage": null,
       "seasonsPlayed": 0,
       "seasons": {
@@ -45978,8 +45978,8 @@
       "castleLevel": 12,
       "meritPowerRatio": 0,
       "playerType": "farmer",
-      "averageMeritsValue": null,
-      "averageMeritsPercentage": null,
+      "averageMeritsValue": 0,
+      "averageMeritsPercentage": 0,
       "seasonsPlayed": 0,
       "seasons": {
         "3": {
@@ -46053,7 +46053,7 @@
       "serverRank": 0,
       "castleLevel": 11,
       "playerType": "farmer",
-      "averageMeritsValue": null,
+      "averageMeritsValue": 0,
       "averageMeritsPercentage": null,
       "seasonsPlayed": 0,
       "seasons": {
@@ -46660,7 +46660,7 @@
       "serverRank": 0,
       "castleLevel": 11,
       "playerType": "farmer",
-      "averageMeritsValue": null,
+      "averageMeritsValue": 0,
       "averageMeritsPercentage": null,
       "seasonsPlayed": 0,
       "seasons": {
