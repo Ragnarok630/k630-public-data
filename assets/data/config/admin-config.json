@@ -1,6 +1,6 @@
 {
   "schemaVersion": "630.1.0",
-  "updatedAt": "2026-10-19T07:03:12.770Z",
+  "updatedAt": "2026-10-19T07:03:19.397Z",
   "updatedBy": "ragnarok99gaming@gmail.com",
   "github": {
     "repositoryRead": false,
@@ -14,65 +14,51 @@
     "updatedAt": ""
   },
   "matchmaking": {
-    "ready": true,
-    "seasonNumber": 3,
-    "officialDate": "2026-09-02",
-    "playerCount": 471,
-    "updatedAt": "2026-09-08T11:35:13.357Z"
+    "ready": false,
+    "seasonNumber": 0,
+    "officialDate": "",
+    "playerCount": 0,
+    "updatedAt": ""
   },
   "season": {
     "websiteStatus": "in-season-migration-open",
-    "selectedSeason": {
-      "year": 2026,
-      "season": 3,
-      "sosNumber": 8,
-      "sosName": "(SoS-8) Symphony of the Gods"
-    },
-    "participatingServers": [
-      55,
-      110,
-      300,
-      310,
-      583,
-      604,
-      630,
-      801
-    ],
-    "active": true,
-    "week0Unlocked": true,
-    "updatedAt": "2026-09-08T11:37:40.994Z"
+    "selectedSeason": null,
+    "participatingServers": [],
+    "active": false,
+    "week0Unlocked": false,
+    "updatedAt": ""
   },
   "saveSeason": {
-    "active": true,
-    "seasonNumber": 3,
-    "officialDate": "2026-10-16",
-    "currentStep": "7G",
-    "status": "running",
+    "active": false,
+    "seasonNumber": 0,
+    "officialDate": "",
+    "currentStep": null,
+    "status": "waiting",
     "steps": {
       "7A": {
-        "status": "completed"
+        "status": "waiting"
       },
       "7B": {
-        "status": "completed"
+        "status": "waiting"
       },
       "7C": {
-        "status": "completed"
+        "status": "waiting"
       },
       "7D": {
-        "status": "completed"
+        "status": "waiting"
       },
       "7E": {
-        "status": "completed"
+        "status": "waiting"
       },
       "7F": {
-        "status": "completed"
+        "status": "waiting"
       },
       "7G": {
-        "status": "completed"
+        "status": "waiting"
       }
     },
-    "updatedAt": "2026-10-19T07:03:12.770Z",
-    "updatedBy": "ragnarok99gaming@gmail.com"
+    "updatedAt": "",
+    "updatedBy": ""
   },
   "meritConfiguration": {
     "version": 1,
@@ -162,42 +148,26 @@
         }
       }
     },
-    "savedAt": "2026-09-08T11:36:53.214Z",
-    "savedBy": "ragnarok99gaming@gmail.com",
-    "updatePending": true,
+    "savedAt": "",
+    "savedBy": "",
+    "updatePending": false,
     "recalculatedAt": ""
   },
   "weeks": {
-    "uploaded": [
-      "W0",
-      "W1",
-      "W2",
-      "W3",
-      "W4",
-      "W5",
-      "W6"
-    ],
-    "latestWeek": "W6",
-    "officialDates": {
-      "W0": "2026-09-04",
-      "W1": "2026-09-11",
-      "W2": "2026-09-18",
-      "W3": "2026-09-25",
-      "W4": "2026-10-02",
-      "W5": "2026-10-09",
-      "W6": "2026-10-09"
-    },
-    "ready": true,
-    "updatedAt": "2026-10-19T06:25:35.340Z"
+    "uploaded": [],
+    "latestWeek": null,
+    "officialDates": {},
+    "ready": false,
+    "updatedAt": ""
   },
   "websiteBuild": {
-    "ready": true,
-    "lastBuiltAt": "2026-10-19T06:25:50.877Z"
+    "ready": false,
+    "lastBuiltAt": ""
   },
   "archive": {
-    "ready": true,
+    "ready": false,
     "archived": true,
-    "seasonNumber": 2,
-    "archivedAt": "2026-08-31T23:59:59.000Z"
+    "seasonNumber": 3,
+    "archivedAt": "2026-10-16T23:59:59.000Z"
   }
 }
