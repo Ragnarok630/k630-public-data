@@ -1,6 +1,6 @@
 {
   "schemaVersion": "630.1.0",
-  "updatedAt": "2026-10-19T06:20:41.089Z",
+  "updatedAt": "2026-10-19T06:21:28.230Z",
   "updatedBy": "ragnarok99gaming@gmail.com",
   "github": {
     "repositoryRead": false,
@@ -174,26 +174,28 @@
       "W2",
       "W3",
       "W4",
-      "W5"
+      "W5",
+      "W6"
     ],
-    "latestWeek": "W5",
+    "latestWeek": "W6",
     "officialDates": {
       "W0": "2026-09-04",
       "W1": "2026-09-11",
       "W2": "2026-09-18",
       "W3": "2026-09-25",
       "W4": "2026-10-02",
-      "W5": "2026-10-09"
+      "W5": "2026-10-09",
+      "W6": "2026-10-09"
     },
     "ready": true,
-    "updatedAt": "2026-10-19T06:20:22.288Z"
+    "updatedAt": "2026-10-19T06:21:28.230Z"
   },
   "websiteBuild": {
-    "ready": true,
-    "lastBuiltAt": "2026-10-19T06:20:41.089Z"
+    "ready": false,
+    "lastBuiltAt": ""
   },
   "archive": {
-    "ready": true,
+    "ready": false,
     "archived": true,
     "seasonNumber": 2,
     "archivedAt": "2026-08-31T23:59:59.000Z"
