@@ -2,198 +2,72 @@
   "schemaVersion": 1,
   "kingdom": 630,
   "dataset": "home",
-  "generatedFrom": "season-3-W6",
-  "generatedAt": "2026-10-19T06:25:47.592Z",
-  "generatedBy": "ragnarok99gaming@gmail.com",
-  "currentSeason": 3,
-  "currentWeek": "W6",
-  "currentWeekDate": "2026-10-09",
-  "seasonName": "(SoS-8) Symphony of the Gods",
+  "generatedFrom": "matchmaking",
+  "matchmakingDate": "2026-10-23",
+  "generatedAt": "2026-10-23T06:43:48.445Z",
+  "currentSeason": 4,
+  "currentWeek": null,
   "totals": {
-    "activePlayers": 517,
-    "warriors": 196,
-    "farmers": 321,
-    "serverPower": 20431442079,
-    "serverMerits": 1258834371,
-    "serverKills": 51255296674,
-    "serverHealing": 70859092544
+    "activePlayers": 485,
+    "warriors": 193,
+    "farmers": 292,
+    "serverPower": 20924360353,
+    "serverMerits": 1508772,
+    "serverKills": 50971417571,
+    "serverHealing": 70514749181
   },
   "playerRanking": {
     "topIdMerits": [
       {
         "rank": 1,
-        "id": "13119692",
-        "name": "Vaƞdar",
+        "id": "7533069",
+        "name": "ᴺᴷᴿᴵ Gochu III ᴿᵉᶠ",
         "kingdom": 630,
-        "merits": 28757597
+        "merits": 863030
       },
       {
         "rank": 2,
-        "id": "353126",
-        "name": "Aadi",
+        "id": "19541509",
+        "name": "sinkura",
         "kingdom": 630,
-        "merits": 25168719
+        "merits": 324627
       },
       {
         "rank": 3,
-        "id": "14793459",
-        "name": "ᴿᵉᶠ PᴜssNBᴏᴏᴛs",
-        "kingdom": 630,
-        "merits": 20394451
-      },
-      {
-        "rank": 4,
-        "id": "5398378",
-        "name": "Pangolin",
-        "kingdom": 630,
-        "merits": 20021693
-      },
-      {
-        "rank": 5,
         "id": "14782793",
         "name": "RaúlGijón",
         "kingdom": 630,
-        "merits": 18186226
+        "merits": 85021
+      },
+      {
+        "rank": 4,
+        "id": "14809925",
+        "name": "Harjumaa kunn",
+        "kingdom": 630,
+        "merits": 79552
+      },
+      {
+        "rank": 5,
+        "id": "2151309",
+        "name": "ᴿᵉᶠ Mas Mas Lucu",
+        "kingdom": 630,
+        "merits": 78271
       }
     ]
   },
   "serverRanking": {
-    "topServerMerits": [
-      {
-        "rank": 1,
-        "kingdom": 583,
-        "server": 583,
-        "merits": 2281186714
-      },
-      {
-        "rank": 2,
-        "kingdom": 110,
-        "server": 110,
-        "merits": 1311772175
-      },
-      {
-        "rank": 3,
-        "kingdom": 604,
-        "server": 604,
-        "merits": 1292546001
-      },
-      {
-        "rank": 4,
-        "kingdom": 630,
-        "server": 630,
-        "merits": 1258834371
-      },
-      {
-        "rank": 5,
-        "kingdom": 310,
-        "server": 310,
-        "merits": 1127287217
-      }
-    ]
+    "topServerMerits": []
   },
   "charts": {
     "powerDevelopment": {
-      "active": true,
-      "labels": [
-        "W0",
-        "W1",
-        "W2",
-        "W3",
-        "W4",
-        "W5",
-        "W6"
-      ],
-      "datasets": [
-        {
-          "label": "Server 630 Power",
-          "data": [
-            22876908343,
-            20776973662,
-            21484853800,
-            21433426931,
-            20419364600,
-            21577276905,
-            20431442079
-          ]
-        }
-      ]
+      "active": false,
+      "labels": [],
+      "datasets": []
     },
     "meritsDevelopment": {
-      "active": true,
-      "labels": [
-        "W0",
-        "W1",
-        "W2",
-        "W3",
-        "W4",
-        "W5",
-        "W6"
-      ],
-      "datasets": [
-        {
-          "label": "Server 630 Merits",
-          "data": [
-            0,
-            195535749,
-            384612743,
-            564123873,
-            1030182603,
-            1392744235,
-            1258834371
-          ]
-        }
-      ]
-    }
-  },
-  "weeklyTotals": {
-    "W0": {
-      "officialDate": "2026-09-04",
-      "serverPower": 22876908343,
-      "serverMerits": 0,
-      "serverKills": 56875286618,
-      "serverHealing": 76596762525
-    },
-    "W1": {
-      "officialDate": "2026-09-11",
-      "serverPower": 20776973662,
-      "serverMerits": 195535749,
-      "serverKills": 56230938869,
-      "serverHealing": 76370151647
-    },
-    "W2": {
-      "officialDate": "2026-09-18",
-      "serverPower": 21484853800,
-      "serverMerits": 384612743,
-      "serverKills": 55316500767,
-      "serverHealing": 75660547913
-    },
-    "W3": {
-      "officialDate": "2026-09-25",
-      "serverPower": 21433426931,
-      "serverMerits": 564123873,
-      "serverKills": 55247447671,
-      "serverHealing": 75676472403
-    },
-    "W4": {
-      "officialDate": "2026-10-02",
-      "serverPower": 20419364600,
-      "serverMerits": 1030182603,
-      "serverKills": 56264363375,
-      "serverHealing": 76822571655
-    },
-    "W5": {
-      "officialDate": "2026-10-09",
-      "serverPower": 21577276905,
-      "serverMerits": 1392744235,
-      "serverKills": 60142577008,
-      "serverHealing": 79729446981
-    },
-    "W6": {
-      "officialDate": "2026-10-09",
-      "serverPower": 20431442079,
-      "serverMerits": 1258834371,
-      "serverKills": 51255296674,
-      "serverHealing": 70859092544
+      "active": false,
+      "labels": [],
+      "datasets": []
     }
   }
 }
