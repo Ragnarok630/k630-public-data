@@ -3,12 +3,12 @@
   "kingdom": 630,
   "dataset": "player-index",
   "generatedFrom": "matchmaking",
-  "matchmakingDate": "2026-09-02",
-  "currentSeason": 3,
-  "generatedAt": "2026-09-08T11:35:13.357Z",
-  "activePlayerCount": 471,
-  "oldPlayerCount": 448,
-  "playerCount": 909,
+  "matchmakingDate": "2026-10-23",
+  "currentSeason": 4,
+  "generatedAt": "2026-10-23T06:43:48.445Z",
+  "activePlayerCount": 485,
+  "oldPlayerCount": 595,
+  "playerCount": 954,
   "players": {
     "49477": {
       "id": "49477",
@@ -38,16 +38,17 @@
       "name": "KARAHANᴿᵉᶠメᶜᴳ",
       "alliance": "[REF] ᴿᵉᵇᵉˡˢ of FúRy",
       "dateJoinKingdom": "2026-07-15",
+      "dateLeaveKingdom": "2026-10-23",
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "troopTier": "T5",
-      "active": true,
-      "source": "matchmaking"
+      "active": false,
+      "source": "old-players"
     },
     "132408": {
       "id": "132408",
       "name": "ᴿᵉᶠKing Raiden",
-      "alliance": "[REF2] ᴿᵉᵇᵉˡˢ of FúRy 2",
+      "alliance": "[REF] ᴿᵉᵇᵉˡˢ of FúRy",
       "dateJoinKingdom": "2026-03-27",
       "serverStatus": "LV2",
       "serverStatusColor": "green",
@@ -60,11 +61,12 @@
       "name": "CARAXESᵀᴿ",
       "alliance": "[REF] ᴿᵉᵇᵉˡˢ of FúRy",
       "dateJoinKingdom": "2026-07-17",
+      "dateLeaveKingdom": "2026-10-23",
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "troopTier": "T5",
-      "active": true,
-      "source": "matchmaking"
+      "active": false,
+      "source": "old-players"
     },
     "353126": {
       "id": "353126",
@@ -127,24 +129,26 @@
     "656660": {
       "id": "656660",
       "name": "cindewendy",
-      "alliance": "[REF2] ᴿᵉᵇᵉˡˢ of FúRy 2",
+      "alliance": "[ORE_] ore miners",
       "dateJoinKingdom": "2026-05-07",
+      "dateLeaveKingdom": "2026-10-23",
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "troopTier": "T5",
-      "active": true,
-      "source": "matchmaking"
+      "active": false,
+      "source": "old-players"
     },
     "658835": {
       "id": "658835",
       "name": "kodokterbang",
       "alliance": "[REF] ᴿᵉᵇᵉˡˢ of FúRy",
       "dateJoinKingdom": "2026-05-07",
+      "dateLeaveKingdom": "2026-10-23",
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "troopTier": "T5",
-      "active": true,
-      "source": "matchmaking"
+      "active": false,
+      "source": "old-players"
     },
     "661669": {
       "id": "661669",
@@ -163,11 +167,12 @@
       "name": "KAPTEN ᴰᴸ 3001",
       "alliance": "[REF] ᴿᵉᵇᵉˡˢ of FúRy",
       "dateJoinKingdom": "2026-05-07",
+      "dateLeaveKingdom": "2026-10-23",
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "troopTier": "T5",
-      "active": true,
-      "source": "matchmaking"
+      "active": false,
+      "source": "old-players"
     },
     "783895": {
       "id": "783895",
@@ -184,7 +189,7 @@
     "834604": {
       "id": "834604",
       "name": "Arys 99",
-      "alliance": "[REF2] ᴿᵉᵇᵉˡˢ of FúRy 2",
+      "alliance": "[-UG-] THE FREE FOLKS",
       "dateJoinKingdom": "2026-07-15",
       "serverStatus": "LV2",
       "serverStatusColor": "green",
@@ -197,11 +202,12 @@
       "name": "Baozi Samir",
       "alliance": "[REF] ᴿᵉᵇᵉˡˢ of FúRy",
       "dateJoinKingdom": "2026-08-21",
+      "dateLeaveKingdom": "2026-10-23",
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "troopTier": "T5",
-      "active": true,
-      "source": "matchmaking"
+      "active": false,
+      "source": "old-players"
     },
     "955226": {
       "id": "955226",
@@ -220,22 +226,24 @@
       "name": "Baozi Dark",
       "alliance": "[REF] ᴿᵉᵇᵉˡˢ of FúRy",
       "dateJoinKingdom": "2026-08-21",
+      "dateLeaveKingdom": "2026-10-23",
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "troopTier": "T5",
-      "active": true,
-      "source": "matchmaking"
+      "active": false,
+      "source": "old-players"
     },
     "1020040": {
       "id": "1020040",
       "name": "웃AZUL웃",
       "alliance": "[REF2] ᴿᵉᵇᵉˡˢ of FúRy 2",
       "dateJoinKingdom": "2026-05-07",
+      "dateLeaveKingdom": "2026-10-23",
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "troopTier": "T5",
-      "active": true,
-      "source": "matchmaking"
+      "active": false,
+      "source": "old-players"
     },
     "1035977": {
       "id": "1035977",
@@ -263,9 +271,9 @@
     "1149174": {
       "id": "1149174",
       "name": "Big Failure Nader",
-      "alliance": "[FoR] Farmers of Rebels",
-      "dateJoinKingdom": "2026-05-07",
-      "dateLeaveKingdom": "2026-07-15",
+      "alliance": "[REF3] ᴿᵉᵇᵉˡˢ of FúRy 3",
+      "dateJoinKingdom": "2026-07-24",
+      "dateLeaveKingdom": "2026-10-23",
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "troopTier": "T4",
@@ -393,11 +401,12 @@
       "name": "ᵀᴿJiLeTT",
       "alliance": "[REF] ᴿᵉᵇᵉˡˢ of FúRy",
       "dateJoinKingdom": "2026-07-15",
+      "dateLeaveKingdom": "2026-10-23",
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "troopTier": "T5",
-      "active": true,
-      "source": "matchmaking"
+      "active": false,
+      "source": "old-players"
     },
     "1853049": {
       "id": "1853049",
@@ -426,11 +435,12 @@
       "name": "sweet daddy FARM",
       "alliance": "[REF2] ᴿᵉᵇᵉˡˢ of FúRy 2",
       "dateJoinKingdom": "2026-07-17",
+      "dateLeaveKingdom": "2026-10-23",
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "troopTier": "T4",
-      "active": true,
-      "source": "matchmaking"
+      "active": false,
+      "source": "old-players"
     },
     "1947937": {
       "id": "1947937",
@@ -476,6 +486,17 @@
       "active": true,
       "source": "matchmaking"
     },
+    "2027425": {
+      "id": "2027425",
+      "name": "К И О",
+      "alliance": "[REF] ᴿᵉᵇᵉˡˢ of FúRy",
+      "dateJoinKingdom": "2026-10-09",
+      "serverStatus": "LV2",
+      "serverStatusColor": "green",
+      "troopTier": "T5",
+      "active": true,
+      "source": "matchmaking"
+    },
     "2038374": {
       "id": "2038374",
       "name": "ᴿᵉᶠ Nole0404",
@@ -492,22 +513,24 @@
       "name": "Kopi 林",
       "alliance": "[REF] ᴿᵉᵇᵉˡˢ of FúRy",
       "dateJoinKingdom": "2026-08-28",
+      "dateLeaveKingdom": "2026-10-23",
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "troopTier": "T5",
-      "active": true,
-      "source": "matchmaking"
+      "active": false,
+      "source": "old-players"
     },
     "2078923": {
       "id": "2078923",
       "name": "ᵘʳˢˢ 林",
       "alliance": "[REF] ᴿᵉᵇᵉˡˢ of FúRy",
       "dateJoinKingdom": "2026-08-28",
+      "dateLeaveKingdom": "2026-10-23",
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "troopTier": "T5",
-      "active": true,
-      "source": "matchmaking"
+      "active": false,
+      "source": "old-players"
     },
     "2086747": {
       "id": "2086747",
@@ -523,7 +546,7 @@
     "2151309": {
       "id": "2151309",
       "name": "ᴿᵉᶠ Mas Mas Lucu",
-      "alliance": "[REF2] ᴿᵉᵇᵉˡˢ of FúRy 2",
+      "alliance": "[REF] ᴿᵉᵇᵉˡˢ of FúRy",
       "dateJoinKingdom": "2026-03-27",
       "serverStatus": "LV2",
       "serverStatusColor": "green",
@@ -536,16 +559,17 @@
       "name": "Hangyodon 林",
       "alliance": "[REF] ᴿᵉᵇᵉˡˢ of FúRy",
       "dateJoinKingdom": "2026-08-28",
+      "dateLeaveKingdom": "2026-10-23",
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "troopTier": "T5",
-      "active": true,
-      "source": "matchmaking"
+      "active": false,
+      "source": "old-players"
     },
     "2311375": {
       "id": "2311375",
       "name": "ˢᵃᶦⁿᵗxJIMBOx",
-      "alliance": "[REF] ᴿᵉᵇᵉˡˢ of FúRy",
+      "alliance": "",
       "dateJoinKingdom": "2026-07-15",
       "serverStatus": "LV2",
       "serverStatusColor": "green",
@@ -591,7 +615,7 @@
     "2807175": {
       "id": "2807175",
       "name": "LeXsTeRx",
-      "alliance": "[REF] ᴿᵉᵇᵉˡˢ of FúRy",
+      "alliance": "",
       "dateJoinKingdom": "2026-05-07",
       "serverStatus": "LV2",
       "serverStatusColor": "green",
@@ -638,11 +662,12 @@
       "name": "TrDaphne",
       "alliance": "[REF] ᴿᵉᵇᵉˡˢ of FúRy",
       "dateJoinKingdom": "2026-07-15",
+      "dateLeaveKingdom": "2026-10-23",
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "troopTier": "T5",
-      "active": true,
-      "source": "matchmaking"
+      "active": false,
+      "source": "old-players"
     },
     "3287552": {
       "id": "3287552",
@@ -660,11 +685,12 @@
       "name": "ᴿᵉᶠ Yami어둠",
       "alliance": "[REF] ᴿᵉᵇᵉˡˢ of FúRy",
       "dateJoinKingdom": "2026-03-27",
+      "dateLeaveKingdom": "2026-10-23",
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "troopTier": "T5",
-      "active": true,
-      "source": "matchmaking"
+      "active": false,
+      "source": "old-players"
     },
     "3431932": {
       "id": "3431932",
@@ -704,7 +730,7 @@
     },
     "3684170": {
       "id": "3684170",
-      "name": "Kind Gentleman",
+      "name": "Gentłeman",
       "alliance": "[REF] ᴿᵉᵇᵉˡˢ of FúRy",
       "dateJoinKingdom": "2026-08-14",
       "serverStatus": "LV2",
@@ -750,7 +776,7 @@
     "4249717": {
       "id": "4249717",
       "name": "NORTHface",
-      "alliance": "[REF] ᴿᵉᵇᵉˡˢ of FúRy",
+      "alliance": "",
       "dateJoinKingdom": "2026-03-27",
       "serverStatus": "LV2",
       "serverStatusColor": "green",
@@ -785,11 +811,12 @@
       "name": "Aubin ᵖˣ",
       "alliance": "[REF] ᴿᵉᵇᵉˡˢ of FúRy",
       "dateJoinKingdom": "2026-07-15",
+      "dateLeaveKingdom": "2026-10-23",
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "troopTier": "T5",
-      "active": true,
-      "source": "matchmaking"
+      "active": false,
+      "source": "old-players"
     },
     "4706389": {
       "id": "4706389",
@@ -817,7 +844,7 @@
     "4901487": {
       "id": "4901487",
       "name": "RegularGordo",
-      "alliance": "[REF2] ᴿᵉᵇᵉˡˢ of FúRy 2",
+      "alliance": "",
       "dateJoinKingdom": "2026-08-14",
       "serverStatus": "LV2",
       "serverStatusColor": "green",
@@ -900,11 +927,12 @@
       "name": "Heyblinkin",
       "alliance": "[REF] ᴿᵉᵇᵉˡˢ of FúRy",
       "dateJoinKingdom": "2026-03-27",
+      "dateLeaveKingdom": "2026-10-23",
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "troopTier": "T5",
-      "active": true,
-      "source": "matchmaking"
+      "active": false,
+      "source": "old-players"
     },
     "5277208": {
       "id": "5277208",
@@ -944,7 +972,7 @@
     },
     "5320011": {
       "id": "5320011",
-      "name": "KiNgsL4YER",
+      "name": "BailuuLurong",
       "alliance": "[REF] ᴿᵉᵇᵉˡˢ of FúRy",
       "dateJoinKingdom": "2026-03-27",
       "serverStatus": "LV2",
@@ -958,11 +986,12 @@
       "name": "ᴿᵉᶠ ICE BUG",
       "alliance": "[REF] ᴿᵉᵇᵉˡˢ of FúRy",
       "dateJoinKingdom": "2026-03-27",
+      "dateLeaveKingdom": "2026-10-23",
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "troopTier": "T5",
-      "active": true,
-      "source": "matchmaking"
+      "active": false,
+      "source": "old-players"
     },
     "5355002": {
       "id": "5355002",
@@ -1003,11 +1032,12 @@
       "name": "乄Sweet Daddy",
       "alliance": "[REF2] ᴿᵉᵇᵉˡˢ of FúRy 2",
       "dateJoinKingdom": "2026-07-15",
+      "dateLeaveKingdom": "2026-10-23",
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "troopTier": "T5",
-      "active": true,
-      "source": "matchmaking"
+      "active": false,
+      "source": "old-players"
     },
     "5442749": {
       "id": "5442749",
@@ -1054,16 +1084,28 @@
       "active": true,
       "source": "matchmaking"
     },
-    "5720364": {
-      "id": "5720364",
-      "name": "littelPrencess",
+    "5598255": {
+      "id": "5598255",
+      "name": "SiiR",
       "alliance": "[REF] ᴿᵉᵇᵉˡˢ of FúRy",
-      "dateJoinKingdom": "2026-03-27",
+      "dateJoinKingdom": "2026-10-09",
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "troopTier": "T5",
       "active": true,
       "source": "matchmaking"
+    },
+    "5720364": {
+      "id": "5720364",
+      "name": "littelPrencess",
+      "alliance": "[REF] ᴿᵉᵇᵉˡˢ of FúRy",
+      "dateJoinKingdom": "2026-03-27",
+      "dateLeaveKingdom": "2026-10-23",
+      "serverStatus": "LV2",
+      "serverStatusColor": "green",
+      "troopTier": "T5",
+      "active": false,
+      "source": "old-players"
     },
     "5804407": {
       "id": "5804407",
@@ -1081,16 +1123,17 @@
       "name": "BroncO",
       "alliance": "[REF] ᴿᵉᵇᵉˡˢ of FúRy",
       "dateJoinKingdom": "2026-03-27",
+      "dateLeaveKingdom": "2026-10-23",
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "troopTier": "T5",
-      "active": true,
-      "source": "matchmaking"
+      "active": false,
+      "source": "old-players"
     },
     "5882635": {
       "id": "5882635",
       "name": "ᵛᵒᵈLao26ᴿᴱᴬᴾᴱᴿ",
-      "alliance": "[-UG-] THE FREE FOLKS",
+      "alliance": "[REF] ᴿᵉᵇᵉˡˢ of FúRy",
       "dateJoinKingdom": "2026-05-07",
       "serverStatus": "LV2",
       "serverStatusColor": "green",
@@ -1139,7 +1182,7 @@
       "dateJoinKingdom": "2026-03-27",
       "serverStatus": "LV2",
       "serverStatusColor": "green",
-      "troopTier": "T4",
+      "troopTier": "T5",
       "active": true,
       "source": "matchmaking"
     },
@@ -1148,6 +1191,17 @@
       "name": "JM SUPERMAN",
       "alliance": "[REF] ᴿᵉᵇᵉˡˢ of FúRy",
       "dateJoinKingdom": "2026-07-31",
+      "serverStatus": "LV2",
+      "serverStatusColor": "green",
+      "troopTier": "T5",
+      "active": true,
+      "source": "matchmaking"
+    },
+    "6458081": {
+      "id": "6458081",
+      "name": "Pongeee ʕᵔᴥᵔʔ",
+      "alliance": "[REF] ᴿᵉᵇᵉˡˢ of FúRy",
+      "dateJoinKingdom": "2026-10-09",
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "troopTier": "T5",
@@ -1237,18 +1291,30 @@
       "name": "Sweet daddy F2",
       "alliance": "[REF2] ᴿᵉᵇᵉˡˢ of FúRy 2",
       "dateJoinKingdom": "2026-07-17",
+      "dateLeaveKingdom": "2026-10-23",
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "troopTier": "T4",
+      "active": false,
+      "source": "old-players"
+    },
+    "6767872": {
+      "id": "6767872",
+      "name": "RagnarSön",
+      "alliance": "[REF] ᴿᵉᵇᵉˡˢ of FúRy",
+      "dateJoinKingdom": "2026-10-09",
+      "serverStatus": "LV2",
+      "serverStatusColor": "green",
+      "troopTier": "T5",
       "active": true,
       "source": "matchmaking"
     },
     "7178737": {
       "id": "7178737",
       "name": "A BitchCalledCunt",
-      "alliance": "[FoR] Farmers of Rebels",
-      "dateJoinKingdom": "2026-05-07",
-      "dateLeaveKingdom": "2026-07-15",
+      "alliance": "[REF3] ᴿᵉᵇᵉˡˢ of FúRy 3",
+      "dateJoinKingdom": "2026-07-24",
+      "dateLeaveKingdom": "2026-10-23",
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "troopTier": "T4",
@@ -1258,8 +1324,19 @@
     "7182532": {
       "id": "7182532",
       "name": "adhit1903",
-      "alliance": "[REF2] ᴿᵉᵇᵉˡˢ of FúRy 2",
+      "alliance": "[REF] ᴿᵉᵇᵉˡˢ of FúRy",
       "dateJoinKingdom": "2026-03-27",
+      "serverStatus": "LV2",
+      "serverStatusColor": "green",
+      "troopTier": "T5",
+      "active": true,
+      "source": "matchmaking"
+    },
+    "7214883": {
+      "id": "7214883",
+      "name": "米SneaXツ",
+      "alliance": "[REF] ᴿᵉᵇᵉˡˢ of FúRy",
+      "dateJoinKingdom": "2026-10-09",
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "troopTier": "T5",
@@ -1271,11 +1348,12 @@
       "name": "kuziakk",
       "alliance": "[REF3] ᴿᵉᵇᵉˡˢ of FúRy 3",
       "dateJoinKingdom": "2026-07-15",
+      "dateLeaveKingdom": "2026-10-23",
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "troopTier": "T4",
-      "active": true,
-      "source": "matchmaking"
+      "active": false,
+      "source": "old-players"
     },
     "7404749": {
       "id": "7404749",
@@ -1317,11 +1395,12 @@
       "name": "THEDragonKing3",
       "alliance": "[-UG-] THE FREE FOLKS",
       "dateJoinKingdom": "2026-03-27",
+      "dateLeaveKingdom": "2026-10-23",
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "troopTier": "T4",
-      "active": true,
-      "source": "matchmaking"
+      "active": false,
+      "source": "old-players"
     },
     "7698650": {
       "id": "7698650",
@@ -1406,6 +1485,39 @@
       "active": false,
       "source": "old-players"
     },
+    "7973254": {
+      "id": "7973254",
+      "name": "PänðæCüTë熊貓",
+      "alliance": "[REF] ᴿᵉᵇᵉˡˢ of FúRy",
+      "dateJoinKingdom": "2026-10-09",
+      "serverStatus": "LV2",
+      "serverStatusColor": "green",
+      "troopTier": "T5",
+      "active": true,
+      "source": "matchmaking"
+    },
+    "8057598": {
+      "id": "8057598",
+      "name": "LeGan",
+      "alliance": "[REF] ᴿᵉᵇᵉˡˢ of FúRy",
+      "dateJoinKingdom": "2026-10-09",
+      "serverStatus": "LV2",
+      "serverStatusColor": "green",
+      "troopTier": "T5",
+      "active": true,
+      "source": "matchmaking"
+    },
+    "8127413": {
+      "id": "8127413",
+      "name": "Vаƞԁаг",
+      "alliance": "[REF] ᴿᵉᵇᵉˡˢ of FúRy",
+      "dateJoinKingdom": "2026-09-25",
+      "serverStatus": "LV2",
+      "serverStatusColor": "green",
+      "troopTier": "T5",
+      "active": true,
+      "source": "matchmaking"
+    },
     "8367715": {
       "id": "8367715",
       "name": "fram anxyiii",
@@ -1420,7 +1532,7 @@
     "8372016": {
       "id": "8372016",
       "name": "ᴿᵉᶠ Sir Simms",
-      "alliance": "[REF] ᴿᵉᵇᵉˡˢ of FúRy",
+      "alliance": "",
       "dateJoinKingdom": "2026-03-27",
       "serverStatus": "LV2",
       "serverStatusColor": "green",
@@ -1431,7 +1543,7 @@
     "8417893": {
       "id": "8417893",
       "name": "Lady Simms",
-      "alliance": "[REF] ᴿᵉᵇᵉˡˢ of FúRy",
+      "alliance": "",
       "dateJoinKingdom": "2026-03-27",
       "serverStatus": "LV2",
       "serverStatusColor": "green",
@@ -1511,7 +1623,7 @@
     "8526020": {
       "id": "8526020",
       "name": "SoulEternal",
-      "alliance": "[REF] ᴿᵉᵇᵉˡˢ of FúRy",
+      "alliance": "",
       "dateJoinKingdom": "2026-08-14",
       "serverStatus": "LV2",
       "serverStatusColor": "green",
@@ -1552,6 +1664,17 @@
       "active": true,
       "source": "matchmaking"
     },
+    "8712165": {
+      "id": "8712165",
+      "name": "乂 BLACK 乂",
+      "alliance": "[REF] ᴿᵉᵇᵉˡˢ of FúRy",
+      "dateJoinKingdom": "2026-10-09",
+      "serverStatus": "LV2",
+      "serverStatusColor": "green",
+      "troopTier": "T5",
+      "active": true,
+      "source": "matchmaking"
+    },
     "8724403": {
       "id": "8724403",
       "name": "ProTex",
@@ -1568,11 +1691,12 @@
       "name": "ᴳᵀ MS2005",
       "alliance": "[REF] ᴿᵉᵇᵉˡˢ of FúRy",
       "dateJoinKingdom": "2026-03-27",
+      "dateLeaveKingdom": "2026-10-23",
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "troopTier": "T5",
-      "active": true,
-      "source": "matchmaking"
+      "active": false,
+      "source": "old-players"
     },
     "8818469": {
       "id": "8818469",
@@ -1590,11 +1714,12 @@
       "name": "ᴿᵉᶠAtlaz",
       "alliance": "[REF] ᴿᵉᵇᵉˡˢ of FúRy",
       "dateJoinKingdom": "2026-05-07",
+      "dateLeaveKingdom": "2026-10-23",
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "troopTier": "T5",
-      "active": true,
-      "source": "matchmaking"
+      "active": false,
+      "source": "old-players"
     },
     "8976006": {
       "id": "8976006",
@@ -1653,7 +1778,7 @@
     },
     "9296806": {
       "id": "9296806",
-      "name": "OuRoBoRoS",
+      "name": "乂NIKʙʀ乂",
       "alliance": "[REF] ᴿᵉᵇᵉˡˢ of FúRy",
       "dateJoinKingdom": "2026-07-15",
       "serverStatus": "LV2",
@@ -1715,11 +1840,12 @@
       "name": "bờmmm fam",
       "alliance": "[REF2] ᴿᵉᵇᵉˡˢ of FúRy 2",
       "dateJoinKingdom": "2026-08-21",
+      "dateLeaveKingdom": "2026-10-23",
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "troopTier": "T4",
-      "active": true,
-      "source": "matchmaking"
+      "active": false,
+      "source": "old-players"
     },
     "9385288": {
       "id": "9385288",
@@ -1756,9 +1882,21 @@
     },
     "9579711": {
       "id": "9579711",
-      "name": "GONNIE BANK 6",
-      "alliance": "[REF2] ᴿᵉᵇᵉˡˢ of FúRy 2",
+      "name": "Mèo bank 1",
+      "alliance": "[GS:S] Golden S Syndicate2",
       "dateJoinKingdom": "2026-08-21",
+      "dateLeaveKingdom": "2026-10-23",
+      "serverStatus": "LV2",
+      "serverStatusColor": "green",
+      "troopTier": "T4",
+      "active": false,
+      "source": "old-players"
+    },
+    "9628971": {
+      "id": "9628971",
+      "name": "HMAR2",
+      "alliance": "[REF] ᴿᵉᵇᵉˡˢ of FúRy",
+      "dateJoinKingdom": "2026-10-09",
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "troopTier": "T4",
@@ -1806,11 +1944,12 @@
       "name": "Bé Naaaa",
       "alliance": "[REF] ᴿᵉᵇᵉˡˢ of FúRy",
       "dateJoinKingdom": "2026-07-15",
+      "dateLeaveKingdom": "2026-10-23",
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "troopTier": "T5",
-      "active": true,
-      "source": "matchmaking"
+      "active": false,
+      "source": "old-players"
     },
     "9817330": {
       "id": "9817330",
@@ -1840,11 +1979,12 @@
       "name": "BaoChauPham",
       "alliance": "[REF] ᴿᵉᵇᵉˡˢ of FúRy",
       "dateJoinKingdom": "2026-08-21",
+      "dateLeaveKingdom": "2026-10-23",
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "troopTier": "T5",
-      "active": true,
-      "source": "matchmaking"
+      "active": false,
+      "source": "old-players"
     },
     "10083573": {
       "id": "10083573",
@@ -1870,14 +2010,15 @@
     },
     "10094854": {
       "id": "10094854",
-      "name": "GONNIE BANK 5",
-      "alliance": "[REF2] ᴿᵉᵇᵉˡˢ of FúRy 2",
+      "name": "Mèo bank 4",
+      "alliance": "[GS:S] Golden S Syndicate2",
       "dateJoinKingdom": "2026-08-21",
+      "dateLeaveKingdom": "2026-10-23",
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "troopTier": "T4",
-      "active": true,
-      "source": "matchmaking"
+      "active": false,
+      "source": "old-players"
     },
     "10335946": {
       "id": "10335946",
@@ -1893,19 +2034,20 @@
     },
     "10404841": {
       "id": "10404841",
-      "name": "GONNIE Bank 8",
-      "alliance": "[REF2] ᴿᵉᵇᵉˡˢ of FúRy 2",
+      "name": "Mèo bank 3",
+      "alliance": "[GS:S] Golden S Syndicate2",
       "dateJoinKingdom": "2026-08-21",
+      "dateLeaveKingdom": "2026-10-23",
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "troopTier": "T4",
-      "active": true,
-      "source": "matchmaking"
+      "active": false,
+      "source": "old-players"
     },
     "10436841": {
       "id": "10436841",
       "name": "lord Alls",
-      "alliance": "[REF3] ᴿᵉᵇᵉˡˢ of FúRy 3",
+      "alliance": "[REF2] ᴿᵉᵇᵉˡˢ of FúRy 2",
       "dateJoinKingdom": "2026-07-17",
       "serverStatus": "LV2",
       "serverStatusColor": "green",
@@ -1930,33 +2072,36 @@
       "name": "Apöłāķí",
       "alliance": "[REF] ᴿᵉᵇᵉˡˢ of FúRy",
       "dateJoinKingdom": "2026-08-28",
+      "dateLeaveKingdom": "2026-10-23",
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "troopTier": "T5",
-      "active": true,
-      "source": "matchmaking"
+      "active": false,
+      "source": "old-players"
     },
     "10495332": {
       "id": "10495332",
       "name": "ᴿᵉᶠ AlphabetRed",
-      "alliance": "[REF] ᴿᵉᵇᵉˡˢ of FúRy",
+      "alliance": "[REF2] ᴿᵉᵇᵉˡˢ of FúRy 2",
       "dateJoinKingdom": "2026-03-27",
+      "dateLeaveKingdom": "2026-10-23",
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "troopTier": "T4",
-      "active": true,
-      "source": "matchmaking"
+      "active": false,
+      "source": "old-players"
     },
     "10638403": {
       "id": "10638403",
       "name": "MsGold",
       "alliance": "[REF2] ᴿᵉᵇᵉˡˢ of FúRy 2",
       "dateJoinKingdom": "2026-08-21",
+      "dateLeaveKingdom": "2026-10-23",
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "troopTier": "T4",
-      "active": true,
-      "source": "matchmaking"
+      "active": false,
+      "source": "old-players"
     },
     "10656254": {
       "id": "10656254",
@@ -1984,7 +2129,7 @@
     "10801899": {
       "id": "10801899",
       "name": "Alicja24farm3",
-      "alliance": "[REF3] ᴿᵉᵇᵉˡˢ of FúRy 3",
+      "alliance": "[REF2] ᴿᵉᵇᵉˡˢ of FúRy 2",
       "dateJoinKingdom": "2026-07-15",
       "serverStatus": "LV2",
       "serverStatusColor": "green",
@@ -2009,11 +2154,12 @@
       "name": "ᵁⁿʰᵒˡʸ 비숍",
       "alliance": "[REF] ᴿᵉᵇᵉˡˢ of FúRy",
       "dateJoinKingdom": "2026-08-14",
+      "dateLeaveKingdom": "2026-10-23",
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "troopTier": "T5",
-      "active": true,
-      "source": "matchmaking"
+      "active": false,
+      "source": "old-players"
     },
     "10889826": {
       "id": "10889826",
@@ -2078,11 +2224,12 @@
       "name": "Rubbish Paper",
       "alliance": "[REF] ᴿᵉᵇᵉˡˢ of FúRy",
       "dateJoinKingdom": "2026-08-21",
+      "dateLeaveKingdom": "2026-10-23",
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "troopTier": "T5",
-      "active": true,
-      "source": "matchmaking"
+      "active": false,
+      "source": "old-players"
     },
     "11013390": {
       "id": "11013390",
@@ -2157,7 +2304,7 @@
     "11230663": {
       "id": "11230663",
       "name": "Kelzer",
-      "alliance": "[REF2] ᴿᵉᵇᵉˡˢ of FúRy 2",
+      "alliance": "[REF] ᴿᵉᵇᵉˡˢ of FúRy",
       "dateJoinKingdom": "2026-07-15",
       "serverStatus": "LV2",
       "serverStatusColor": "green",
@@ -2204,7 +2351,7 @@
     "11303936": {
       "id": "11303936",
       "name": "父MEGA父ᴏɴᴇ",
-      "alliance": "[REF] ᴿᵉᵇᵉˡˢ of FúRy",
+      "alliance": "",
       "dateJoinKingdom": "2026-07-15",
       "serverStatus": "LV2",
       "serverStatusColor": "green",
@@ -2322,11 +2469,12 @@
       "name": "ᴋɪɴɢ 彡",
       "alliance": "[REF] ᴿᵉᵇᵉˡˢ of FúRy",
       "dateJoinKingdom": "2026-07-17",
+      "dateLeaveKingdom": "2026-10-23",
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "troopTier": "T5",
-      "active": true,
-      "source": "matchmaking"
+      "active": false,
+      "source": "old-players"
     },
     "11632183": {
       "id": "11632183",
@@ -2354,7 +2502,7 @@
     "11935918": {
       "id": "11935918",
       "name": "Hagbard3 farm",
-      "alliance": "[REF3] ᴿᵉᵇᵉˡˢ of FúRy 3",
+      "alliance": "[REF2] ᴿᵉᵇᵉˡˢ of FúRy 2",
       "dateJoinKingdom": "2026-07-15",
       "serverStatus": "LV2",
       "serverStatusColor": "green",
@@ -2377,7 +2525,7 @@
     "11939470": {
       "id": "11939470",
       "name": "TON Farn2",
-      "alliance": "[REF3] ᴿᵉᵇᵉˡˢ of FúRy 3",
+      "alliance": "[REF2] ᴿᵉᵇᵉˡˢ of FúRy 2",
       "dateJoinKingdom": "2026-07-15",
       "serverStatus": "LV2",
       "serverStatusColor": "green",
@@ -2458,27 +2606,29 @@
       "name": "Ouroboros FarmC",
       "alliance": "[REF3] ᴿᵉᵇᵉˡˢ of FúRy 3",
       "dateJoinKingdom": "2026-07-15",
+      "dateLeaveKingdom": "2026-10-23",
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "troopTier": "T4",
-      "active": true,
-      "source": "matchmaking"
+      "active": false,
+      "source": "old-players"
     },
     "12148784": {
       "id": "12148784",
       "name": "Ouroboros FarmD",
       "alliance": "[REF3] ᴿᵉᵇᵉˡˢ of FúRy 3",
       "dateJoinKingdom": "2026-07-15",
+      "dateLeaveKingdom": "2026-10-23",
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "troopTier": "T4",
-      "active": true,
-      "source": "matchmaking"
+      "active": false,
+      "source": "old-players"
     },
     "12220333": {
       "id": "12220333",
-      "name": "VNK SteveChop",
-      "alliance": "[REF] ᴿᵉᵇᵉˡˢ of FúRy",
+      "name": "FeelFree",
+      "alliance": "[REF2] ᴿᵉᵇᵉˡˢ of FúRy 2",
       "dateJoinKingdom": "2026-03-27",
       "serverStatus": "LV2",
       "serverStatusColor": "green",
@@ -2521,10 +2671,21 @@
       "active": false,
       "source": "old-players"
     },
+    "12335960": {
+      "id": "12335960",
+      "name": "NNFARM",
+      "alliance": "[REF2] ᴿᵉᵇᵉˡˢ of FúRy 2",
+      "dateJoinKingdom": "2026-10-09",
+      "serverStatus": "LV2",
+      "serverStatusColor": "green",
+      "troopTier": "T4",
+      "active": true,
+      "source": "matchmaking"
+    },
     "12340961": {
       "id": "12340961",
       "name": "FIESTY",
-      "alliance": "[REF2] ᴿᵉᵇᵉˡˢ of FúRy 2",
+      "alliance": "[REF] ᴿᵉᵇᵉˡˢ of FúRy",
       "dateJoinKingdom": "2026-08-14",
       "serverStatus": "LV2",
       "serverStatusColor": "green",
@@ -2537,6 +2698,17 @@
       "name": "Capricor farm",
       "alliance": "[REF3] ᴿᵉᵇᵉˡˢ of FúRy 3",
       "dateJoinKingdom": "2026-03-27",
+      "serverStatus": "LV2",
+      "serverStatusColor": "green",
+      "troopTier": "T4",
+      "active": true,
+      "source": "matchmaking"
+    },
+    "12341815": {
+      "id": "12341815",
+      "name": "乂 BLACK ZER0 乂",
+      "alliance": "[REF3] ᴿᵉᵇᵉˡˢ of FúRy 3",
+      "dateJoinKingdom": "2026-10-09",
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "troopTier": "T4",
@@ -2578,6 +2750,17 @@
       "active": false,
       "source": "old-players"
     },
+    "12393359": {
+      "id": "12393359",
+      "name": "ᴇꜱᴄᴀɴᴏʀᴮˡᵘᵉᴋʏ1",
+      "alliance": "[REF] ᴿᵉᵇᵉˡˢ of FúRy",
+      "dateJoinKingdom": "2026-10-09",
+      "serverStatus": "LV2",
+      "serverStatusColor": "green",
+      "troopTier": "T5",
+      "active": true,
+      "source": "matchmaking"
+    },
     "12469424": {
       "id": "12469424",
       "name": "Monkeyzzk",
@@ -2593,9 +2776,9 @@
     "12504450": {
       "id": "12504450",
       "name": "kayn farm1",
-      "alliance": "[REF2] ᴿᵉᵇᵉˡˢ of FúRy 2",
-      "dateJoinKingdom": "2026-03-27",
-      "dateLeaveKingdom": "2026-09-02",
+      "alliance": "",
+      "dateJoinKingdom": "2026-10-02",
+      "dateLeaveKingdom": "2026-10-23",
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "troopTier": "T4",
@@ -2607,11 +2790,12 @@
       "name": "Icebugfarm",
       "alliance": "[REF3] ᴿᵉᵇᵉˡˢ of FúRy 3",
       "dateJoinKingdom": "2026-03-27",
+      "dateLeaveKingdom": "2026-10-23",
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "troopTier": "T4",
-      "active": true,
-      "source": "matchmaking"
+      "active": false,
+      "source": "old-players"
     },
     "12540566": {
       "id": "12540566",
@@ -2827,11 +3011,12 @@
       "name": "aname kayn",
       "alliance": "",
       "dateJoinKingdom": "2026-03-27",
+      "dateLeaveKingdom": "2026-10-23",
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "troopTier": "T5",
-      "active": true,
-      "source": "matchmaking"
+      "active": false,
+      "source": "old-players"
     },
     "13023357": {
       "id": "13023357",
@@ -2850,11 +3035,12 @@
       "name": "ZokiZr",
       "alliance": "[REF] ᴿᵉᵇᵉˡˢ of FúRy",
       "dateJoinKingdom": "2026-03-27",
+      "dateLeaveKingdom": "2026-10-23",
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "troopTier": "T5",
-      "active": true,
-      "source": "matchmaking"
+      "active": false,
+      "source": "old-players"
     },
     "13102459": {
       "id": "13102459",
@@ -2873,6 +3059,17 @@
       "name": "ᴿᵉᶠ Mucymiau",
       "alliance": "[REF] ᴿᵉᵇᵉˡˢ of FúRy",
       "dateJoinKingdom": "2026-05-07",
+      "serverStatus": "LV2",
+      "serverStatusColor": "green",
+      "troopTier": "T5",
+      "active": true,
+      "source": "matchmaking"
+    },
+    "13119692": {
+      "id": "13119692",
+      "name": "Vaƞdar",
+      "alliance": "[REF] ᴿᵉᵇᵉˡˢ of FúRy",
+      "dateJoinKingdom": "2026-09-25",
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "troopTier": "T5",
@@ -2916,7 +3113,7 @@
     "13159475": {
       "id": "13159475",
       "name": "Mini ᴿᵉᶠ Gochu",
-      "alliance": "[REF4] ᴿᵉᵇᵉˡˢ of FúRy 4",
+      "alliance": "[REF2] ᴿᵉᵇᵉˡˢ of FúRy 2",
       "dateJoinKingdom": "2026-03-27",
       "serverStatus": "LV2",
       "serverStatusColor": "green",
@@ -2927,7 +3124,7 @@
     "13171209": {
       "id": "13171209",
       "name": "Hagbard2 farm",
-      "alliance": "[REF3] ᴿᵉᵇᵉˡˢ of FúRy 3",
+      "alliance": "[REF2] ᴿᵉᵇᵉˡˢ of FúRy 2",
       "dateJoinKingdom": "2026-07-15",
       "serverStatus": "LV2",
       "serverStatusColor": "green",
@@ -2940,11 +3137,12 @@
       "name": "なぜそう森羅日下部",
       "alliance": "",
       "dateJoinKingdom": "2026-05-29",
+      "dateLeaveKingdom": "2026-10-23",
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "troopTier": "T5",
-      "active": true,
-      "source": "matchmaking"
+      "active": false,
+      "source": "old-players"
     },
     "13222205": {
       "id": "13222205",
@@ -3042,7 +3240,7 @@
     "13293934": {
       "id": "13293934",
       "name": "Alicja24farm",
-      "alliance": "[REF3] ᴿᵉᵇᵉˡˢ of FúRy 3",
+      "alliance": "[REF2] ᴿᵉᵇᵉˡˢ of FúRy 2",
       "dateJoinKingdom": "2026-03-27",
       "serverStatus": "LV2",
       "serverStatusColor": "green",
@@ -3074,25 +3272,27 @@
     },
     "13318164": {
       "id": "13318164",
-      "name": "ᴿᵉᶠZangetzu",
-      "alliance": "[REF] ᴿᵉᵇᵉˡˢ of FúRy",
+      "name": "Zangetzu83",
+      "alliance": "[LYS] LYS IMPERIUM",
       "dateJoinKingdom": "2026-03-27",
+      "dateLeaveKingdom": "2026-10-23",
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "troopTier": "T5",
-      "active": true,
-      "source": "matchmaking"
+      "active": false,
+      "source": "old-players"
     },
     "13343435": {
       "id": "13343435",
       "name": "ᴿᵉᶠ Noymar",
       "alliance": "[REF2] ᴿᵉᵇᵉˡˢ of FúRy 2",
       "dateJoinKingdom": "2026-03-27",
+      "dateLeaveKingdom": "2026-10-23",
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "troopTier": "T5",
-      "active": true,
-      "source": "matchmaking"
+      "active": false,
+      "source": "old-players"
     },
     "13353668": {
       "id": "13353668",
@@ -3197,9 +3397,9 @@
     "13425448": {
       "id": "13425448",
       "name": "kayn farm2",
-      "alliance": "[REF2] ᴿᵉᵇᵉˡˢ of FúRy 2",
-      "dateJoinKingdom": "2026-03-27",
-      "dateLeaveKingdom": "2026-09-02",
+      "alliance": "",
+      "dateJoinKingdom": "2026-10-02",
+      "dateLeaveKingdom": "2026-10-23",
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "troopTier": "T4",
@@ -3222,11 +3422,12 @@
       "name": "ᵘⁿʰᵒˡʸСтраЖниk",
       "alliance": "[REF] ᴿᵉᵇᵉˡˢ of FúRy",
       "dateJoinKingdom": "2026-05-07",
+      "dateLeaveKingdom": "2026-10-23",
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "troopTier": "T4",
-      "active": true,
-      "source": "matchmaking"
+      "active": false,
+      "source": "old-players"
     },
     "13439097": {
       "id": "13439097",
@@ -3244,11 +3445,12 @@
       "name": "ᵘⁿʰᵒˡʸ Smertnik",
       "alliance": "[REF] ᴿᵉᵇᵉˡˢ of FúRy",
       "dateJoinKingdom": "2026-03-27",
+      "dateLeaveKingdom": "2026-10-23",
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "troopTier": "T5",
-      "active": true,
-      "source": "matchmaking"
+      "active": false,
+      "source": "old-players"
     },
     "13447714": {
       "id": "13447714",
@@ -3269,7 +3471,7 @@
       "dateJoinKingdom": "2026-03-27",
       "serverStatus": "LV2",
       "serverStatusColor": "green",
-      "troopTier": "T4",
+      "troopTier": "T5",
       "active": true,
       "source": "matchmaking"
     },
@@ -3325,11 +3527,12 @@
       "name": "Sweet daddy F3",
       "alliance": "[REF2] ᴿᵉᵇᵉˡˢ of FúRy 2",
       "dateJoinKingdom": "2026-07-17",
+      "dateLeaveKingdom": "2026-10-23",
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "troopTier": "T4",
-      "active": true,
-      "source": "matchmaking"
+      "active": false,
+      "source": "old-players"
     },
     "13733490": {
       "id": "13733490",
@@ -3383,7 +3586,7 @@
       "dateJoinKingdom": "2026-05-07",
       "serverStatus": "LV2",
       "serverStatusColor": "green",
-      "troopTier": "T4",
+      "troopTier": "T5",
       "active": true,
       "source": "matchmaking"
     },
@@ -3427,11 +3630,12 @@
       "name": "ᵘⁿʰᵒˡʸHulk Hogan",
       "alliance": "[REF] ᴿᵉᵇᵉˡˢ of FúRy",
       "dateJoinKingdom": "2026-07-15",
+      "dateLeaveKingdom": "2026-10-23",
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "troopTier": "T5",
-      "active": true,
-      "source": "matchmaking"
+      "active": false,
+      "source": "old-players"
     },
     "13936333": {
       "id": "13936333",
@@ -3446,7 +3650,7 @@
     },
     "13938192": {
       "id": "13938192",
-      "name": "ᴿᵉᶠ 龍帝 RᴱBᴱLᴺᴷᴿᴵ",
+      "name": "ᴿᵉᶠメBOOMメᵘʳ ᴰᵉᵃᵈ",
       "alliance": "[REF2] ᴿᵉᵇᵉˡˢ of FúRy 2",
       "dateJoinKingdom": "2026-03-27",
       "serverStatus": "LV2",
@@ -3469,7 +3673,7 @@
     "13938792": {
       "id": "13938792",
       "name": "Jokifarm ʕ ᵔᴥᵔ ʔ",
-      "alliance": "[REF2] ᴿᵉᵇᵉˡˢ of FúRy 2",
+      "alliance": "[REF] ᴿᵉᵇᵉˡˢ of FúRy",
       "dateJoinKingdom": "2026-05-07",
       "serverStatus": "LV2",
       "serverStatusColor": "green",
@@ -3494,6 +3698,29 @@
       "name": "ᴿᵉᶠ Ragnarok I ᶠᵃʳᵐ",
       "alliance": "[REF2] ᴿᵉᵇᵉˡˢ of FúRy 2",
       "dateJoinKingdom": "2026-03-27",
+      "dateLeaveKingdom": "2026-10-23",
+      "serverStatus": "LV2",
+      "serverStatusColor": "green",
+      "troopTier": "T4",
+      "active": false,
+      "source": "old-players"
+    },
+    "14061482": {
+      "id": "14061482",
+      "name": "ᴵᴿᴼᴺ  I G R I S",
+      "alliance": "[REF] ᴿᵉᵇᵉˡˢ of FúRy",
+      "dateJoinKingdom": "2026-10-09",
+      "serverStatus": "LV2",
+      "serverStatusColor": "green",
+      "troopTier": "T5",
+      "active": true,
+      "source": "matchmaking"
+    },
+    "14077965": {
+      "id": "14077965",
+      "name": "乂 BLACK ZERÓ 乂",
+      "alliance": "[REF3] ᴿᵉᵇᵉˡˢ of FúRy 3",
+      "dateJoinKingdom": "2026-10-09",
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "troopTier": "T4",
@@ -3527,9 +3754,21 @@
       "name": "Iewiz๛",
       "alliance": "[REF] ᴿᵉᵇᵉˡˢ of FúRy",
       "dateJoinKingdom": "2026-03-27",
+      "dateLeaveKingdom": "2026-10-23",
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "troopTier": "T5",
+      "active": false,
+      "source": "old-players"
+    },
+    "14305595": {
+      "id": "14305595",
+      "name": "ᴀᴇғsViệt Cường",
+      "alliance": "[REF3] ᴿᵉᵇᵉˡˢ of FúRy 3",
+      "dateJoinKingdom": "2026-10-09",
+      "serverStatus": "LV2",
+      "serverStatusColor": "green",
+      "troopTier": "T4",
       "active": true,
       "source": "matchmaking"
     },
@@ -3715,11 +3954,12 @@
       "name": "ᴰᴬᴳHumble",
       "alliance": "",
       "dateJoinKingdom": "2026-05-07",
+      "dateLeaveKingdom": "2026-10-23",
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "troopTier": "T5",
-      "active": true,
-      "source": "matchmaking"
+      "active": false,
+      "source": "old-players"
     },
     "14776350": {
       "id": "14776350",
@@ -3767,14 +4007,15 @@
     },
     "14788590": {
       "id": "14788590",
-      "name": "NeiKos496",
-      "alliance": "[REF] ᴿᵉᵇᵉˡˢ of FúRy",
+      "name": "Sam Vimes Sr",
+      "alliance": "[RTx] Кraken Chronicles",
       "dateJoinKingdom": "2026-03-27",
+      "dateLeaveKingdom": "2026-10-23",
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "troopTier": "T5",
-      "active": true,
-      "source": "matchmaking"
+      "active": false,
+      "source": "old-players"
     },
     "14789792": {
       "id": "14789792",
@@ -3835,7 +4076,7 @@
     "14796416": {
       "id": "14796416",
       "name": "ᴿᵉᶠHunab Ku",
-      "alliance": "[REF2] ᴿᵉᵇᵉˡˢ of FúRy 2",
+      "alliance": "[REF] ᴿᵉᵇᵉˡˢ of FúRy",
       "dateJoinKingdom": "2026-03-27",
       "serverStatus": "LV2",
       "serverStatusColor": "green",
@@ -3879,11 +4120,22 @@
     "14809925": {
       "id": "14809925",
       "name": "Harjumaa kunn",
-      "alliance": "[REF] ᴿᵉᵇᵉˡˢ of FúRy",
+      "alliance": "[REF2] ᴿᵉᵇᵉˡˢ of FúRy 2",
       "dateJoinKingdom": "2026-03-27",
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "troopTier": "T5",
+      "active": true,
+      "source": "matchmaking"
+    },
+    "14815670": {
+      "id": "14815670",
+      "name": "ᴿᵉᶠ RagnarSon",
+      "alliance": "[REF] ᴿᵉᵇᵉˡˢ of FúRy",
+      "dateJoinKingdom": "2026-09-25",
+      "serverStatus": "LV2",
+      "serverStatusColor": "green",
+      "troopTier": "T4",
       "active": true,
       "source": "matchmaking"
     },
@@ -3903,11 +4155,12 @@
       "name": "ᴿᵉᶠ Ragnarok II ᶠᵃʳᵐ",
       "alliance": "[REF4] ᴿᵉᵇᵉˡˢ of FúRy 4",
       "dateJoinKingdom": "2026-03-27",
+      "dateLeaveKingdom": "2026-10-23",
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "troopTier": "T4",
-      "active": true,
-      "source": "matchmaking"
+      "active": false,
+      "source": "old-players"
     },
     "14916756": {
       "id": "14916756",
@@ -3931,6 +4184,17 @@
       "troopTier": "T4",
       "active": false,
       "source": "old-players"
+    },
+    "14992955": {
+      "id": "14992955",
+      "name": "ᶻᵐᵃˣFlynnRider",
+      "alliance": "[REF2] ᴿᵉᵇᵉˡˢ of FúRy 2",
+      "dateJoinKingdom": "2026-09-25",
+      "serverStatus": "LV2",
+      "serverStatusColor": "green",
+      "troopTier": "T5",
+      "active": true,
+      "source": "matchmaking"
     },
     "15051730": {
       "id": "15051730",
@@ -3981,46 +4245,50 @@
     "15141261": {
       "id": "15141261",
       "name": "mikunin",
-      "alliance": "[REF] ᴿᵉᵇᵉˡˢ of FúRy",
+      "alliance": "[FoW] FEDERATION OF WAR",
       "dateJoinKingdom": "2026-07-15",
+      "dateLeaveKingdom": "2026-10-23",
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "troopTier": "T5",
-      "active": true,
-      "source": "matchmaking"
+      "active": false,
+      "source": "old-players"
     },
     "15166845": {
       "id": "15166845",
       "name": "KATUSIN",
-      "alliance": "[REF] ᴿᵉᵇᵉˡˢ of FúRy",
+      "alliance": "[YZF] FARM FOW",
       "dateJoinKingdom": "2026-07-15",
+      "dateLeaveKingdom": "2026-10-23",
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "troopTier": "T5",
-      "active": true,
-      "source": "matchmaking"
+      "active": false,
+      "source": "old-players"
     },
     "15225402": {
       "id": "15225402",
       "name": "Handuyee",
       "alliance": "[REF] ᴿᵉᵇᵉˡˢ of FúRy",
       "dateJoinKingdom": "2026-05-07",
+      "dateLeaveKingdom": "2026-10-23",
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "troopTier": "T5",
-      "active": true,
-      "source": "matchmaking"
+      "active": false,
+      "source": "old-players"
     },
     "15238135": {
       "id": "15238135",
       "name": "katusin RF",
       "alliance": "[REF4] ᴿᵉᵇᵉˡˢ of FúRy 4",
       "dateJoinKingdom": "2026-07-15",
+      "dateLeaveKingdom": "2026-10-23",
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "troopTier": "T4",
-      "active": true,
-      "source": "matchmaking"
+      "active": false,
+      "source": "old-players"
     },
     "15263097": {
       "id": "15263097",
@@ -4051,11 +4319,12 @@
       "name": "JiLeTTFarm",
       "alliance": "[REF2] ᴿᵉᵇᵉˡˢ of FúRy 2",
       "dateJoinKingdom": "2026-07-15",
+      "dateLeaveKingdom": "2026-10-23",
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "troopTier": "T4",
-      "active": true,
-      "source": "matchmaking"
+      "active": false,
+      "source": "old-players"
     },
     "15350405": {
       "id": "15350405",
@@ -4072,7 +4341,7 @@
     "15364508": {
       "id": "15364508",
       "name": "ruGhoulFarm",
-      "alliance": "[REF3] ᴿᵉᵇᵉˡˢ of FúRy 3",
+      "alliance": "[REF2] ᴿᵉᵇᵉˡˢ of FúRy 2",
       "dateJoinKingdom": "2026-05-07",
       "serverStatus": "LV2",
       "serverStatusColor": "green",
@@ -4099,7 +4368,7 @@
       "dateJoinKingdom": "2026-03-27",
       "serverStatus": "LV2",
       "serverStatusColor": "green",
-      "troopTier": "T4",
+      "troopTier": "T5",
       "active": true,
       "source": "matchmaking"
     },
@@ -4118,8 +4387,8 @@
       "id": "15380323",
       "name": "Leicestershire",
       "alliance": "[REF3] ᴿᵉᵇᵉˡˢ of FúRy 3",
-      "dateJoinKingdom": "2026-07-17",
-      "dateLeaveKingdom": "2026-09-02",
+      "dateJoinKingdom": "2026-09-11",
+      "dateLeaveKingdom": "2026-10-23",
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "troopTier": "T4",
@@ -4129,7 +4398,7 @@
     "15416300": {
       "id": "15416300",
       "name": "Farm Alicja24",
-      "alliance": "[REF3] ᴿᵉᵇᵉˡˢ of FúRy 3",
+      "alliance": "[REF2] ᴿᵉᵇᵉˡˢ of FúRy 2",
       "dateJoinKingdom": "2026-03-27",
       "serverStatus": "LV2",
       "serverStatusColor": "green",
@@ -4165,11 +4434,12 @@
       "name": "DemonBoyᴿᵉᶠ",
       "alliance": "[REF] ᴿᵉᵇᵉˡˢ of FúRy",
       "dateJoinKingdom": "2026-08-21",
+      "dateLeaveKingdom": "2026-10-23",
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "troopTier": "T5",
-      "active": true,
-      "source": "matchmaking"
+      "active": false,
+      "source": "old-players"
     },
     "15543778": {
       "id": "15543778",
@@ -4184,14 +4454,15 @@
     },
     "15606100": {
       "id": "15606100",
-      "name": "ʟ ú ƈ ɨ ʄ ɛ ʀ farm3",
+      "name": "kK U S A",
       "alliance": "[REF2] ᴿᵉᵇᵉˡˢ of FúRy 2",
       "dateJoinKingdom": "2026-07-15",
+      "dateLeaveKingdom": "2026-10-23",
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "troopTier": "T4",
-      "active": true,
-      "source": "matchmaking"
+      "active": false,
+      "source": "old-players"
     },
     "15643123": {
       "id": "15643123",
@@ -4237,6 +4508,17 @@
       "active": true,
       "source": "matchmaking"
     },
+    "15787626": {
+      "id": "15787626",
+      "name": "zOrg",
+      "alliance": "[REF] ᴿᵉᵇᵉˡˢ of FúRy",
+      "dateJoinKingdom": "2026-09-25",
+      "serverStatus": "LV2",
+      "serverStatusColor": "green",
+      "troopTier": "T5",
+      "active": true,
+      "source": "matchmaking"
+    },
     "15798961": {
       "id": "15798961",
       "name": "Farma Zenek",
@@ -4251,7 +4533,7 @@
     "15824381": {
       "id": "15824381",
       "name": "ᴿᵉᶠ BEAST farm 4",
-      "alliance": "[REF3] ᴿᵉᵇᵉˡˢ of FúRy 3",
+      "alliance": "[REF2] ᴿᵉᵇᵉˡˢ of FúRy 2",
       "dateJoinKingdom": "2026-07-15",
       "serverStatus": "LV2",
       "serverStatusColor": "green",
@@ -4273,7 +4555,7 @@
     },
     "15866929": {
       "id": "15866929",
-      "name": "ᴿᵉᶠ SangAlang乂",
+      "name": "ᴿᵉᶠALanG亗",
       "alliance": "[REF] ᴿᵉᵇᵉˡˢ of FúRy",
       "dateJoinKingdom": "2026-03-27",
       "serverStatus": "LV2",
@@ -4285,13 +4567,14 @@
     "15888330": {
       "id": "15888330",
       "name": "mikumikunin",
-      "alliance": "[REF3] ᴿᵉᵇᵉˡˢ of FúRy 3",
+      "alliance": "[YZF] FARM FOW",
       "dateJoinKingdom": "2026-07-15",
+      "dateLeaveKingdom": "2026-10-23",
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "troopTier": "T4",
-      "active": true,
-      "source": "matchmaking"
+      "active": false,
+      "source": "old-players"
     },
     "15893503": {
       "id": "15893503",
@@ -4318,7 +4601,7 @@
     "15901251": {
       "id": "15901251",
       "name": "eXi1iumFarmᶦᶦ",
-      "alliance": "[REF3] ᴿᵉᵇᵉˡˢ of FúRy 3",
+      "alliance": "[REF2] ᴿᵉᵇᵉˡˢ of FúRy 2",
       "dateJoinKingdom": "2026-07-15",
       "serverStatus": "LV2",
       "serverStatusColor": "green",
@@ -4328,19 +4611,20 @@
     },
     "15951549": {
       "id": "15951549",
-      "name": "乂   G  o  n  i  e   ッ",
+      "name": "乂   M r P o   ッ",
       "alliance": "[REF] ᴿᵉᵇᵉˡˢ of FúRy",
       "dateJoinKingdom": "2026-08-21",
+      "dateLeaveKingdom": "2026-10-23",
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "troopTier": "T5",
-      "active": true,
-      "source": "matchmaking"
+      "active": false,
+      "source": "old-players"
     },
     "15998400": {
       "id": "15998400",
       "name": "Fénix Farm 2",
-      "alliance": "[-UG-] THE FREE FOLKS",
+      "alliance": "[REF3] ᴿᵉᵇᵉˡˢ of FúRy 3",
       "dateJoinKingdom": "2026-08-14",
       "serverStatus": "LV2",
       "serverStatusColor": "green",
@@ -4363,9 +4647,9 @@
     "16041006": {
       "id": "16041006",
       "name": "Dragonlords farm",
-      "alliance": "[FoR]Farmers of Rebels",
-      "dateJoinKingdom": "2026-03-27",
-      "dateLeaveKingdom": "2026-05-07",
+      "alliance": "",
+      "dateJoinKingdom": "2026-08-14",
+      "dateLeaveKingdom": "2026-10-23",
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "troopTier": "T4",
@@ -4453,7 +4737,7 @@
     },
     "16211562": {
       "id": "16211562",
-      "name": "Sang Alang GDO",
+      "name": "ALanG GDO",
       "alliance": "[REF2] ᴿᵉᵇᵉˡˢ of FúRy 2",
       "dateJoinKingdom": "2026-05-07",
       "serverStatus": "LV2",
@@ -4502,16 +4786,17 @@
       "name": "BỜM FAM",
       "alliance": "[REF2] ᴿᵉᵇᵉˡˢ of FúRy 2",
       "dateJoinKingdom": "2026-08-21",
+      "dateLeaveKingdom": "2026-10-23",
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "troopTier": "T4",
-      "active": true,
-      "source": "matchmaking"
+      "active": false,
+      "source": "old-players"
     },
     "16440148": {
       "id": "16440148",
       "name": "Fénix Farm",
-      "alliance": "[-UG-] THE FREE FOLKS",
+      "alliance": "[REF2] ᴿᵉᵇᵉˡˢ of FúRy 2",
       "dateJoinKingdom": "2026-08-14",
       "serverStatus": "LV2",
       "serverStatusColor": "green",
@@ -4559,22 +4844,24 @@
       "name": "IewizFarm๛",
       "alliance": "[REF3] ᴿᵉᵇᵉˡˢ of FúRy 3",
       "dateJoinKingdom": "2026-03-27",
+      "dateLeaveKingdom": "2026-10-23",
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "troopTier": "T4",
-      "active": true,
-      "source": "matchmaking"
+      "active": false,
+      "source": "old-players"
     },
     "17004189": {
       "id": "17004189",
       "name": "CecilFarmer",
       "alliance": "[REF3] ᴿᵉᵇᵉˡˢ of FúRy 3",
       "dateJoinKingdom": "2026-08-28",
+      "dateLeaveKingdom": "2026-10-23",
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "troopTier": "T4",
-      "active": true,
-      "source": "matchmaking"
+      "active": false,
+      "source": "old-players"
     },
     "17004264": {
       "id": "17004264",
@@ -4674,20 +4961,32 @@
     },
     "17141641": {
       "id": "17141641",
-      "name": "GONNIE BANK",
+      "name": "乂   M r P o ッ",
       "alliance": "[REF2] ᴿᵉᵇᵉˡˢ of FúRy 2",
       "dateJoinKingdom": "2026-08-21",
+      "dateLeaveKingdom": "2026-10-23",
+      "serverStatus": "LV2",
+      "serverStatusColor": "green",
+      "troopTier": "T4",
+      "active": false,
+      "source": "old-players"
+    },
+    "17168361": {
+      "id": "17168361",
+      "name": "BountyHunt3r",
+      "alliance": "[REF] ᴿᵉᵇᵉˡˢ of FúRy",
+      "dateJoinKingdom": "2026-03-27",
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "troopTier": "T4",
       "active": true,
       "source": "matchmaking"
     },
-    "17168361": {
-      "id": "17168361",
-      "name": "1Stranger1",
-      "alliance": "[REF] ᴿᵉᵇᵉˡˢ of FúRy",
-      "dateJoinKingdom": "2026-03-27",
+    "17181143": {
+      "id": "17181143",
+      "name": "Farma4",
+      "alliance": "[REF3] ᴿᵉᵇᵉˡˢ of FúRy 3",
+      "dateJoinKingdom": "2026-10-09",
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "troopTier": "T4",
@@ -4699,11 +4998,12 @@
       "name": "Parliament Farm 2",
       "alliance": "[REF2] ᴿᵉᵇᵉˡˢ of FúRy 2",
       "dateJoinKingdom": "2026-06-05",
+      "dateLeaveKingdom": "2026-10-23",
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "troopTier": "T4",
-      "active": true,
-      "source": "matchmaking"
+      "active": false,
+      "source": "old-players"
     },
     "17223002": {
       "id": "17223002",
@@ -4731,18 +5031,19 @@
     "17246917": {
       "id": "17246917",
       "name": "KINGgold 彡",
-      "alliance": "[REF2] ᴿᵉᵇᵉˡˢ of FúRy 2",
+      "alliance": "[REF] ᴿᵉᵇᵉˡˢ of FúRy",
       "dateJoinKingdom": "2026-07-17",
+      "dateLeaveKingdom": "2026-10-23",
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "troopTier": "T4",
-      "active": true,
-      "source": "matchmaking"
+      "active": false,
+      "source": "old-players"
     },
     "17257322": {
       "id": "17257322",
       "name": "fénix Farm 1",
-      "alliance": "[-UG-] THE FREE FOLKS",
+      "alliance": "[REF2] ᴿᵉᵇᵉˡˢ of FúRy 2",
       "dateJoinKingdom": "2026-08-14",
       "serverStatus": "LV2",
       "serverStatusColor": "green",
@@ -4789,11 +5090,12 @@
       "name": "Parliament Farm 1",
       "alliance": "[REF2] ᴿᵉᵇᵉˡˢ of FúRy 2",
       "dateJoinKingdom": "2026-05-07",
+      "dateLeaveKingdom": "2026-10-23",
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "troopTier": "T4",
-      "active": true,
-      "source": "matchmaking"
+      "active": false,
+      "source": "old-players"
     },
     "17394065": {
       "id": "17394065",
@@ -4843,9 +5145,20 @@
     },
     "17438390": {
       "id": "17438390",
-      "name": "1StrangrDanger1",
-      "alliance": "[REF3] ᴿᵉᵇᵉˡˢ of FúRy 3",
+      "name": "ggWP",
+      "alliance": "[REF2] ᴿᵉᵇᵉˡˢ of FúRy 2",
       "dateJoinKingdom": "2026-03-27",
+      "serverStatus": "LV2",
+      "serverStatusColor": "green",
+      "troopTier": "T4",
+      "active": true,
+      "source": "matchmaking"
+    },
+    "17454938": {
+      "id": "17454938",
+      "name": "乂 BLACK ZERÒ 乂",
+      "alliance": "[REF3] ᴿᵉᵇᵉˡˢ of FúRy 3",
+      "dateJoinKingdom": "2026-10-09",
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "troopTier": "T4",
@@ -4890,7 +5203,7 @@
     "17528285": {
       "id": "17528285",
       "name": "Каrtavayaツ",
-      "alliance": "",
+      "alliance": "[REF2] ᴿᵉᵇᵉˡˢ of FúRy 2",
       "dateJoinKingdom": "2026-07-15",
       "serverStatus": "LV2",
       "serverStatusColor": "green",
@@ -4937,18 +5250,19 @@
       "name": "Parliament ᵀᴹ",
       "alliance": "[REF] ᴿᵉᵇᵉˡˢ of FúRy",
       "dateJoinKingdom": "2026-05-07",
+      "dateLeaveKingdom": "2026-10-23",
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "troopTier": "T5",
-      "active": true,
-      "source": "matchmaking"
+      "active": false,
+      "source": "old-players"
     },
     "17859090": {
       "id": "17859090",
       "name": "AdamY",
       "alliance": "[REF3] ᴿᵉᵇᵉˡˢ of FúRy 3",
-      "dateJoinKingdom": "2026-07-17",
-      "dateLeaveKingdom": "2026-09-02",
+      "dateJoinKingdom": "2026-09-11",
+      "dateLeaveKingdom": "2026-10-23",
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "troopTier": "T4",
@@ -4957,14 +5271,15 @@
     },
     "17871974": {
       "id": "17871974",
-      "name": "GONNIE BANK 1",
-      "alliance": "[REF2] ᴿᵉᵇᵉˡˢ of FúRy 2",
+      "name": "Mèo bank 2",
+      "alliance": "[GS:S] Golden S Syndicate2",
       "dateJoinKingdom": "2026-08-21",
+      "dateLeaveKingdom": "2026-10-23",
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "troopTier": "T4",
-      "active": true,
-      "source": "matchmaking"
+      "active": false,
+      "source": "old-players"
     },
     "18019508": {
       "id": "18019508",
@@ -4994,55 +5309,60 @@
       "name": "Co cai nij 2e Farm",
       "alliance": "[REF3] ᴿᵉᵇᵉˡˢ of FúRy 3",
       "dateJoinKingdom": "2026-07-17",
+      "dateLeaveKingdom": "2026-10-23",
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "troopTier": "T4",
-      "active": true,
-      "source": "matchmaking"
+      "active": false,
+      "source": "old-players"
     },
     "18053600": {
       "id": "18053600",
       "name": "Co cai nij 2d Farm",
       "alliance": "[REF3] ᴿᵉᵇᵉˡˢ of FúRy 3",
       "dateJoinKingdom": "2026-07-17",
+      "dateLeaveKingdom": "2026-10-23",
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "troopTier": "T4",
-      "active": true,
-      "source": "matchmaking"
+      "active": false,
+      "source": "old-players"
     },
     "18063142": {
       "id": "18063142",
       "name": "Co cai nij 2a Farm",
       "alliance": "[REF3] ᴿᵉᵇᵉˡˢ of FúRy 3",
       "dateJoinKingdom": "2026-07-17",
+      "dateLeaveKingdom": "2026-10-23",
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "troopTier": "T4",
-      "active": true,
-      "source": "matchmaking"
+      "active": false,
+      "source": "old-players"
     },
     "18090335": {
       "id": "18090335",
       "name": "Co cai nij 1c Farm",
       "alliance": "[REF3] ᴿᵉᵇᵉˡˢ of FúRy 3",
       "dateJoinKingdom": "2026-07-17",
+      "dateLeaveKingdom": "2026-10-23",
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "troopTier": "T4",
-      "active": true,
-      "source": "matchmaking"
+      "active": false,
+      "source": "old-players"
     },
     "18090846": {
       "id": "18090846",
       "name": "Co cai nij 2b Farm",
       "alliance": "[REF3] ᴿᵉᵇᵉˡˢ of FúRy 3",
       "dateJoinKingdom": "2026-07-17",
+      "dateLeaveKingdom": "2026-10-23",
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "troopTier": "T4",
-      "active": true,
-      "source": "matchmaking"
+      "active": false,
+      "source": "old-players"
     },
     "18094444": {
       "id": "18094444",
@@ -5061,33 +5381,36 @@
       "name": "Co cai nij 1e Farm",
       "alliance": "[REF3] ᴿᵉᵇᵉˡˢ of FúRy 3",
       "dateJoinKingdom": "2026-07-17",
+      "dateLeaveKingdom": "2026-10-23",
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "troopTier": "T4",
-      "active": true,
-      "source": "matchmaking"
+      "active": false,
+      "source": "old-players"
     },
     "18103528": {
       "id": "18103528",
       "name": "Co cai nij 1d Farm",
       "alliance": "[REF3] ᴿᵉᵇᵉˡˢ of FúRy 3",
       "dateJoinKingdom": "2026-07-17",
+      "dateLeaveKingdom": "2026-10-23",
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "troopTier": "T4",
-      "active": true,
-      "source": "matchmaking"
+      "active": false,
+      "source": "old-players"
     },
     "18117054": {
       "id": "18117054",
       "name": "Co cai nij 2c Farm",
       "alliance": "[REF3] ᴿᵉᵇᵉˡˢ of FúRy 3",
       "dateJoinKingdom": "2026-07-17",
+      "dateLeaveKingdom": "2026-10-23",
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "troopTier": "T4",
-      "active": true,
-      "source": "matchmaking"
+      "active": false,
+      "source": "old-players"
     },
     "18179093": {
       "id": "18179093",
@@ -5338,16 +5661,28 @@
       "active": false,
       "source": "old-players"
     },
-    "19044764": {
-      "id": "19044764",
-      "name": "GONNIE BANK 0",
-      "alliance": "[REF2] ᴿᵉᵇᵉˡˢ of FúRy 2",
-      "dateJoinKingdom": "2026-08-21",
+    "19028712": {
+      "id": "19028712",
+      "name": "ᴿᵉᶠ Santa Мuerte",
+      "alliance": "[REF] ᴿᵉᵇᵉˡˢ of FúRy",
+      "dateJoinKingdom": "2026-10-09",
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "troopTier": "T4",
       "active": true,
       "source": "matchmaking"
+    },
+    "19044764": {
+      "id": "19044764",
+      "name": "Mèo bank 5",
+      "alliance": "[GS:S] Golden S Syndicate2",
+      "dateJoinKingdom": "2026-08-21",
+      "dateLeaveKingdom": "2026-10-23",
+      "serverStatus": "LV2",
+      "serverStatusColor": "green",
+      "troopTier": "T4",
+      "active": false,
+      "source": "old-players"
     },
     "19058668": {
       "id": "19058668",
@@ -5493,10 +5828,10 @@
     },
     "19389367": {
       "id": "19389367",
-      "name": "MiniFearless",
+      "name": "White Rabbit farm1",
       "alliance": "",
-      "dateJoinKingdom": "2026-07-17",
-      "dateLeaveKingdom": "2026-09-02",
+      "dateJoinKingdom": "2026-09-11",
+      "dateLeaveKingdom": "2026-10-23",
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "troopTier": "T4",
@@ -5506,7 +5841,7 @@
     "19409261": {
       "id": "19409261",
       "name": "ᴰᵀʏᴀɴԍッ",
-      "alliance": "",
+      "alliance": "[REF2] ᴿᵉᵇᵉˡˢ of FúRy 2",
       "dateJoinKingdom": "2026-08-21",
       "serverStatus": "LV2",
       "serverStatusColor": "green",
@@ -5519,6 +5854,18 @@
       "name": "ᵀᶠᵀ乄Sweet daddy",
       "alliance": "[REF] ᴿᵉᵇᵉˡˢ of FúRy",
       "dateJoinKingdom": "2026-07-17",
+      "dateLeaveKingdom": "2026-10-23",
+      "serverStatus": "LV2",
+      "serverStatusColor": "green",
+      "troopTier": "T4",
+      "active": false,
+      "source": "old-players"
+    },
+    "19438654": {
+      "id": "19438654",
+      "name": "SiiR farm",
+      "alliance": "[REF2] ᴿᵉᵇᵉˡˢ of FúRy 2",
+      "dateJoinKingdom": "2026-10-09",
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "troopTier": "T4",
@@ -5549,16 +5896,28 @@
       "active": false,
       "source": "old-players"
     },
-    "19479443": {
-      "id": "19479443",
-      "name": "Linzziegold",
-      "alliance": "[REF2] ᴿᵉᵇᵉˡˢ of FúRy 2",
-      "dateJoinKingdom": "2026-08-21",
+    "19472794": {
+      "id": "19472794",
+      "name": "오리대장",
+      "alliance": "",
+      "dateJoinKingdom": "2026-10-09",
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "troopTier": "T4",
       "active": true,
       "source": "matchmaking"
+    },
+    "19479443": {
+      "id": "19479443",
+      "name": "Linzziegold",
+      "alliance": "[REF2] ᴿᵉᵇᵉˡˢ of FúRy 2",
+      "dateJoinKingdom": "2026-08-21",
+      "dateLeaveKingdom": "2026-10-23",
+      "serverStatus": "LV2",
+      "serverStatusColor": "green",
+      "troopTier": "T4",
+      "active": false,
+      "source": "old-players"
     },
     "19480912": {
       "id": "19480912",
@@ -5655,6 +6014,18 @@
       "active": false,
       "source": "old-players"
     },
+    "19531658": {
+      "id": "19531658",
+      "name": "ᴱᴿBoCow",
+      "alliance": "",
+      "dateJoinKingdom": "2026-09-25",
+      "dateLeaveKingdom": "2026-10-23",
+      "serverStatus": "LV2",
+      "serverStatusColor": "green",
+      "troopTier": "T4",
+      "active": false,
+      "source": "old-players"
+    },
     "19531679": {
       "id": "19531679",
       "name": "White Kong VII",
@@ -5730,21 +6101,32 @@
     "19532404": {
       "id": "19532404",
       "name": "DHILLONSAAB0",
-      "alliance": "[REF2] ᴿᵉᵇᵉˡˢ of FúRy 2",
-      "dateJoinKingdom": "2026-07-24",
-      "dateLeaveKingdom": "2026-09-02",
+      "alliance": "",
+      "dateJoinKingdom": "2026-09-18",
+      "dateLeaveKingdom": "2026-10-23",
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "troopTier": "T4",
       "active": false,
       "source": "old-players"
     },
+    "19532406": {
+      "id": "19532406",
+      "name": "ᵁᴳTouch Me",
+      "alliance": "[-UG-] THE FREE FOLKS",
+      "dateJoinKingdom": "2026-10-09",
+      "serverStatus": "LV2",
+      "serverStatusColor": "green",
+      "troopTier": "T4",
+      "active": true,
+      "source": "matchmaking"
+    },
     "19532481": {
       "id": "19532481",
       "name": "narvalo",
       "alliance": "[-UG-] THE FREE FOLKS",
-      "dateJoinKingdom": "2026-03-27",
-      "dateLeaveKingdom": "2026-09-02",
+      "dateJoinKingdom": "2026-09-18",
+      "dateLeaveKingdom": "2026-10-23",
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "troopTier": "T4",
@@ -5792,11 +6174,12 @@
       "name": "КОРОЛЬ61",
       "alliance": "[REF3] ᴿᵉᵇᵉˡˢ of FúRy 3",
       "dateJoinKingdom": "2026-08-14",
+      "dateLeaveKingdom": "2026-10-23",
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "troopTier": "T4",
-      "active": true,
-      "source": "matchmaking"
+      "active": false,
+      "source": "old-players"
     },
     "19532722": {
       "id": "19532722",
@@ -5849,9 +6232,9 @@
     "19533258": {
       "id": "19533258",
       "name": "Ghệ ᴀ ғᴀᴄᴇ 13",
-      "alliance": "[DYRY] LLOUU",
-      "dateJoinKingdom": "2026-08-14",
-      "dateLeaveKingdom": "2026-09-02",
+      "alliance": "[-UG-] THE FREE FOLKS",
+      "dateJoinKingdom": "2026-10-09",
+      "dateLeaveKingdom": "2026-10-23",
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "troopTier": "T4",
@@ -5862,8 +6245,8 @@
       "id": "19533324",
       "name": "Darth ElyZah",
       "alliance": "",
-      "dateJoinKingdom": "2026-05-22",
-      "dateLeaveKingdom": "2026-07-15",
+      "dateJoinKingdom": "2026-08-14",
+      "dateLeaveKingdom": "2026-10-23",
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "troopTier": "T4",
@@ -5874,8 +6257,8 @@
       "id": "19533388",
       "name": "Thunder Flag",
       "alliance": "[bpr] COD FantasticS",
-      "dateJoinKingdom": "2026-03-27",
-      "dateLeaveKingdom": "2026-07-15",
+      "dateJoinKingdom": "2026-09-11",
+      "dateLeaveKingdom": "2026-10-23",
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "troopTier": "T4",
@@ -5947,11 +6330,12 @@
       "name": "zwin67z",
       "alliance": "",
       "dateJoinKingdom": "2026-09-02",
+      "dateLeaveKingdom": "2026-10-23",
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "troopTier": "T4",
-      "active": true,
-      "source": "matchmaking"
+      "active": false,
+      "source": "old-players"
     },
     "19533623": {
       "id": "19533623",
@@ -5970,18 +6354,43 @@
       "name": "MALINOCHKA",
       "alliance": "",
       "dateJoinKingdom": "2026-08-14",
+      "dateLeaveKingdom": "2026-10-23",
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "troopTier": "T4",
-      "active": true,
-      "source": "matchmaking"
+      "active": false,
+      "source": "old-players"
     },
     "19534143": {
       "id": "19534143",
       "name": "ZnakeeyeZ",
-      "alliance": "[FoR] Farmers of Rebels",
-      "dateJoinKingdom": "2026-05-07",
-      "dateLeaveKingdom": "2026-07-15",
+      "alliance": "",
+      "dateJoinKingdom": "2026-09-11",
+      "dateLeaveKingdom": "2026-10-23",
+      "serverStatus": "LV2",
+      "serverStatusColor": "green",
+      "troopTier": "T4",
+      "active": false,
+      "source": "old-players"
+    },
+    "19534277": {
+      "id": "19534277",
+      "name": "TenjSmerti",
+      "alliance": "",
+      "dateJoinKingdom": "2026-09-11",
+      "dateLeaveKingdom": "2026-10-23",
+      "serverStatus": "LV2",
+      "serverStatusColor": "green",
+      "troopTier": "T4",
+      "active": false,
+      "source": "old-players"
+    },
+    "19534302": {
+      "id": "19534302",
+      "name": "björk1",
+      "alliance": "",
+      "dateJoinKingdom": "2026-10-02",
+      "dateLeaveKingdom": "2026-10-23",
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "troopTier": "T4",
@@ -6041,11 +6450,12 @@
       "name": "DarkLordOberon",
       "alliance": "[ADFG] Our familyy",
       "dateJoinKingdom": "2026-08-21",
+      "dateLeaveKingdom": "2026-10-23",
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "troopTier": "T4",
-      "active": true,
-      "source": "matchmaking"
+      "active": false,
+      "source": "old-players"
     },
     "19535766": {
       "id": "19535766",
@@ -6064,11 +6474,12 @@
       "name": "Лорд19535910",
       "alliance": "",
       "dateJoinKingdom": "2026-09-02",
+      "dateLeaveKingdom": "2026-10-23",
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "troopTier": "T4",
-      "active": true,
-      "source": "matchmaking"
+      "active": false,
+      "source": "old-players"
     },
     "19536372": {
       "id": "19536372",
@@ -6076,6 +6487,18 @@
       "alliance": "[REF2] ᴿᵉᵇᵉˡˢ of FúRy 2",
       "dateJoinKingdom": "2026-03-27",
       "dateLeaveKingdom": "2026-09-02",
+      "serverStatus": "LV2",
+      "serverStatusColor": "green",
+      "troopTier": "T4",
+      "active": false,
+      "source": "old-players"
+    },
+    "19536510": {
+      "id": "19536510",
+      "name": "igluz",
+      "alliance": "",
+      "dateJoinKingdom": "2026-10-02",
+      "dateLeaveKingdom": "2026-10-23",
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "troopTier": "T4",
@@ -6111,11 +6534,12 @@
       "name": "lorxylor",
       "alliance": "[DYRY] LLOUU",
       "dateJoinKingdom": "2026-08-28",
+      "dateLeaveKingdom": "2026-10-23",
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "troopTier": "T4",
-      "active": true,
-      "source": "matchmaking"
+      "active": false,
+      "source": "old-players"
     },
     "19537115": {
       "id": "19537115",
@@ -6324,11 +6748,12 @@
       "name": "19283874499",
       "alliance": "[-UG-] THE FREE FOLKS",
       "dateJoinKingdom": "2026-07-15",
+      "dateLeaveKingdom": "2026-10-23",
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "troopTier": "T4",
-      "active": true,
-      "source": "matchmaking"
+      "active": false,
+      "source": "old-players"
     },
     "19539285": {
       "id": "19539285",
@@ -6438,6 +6863,17 @@
       "active": false,
       "source": "old-players"
     },
+    "19540477": {
+      "id": "19540477",
+      "name": "LordShanitto",
+      "alliance": "[nij] caxccb",
+      "dateJoinKingdom": "2026-10-09",
+      "serverStatus": "LV2",
+      "serverStatusColor": "green",
+      "troopTier": "T4",
+      "active": true,
+      "source": "matchmaking"
+    },
     "19540737": {
       "id": "19540737",
       "name": "ONLY MEZO",
@@ -6485,6 +6921,17 @@
       "troopTier": "T4",
       "active": false,
       "source": "old-players"
+    },
+    "19540824": {
+      "id": "19540824",
+      "name": "SOMESOME",
+      "alliance": "",
+      "dateJoinKingdom": "2026-10-23",
+      "serverStatus": "LV2",
+      "serverStatusColor": "green",
+      "troopTier": "T4",
+      "active": true,
+      "source": "matchmaking"
     },
     "19541081": {
       "id": "19541081",
@@ -6629,6 +7076,17 @@
       "active": false,
       "source": "old-players"
     },
+    "19542435": {
+      "id": "19542435",
+      "name": "White Paulo",
+      "alliance": "",
+      "dateJoinKingdom": "2026-10-23",
+      "serverStatus": "LV2",
+      "serverStatusColor": "green",
+      "troopTier": "T4",
+      "active": true,
+      "source": "matchmaking"
+    },
     "19542439": {
       "id": "19542439",
       "name": "Demente94",
@@ -6658,11 +7116,12 @@
       "name": "Лорд19542514",
       "alliance": "",
       "dateJoinKingdom": "2026-08-28",
+      "dateLeaveKingdom": "2026-10-23",
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "troopTier": "T4",
-      "active": true,
-      "source": "matchmaking"
+      "active": false,
+      "source": "old-players"
     },
     "19542541": {
       "id": "19542541",
@@ -6705,11 +7164,12 @@
       "name": "Walimy się w czok",
       "alliance": "[NHD] Light Northern Hord",
       "dateJoinKingdom": "2026-08-14",
+      "dateLeaveKingdom": "2026-10-23",
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "troopTier": "T4",
-      "active": true,
-      "source": "matchmaking"
+      "active": false,
+      "source": "old-players"
     },
     "19543091": {
       "id": "19543091",
@@ -6746,6 +7206,18 @@
       "active": false,
       "source": "old-players"
     },
+    "19543555": {
+      "id": "19543555",
+      "name": "misiaaff",
+      "alliance": "",
+      "dateJoinKingdom": "2026-10-02",
+      "dateLeaveKingdom": "2026-10-23",
+      "serverStatus": "LV2",
+      "serverStatusColor": "green",
+      "troopTier": "T4",
+      "active": false,
+      "source": "old-players"
+    },
     "19543606": {
       "id": "19543606",
       "name": "Ware",
@@ -6776,6 +7248,18 @@
       "alliance": "[]",
       "dateJoinKingdom": "2026-03-27",
       "dateLeaveKingdom": "2026-05-07",
+      "serverStatus": "LV2",
+      "serverStatusColor": "green",
+      "troopTier": "T4",
+      "active": false,
+      "source": "old-players"
+    },
+    "19543790": {
+      "id": "19543790",
+      "name": "D3DSH0T",
+      "alliance": "",
+      "dateJoinKingdom": "2026-10-02",
+      "dateLeaveKingdom": "2026-10-23",
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "troopTier": "T4",
@@ -6913,6 +7397,18 @@
       "active": false,
       "source": "old-players"
     },
+    "19545252": {
+      "id": "19545252",
+      "name": "MORDoR",
+      "alliance": "[lari] LariMaya",
+      "dateJoinKingdom": "2026-09-18",
+      "dateLeaveKingdom": "2026-10-23",
+      "serverStatus": "LV2",
+      "serverStatusColor": "green",
+      "troopTier": "T4",
+      "active": false,
+      "source": "old-players"
+    },
     "19545331": {
       "id": "19545331",
       "name": "4eve",
@@ -6953,8 +7449,8 @@
       "id": "19545523",
       "name": "gonzikkk",
       "alliance": "[LIVY] Livydivyyy is Epic",
-      "dateJoinKingdom": "2026-05-29",
-      "dateLeaveKingdom": "2026-07-15",
+      "dateJoinKingdom": "2026-09-18",
+      "dateLeaveKingdom": "2026-10-23",
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "troopTier": "T4",
@@ -6964,9 +7460,9 @@
     "19545569": {
       "id": "19545569",
       "name": "only HASSAN",
-      "alliance": "",
-      "dateJoinKingdom": "2026-06-19",
-      "dateLeaveKingdom": "2026-07-15",
+      "alliance": "[REF2] ᴿᵉᵇᵉˡˢ of FúRy 2",
+      "dateJoinKingdom": "2026-07-24",
+      "dateLeaveKingdom": "2026-10-23",
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "troopTier": "T4",
@@ -7020,6 +7516,18 @@
       "active": false,
       "source": "old-players"
     },
+    "19546588": {
+      "id": "19546588",
+      "name": "Fürst19546588",
+      "alliance": "",
+      "dateJoinKingdom": "2026-09-18",
+      "dateLeaveKingdom": "2026-10-23",
+      "serverStatus": "LV2",
+      "serverStatusColor": "green",
+      "troopTier": "T4",
+      "active": false,
+      "source": "old-players"
+    },
     "19546662": {
       "id": "19546662",
       "name": "Séphiroth",
@@ -7035,9 +7543,9 @@
     "19547336": {
       "id": "19547336",
       "name": "YTBayEnderman",
-      "alliance": "[FoR] Farmers of Rebels",
-      "dateJoinKingdom": "2026-06-12",
-      "dateLeaveKingdom": "2026-07-15",
+      "alliance": "[REF3] ᴿᵉᵇᵉˡˢ of FúRy 3",
+      "dateJoinKingdom": "2026-08-14",
+      "dateLeaveKingdom": "2026-10-23",
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "troopTier": "T4",
@@ -7061,11 +7569,12 @@
       "name": "Lorde19547495",
       "alliance": "",
       "dateJoinKingdom": "2026-09-02",
+      "dateLeaveKingdom": "2026-10-23",
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "troopTier": "T4",
-      "active": true,
-      "source": "matchmaking"
+      "active": false,
+      "source": "old-players"
     },
     "19547629": {
       "id": "19547629",
@@ -7095,22 +7604,24 @@
       "name": "Nam vũ",
       "alliance": "[REF3] ᴿᵉᵇᵉˡˢ of FúRy 3",
       "dateJoinKingdom": "2026-03-27",
+      "dateLeaveKingdom": "2026-10-23",
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "troopTier": "T4",
-      "active": true,
-      "source": "matchmaking"
+      "active": false,
+      "source": "old-players"
     },
     "19548563": {
       "id": "19548563",
       "name": "kamoteKa",
       "alliance": "",
       "dateJoinKingdom": "2026-07-15",
+      "dateLeaveKingdom": "2026-10-23",
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "troopTier": "T4",
-      "active": true,
-      "source": "matchmaking"
+      "active": false,
+      "source": "old-players"
     },
     "19548982": {
       "id": "19548982",
@@ -7183,6 +7694,29 @@
       "troopTier": "T4",
       "active": false,
       "source": "old-players"
+    },
+    "19550532": {
+      "id": "19550532",
+      "name": "curtain",
+      "alliance": "",
+      "dateJoinKingdom": "2026-09-11",
+      "dateLeaveKingdom": "2026-10-23",
+      "serverStatus": "LV2",
+      "serverStatusColor": "green",
+      "troopTier": "T4",
+      "active": false,
+      "source": "old-players"
+    },
+    "19553229": {
+      "id": "19553229",
+      "name": "ScoobyX",
+      "alliance": "[ZzzZ] FoxFire",
+      "dateJoinKingdom": "2026-10-23",
+      "serverStatus": "LV2",
+      "serverStatusColor": "green",
+      "troopTier": "T4",
+      "active": true,
+      "source": "matchmaking"
     },
     "19553669": {
       "id": "19553669",
@@ -7366,11 +7900,12 @@
       "name": "ᴹᴿメᴀʟᴏɴᴇʙᴏʏ",
       "alliance": "[REF3] ᴿᵉᵇᵉˡˢ of FúRy 3",
       "dateJoinKingdom": "2026-08-21",
+      "dateLeaveKingdom": "2026-10-23",
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "troopTier": "T4",
-      "active": true,
-      "source": "matchmaking"
+      "active": false,
+      "source": "old-players"
     },
     "19588129": {
       "id": "19588129",
@@ -7457,7 +7992,7 @@
     "19612985": {
       "id": "19612985",
       "name": "propagateЛе",
-      "alliance": "",
+      "alliance": "[REF2] ᴿᵉᵇᵉˡˢ of FúRy 2",
       "dateJoinKingdom": "2026-09-02",
       "serverStatus": "LV2",
       "serverStatusColor": "green",
@@ -7468,7 +8003,7 @@
     "19612988": {
       "id": "19612988",
       "name": "灬灬enlarge丶",
-      "alliance": "",
+      "alliance": "[soFR] soFrance",
       "dateJoinKingdom": "2026-09-02",
       "serverStatus": "LV2",
       "serverStatusColor": "green",
@@ -7479,7 +8014,7 @@
     "19612995": {
       "id": "19612995",
       "name": "ииsuffer",
-      "alliance": "",
+      "alliance": "[ORE_] ore miners",
       "dateJoinKingdom": "2026-09-02",
       "serverStatus": "LV2",
       "serverStatusColor": "green",
@@ -7490,7 +8025,7 @@
     "19612997": {
       "id": "19612997",
       "name": "22behavior22",
-      "alliance": "",
+      "alliance": "[REF3] ᴿᵉᵇᵉˡˢ of FúRy 3",
       "dateJoinKingdom": "2026-09-02",
       "serverStatus": "LV2",
       "serverStatusColor": "green",
@@ -7501,29 +8036,31 @@
     "19613000": {
       "id": "19613000",
       "name": "亗glareЬЬ",
-      "alliance": "",
+      "alliance": "[mytk] geek Legends",
       "dateJoinKingdom": "2026-09-02",
+      "dateLeaveKingdom": "2026-10-23",
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "troopTier": "T4",
-      "active": true,
-      "source": "matchmaking"
+      "active": false,
+      "source": "old-players"
     },
     "19613004": {
       "id": "19613004",
       "name": "丶丶revoltЭ",
       "alliance": "",
       "dateJoinKingdom": "2026-09-02",
+      "dateLeaveKingdom": "2026-10-23",
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "troopTier": "T4",
-      "active": true,
-      "source": "matchmaking"
+      "active": false,
+      "source": "old-players"
     },
     "19613010": {
       "id": "19613010",
       "name": "ГГcultural",
-      "alliance": "",
+      "alliance": "[REF2] ᴿᵉᵇᵉˡˢ of FúRy 2",
       "dateJoinKingdom": "2026-09-02",
       "serverStatus": "LV2",
       "serverStatusColor": "green",
@@ -7534,7 +8071,7 @@
     "19613017": {
       "id": "19613017",
       "name": "ООferryboatа",
-      "alliance": "",
+      "alliance": "[REF3] ᴿᵉᵇᵉˡˢ of FúRy 3",
       "dateJoinKingdom": "2026-09-02",
       "serverStatus": "LV2",
       "serverStatusColor": "green",
@@ -7545,7 +8082,7 @@
     "19613019": {
       "id": "19613019",
       "name": "乂Жutilization乂Ж",
-      "alliance": "",
+      "alliance": "[REF2] ᴿᵉᵇᵉˡˢ of FúRy 2",
       "dateJoinKingdom": "2026-09-02",
       "serverStatus": "LV2",
       "serverStatusColor": "green",
@@ -7556,29 +8093,31 @@
     "19613026": {
       "id": "19613026",
       "name": "ЖЖgulfЖЖ",
-      "alliance": "",
+      "alliance": "[REF2] ᴿᵉᵇᵉˡˢ of FúRy 2",
       "dateJoinKingdom": "2026-09-02",
+      "dateLeaveKingdom": "2026-10-23",
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "troopTier": "T4",
-      "active": true,
-      "source": "matchmaking"
+      "active": false,
+      "source": "old-players"
     },
     "19613031": {
       "id": "19613031",
       "name": "ддbasicallyЖ",
-      "alliance": "",
+      "alliance": "[ORE_] ore miners",
       "dateJoinKingdom": "2026-09-02",
+      "dateLeaveKingdom": "2026-10-23",
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "troopTier": "T4",
-      "active": true,
-      "source": "matchmaking"
+      "active": false,
+      "source": "old-players"
     },
     "19613036": {
       "id": "19613036",
       "name": "peasantryмм",
-      "alliance": "",
+      "alliance": "[ORE_] ore miners",
       "dateJoinKingdom": "2026-09-02",
       "serverStatus": "LV2",
       "serverStatusColor": "green",
@@ -7589,7 +8128,7 @@
     "19613038": {
       "id": "19613038",
       "name": "bonyЗЧ",
-      "alliance": "",
+      "alliance": "[REF2] ᴿᵉᵇᵉˡˢ of FúRy 2",
       "dateJoinKingdom": "2026-09-02",
       "serverStatus": "LV2",
       "serverStatusColor": "green",
@@ -7600,18 +8139,19 @@
     "19613041": {
       "id": "19613041",
       "name": "丶рplay丶р",
-      "alliance": "",
+      "alliance": "[REF2] ᴿᵉᵇᵉˡˢ of FúRy 2",
       "dateJoinKingdom": "2026-09-02",
+      "dateLeaveKingdom": "2026-10-23",
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "troopTier": "T4",
-      "active": true,
-      "source": "matchmaking"
+      "active": false,
+      "source": "old-players"
     },
     "19613045": {
       "id": "19613045",
       "name": "Фsadness",
-      "alliance": "",
+      "alliance": "[-UG-] THE FREE FOLKS",
       "dateJoinKingdom": "2026-09-02",
       "serverStatus": "LV2",
       "serverStatusColor": "green",
@@ -7622,7 +8162,7 @@
     "19613049": {
       "id": "19613049",
       "name": "fabricate",
-      "alliance": "",
+      "alliance": "[REF2] ᴿᵉᵇᵉˡˢ of FúRy 2",
       "dateJoinKingdom": "2026-09-02",
       "serverStatus": "LV2",
       "serverStatusColor": "green",
@@ -7633,40 +8173,43 @@
     "19613054": {
       "id": "19613054",
       "name": "оchallengingд",
-      "alliance": "",
+      "alliance": "[ORE_] ore miners",
       "dateJoinKingdom": "2026-09-02",
+      "dateLeaveKingdom": "2026-10-23",
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "troopTier": "T4",
-      "active": true,
-      "source": "matchmaking"
+      "active": false,
+      "source": "old-players"
     },
     "19613057": {
       "id": "19613057",
       "name": "Ьbetter〤",
-      "alliance": "",
+      "alliance": "[ORE_] ore miners",
       "dateJoinKingdom": "2026-09-02",
+      "dateLeaveKingdom": "2026-10-23",
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "troopTier": "T4",
-      "active": true,
-      "source": "matchmaking"
+      "active": false,
+      "source": "old-players"
     },
     "19613062": {
       "id": "19613062",
       "name": "ооbitternessоо",
-      "alliance": "",
+      "alliance": "[ORE_] ore miners",
       "dateJoinKingdom": "2026-09-02",
+      "dateLeaveKingdom": "2026-10-23",
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "troopTier": "T4",
-      "active": true,
-      "source": "matchmaking"
+      "active": false,
+      "source": "old-players"
     },
     "19613068": {
       "id": "19613068",
       "name": "ООcentм",
-      "alliance": "",
+      "alliance": "[ORE_] ore miners",
       "dateJoinKingdom": "2026-09-02",
       "serverStatus": "LV2",
       "serverStatusColor": "green",
@@ -7679,16 +8222,17 @@
       "name": "лЛrecipe",
       "alliance": "",
       "dateJoinKingdom": "2026-09-02",
+      "dateLeaveKingdom": "2026-10-23",
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "troopTier": "T4",
-      "active": true,
-      "source": "matchmaking"
+      "active": false,
+      "source": "old-players"
     },
     "19613741": {
       "id": "19613741",
       "name": "rotate",
-      "alliance": "",
+      "alliance": "[-UG-] THE FREE FOLKS",
       "dateJoinKingdom": "2026-09-02",
       "serverStatus": "LV2",
       "serverStatusColor": "green",
@@ -7699,18 +8243,19 @@
     "19613744": {
       "id": "19613744",
       "name": "〤modulate2",
-      "alliance": "",
+      "alliance": "[ORE_] ore miners",
       "dateJoinKingdom": "2026-09-02",
+      "dateLeaveKingdom": "2026-10-23",
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "troopTier": "T4",
-      "active": true,
-      "source": "matchmaking"
+      "active": false,
+      "source": "old-players"
     },
     "19613750": {
       "id": "19613750",
       "name": "Чsociable",
-      "alliance": "",
+      "alliance": "[-UG-] THE FREE FOLKS",
       "dateJoinKingdom": "2026-09-02",
       "serverStatus": "LV2",
       "serverStatusColor": "green",
@@ -7721,7 +8266,7 @@
     "19613753": {
       "id": "19613753",
       "name": "ууcustoms",
-      "alliance": "",
+      "alliance": "[mytk] geek Legends",
       "dateJoinKingdom": "2026-09-02",
       "serverStatus": "LV2",
       "serverStatusColor": "green",
@@ -7732,29 +8277,31 @@
     "19613755": {
       "id": "19613755",
       "name": "рforgive亗",
-      "alliance": "",
+      "alliance": "[mytk] geek Legends",
       "dateJoinKingdom": "2026-09-02",
+      "dateLeaveKingdom": "2026-10-23",
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "troopTier": "T4",
-      "active": true,
-      "source": "matchmaking"
+      "active": false,
+      "source": "old-players"
     },
     "19613761": {
       "id": "19613761",
       "name": "аcomplete",
-      "alliance": "",
+      "alliance": "[REF2] ᴿᵉᵇᵉˡˢ of FúRy 2",
       "dateJoinKingdom": "2026-09-02",
+      "dateLeaveKingdom": "2026-10-23",
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "troopTier": "T4",
-      "active": true,
-      "source": "matchmaking"
+      "active": false,
+      "source": "old-players"
     },
     "19613783": {
       "id": "19613783",
       "name": "ЛgroceryЛ",
-      "alliance": "",
+      "alliance": "[REF2] ᴿᵉᵇᵉˡˢ of FúRy 2",
       "dateJoinKingdom": "2026-09-02",
       "serverStatus": "LV2",
       "serverStatusColor": "green",
@@ -7765,7 +8312,7 @@
     "19613787": {
       "id": "19613787",
       "name": "ГГseven〤",
-      "alliance": "",
+      "alliance": "[REF3] ᴿᵉᵇᵉˡˢ of FúRy 3",
       "dateJoinKingdom": "2026-09-02",
       "serverStatus": "LV2",
       "serverStatusColor": "green",
@@ -7776,46 +8323,50 @@
     "19613795": {
       "id": "19613795",
       "name": "ТТorchard",
-      "alliance": "",
+      "alliance": "[mytk] geek Legends",
       "dateJoinKingdom": "2026-09-02",
+      "dateLeaveKingdom": "2026-10-23",
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "troopTier": "T4",
-      "active": true,
-      "source": "matchmaking"
+      "active": false,
+      "source": "old-players"
     },
     "19613796": {
       "id": "19613796",
       "name": "ООarrestу",
-      "alliance": "",
+      "alliance": "[ORE_] ore miners",
       "dateJoinKingdom": "2026-09-02",
+      "dateLeaveKingdom": "2026-10-23",
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "troopTier": "T4",
-      "active": true,
-      "source": "matchmaking"
+      "active": false,
+      "source": "old-players"
     },
     "19613801": {
       "id": "19613801",
       "name": "ЛЛproverb",
       "alliance": "[Ice_] INDO CELESTIAL",
       "dateJoinKingdom": "2026-09-02",
+      "dateLeaveKingdom": "2026-10-23",
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "troopTier": "T4",
-      "active": true,
-      "source": "matchmaking"
+      "active": false,
+      "source": "old-players"
     },
     "19613805": {
       "id": "19613805",
       "name": "predictionЬЬ",
-      "alliance": "",
+      "alliance": "[REF2] ᴿᵉᵇᵉˡˢ of FúRy 2",
       "dateJoinKingdom": "2026-09-02",
+      "dateLeaveKingdom": "2026-10-23",
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "troopTier": "T4",
-      "active": true,
-      "source": "matchmaking"
+      "active": false,
+      "source": "old-players"
     },
     "19613807": {
       "id": "19613807",
@@ -7864,7 +8415,7 @@
     "19613841": {
       "id": "19613841",
       "name": "smokingЙЙ",
-      "alliance": "",
+      "alliance": "[-UG-] THE FREE FOLKS",
       "dateJoinKingdom": "2026-09-02",
       "serverStatus": "LV2",
       "serverStatusColor": "green",
@@ -7877,11 +8428,12 @@
       "name": "Оfund",
       "alliance": "[ZAD] PoxerZaxer",
       "dateJoinKingdom": "2026-09-02",
+      "dateLeaveKingdom": "2026-10-23",
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "troopTier": "T4",
-      "active": true,
-      "source": "matchmaking"
+      "active": false,
+      "source": "old-players"
     },
     "19613899": {
       "id": "19613899",
@@ -7908,29 +8460,31 @@
     "19614905": {
       "id": "19614905",
       "name": "丶detract",
-      "alliance": "",
+      "alliance": "[REF3] ᴿᵉᵇᵉˡˢ of FúRy 3",
       "dateJoinKingdom": "2026-09-02",
+      "dateLeaveKingdom": "2026-10-23",
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "troopTier": "T4",
-      "active": true,
-      "source": "matchmaking"
+      "active": false,
+      "source": "old-players"
     },
     "19614928": {
       "id": "19614928",
       "name": "ррwednesdayА",
-      "alliance": "",
+      "alliance": "[soFR] soFrance",
       "dateJoinKingdom": "2026-09-02",
+      "dateLeaveKingdom": "2026-10-23",
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "troopTier": "T4",
-      "active": true,
-      "source": "matchmaking"
+      "active": false,
+      "source": "old-players"
     },
     "19614933": {
       "id": "19614933",
       "name": "灬cutл",
-      "alliance": "",
+      "alliance": "[-UG-] THE FREE FOLKS",
       "dateJoinKingdom": "2026-09-02",
       "serverStatus": "LV2",
       "serverStatusColor": "green",
@@ -7941,7 +8495,7 @@
     "19614939": {
       "id": "19614939",
       "name": "моyacht",
-      "alliance": "",
+      "alliance": "[REF3] ᴿᵉᵇᵉˡˢ of FúRy 3",
       "dateJoinKingdom": "2026-09-02",
       "serverStatus": "LV2",
       "serverStatusColor": "green",
@@ -7952,7 +8506,7 @@
     "19614941": {
       "id": "19614941",
       "name": "злimpossibleлз",
-      "alliance": "",
+      "alliance": "[-UG-] THE FREE FOLKS",
       "dateJoinKingdom": "2026-09-02",
       "serverStatus": "LV2",
       "serverStatusColor": "green",
@@ -7963,7 +8517,7 @@
     "19614955": {
       "id": "19614955",
       "name": "associatedГ2",
-      "alliance": "",
+      "alliance": "[REF2] ᴿᵉᵇᵉˡˢ of FúRy 2",
       "dateJoinKingdom": "2026-09-02",
       "serverStatus": "LV2",
       "serverStatusColor": "green",
@@ -7974,29 +8528,31 @@
     "19614959": {
       "id": "19614959",
       "name": "ЭЭstudio",
-      "alliance": "",
+      "alliance": "[REF2] ᴿᵉᵇᵉˡˢ of FúRy 2",
       "dateJoinKingdom": "2026-09-02",
+      "dateLeaveKingdom": "2026-10-23",
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "troopTier": "T4",
-      "active": true,
-      "source": "matchmaking"
+      "active": false,
+      "source": "old-players"
     },
     "19614969": {
       "id": "19614969",
       "name": "амasideма",
-      "alliance": "",
+      "alliance": "[mytk] geek Legends",
       "dateJoinKingdom": "2026-09-02",
+      "dateLeaveKingdom": "2026-10-23",
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "troopTier": "T4",
-      "active": true,
-      "source": "matchmaking"
+      "active": false,
+      "source": "old-players"
     },
     "19614972": {
       "id": "19614972",
       "name": "ЛorphanЛ",
-      "alliance": "",
+      "alliance": "[ORE_] ore miners",
       "dateJoinKingdom": "2026-09-02",
       "serverStatus": "LV2",
       "serverStatusColor": "green",
@@ -8007,29 +8563,31 @@
     "19614974": {
       "id": "19614974",
       "name": "ЧаerrandЧа",
-      "alliance": "",
+      "alliance": "[mytk] geek Legends",
       "dateJoinKingdom": "2026-09-02",
+      "dateLeaveKingdom": "2026-10-23",
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "troopTier": "T4",
-      "active": true,
-      "source": "matchmaking"
+      "active": false,
+      "source": "old-players"
     },
     "19614976": {
       "id": "19614976",
       "name": "еФlawyerФе",
       "alliance": "[abz] barbarianzzz",
       "dateJoinKingdom": "2026-09-02",
+      "dateLeaveKingdom": "2026-10-23",
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "troopTier": "T4",
-      "active": true,
-      "source": "matchmaking"
+      "active": false,
+      "source": "old-players"
     },
     "19614984": {
       "id": "19614984",
       "name": "ииhurlа",
-      "alliance": "",
+      "alliance": "[REF2] ᴿᵉᵇᵉˡˢ of FúRy 2",
       "dateJoinKingdom": "2026-09-02",
       "serverStatus": "LV2",
       "serverStatusColor": "green",
@@ -8053,11 +8611,12 @@
       "name": "〤catalogЗ",
       "alliance": "[h9f] CBD集團",
       "dateJoinKingdom": "2026-09-02",
+      "dateLeaveKingdom": "2026-10-23",
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "troopTier": "T4",
-      "active": true,
-      "source": "matchmaking"
+      "active": false,
+      "source": "old-players"
     },
     "19615000": {
       "id": "19615000",
@@ -8084,7 +8643,7 @@
     "19615065": {
       "id": "19615065",
       "name": "ааprotective〤",
-      "alliance": "",
+      "alliance": "[REF2] ᴿᵉᵇᵉˡˢ of FúRy 2",
       "dateJoinKingdom": "2026-09-02",
       "serverStatus": "LV2",
       "serverStatusColor": "green",
@@ -8106,7 +8665,7 @@
     "19615144": {
       "id": "19615144",
       "name": "fighterЭ",
-      "alliance": "",
+      "alliance": "[REF3] ᴿᵉᵇᵉˡˢ of FúRy 3",
       "dateJoinKingdom": "2026-09-02",
       "serverStatus": "LV2",
       "serverStatusColor": "green",
@@ -8117,7 +8676,7 @@
     "19615272": {
       "id": "19615272",
       "name": "ЧЧale",
-      "alliance": "",
+      "alliance": "[ORE_] ore miners",
       "dateJoinKingdom": "2026-09-02",
       "serverStatus": "LV2",
       "serverStatusColor": "green",
@@ -8128,7 +8687,7 @@
     "19616180": {
       "id": "19616180",
       "name": "亗亗thorn",
-      "alliance": "",
+      "alliance": "[REF2] ᴿᵉᵇᵉˡˢ of FúRy 2",
       "dateJoinKingdom": "2026-09-02",
       "serverStatus": "LV2",
       "serverStatusColor": "green",
@@ -8141,16 +8700,17 @@
       "name": "А丶finiteА丶",
       "alliance": "[mytk] geek Legends",
       "dateJoinKingdom": "2026-09-02",
+      "dateLeaveKingdom": "2026-10-23",
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "troopTier": "T4",
-      "active": true,
-      "source": "matchmaking"
+      "active": false,
+      "source": "old-players"
     },
     "19616218": {
       "id": "19616218",
       "name": "灬灬interval丶",
-      "alliance": "",
+      "alliance": "[mytk] geek Legends",
       "dateJoinKingdom": "2026-09-02",
       "serverStatus": "LV2",
       "serverStatusColor": "green",
@@ -8172,7 +8732,7 @@
     "19616241": {
       "id": "19616241",
       "name": "зschemeз",
-      "alliance": "",
+      "alliance": "[-UG-] THE FREE FOLKS",
       "dateJoinKingdom": "2026-09-02",
       "serverStatus": "LV2",
       "serverStatusColor": "green",
@@ -8183,7 +8743,7 @@
     "19616256": {
       "id": "19616256",
       "name": "ммamicableмм",
-      "alliance": "",
+      "alliance": "[ORE_] ore miners",
       "dateJoinKingdom": "2026-09-02",
       "serverStatus": "LV2",
       "serverStatusColor": "green",
@@ -8205,7 +8765,7 @@
     "19616267": {
       "id": "19616267",
       "name": "oscillationЬЬ",
-      "alliance": "",
+      "alliance": "[REF3] ᴿᵉᵇᵉˡˢ of FúRy 3",
       "dateJoinKingdom": "2026-09-02",
       "serverStatus": "LV2",
       "serverStatusColor": "green",
@@ -8238,7 +8798,7 @@
     "19616276": {
       "id": "19616276",
       "name": "blotЭ",
-      "alliance": "",
+      "alliance": "[REF2] ᴿᵉᵇᵉˡˢ of FúRy 2",
       "dateJoinKingdom": "2026-09-02",
       "serverStatus": "LV2",
       "serverStatusColor": "green",
@@ -8251,16 +8811,17 @@
       "name": "тscareт",
       "alliance": "[VN3] FL-45",
       "dateJoinKingdom": "2026-09-02",
+      "dateLeaveKingdom": "2026-10-23",
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "troopTier": "T4",
-      "active": true,
-      "source": "matchmaking"
+      "active": false,
+      "source": "old-players"
     },
     "19616320": {
       "id": "19616320",
       "name": "competentЛо",
-      "alliance": "",
+      "alliance": "[soFR] soFrance",
       "dateJoinKingdom": "2026-09-02",
       "serverStatus": "LV2",
       "serverStatusColor": "green",
@@ -8306,11 +8867,12 @@
       "name": "Чliverо",
       "alliance": "[MTT3] Martins2",
       "dateJoinKingdom": "2026-09-02",
+      "dateLeaveKingdom": "2026-10-23",
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "troopTier": "T4",
-      "active": true,
-      "source": "matchmaking"
+      "active": false,
+      "source": "old-players"
     },
     "19616406": {
       "id": "19616406",
@@ -8328,11 +8890,12 @@
       "name": "exitлл",
       "alliance": "[Laaa] WerWolf",
       "dateJoinKingdom": "2026-09-02",
+      "dateLeaveKingdom": "2026-10-23",
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "troopTier": "T4",
-      "active": true,
-      "source": "matchmaking"
+      "active": false,
+      "source": "old-players"
     },
     "19616540": {
       "id": "19616540",
@@ -8359,7 +8922,7 @@
     "19617610": {
       "id": "19617610",
       "name": "Ж灬starting",
-      "alliance": "",
+      "alliance": "[REF2] ᴿᵉᵇᵉˡˢ of FúRy 2",
       "dateJoinKingdom": "2026-09-02",
       "serverStatus": "LV2",
       "serverStatusColor": "green",
@@ -8370,7 +8933,7 @@
     "19617614": {
       "id": "19617614",
       "name": "ААduringЕ",
-      "alliance": "",
+      "alliance": "[ORE_] ore miners",
       "dateJoinKingdom": "2026-09-02",
       "serverStatus": "LV2",
       "serverStatusColor": "green",
@@ -8425,7 +8988,7 @@
     "19617730": {
       "id": "19617730",
       "name": "defectНН",
-      "alliance": "",
+      "alliance": "[ORE_] ore miners",
       "dateJoinKingdom": "2026-09-02",
       "serverStatus": "LV2",
       "serverStatusColor": "green",
@@ -8436,18 +8999,19 @@
     "19617736": {
       "id": "19617736",
       "name": "дtraverseЙ",
-      "alliance": "",
+      "alliance": "[REF2] ᴿᵉᵇᵉˡˢ of FúRy 2",
       "dateJoinKingdom": "2026-09-02",
+      "dateLeaveKingdom": "2026-10-23",
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "troopTier": "T4",
-      "active": true,
-      "source": "matchmaking"
+      "active": false,
+      "source": "old-players"
     },
     "19617741": {
       "id": "19617741",
       "name": "psychology丶",
-      "alliance": "",
+      "alliance": "[mytk] geek Legends",
       "dateJoinKingdom": "2026-09-02",
       "serverStatus": "LV2",
       "serverStatusColor": "green",
@@ -8458,7 +9022,7 @@
     "19617743": {
       "id": "19617743",
       "name": "иdiveт",
-      "alliance": "",
+      "alliance": "[REF3] ᴿᵉᵇᵉˡˢ of FúRy 3",
       "dateJoinKingdom": "2026-09-02",
       "serverStatus": "LV2",
       "serverStatusColor": "green",
@@ -8469,7 +9033,7 @@
     "19617748": {
       "id": "19617748",
       "name": "backо",
-      "alliance": "",
+      "alliance": "[soFR] soFrance",
       "dateJoinKingdom": "2026-09-02",
       "serverStatus": "LV2",
       "serverStatusColor": "green",
@@ -8480,7 +9044,7 @@
     "19617785": {
       "id": "19617785",
       "name": "2ЖimpressionЖ2",
-      "alliance": "",
+      "alliance": "[ORE_] ore miners",
       "dateJoinKingdom": "2026-09-02",
       "serverStatus": "LV2",
       "serverStatusColor": "green",
@@ -8491,7 +9055,7 @@
     "19617790": {
       "id": "19617790",
       "name": "ООsay",
-      "alliance": "",
+      "alliance": "[soFR] soFrance",
       "dateJoinKingdom": "2026-09-02",
       "serverStatus": "LV2",
       "serverStatusColor": "green",
@@ -8502,7 +9066,7 @@
     "19617795": {
       "id": "19617795",
       "name": "multitudeтт",
-      "alliance": "",
+      "alliance": "[REF2] ᴿᵉᵇᵉˡˢ of FúRy 2",
       "dateJoinKingdom": "2026-09-02",
       "serverStatus": "LV2",
       "serverStatusColor": "green",
@@ -8513,7 +9077,7 @@
     "19617843": {
       "id": "19617843",
       "name": "ииincotermsии",
-      "alliance": "",
+      "alliance": "[soFR] soFrance",
       "dateJoinKingdom": "2026-09-02",
       "serverStatus": "LV2",
       "serverStatusColor": "green",
@@ -8524,7 +9088,7 @@
     "19617907": {
       "id": "19617907",
       "name": "ООbacterium",
-      "alliance": "",
+      "alliance": "[ORE_] ore miners",
       "dateJoinKingdom": "2026-09-02",
       "serverStatus": "LV2",
       "serverStatusColor": "green",
@@ -8535,7 +9099,7 @@
     "19617935": {
       "id": "19617935",
       "name": "рdisgustр",
-      "alliance": "",
+      "alliance": "[REF2] ᴿᵉᵇᵉˡˢ of FúRy 2",
       "dateJoinKingdom": "2026-09-02",
       "serverStatus": "LV2",
       "serverStatusColor": "green",
@@ -8546,7 +9110,7 @@
     "19617947": {
       "id": "19617947",
       "name": "〤иdelusionи〤",
-      "alliance": "",
+      "alliance": "[soFR] soFrance",
       "dateJoinKingdom": "2026-09-02",
       "serverStatus": "LV2",
       "serverStatusColor": "green",
@@ -8557,7 +9121,7 @@
     "19618031": {
       "id": "19618031",
       "name": "Ьfeasible",
-      "alliance": "",
+      "alliance": "[ORE_] ore miners",
       "dateJoinKingdom": "2026-09-02",
       "serverStatus": "LV2",
       "serverStatusColor": "green",
@@ -8581,8 +9145,8 @@
       "id": "19641929",
       "name": "Lord19641929",
       "alliance": "[REF3] ᴿᵉᵇᵉˡˢ of FúRy 3",
-      "dateJoinKingdom": "2026-07-17",
-      "dateLeaveKingdom": "2026-09-02",
+      "dateJoinKingdom": "2026-09-11",
+      "dateLeaveKingdom": "2026-10-23",
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "troopTier": "T4",
@@ -8616,7 +9180,7 @@
     "19719695": {
       "id": "19719695",
       "name": "TON Farn1",
-      "alliance": "[REF3] ᴿᵉᵇᵉˡˢ of FúRy 3",
+      "alliance": "[REF2] ᴿᵉᵇᵉˡˢ of FúRy 2",
       "dateJoinKingdom": "2026-07-15",
       "serverStatus": "LV2",
       "serverStatusColor": "green",
@@ -8652,11 +9216,12 @@
       "name": "Ouroboros M",
       "alliance": "[REF3] ᴿᵉᵇᵉˡˢ of FúRy 3",
       "dateJoinKingdom": "2026-07-15",
+      "dateLeaveKingdom": "2026-10-23",
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "troopTier": "T4",
-      "active": true,
-      "source": "matchmaking"
+      "active": false,
+      "source": "old-players"
     },
     "19862581": {
       "id": "19862581",
@@ -8729,6 +9294,17 @@
       "active": false,
       "source": "old-players"
     },
+    "19955065": {
+      "id": "19955065",
+      "name": "Farma3",
+      "alliance": "[REF3] ᴿᵉᵇᵉˡˢ of FúRy 3",
+      "dateJoinKingdom": "2026-10-09",
+      "serverStatus": "LV2",
+      "serverStatusColor": "green",
+      "troopTier": "T4",
+      "active": true,
+      "source": "matchmaking"
+    },
     "19956608": {
       "id": "19956608",
       "name": "caecilius",
@@ -8746,11 +9322,12 @@
       "name": "Rhaəgál",
       "alliance": "[REF2] ᴿᵉᵇᵉˡˢ of FúRy 2",
       "dateJoinKingdom": "2026-05-07",
+      "dateLeaveKingdom": "2026-10-23",
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "troopTier": "T4",
-      "active": true,
-      "source": "matchmaking"
+      "active": false,
+      "source": "old-players"
     },
     "20008344": {
       "id": "20008344",
@@ -8828,11 +9405,12 @@
       "name": "Sport farm",
       "alliance": "[REF2] ᴿᵉᵇᵉˡˢ of FúRy 2",
       "dateJoinKingdom": "2026-05-07",
+      "dateLeaveKingdom": "2026-10-23",
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "troopTier": "T4",
-      "active": true,
-      "source": "matchmaking"
+      "active": false,
+      "source": "old-players"
     },
     "20181760": {
       "id": "20181760",
@@ -8861,7 +9439,7 @@
     "20276652": {
       "id": "20276652",
       "name": "TON Farn3",
-      "alliance": "[REF3] ᴿᵉᵇᵉˡˢ of FúRy 3",
+      "alliance": "[REF2] ᴿᵉᵇᵉˡˢ of FúRy 2",
       "dateJoinKingdom": "2026-07-15",
       "serverStatus": "LV2",
       "serverStatusColor": "green",
@@ -9540,6 +10118,17 @@
       "active": false,
       "source": "old-players"
     },
+    "20555615": {
+      "id": "20555615",
+      "name": "Pongee ʕᵔᴥᵔʔfarm",
+      "alliance": "[REF2] ᴿᵉᵇᵉˡˢ of FúRy 2",
+      "dateJoinKingdom": "2026-10-09",
+      "serverStatus": "LV2",
+      "serverStatusColor": "green",
+      "troopTier": "T4",
+      "active": true,
+      "source": "matchmaking"
+    },
     "20577132": {
       "id": "20577132",
       "name": "U5QHSO2A9FF",
@@ -9663,9 +10252,9 @@
     "20638202": {
       "id": "20638202",
       "name": "F kokonatorlv 373",
-      "alliance": "[REF2] ᴿᵉᵇᵉˡˢ of FúRy 2",
-      "dateJoinKingdom": "2026-03-27",
-      "dateLeaveKingdom": "2026-09-02",
+      "alliance": "",
+      "dateJoinKingdom": "2026-09-18",
+      "dateLeaveKingdom": "2026-10-23",
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "troopTier": "T4",
@@ -9674,7 +10263,7 @@
     },
     "20640986": {
       "id": "20640986",
-      "name": "Sang Alang WDO",
+      "name": "ALanG WDO",
       "alliance": "[REF2] ᴿᵉᵇᵉˡˢ of FúRy 2",
       "dateJoinKingdom": "2026-05-07",
       "serverStatus": "LV2",
@@ -9769,7 +10358,7 @@
     "20931313": {
       "id": "20931313",
       "name": "TytonJr",
-      "alliance": "[NHD] Light Northern Hord",
+      "alliance": "[REF5] Real Earnest Friend",
       "dateJoinKingdom": "2026-07-17",
       "serverStatus": "LV2",
       "serverStatusColor": "green",
@@ -9781,8 +10370,8 @@
       "id": "20954425",
       "name": "Jack2399",
       "alliance": "[TNT~] Beasil",
-      "dateJoinKingdom": "2026-07-24",
-      "dateLeaveKingdom": "2026-09-02",
+      "dateJoinKingdom": "2026-09-11",
+      "dateLeaveKingdom": "2026-10-23",
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "troopTier": "T4",
@@ -9826,10 +10415,10 @@
     },
     "21131245": {
       "id": "21131245",
-      "name": "miniᴬⁿⁱˢ",
-      "alliance": "[FoR] Farmers of Rebels",
-      "dateJoinKingdom": "2026-05-15",
-      "dateLeaveKingdom": "2026-07-15",
+      "name": "ᴺᵃˡˡᵃfarm 4",
+      "alliance": "[-MP] merit purpose",
+      "dateJoinKingdom": "2026-07-24",
+      "dateLeaveKingdom": "2026-10-23",
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "troopTier": "T4",
@@ -9874,8 +10463,8 @@
       "id": "21341117",
       "name": "kapten farm",
       "alliance": "[REF3] ᴿᵉᵇᵉˡˢ of FúRy 3",
-      "dateJoinKingdom": "2026-07-17",
-      "dateLeaveKingdom": "2026-09-02",
+      "dateJoinKingdom": "2026-09-18",
+      "dateLeaveKingdom": "2026-10-23",
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "troopTier": "T4",
@@ -9887,11 +10476,12 @@
       "name": "MsGold1",
       "alliance": "[REF2] ᴿᵉᵇᵉˡˢ of FúRy 2",
       "dateJoinKingdom": "2026-08-21",
+      "dateLeaveKingdom": "2026-10-23",
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "troopTier": "T4",
-      "active": true,
-      "source": "matchmaking"
+      "active": false,
+      "source": "old-players"
     },
     "21417136": {
       "id": "21417136",
@@ -9907,9 +10497,9 @@
     "21421508": {
       "id": "21421508",
       "name": "RAYN42",
-      "alliance": "[-UG-] THE FREE FOLKS",
-      "dateJoinKingdom": "2026-08-28",
-      "dateLeaveKingdom": "2026-09-02",
+      "alliance": "[REF2] ᴿᵉᵇᵉˡˢ of FúRy 2",
+      "dateJoinKingdom": "2026-09-25",
+      "dateLeaveKingdom": "2026-10-23",
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "troopTier": "T4",
@@ -10060,38 +10650,52 @@
       "active": false,
       "source": "old-players"
     },
+    "21719662": {
+      "id": "21719662",
+      "name": "ᴿᵉᶠ MACA",
+      "alliance": "[REF] ᴿᵉᵇᵉˡˢ of FúRy",
+      "dateJoinKingdom": "2026-10-02",
+      "serverStatus": "LV2",
+      "serverStatusColor": "green",
+      "troopTier": "T5",
+      "active": true,
+      "source": "matchmaking"
+    },
     "21764755": {
       "id": "21764755",
       "name": "Lord21764755",
       "alliance": "[odgj] orang gila",
       "dateJoinKingdom": "2026-08-28",
+      "dateLeaveKingdom": "2026-10-23",
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "troopTier": "T4",
-      "active": true,
-      "source": "matchmaking"
+      "active": false,
+      "source": "old-players"
     },
     "21781239": {
       "id": "21781239",
       "name": "Co cai nij 0b Farm",
       "alliance": "[REF3] ᴿᵉᵇᵉˡˢ of FúRy 3",
       "dateJoinKingdom": "2026-07-17",
+      "dateLeaveKingdom": "2026-10-23",
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "troopTier": "T4",
-      "active": true,
-      "source": "matchmaking"
+      "active": false,
+      "source": "old-players"
     },
     "21781353": {
       "id": "21781353",
       "name": "Co cai nij 0c Farm",
       "alliance": "[REF3] ᴿᵉᵇᵉˡˢ of FúRy 3",
       "dateJoinKingdom": "2026-07-17",
+      "dateLeaveKingdom": "2026-10-23",
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "troopTier": "T4",
-      "active": true,
-      "source": "matchmaking"
+      "active": false,
+      "source": "old-players"
     },
     "21791428": {
       "id": "21791428",
@@ -10104,6 +10708,17 @@
       "troopTier": "T4",
       "active": false,
       "source": "old-players"
+    },
+    "21812144": {
+      "id": "21812144",
+      "name": "REZAK1",
+      "alliance": "[REF] ᴿᵉᵇᵉˡˢ of FúRy",
+      "dateJoinKingdom": "2026-10-09",
+      "serverStatus": "LV2",
+      "serverStatusColor": "green",
+      "troopTier": "T4",
+      "active": true,
+      "source": "matchmaking"
     },
     "21824214": {
       "id": "21824214",
@@ -10133,22 +10748,24 @@
       "name": "cocainij1 farm",
       "alliance": "[REF3] ᴿᵉᵇᵉˡˢ of FúRy 3",
       "dateJoinKingdom": "2026-07-17",
+      "dateLeaveKingdom": "2026-10-23",
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "troopTier": "T4",
-      "active": true,
-      "source": "matchmaking"
+      "active": false,
+      "source": "old-players"
     },
     "21912004": {
       "id": "21912004",
       "name": "cocainij1a farm",
       "alliance": "[REF3] ᴿᵉᵇᵉˡˢ of FúRy 3",
       "dateJoinKingdom": "2026-07-17",
+      "dateLeaveKingdom": "2026-10-23",
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "troopTier": "T4",
-      "active": true,
-      "source": "matchmaking"
+      "active": false,
+      "source": "old-players"
     },
     "21972880": {
       "id": "21972880",
@@ -10166,33 +10783,36 @@
       "name": "Ouroboros L",
       "alliance": "[REF3] ᴿᵉᵇᵉˡˢ of FúRy 3",
       "dateJoinKingdom": "2026-07-15",
+      "dateLeaveKingdom": "2026-10-23",
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "troopTier": "T4",
-      "active": true,
-      "source": "matchmaking"
+      "active": false,
+      "source": "old-players"
     },
     "22451015": {
       "id": "22451015",
       "name": "bờm fammm",
       "alliance": "[REF2] ᴿᵉᵇᵉˡˢ of FúRy 2",
       "dateJoinKingdom": "2026-08-21",
+      "dateLeaveKingdom": "2026-10-23",
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "troopTier": "T4",
-      "active": true,
-      "source": "matchmaking"
+      "active": false,
+      "source": "old-players"
     },
     "22470381": {
       "id": "22470381",
       "name": "Курва бобер",
       "alliance": "[REF] ᴿᵉᵇᵉˡˢ of FúRy",
       "dateJoinKingdom": "2026-03-27",
+      "dateLeaveKingdom": "2026-10-23",
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "troopTier": "T4",
-      "active": true,
-      "source": "matchmaking"
+      "active": false,
+      "source": "old-players"
     },
     "22861687": {
       "id": "22861687",
@@ -10241,7 +10861,7 @@
     "23257150": {
       "id": "23257150",
       "name": "ᴿᵉᶠ Mournblade",
-      "alliance": "[REF] ᴿᵉᵇᵉˡˢ of FúRy",
+      "alliance": "",
       "dateJoinKingdom": "2026-08-28",
       "serverStatus": "LV2",
       "serverStatusColor": "green",
@@ -10253,8 +10873,8 @@
       "id": "23338162",
       "name": "ViAnta",
       "alliance": "[REF2] ᴿᵉᵇᵉˡˢ of FúRy 2",
-      "dateJoinKingdom": "2026-07-15",
-      "dateLeaveKingdom": "2026-09-02",
+      "dateJoinKingdom": "2026-09-11",
+      "dateLeaveKingdom": "2026-10-23",
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "troopTier": "T4",
@@ -10288,7 +10908,7 @@
     "23838533": {
       "id": "23838533",
       "name": "JonthraVoltan",
-      "alliance": "[REF2] ᴿᵉᵇᵉˡˢ of FúRy 2",
+      "alliance": "[REF3] ᴿᵉᵇᵉˡˢ of FúRy 3",
       "dateJoinKingdom": "2026-08-21",
       "serverStatus": "LV2",
       "serverStatusColor": "green",
@@ -10323,7 +10943,7 @@
     "24620652": {
       "id": "24620652",
       "name": "ᴿᵉᶠBootsFarm",
-      "alliance": "[REF3] ᴿᵉᵇᵉˡˢ of FúRy 3",
+      "alliance": "[REF2] ᴿᵉᵇᵉˡˢ of FúRy 2",
       "dateJoinKingdom": "2026-03-27",
       "serverStatus": "LV2",
       "serverStatusColor": "green",
@@ -10369,7 +10989,7 @@
     "24681818": {
       "id": "24681818",
       "name": "Jaytee Farm",
-      "alliance": "[REF3] ᴿᵉᵇᵉˡˢ of FúRy 3",
+      "alliance": "[REF2] ᴿᵉᵇᵉˡˢ of FúRy 2",
       "dateJoinKingdom": "2026-03-27",
       "serverStatus": "LV2",
       "serverStatusColor": "green",
@@ -10451,6 +11071,28 @@
       "name": "Dark Mucy2",
       "alliance": "[REF2] ᴿᵉᵇᵉˡˢ of FúRy 2",
       "dateJoinKingdom": "2026-07-15",
+      "serverStatus": "LV2",
+      "serverStatusColor": "green",
+      "troopTier": "T4",
+      "active": true,
+      "source": "matchmaking"
+    },
+    "26427447": {
+      "id": "26427447",
+      "name": "Pussnboots3",
+      "alliance": "[REF3] ᴿᵉᵇᵉˡˢ of FúRy 3",
+      "dateJoinKingdom": "2026-09-25",
+      "serverStatus": "LV2",
+      "serverStatusColor": "green",
+      "troopTier": "T4",
+      "active": true,
+      "source": "matchmaking"
+    },
+    "26877569": {
+      "id": "26877569",
+      "name": "Farma5",
+      "alliance": "[REF3] ᴿᵉᵇᵉˡˢ of FúRy 3",
+      "dateJoinKingdom": "2026-10-09",
       "serverStatus": "LV2",
       "serverStatusColor": "green",
       "troopTier": "T4",
