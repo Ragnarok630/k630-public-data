@@ -1,6 +1,6 @@
 {
   "schemaVersion": "630.1.0",
-  "updatedAt": "2026-10-23T06:48:31.825Z",
+  "updatedAt": "2026-10-23T06:48:38.284Z",
   "updatedBy": "ragnarok99gaming@gmail.com",
   "github": {
     "repositoryRead": false,
@@ -38,9 +38,9 @@
       668,
       847
     ],
-    "active": false,
-    "week0Unlocked": false,
-    "updatedAt": "2026-10-23T06:48:31.825Z"
+    "active": true,
+    "week0Unlocked": true,
+    "updatedAt": "2026-10-23T06:48:38.283Z"
   },
   "saveSeason": {
     "active": false,
