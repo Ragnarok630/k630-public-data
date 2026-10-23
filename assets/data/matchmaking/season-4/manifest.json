@@ -1,0 +1,40 @@
+{
+  "schemaVersion": 1,
+  "kingdom": 630,
+  "dataset": "matchmaking",
+  "status": "official",
+  "season": 4,
+  "matchmakingDate": "2026-10-23",
+  "uploadedAt": "2026-10-23T06:43:48.445Z",
+  "uploadedBy": "ragnarok99gaming@gmail.com",
+  "sourceFilename": "630-matchmaking-4.json",
+  "engine": {
+    "name": "K630 Matchmaking Engine",
+    "version": "630.1.0"
+  },
+  "rules": {
+    "minimumHistoricalPower": 250000,
+    "historicalPowerSource": "Top Power",
+    "warriorMinimumPower": 20000000,
+    "t5MinimumTechPower": 28931215
+  },
+  "counts": {
+    "sourceRecords": 600,
+    "validIds": 600,
+    "eligiblePlayers": 485,
+    "excludedLowPower": 115,
+    "invalidRecords": 0,
+    "previousActivePlayers": 653,
+    "activePlayers": 485,
+    "existingPlayers": 482,
+    "newPlayers": 3,
+    "leftPlayers": 171,
+    "totalOldPlayers": 595
+  },
+  "generatedFiles": [
+    "assets/data/generated/foundation/player-index.json",
+    "assets/data/generated/active-average/current.json",
+    "assets/data/generated/old-players/current.json",
+    "assets/data/generated/home/current.json"
+  ]
+}
