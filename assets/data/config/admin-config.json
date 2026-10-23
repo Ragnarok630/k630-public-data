@@ -1,6 +1,6 @@
 {
   "schemaVersion": "630.1.0",
-  "updatedAt": "2026-10-23T06:46:53.819Z",
+  "updatedAt": "2026-10-23T06:47:01.084Z",
   "updatedBy": "ragnarok99gaming@gmail.com",
   "github": {
     "repositoryRead": false,
@@ -153,9 +153,9 @@
         }
       }
     },
-    "savedAt": "",
-    "savedBy": "",
-    "updatePending": false,
+    "savedAt": "2026-10-23T06:47:01.084Z",
+    "savedBy": "ragnarok99gaming@gmail.com",
+    "updatePending": true,
     "recalculatedAt": ""
   },
   "weeks": {
