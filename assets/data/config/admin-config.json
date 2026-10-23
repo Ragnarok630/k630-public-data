@@ -1,6 +1,6 @@
 {
   "schemaVersion": "630.1.0",
-  "updatedAt": "2026-10-23T06:43:48.493Z",
+  "updatedAt": "2026-10-23T06:46:53.819Z",
   "updatedBy": "ragnarok99gaming@gmail.com",
   "github": {
     "repositoryRead": false,
@@ -22,11 +22,16 @@
   },
   "season": {
     "websiteStatus": "in-season-migration-open",
-    "selectedSeason": null,
+    "selectedSeason": {
+      "year": 2026,
+      "season": 4,
+      "sosNumber": 3,
+      "sosName": "Many Blades, One Heart"
+    },
     "participatingServers": [],
     "active": false,
     "week0Unlocked": false,
-    "updatedAt": ""
+    "updatedAt": "2026-10-23T06:46:53.819Z"
   },
   "saveSeason": {
     "active": false,
