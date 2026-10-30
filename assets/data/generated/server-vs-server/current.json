@@ -2,28 +2,1316 @@
   "schemaVersion": 1,
   "kingdom": 630,
   "dataset": "server-vs-server",
-  "generatedFrom": "save-season-7G-season-4",
-  "generatedAt": "2026-10-19T07:01:04.761Z",
+  "generatedFrom": "season-4-W0",
+  "generatedAt": "2026-10-30T07:09:56.263Z",
   "generatedBy": "ragnarok99gaming@gmail.com",
   "season": {
     "number": 4,
-    "currentWeek": null,
-    "officialDate": null,
-    "availableWeeks": []
+    "currentWeek": "W0",
+    "officialDate": "2026-10-24",
+    "availableWeeks": [
+      "W0"
+    ]
   },
-  "participatingServers": [],
+  "participatingServers": [
+    9,
+    53,
+    164,
+    228,
+    300,
+    630,
+    668,
+    847
+  ],
   "summary": {
-    "serverCount": 0,
-    "currentWeek": null,
+    "serverCount": 8,
+    "currentWeek": "W0",
     "homeServer": {
       "serverNumber": 630,
-      "playerCount": 0,
-      "totalPower": 0,
+      "playerCount": 485,
+      "totalPower": 20382529088,
       "totalMerits": 0,
-      "totalKills": 0,
-      "totalHealing": 0
+      "totalKills": 50971417571,
+      "totalHealing": 70514749181
     }
   },
-  "labels": [],
-  "servers": []
+  "labels": [
+    "W0",
+    "W1",
+    "W2",
+    "W3",
+    "W4",
+    "W5",
+    "W6"
+  ],
+  "servers": [
+    {
+      "serverNumber": 9,
+      "kingdom": 9,
+      "isHomeKingdom": false,
+      "current": {
+        "week": "W0",
+        "officialDate": "2026-10-24",
+        "playerCount": 360,
+        "totalPower": 15846962840,
+        "totalMerits": 0,
+        "totalKills": 47531687487,
+        "totalHealing": 56635976751
+      },
+      "weeklyTotals": {
+        "W0": {
+          "officialDate": "2026-10-24",
+          "playerCount": 360,
+          "totalPower": 15846962840,
+          "totalMerits": 0,
+          "totalKills": 47531687487,
+          "totalHealing": 56635976751
+        }
+      },
+      "series": {
+        "power": [
+          15846962840,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        "merits": [
+          0,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        "kills": [
+          47531687487,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        "healing": [
+          56635976751,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ]
+      }
+    },
+    {
+      "serverNumber": 53,
+      "kingdom": 53,
+      "isHomeKingdom": false,
+      "current": {
+        "week": "W0",
+        "officialDate": "2026-10-24",
+        "playerCount": 452,
+        "totalPower": 23120499397,
+        "totalMerits": 0,
+        "totalKills": 28982831528,
+        "totalHealing": 50955009012
+      },
+      "weeklyTotals": {
+        "W0": {
+          "officialDate": "2026-10-24",
+          "playerCount": 452,
+          "totalPower": 23120499397,
+          "totalMerits": 0,
+          "totalKills": 28982831528,
+          "totalHealing": 50955009012
+        }
+      },
+      "series": {
+        "power": [
+          23120499397,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        "merits": [
+          0,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        "kills": [
+          28982831528,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        "healing": [
+          50955009012,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ]
+      }
+    },
+    {
+      "serverNumber": 164,
+      "kingdom": 164,
+      "isHomeKingdom": false,
+      "current": {
+        "week": "W0",
+        "officialDate": "2026-10-24",
+        "playerCount": 334,
+        "totalPower": 17172005746,
+        "totalMerits": 0,
+        "totalKills": 78758788426,
+        "totalHealing": 68566288595
+      },
+      "weeklyTotals": {
+        "W0": {
+          "officialDate": "2026-10-24",
+          "playerCount": 334,
+          "totalPower": 17172005746,
+          "totalMerits": 0,
+          "totalKills": 78758788426,
+          "totalHealing": 68566288595
+        }
+      },
+      "series": {
+        "power": [
+          17172005746,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        "merits": [
+          0,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        "kills": [
+          78758788426,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        "healing": [
+          68566288595,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ]
+      }
+    },
+    {
+      "serverNumber": 228,
+      "kingdom": 228,
+      "isHomeKingdom": false,
+      "current": {
+        "week": "W0",
+        "officialDate": "2026-10-24",
+        "playerCount": 339,
+        "totalPower": 11387960552,
+        "totalMerits": 0,
+        "totalKills": 46522461646,
+        "totalHealing": 51430145125
+      },
+      "weeklyTotals": {
+        "W0": {
+          "officialDate": "2026-10-24",
+          "playerCount": 339,
+          "totalPower": 11387960552,
+          "totalMerits": 0,
+          "totalKills": 46522461646,
+          "totalHealing": 51430145125
+        }
+      },
+      "series": {
+        "power": [
+          11387960552,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        "merits": [
+          0,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        "kills": [
+          46522461646,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        "healing": [
+          51430145125,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ]
+      }
+    },
+    {
+      "serverNumber": 300,
+      "kingdom": 300,
+      "isHomeKingdom": false,
+      "current": {
+        "week": "W0",
+        "officialDate": "2026-10-24",
+        "playerCount": 353,
+        "totalPower": 19060332600,
+        "totalMerits": 0,
+        "totalKills": 45723277458,
+        "totalHealing": 62928782103
+      },
+      "weeklyTotals": {
+        "W0": {
+          "officialDate": "2026-10-24",
+          "playerCount": 353,
+          "totalPower": 19060332600,
+          "totalMerits": 0,
+          "totalKills": 45723277458,
+          "totalHealing": 62928782103
+        }
+      },
+      "series": {
+        "power": [
+          19060332600,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        "merits": [
+          0,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        "kills": [
+          45723277458,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        "healing": [
+          62928782103,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ]
+      }
+    },
+    {
+      "serverNumber": 630,
+      "kingdom": 630,
+      "isHomeKingdom": true,
+      "current": {
+        "week": "W0",
+        "officialDate": "2026-10-24",
+        "playerCount": 485,
+        "totalPower": 20382529088,
+        "totalMerits": 0,
+        "totalKills": 50971417571,
+        "totalHealing": 70514749181
+      },
+      "weeklyTotals": {
+        "W0": {
+          "officialDate": "2026-10-24",
+          "playerCount": 485,
+          "totalPower": 20382529088,
+          "totalMerits": 0,
+          "totalKills": 50971417571,
+          "totalHealing": 70514749181
+        }
+      },
+      "series": {
+        "power": [
+          20382529088,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        "merits": [
+          0,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        "kills": [
+          50971417571,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        "healing": [
+          70514749181,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ]
+      }
+    },
+    {
+      "serverNumber": 668,
+      "kingdom": 668,
+      "isHomeKingdom": false,
+      "current": {
+        "week": "W0",
+        "officialDate": "2026-10-24",
+        "playerCount": 490,
+        "totalPower": 21352253337,
+        "totalMerits": 0,
+        "totalKills": 90002120218,
+        "totalHealing": 79358307746
+      },
+      "weeklyTotals": {
+        "W0": {
+          "officialDate": "2026-10-24",
+          "playerCount": 490,
+          "totalPower": 21352253337,
+          "totalMerits": 0,
+          "totalKills": 90002120218,
+          "totalHealing": 79358307746
+        }
+      },
+      "series": {
+        "power": [
+          21352253337,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        "merits": [
+          0,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        "kills": [
+          90002120218,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        "healing": [
+          79358307746,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ]
+      }
+    },
+    {
+      "serverNumber": 847,
+      "kingdom": 847,
+      "isHomeKingdom": false,
+      "current": {
+        "week": "W0",
+        "officialDate": "2026-10-24",
+        "playerCount": 600,
+        "totalPower": 18982383400,
+        "totalMerits": 0,
+        "totalKills": 61006222588,
+        "totalHealing": 57582804567
+      },
+      "weeklyTotals": {
+        "W0": {
+          "officialDate": "2026-10-24",
+          "playerCount": 600,
+          "totalPower": 18982383400,
+          "totalMerits": 0,
+          "totalKills": 61006222588,
+          "totalHealing": 57582804567
+        }
+      },
+      "series": {
+        "power": [
+          18982383400,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        "merits": [
+          0,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        "kills": [
+          61006222588,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        "healing": [
+          57582804567,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ]
+      }
+    }
+  ],
+  "rankings": {
+    "power": [
+      {
+        "rank": 1,
+        "serverNumber": 53,
+        "kingdom": 53,
+        "value": 23120499397,
+        "isHomeKingdom": false
+      },
+      {
+        "rank": 2,
+        "serverNumber": 668,
+        "kingdom": 668,
+        "value": 21352253337,
+        "isHomeKingdom": false
+      },
+      {
+        "rank": 3,
+        "serverNumber": 630,
+        "kingdom": 630,
+        "value": 20382529088,
+        "isHomeKingdom": true
+      },
+      {
+        "rank": 4,
+        "serverNumber": 300,
+        "kingdom": 300,
+        "value": 19060332600,
+        "isHomeKingdom": false
+      },
+      {
+        "rank": 5,
+        "serverNumber": 847,
+        "kingdom": 847,
+        "value": 18982383400,
+        "isHomeKingdom": false
+      },
+      {
+        "rank": 6,
+        "serverNumber": 164,
+        "kingdom": 164,
+        "value": 17172005746,
+        "isHomeKingdom": false
+      },
+      {
+        "rank": 7,
+        "serverNumber": 9,
+        "kingdom": 9,
+        "value": 15846962840,
+        "isHomeKingdom": false
+      },
+      {
+        "rank": 8,
+        "serverNumber": 228,
+        "kingdom": 228,
+        "value": 11387960552,
+        "isHomeKingdom": false
+      }
+    ],
+    "merits": [
+      {
+        "rank": 1,
+        "serverNumber": 9,
+        "kingdom": 9,
+        "value": 0,
+        "isHomeKingdom": false
+      },
+      {
+        "rank": 2,
+        "serverNumber": 53,
+        "kingdom": 53,
+        "value": 0,
+        "isHomeKingdom": false
+      },
+      {
+        "rank": 3,
+        "serverNumber": 164,
+        "kingdom": 164,
+        "value": 0,
+        "isHomeKingdom": false
+      },
+      {
+        "rank": 4,
+        "serverNumber": 228,
+        "kingdom": 228,
+        "value": 0,
+        "isHomeKingdom": false
+      },
+      {
+        "rank": 5,
+        "serverNumber": 300,
+        "kingdom": 300,
+        "value": 0,
+        "isHomeKingdom": false
+      },
+      {
+        "rank": 6,
+        "serverNumber": 630,
+        "kingdom": 630,
+        "value": 0,
+        "isHomeKingdom": true
+      },
+      {
+        "rank": 7,
+        "serverNumber": 668,
+        "kingdom": 668,
+        "value": 0,
+        "isHomeKingdom": false
+      },
+      {
+        "rank": 8,
+        "serverNumber": 847,
+        "kingdom": 847,
+        "value": 0,
+        "isHomeKingdom": false
+      }
+    ],
+    "kills": [
+      {
+        "rank": 1,
+        "serverNumber": 668,
+        "kingdom": 668,
+        "value": 90002120218,
+        "isHomeKingdom": false
+      },
+      {
+        "rank": 2,
+        "serverNumber": 164,
+        "kingdom": 164,
+        "value": 78758788426,
+        "isHomeKingdom": false
+      },
+      {
+        "rank": 3,
+        "serverNumber": 847,
+        "kingdom": 847,
+        "value": 61006222588,
+        "isHomeKingdom": false
+      },
+      {
+        "rank": 4,
+        "serverNumber": 630,
+        "kingdom": 630,
+        "value": 50971417571,
+        "isHomeKingdom": true
+      },
+      {
+        "rank": 5,
+        "serverNumber": 9,
+        "kingdom": 9,
+        "value": 47531687487,
+        "isHomeKingdom": false
+      },
+      {
+        "rank": 6,
+        "serverNumber": 228,
+        "kingdom": 228,
+        "value": 46522461646,
+        "isHomeKingdom": false
+      },
+      {
+        "rank": 7,
+        "serverNumber": 300,
+        "kingdom": 300,
+        "value": 45723277458,
+        "isHomeKingdom": false
+      },
+      {
+        "rank": 8,
+        "serverNumber": 53,
+        "kingdom": 53,
+        "value": 28982831528,
+        "isHomeKingdom": false
+      }
+    ],
+    "healing": [
+      {
+        "rank": 1,
+        "serverNumber": 668,
+        "kingdom": 668,
+        "value": 79358307746,
+        "isHomeKingdom": false
+      },
+      {
+        "rank": 2,
+        "serverNumber": 630,
+        "kingdom": 630,
+        "value": 70514749181,
+        "isHomeKingdom": true
+      },
+      {
+        "rank": 3,
+        "serverNumber": 164,
+        "kingdom": 164,
+        "value": 68566288595,
+        "isHomeKingdom": false
+      },
+      {
+        "rank": 4,
+        "serverNumber": 300,
+        "kingdom": 300,
+        "value": 62928782103,
+        "isHomeKingdom": false
+      },
+      {
+        "rank": 5,
+        "serverNumber": 847,
+        "kingdom": 847,
+        "value": 57582804567,
+        "isHomeKingdom": false
+      },
+      {
+        "rank": 6,
+        "serverNumber": 9,
+        "kingdom": 9,
+        "value": 56635976751,
+        "isHomeKingdom": false
+      },
+      {
+        "rank": 7,
+        "serverNumber": 228,
+        "kingdom": 228,
+        "value": 51430145125,
+        "isHomeKingdom": false
+      },
+      {
+        "rank": 8,
+        "serverNumber": 53,
+        "kingdom": 53,
+        "value": 50955009012,
+        "isHomeKingdom": false
+      }
+    ]
+  },
+  "charts": {
+    "power": {
+      "active": true,
+      "labels": [
+        "W0",
+        "W1",
+        "W2",
+        "W3",
+        "W4",
+        "W5",
+        "W6"
+      ],
+      "datasets": [
+        {
+          "serverNumber": 9,
+          "kingdom": 9,
+          "label": "Server 9 Power",
+          "data": [
+            15846962840,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "isHomeKingdom": false
+        },
+        {
+          "serverNumber": 53,
+          "kingdom": 53,
+          "label": "Server 53 Power",
+          "data": [
+            23120499397,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "isHomeKingdom": false
+        },
+        {
+          "serverNumber": 164,
+          "kingdom": 164,
+          "label": "Server 164 Power",
+          "data": [
+            17172005746,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "isHomeKingdom": false
+        },
+        {
+          "serverNumber": 228,
+          "kingdom": 228,
+          "label": "Server 228 Power",
+          "data": [
+            11387960552,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "isHomeKingdom": false
+        },
+        {
+          "serverNumber": 300,
+          "kingdom": 300,
+          "label": "Server 300 Power",
+          "data": [
+            19060332600,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "isHomeKingdom": false
+        },
+        {
+          "serverNumber": 630,
+          "kingdom": 630,
+          "label": "Server 630 Power",
+          "data": [
+            20382529088,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "isHomeKingdom": true
+        },
+        {
+          "serverNumber": 668,
+          "kingdom": 668,
+          "label": "Server 668 Power",
+          "data": [
+            21352253337,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "isHomeKingdom": false
+        },
+        {
+          "serverNumber": 847,
+          "kingdom": 847,
+          "label": "Server 847 Power",
+          "data": [
+            18982383400,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "isHomeKingdom": false
+        }
+      ]
+    },
+    "merits": {
+      "active": true,
+      "labels": [
+        "W0",
+        "W1",
+        "W2",
+        "W3",
+        "W4",
+        "W5",
+        "W6"
+      ],
+      "datasets": [
+        {
+          "serverNumber": 9,
+          "kingdom": 9,
+          "label": "Server 9 Merits",
+          "data": [
+            0,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "isHomeKingdom": false
+        },
+        {
+          "serverNumber": 53,
+          "kingdom": 53,
+          "label": "Server 53 Merits",
+          "data": [
+            0,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "isHomeKingdom": false
+        },
+        {
+          "serverNumber": 164,
+          "kingdom": 164,
+          "label": "Server 164 Merits",
+          "data": [
+            0,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "isHomeKingdom": false
+        },
+        {
+          "serverNumber": 228,
+          "kingdom": 228,
+          "label": "Server 228 Merits",
+          "data": [
+            0,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "isHomeKingdom": false
+        },
+        {
+          "serverNumber": 300,
+          "kingdom": 300,
+          "label": "Server 300 Merits",
+          "data": [
+            0,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "isHomeKingdom": false
+        },
+        {
+          "serverNumber": 630,
+          "kingdom": 630,
+          "label": "Server 630 Merits",
+          "data": [
+            0,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "isHomeKingdom": true
+        },
+        {
+          "serverNumber": 668,
+          "kingdom": 668,
+          "label": "Server 668 Merits",
+          "data": [
+            0,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "isHomeKingdom": false
+        },
+        {
+          "serverNumber": 847,
+          "kingdom": 847,
+          "label": "Server 847 Merits",
+          "data": [
+            0,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "isHomeKingdom": false
+        }
+      ]
+    },
+    "kills": {
+      "active": true,
+      "labels": [
+        "W0",
+        "W1",
+        "W2",
+        "W3",
+        "W4",
+        "W5",
+        "W6"
+      ],
+      "datasets": [
+        {
+          "serverNumber": 9,
+          "kingdom": 9,
+          "label": "Server 9 Kills",
+          "data": [
+            47531687487,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "isHomeKingdom": false
+        },
+        {
+          "serverNumber": 53,
+          "kingdom": 53,
+          "label": "Server 53 Kills",
+          "data": [
+            28982831528,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "isHomeKingdom": false
+        },
+        {
+          "serverNumber": 164,
+          "kingdom": 164,
+          "label": "Server 164 Kills",
+          "data": [
+            78758788426,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "isHomeKingdom": false
+        },
+        {
+          "serverNumber": 228,
+          "kingdom": 228,
+          "label": "Server 228 Kills",
+          "data": [
+            46522461646,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "isHomeKingdom": false
+        },
+        {
+          "serverNumber": 300,
+          "kingdom": 300,
+          "label": "Server 300 Kills",
+          "data": [
+            45723277458,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "isHomeKingdom": false
+        },
+        {
+          "serverNumber": 630,
+          "kingdom": 630,
+          "label": "Server 630 Kills",
+          "data": [
+            50971417571,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "isHomeKingdom": true
+        },
+        {
+          "serverNumber": 668,
+          "kingdom": 668,
+          "label": "Server 668 Kills",
+          "data": [
+            90002120218,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "isHomeKingdom": false
+        },
+        {
+          "serverNumber": 847,
+          "kingdom": 847,
+          "label": "Server 847 Kills",
+          "data": [
+            61006222588,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "isHomeKingdom": false
+        }
+      ]
+    },
+    "healing": {
+      "active": true,
+      "labels": [
+        "W0",
+        "W1",
+        "W2",
+        "W3",
+        "W4",
+        "W5",
+        "W6"
+      ],
+      "datasets": [
+        {
+          "serverNumber": 9,
+          "kingdom": 9,
+          "label": "Server 9 Healing",
+          "data": [
+            56635976751,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "isHomeKingdom": false
+        },
+        {
+          "serverNumber": 53,
+          "kingdom": 53,
+          "label": "Server 53 Healing",
+          "data": [
+            50955009012,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "isHomeKingdom": false
+        },
+        {
+          "serverNumber": 164,
+          "kingdom": 164,
+          "label": "Server 164 Healing",
+          "data": [
+            68566288595,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "isHomeKingdom": false
+        },
+        {
+          "serverNumber": 228,
+          "kingdom": 228,
+          "label": "Server 228 Healing",
+          "data": [
+            51430145125,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "isHomeKingdom": false
+        },
+        {
+          "serverNumber": 300,
+          "kingdom": 300,
+          "label": "Server 300 Healing",
+          "data": [
+            62928782103,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "isHomeKingdom": false
+        },
+        {
+          "serverNumber": 630,
+          "kingdom": 630,
+          "label": "Server 630 Healing",
+          "data": [
+            70514749181,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "isHomeKingdom": true
+        },
+        {
+          "serverNumber": 668,
+          "kingdom": 668,
+          "label": "Server 668 Healing",
+          "data": [
+            79358307746,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "isHomeKingdom": false
+        },
+        {
+          "serverNumber": 847,
+          "kingdom": 847,
+          "label": "Server 847 Healing",
+          "data": [
+            57582804567,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "isHomeKingdom": false
+        }
+      ]
+    }
+  }
 }
