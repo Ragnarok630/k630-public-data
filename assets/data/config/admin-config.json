@@ -1,6 +1,6 @@
 {
   "schemaVersion": "630.1.0",
-  "updatedAt": "2026-10-30T07:13:46.973Z",
+  "updatedAt": "2026-10-30T07:14:08.994Z",
   "updatedBy": "ragnarok99gaming@gmail.com",
   "github": {
     "repositoryRead": false,
@@ -181,11 +181,11 @@
     "updatedAt": "2026-10-30T07:13:46.973Z"
   },
   "websiteBuild": {
-    "ready": false,
-    "lastBuiltAt": ""
+    "ready": true,
+    "lastBuiltAt": "2026-10-30T07:14:08.993Z"
   },
   "archive": {
-    "ready": false,
+    "ready": true,
     "archived": true,
     "seasonNumber": 3,
     "archivedAt": "2026-10-16T23:59:59.000Z"
