@@ -2,17 +2,19 @@
   "schemaVersion": 1,
   "kingdom": 630,
   "dataset": "home",
-  "generatedFrom": "matchmaking",
-  "matchmakingDate": "2026-10-23",
-  "generatedAt": "2026-10-23T06:43:48.445Z",
+  "generatedFrom": "season-4-W0",
+  "generatedAt": "2026-10-30T07:09:54.303Z",
+  "generatedBy": "ragnarok99gaming@gmail.com",
   "currentSeason": 4,
-  "currentWeek": null,
+  "currentWeek": "W0",
+  "currentWeekDate": "2026-10-24",
+  "seasonName": "Many Blades, One Heart",
   "totals": {
     "activePlayers": 485,
     "warriors": 193,
     "farmers": 292,
-    "serverPower": 20924360353,
-    "serverMerits": 1508772,
+    "serverPower": 20382529088,
+    "serverMerits": 0,
     "serverKills": 50971417571,
     "serverHealing": 70514749181
   },
@@ -20,54 +22,136 @@
     "topIdMerits": [
       {
         "rank": 1,
-        "id": "7533069",
-        "name": "ᴺᴷᴿᴵ Gochu III ᴿᵉᶠ",
+        "id": "7973254",
+        "name": "PänðæCüTë熊貓",
         "kingdom": 630,
-        "merits": 863030
+        "merits": 0
       },
       {
         "rank": 2,
-        "id": "19541509",
-        "name": "sinkura",
+        "id": "353126",
+        "name": "Aadi",
         "kingdom": 630,
-        "merits": 324627
+        "merits": 0
       },
       {
         "rank": 3,
-        "id": "14782793",
-        "name": "RaúlGijón",
+        "id": "4706389",
+        "name": "CapCai 乄",
         "kingdom": 630,
-        "merits": 85021
+        "merits": 0
       },
       {
         "rank": 4,
-        "id": "14809925",
-        "name": "Harjumaa kunn",
+        "id": "8057598",
+        "name": "LeGan",
         "kingdom": 630,
-        "merits": 79552
+        "merits": 0
       },
       {
         "rank": 5,
-        "id": "2151309",
-        "name": "ᴿᵉᶠ Mas Mas Lucu",
+        "id": "14992955",
+        "name": "ᶻᵐᵃˣFlynnRider",
         "kingdom": 630,
-        "merits": 78271
+        "merits": 0
       }
     ]
   },
   "serverRanking": {
-    "topServerMerits": []
+    "topServerMerits": [
+      {
+        "rank": 1,
+        "kingdom": 9,
+        "server": 9,
+        "merits": 0
+      },
+      {
+        "rank": 2,
+        "kingdom": 53,
+        "server": 53,
+        "merits": 0
+      },
+      {
+        "rank": 3,
+        "kingdom": 164,
+        "server": 164,
+        "merits": 0
+      },
+      {
+        "rank": 4,
+        "kingdom": 228,
+        "server": 228,
+        "merits": 0
+      },
+      {
+        "rank": 5,
+        "kingdom": 300,
+        "server": 300,
+        "merits": 0
+      }
+    ]
   },
   "charts": {
     "powerDevelopment": {
-      "active": false,
-      "labels": [],
-      "datasets": []
+      "active": true,
+      "labels": [
+        "W0",
+        "W1",
+        "W2",
+        "W3",
+        "W4",
+        "W5",
+        "W6"
+      ],
+      "datasets": [
+        {
+          "label": "Server 630 Power",
+          "data": [
+            20382529088,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ]
+        }
+      ]
     },
     "meritsDevelopment": {
-      "active": false,
-      "labels": [],
-      "datasets": []
+      "active": true,
+      "labels": [
+        "W0",
+        "W1",
+        "W2",
+        "W3",
+        "W4",
+        "W5",
+        "W6"
+      ],
+      "datasets": [
+        {
+          "label": "Server 630 Merits",
+          "data": [
+            0,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ]
+        }
+      ]
+    }
+  },
+  "weeklyTotals": {
+    "W0": {
+      "officialDate": "2026-10-24",
+      "serverPower": 20382529088,
+      "serverMerits": 0,
+      "serverKills": 50971417571,
+      "serverHealing": 70514749181
     }
   }
 }
